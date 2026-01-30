@@ -19,5 +19,7 @@ This note is the orientation hub for the digital garden.
 - Use the left Explorer to browse folders.
 - Use the graph and backlinks to discover related notes.
 - Start with [[About]] for intent and scope.
+- Use [[index|Kiet Vo // Quant Ops]] as the main dashboard.
+- Visit [[Portfolio/Portfolio]] for the portfolio hub.
 
 #

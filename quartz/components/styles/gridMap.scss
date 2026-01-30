@@ -1,0 +1,81 @@
+.grid-map {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 0.6rem;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 92%, var(--tertiary) 8%);
+  box-shadow: 0 10px 24px rgba(15, 20, 30, 0.08);
+  height: 100%;
+}
+
+.grid-map-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.grid-map-header h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.grid-map-link {
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.grid-map-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  gap: 0.45rem;
+  overflow: auto;
+  padding: 0.15rem;
+}
+
+.grid-map-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.35rem;
+  min-height: 64px;
+  padding: 0.5rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid var(--lightgray);
+  background: linear-gradient(
+    145deg,
+    color-mix(in srgb, var(--light) 20%, transparent 80%),
+    transparent
+  );
+  text-decoration: none;
+  color: var(--darkgray);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.grid-map-item:hover {
+  border-color: var(--secondary);
+  box-shadow: 0 8px 16px rgba(15, 20, 30, 0.12);
+  transform: translateY(-1px);
+}
+
+.grid-map-tag {
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.grid-map-count {
+  font-size: 0.75rem;
+  color: var(--gray);
+}
+
+.grid-map-empty {
+  margin: 0;
+  color: var(--gray);
+  font-size: 0.85rem;
+}

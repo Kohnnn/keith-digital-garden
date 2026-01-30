@@ -1,0 +1,63 @@
+.graph-map-toggle {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.graph-map-switch {
+  display: inline-flex;
+  gap: 0.25rem;
+  align-self: flex-start;
+  padding: 0.2rem;
+  border-radius: 999px;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 85%, var(--tertiary) 15%);
+  box-shadow: 0 6px 16px rgba(15, 20, 30, 0.08);
+}
+
+.graph-map-switch button {
+  border: none;
+  background: transparent;
+  color: var(--darkgray);
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.graph-map-toggle[data-view="graph"] .graph-map-switch button[data-view="graph"],
+.graph-map-toggle[data-view="grid"] .graph-map-switch button[data-view="grid"] {
+  background: var(--secondary);
+  color: var(--light);
+}
+
+.graph-map-panels {
+  position: relative;
+}
+
+.graph-map-panel[data-panel="graph"] {
+  position: relative;
+  transition: opacity 0.2s ease;
+}
+
+.graph-map-panel--grid {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.graph-map-toggle[data-view="grid"] .graph-map-panel[data-panel="graph"] {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.graph-map-toggle[data-view="grid"] .graph-map-panel--grid {
+  opacity: 1;
+  pointer-events: auto;
+}

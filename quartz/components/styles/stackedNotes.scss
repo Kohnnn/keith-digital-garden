@@ -1,0 +1,173 @@
+.stacked-notes-toggle {
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--darkgray);
+  border-radius: 999px;
+  padding: 0.3rem 0.65rem;
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.stacked-notes-toggle svg {
+  width: 14px;
+  height: 14px;
+}
+
+.stacked-notes-toggle[aria-checked="true"] {
+  background: var(--secondary);
+  color: var(--light);
+  border-color: var(--secondary);
+}
+
+#stacked-notes-container {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: none;
+  background: color-mix(in srgb, var(--light) 92%, transparent 8%);
+  backdrop-filter: blur(10px);
+}
+
+:root[saved-theme="dark"] #stacked-notes-container {
+  background: color-mix(in srgb, var(--light) 90%, #000 10%);
+}
+
+body.stack-mode #stacked-notes-container {
+  display: block;
+}
+
+body.stack-mode #quartz-root {
+  opacity: 0.12;
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+body.stack-mode {
+  overflow: hidden;
+}
+
+.stacked-notes-shell {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 2rem 2.5rem;
+}
+
+.stacked-notes-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.stacked-notes-hint {
+  margin: 0;
+  font-family: var(--codeFont);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.stacked-notes-title {
+  font-family: var(--headerFont);
+  font-size: 1.2rem;
+  color: var(--dark);
+  margin: 0;
+}
+
+.stacked-notes-close {
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--darkgray);
+  border-radius: 999px;
+  padding: 0.3rem 0.75rem;
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.stacked-notes-panels {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  min-height: 0;
+}
+
+.stacked-note {
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  box-shadow: 0 24px 48px rgba(15, 20, 30, 0.12);
+  overflow: hidden;
+}
+
+.stacked-note-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--lightgray);
+  font-family: var(--codeFont);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.stacked-note-meta {
+  font-size: 0.65rem;
+  color: var(--gray);
+  letter-spacing: 0.04em;
+}
+
+.stacked-note-content {
+  padding: 1.2rem 1.4rem 1.6rem;
+  overflow: auto;
+  color: var(--darkgray);
+}
+
+.stacked-note-content h1,
+.stacked-note-content h2,
+.stacked-note-content h3,
+.stacked-note-content h4,
+.stacked-note-content h5,
+.stacked-note-content h6 {
+  color: var(--dark);
+}
+
+.stacked-note-placeholder {
+  margin: 0;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+.stacked-note-loading {
+  margin: 0;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 900px) {
+  .stacked-notes-shell {
+    padding: 1.5rem;
+  }
+
+  .stacked-notes-panels {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,144 @@
+#dappled-light {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  isolation: isolate;
+  --dappled-day: color-mix(in srgb, var(--light) 92%, var(--secondary) 8%);
+  --dappled-evening: color-mix(in srgb, var(--light) 72%, var(--secondary) 28%);
+  --dappled-dusk: color-mix(in srgb, #1b2b42 70%, #0f141e 30%);
+  --dappled-night: #0b1018;
+  --dappled-dawn: color-mix(in srgb, #1b2b42 45%, #0b1018 55%);
+  --dappled-morning: color-mix(in srgb, var(--light) 78%, var(--tertiary) 22%);
+  --dappled-shadow: rgba(8, 10, 14, 0.7);
+  --dappled-bounce: color-mix(in srgb, var(--light) 92%, var(--tertiary) 8%);
+  background-color: var(--dappled-day);
+  transition: background-color 0.6s ease, opacity 0.6s ease;
+}
+
+body.theme-transition #dappled-light {
+  transition-duration: 0.45s;
+}
+
+:root[saved-theme="dark"] #dappled-light {
+  background-color: var(--dappled-night);
+  --dappled-day: color-mix(in srgb, #121a27 85%, #1f2d3d 15%);
+  --dappled-evening: color-mix(in srgb, #111827 75%, #1f2d3d 25%);
+  --dappled-dusk: color-mix(in srgb, #0f141e 70%, #0b1018 30%);
+  --dappled-night: #0a0f16;
+  --dappled-dawn: color-mix(in srgb, #111827 45%, #0a0f16 55%);
+  --dappled-morning: color-mix(in srgb, #1b2433 80%, #0f141e 20%);
+  --dappled-shadow: rgba(6, 8, 12, 0.75);
+  --dappled-bounce: color-mix(in srgb, #1b2433 60%, #0f141e 40%);
+}
+
+#dappled-light .dappled-glow {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(120deg, var(--dappled-bounce), transparent 45%);
+  opacity: 0.25;
+  transition: opacity 0.45s ease;
+}
+
+:root[saved-theme="dark"] #dappled-light .dappled-glow {
+  opacity: 0.15;
+}
+
+#dappled-light .dappled-glow-bounce {
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 55%;
+  background: linear-gradient(350deg, var(--dappled-bounce) 0%, transparent 55%);
+  opacity: 0.22;
+  transition: opacity 0.45s ease;
+}
+
+:root[saved-theme="dark"] #dappled-light .dappled-glow-bounce {
+  opacity: 0.12;
+}
+
+#dappled-light .dappled-window {
+  position: absolute;
+  top: -32vh;
+  right: -12vw;
+  width: 72vw;
+  height: 140vh;
+  transform-origin: 100% 0;
+  transform: perspective(900px) rotateY(-8deg) rotateX(2deg);
+  opacity: 0.08;
+  filter: blur(0.5px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+:root[saved-theme="dark"] #dappled-light .dappled-window {
+  opacity: 0.12;
+  transform: perspective(900px) rotateY(-3deg) rotateX(1deg);
+}
+
+#dappled-light .dappled-motes {
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.08) 0%, transparent 35%),
+    radial-gradient(circle at 70% 30%, rgba(255, 255, 255, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 30% 70%, rgba(255, 255, 255, 0.06) 0%, transparent 45%);
+  mix-blend-mode: soft-light;
+}
+
+#dappled-light .dappled-blinds {
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(
+      to bottom,
+      var(--dappled-shadow) 0 4px,
+      transparent 4px 36px
+    );
+  opacity: 0.12;
+  transition: opacity 0.45s ease;
+}
+
+:root[saved-theme="dark"] #dappled-light .dappled-blinds {
+  opacity: 0.05;
+}
+
+#dappled-light .dappled-vertical {
+  display: none;
+}
+
+#dappled-light .dappled-blur {
+  position: absolute;
+  inset: 0;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  opacity: 0.16;
+  mask-image: linear-gradient(250deg, transparent 0%, transparent 25%, #000 55%);
+  transition: opacity 0.45s ease;
+}
+
+:root[saved-theme="dark"] #dappled-light .dappled-blur {
+  opacity: 0.12;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #dappled-light,
+  #dappled-light .dappled-window,
+  #dappled-light .dappled-glow,
+  #dappled-light .dappled-glow-bounce,
+  #dappled-light .dappled-blinds,
+  #dappled-light .dappled-blur {
+    transition: none;
+  }
+}
+
+@media (max-width: 800px) {
+  #dappled-light .dappled-window {
+    width: 100vw;
+    right: -25vw;
+    opacity: 0.18;
+  }
+
+  #dappled-light .dappled-blur {
+    opacity: 0.2;
+  }
+}

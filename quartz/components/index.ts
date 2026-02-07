@@ -17,6 +17,7 @@ import GraphMapToggle from "./GraphMapToggle"
 import StackedNotes from "./StackedNotes"
 import StackedNotesContainer from "./StackedNotesContainer"
 import Backlinks from "./Backlinks"
+import BacklinksGrid from "./BacklinksGrid"
 import Search from "./Search"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
@@ -28,6 +29,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import DappledLight from "./DappledLight"
 import GridMap from "./GridMap"
+import RelatedNotes from "./RelatedNotes"
 
 export {
   ArticleTitle,
@@ -48,6 +50,7 @@ export {
   StackedNotes,
   StackedNotesContainer,
   Backlinks,
+  BacklinksGrid,
   Search,
   Footer,
   DesktopOnly,
@@ -60,4 +63,5 @@ export {
   ConditionalRender,
   DappledLight,
   GridMap,
+  RelatedNotes,
 }

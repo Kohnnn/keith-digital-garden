@@ -49,3 +49,305 @@ article a {
 article a.internal {
   text-decoration-style: dotted;
 }
+
+article.philo-dump,
+.philo-dump article {
+  --philo-card-bg: color-mix(in srgb, var(--light) 92%, var(--secondary) 8%);
+  --philo-card-border: color-mix(in srgb, var(--lightgray) 65%, var(--secondary) 35%);
+  --philo-accent: var(--secondary);
+
+  p {
+    margin: 0.85rem 0;
+  }
+
+  .callout {
+    border-radius: 10px;
+    border-left: 3px solid var(--color);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  }
+
+  .callout[data-callout="note"],
+  .callout[data-callout="info"] {
+    background: color-mix(in srgb, var(--secondary) 10%, var(--light) 90%);
+  }
+
+  .callout[data-callout="question"] {
+    background: color-mix(in srgb, #b08033 18%, var(--light) 82%);
+    border-left-color: #b08033;
+  }
+
+  .callout[data-callout="insight"] {
+    --color: #3d7fb1;
+    --border: #3d7fb133;
+    --bg: #3d7fb114;
+  }
+
+  .callout[data-callout="tension"] {
+    --color: #9a4b4b;
+    --border: #9a4b4b33;
+    --bg: #9a4b4b14;
+  }
+
+  .callout[data-callout="experiment"] {
+    --color: #5c7a5b;
+    --border: #5c7a5b33;
+    --bg: #5c7a5b14;
+  }
+
+  .inline-note,
+  .inline-claim,
+  .inline-tension,
+  .inline-question {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    border: 1px dashed var(--philo-card-border);
+    background: var(--philo-card-bg);
+    font-size: 0.92em;
+    font-weight: 600;
+    color: var(--dark);
+  }
+
+  .inline-claim {
+    border-style: solid;
+    border-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray) 60%);
+  }
+
+  .inline-tension {
+    border-style: solid;
+    border-color: #9a4b4b66;
+    background: color-mix(in srgb, #9a4b4b 12%, var(--light) 88%);
+  }
+
+  .inline-question {
+    border-style: solid;
+    border-color: #b0803366;
+    background: color-mix(in srgb, #b08033 14%, var(--light) 86%);
+  }
+
+  ul.brain-dump {
+    list-style: none;
+    padding-left: 0;
+    margin: 1rem 0;
+    border-left: 2px solid color-mix(in srgb, var(--secondary) 35%, var(--lightgray) 65%);
+  }
+
+  ul.brain-dump > li {
+    position: relative;
+    padding: 0.4rem 0.6rem 0.4rem 1.2rem;
+    margin: 0.35rem 0;
+  }
+
+  ul.brain-dump > li::before {
+    content: "";
+    position: absolute;
+    left: 0.35rem;
+    top: 0.9rem;
+    width: 6px;
+    height: 6px;
+    border-radius: 999px;
+    background: var(--philo-accent);
+  }
+
+  .linkage-tree {
+    margin: 1.5rem 0 2rem;
+    padding: 1rem 1.2rem;
+    border: 1px solid var(--philo-card-border);
+    border-radius: 10px;
+    background: var(--philo-card-bg);
+  }
+
+  .linkage-tree-title {
+    font-family: var(--codeFont);
+    font-size: 0.85rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-bottom: 0.6rem;
+  }
+
+  .linkage-tree ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 1rem;
+    border-left: 1px dashed color-mix(in srgb, var(--secondary) 35%, var(--lightgray) 65%);
+  }
+
+  .linkage-tree li {
+    position: relative;
+    margin: 0.3rem 0;
+    padding-left: 0.8rem;
+  }
+
+  .linkage-tree li::before {
+    content: "";
+    position: absolute;
+    left: -1rem;
+    top: 0.75rem;
+    width: 0.9rem;
+    border-top: 1px dashed color-mix(in srgb, var(--secondary) 35%, var(--lightgray) 65%);
+  }
+}
+
+article.tech-journal,
+.tech-journal article {
+  --note-card-bg: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
+  --note-card-border: color-mix(in srgb, var(--lightgray) 70%, var(--secondary) 30%);
+  --note-accent: var(--secondary);
+}
+
+article.research-digest,
+.research-digest article {
+  --note-card-bg: color-mix(in srgb, var(--light) 94%, var(--tertiary) 6%);
+  --note-card-border: color-mix(in srgb, var(--lightgray) 70%, var(--tertiary) 30%);
+  --note-accent: var(--tertiary);
+}
+
+article.thoughtpiece,
+.thoughtpiece article {
+  --note-card-bg: color-mix(in srgb, var(--light) 94%, #b08033 6%);
+  --note-card-border: color-mix(in srgb, var(--lightgray) 70%, #b08033 30%);
+  --note-accent: #b08033;
+}
+
+article.branch-hub,
+.branch-hub article {
+  --note-card-bg: color-mix(in srgb, var(--light) 96%, var(--gray) 4%);
+  --note-card-border: color-mix(in srgb, var(--lightgray) 70%, var(--gray) 30%);
+  --note-accent: var(--gray);
+}
+
+article.tech-journal,
+.tech-journal article,
+article.research-digest,
+.research-digest article,
+article.thoughtpiece,
+.thoughtpiece article,
+article.branch-hub,
+.branch-hub article {
+  h2 {
+    font-family: var(--codeFont);
+    font-size: 0.9rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  .callout {
+    border-radius: 10px;
+    border-left: 3px solid var(--note-accent);
+    background: var(--note-card-bg);
+  }
+
+  .inline-note,
+  .inline-claim,
+  .inline-tension,
+  .inline-question,
+  .inline-keyword {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    border: 1px dashed var(--note-card-border);
+    background: var(--note-card-bg);
+    font-size: 0.92em;
+    font-weight: 600;
+    color: var(--dark);
+  }
+
+  .inline-claim {
+    border-style: solid;
+    border-color: color-mix(in srgb, var(--note-accent) 40%, var(--lightgray) 60%);
+  }
+
+  .inline-tension {
+    border-style: solid;
+    border-color: color-mix(in srgb, #9a4b4b 40%, var(--lightgray) 60%);
+    background: color-mix(in srgb, #9a4b4b 12%, var(--light) 88%);
+  }
+
+  .inline-question {
+    border-style: solid;
+    border-color: color-mix(in srgb, #b08033 40%, var(--lightgray) 60%);
+    background: color-mix(in srgb, #b08033 14%, var(--light) 86%);
+  }
+
+  .inline-keyword {
+    border-style: solid;
+    border-color: color-mix(in srgb, var(--note-accent) 40%, var(--lightgray) 60%);
+    background: color-mix(in srgb, var(--note-accent) 12%, var(--light) 88%);
+    font-size: 0.86em;
+    text-transform: lowercase;
+  }
+
+  .keyword-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.8rem 0 1.2rem;
+  }
+
+  ul.brain-dump {
+    list-style: none;
+    padding-left: 0;
+    margin: 1rem 0;
+    border-left: 2px solid color-mix(in srgb, var(--note-accent) 35%, var(--lightgray) 65%);
+  }
+
+  ul.brain-dump > li {
+    position: relative;
+    padding: 0.4rem 0.6rem 0.4rem 1.2rem;
+    margin: 0.35rem 0;
+  }
+
+  ul.brain-dump > li::before {
+    content: "";
+    position: absolute;
+    left: 0.35rem;
+    top: 0.9rem;
+    width: 6px;
+    height: 6px;
+    border-radius: 999px;
+    background: var(--note-accent);
+  }
+
+  .linkage-tree {
+    margin: 1.5rem 0 2rem;
+    padding: 1rem 1.2rem;
+    border: 1px solid var(--note-card-border);
+    border-radius: 10px;
+    background: var(--note-card-bg);
+  }
+
+  .linkage-tree-title {
+    font-family: var(--codeFont);
+    font-size: 0.85rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-bottom: 0.6rem;
+  }
+
+  .linkage-tree ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 1rem;
+    border-left: 1px dashed color-mix(in srgb, var(--note-accent) 35%, var(--lightgray) 65%);
+  }
+
+  .linkage-tree li {
+    position: relative;
+    margin: 0.3rem 0;
+    padding-left: 0.8rem;
+  }
+
+  .linkage-tree li::before {
+    content: "";
+    position: absolute;
+    left: -1rem;
+    top: 0.75rem;
+    width: 0.9rem;
+    border-top: 1px dashed color-mix(in srgb, var(--note-accent) 35%, var(--lightgray) 65%);
+  }
+}

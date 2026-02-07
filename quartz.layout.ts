@@ -5,7 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.DappledLight(), Component.StackedNotesContainer()],
+  afterBody: [
+    Component.DappledLight(),
+    Component.StackedNotesContainer(),
+    Component.RelatedNotes({ tagFilter: "philosophy" }),
+    Component.BacklinksGrid({ tagFilter: "philosophy" }),
+  ],
   footer: Component.Footer({
     links: {
       Home: "/",

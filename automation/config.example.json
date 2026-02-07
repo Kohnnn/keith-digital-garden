@@ -1,0 +1,31 @@
+{
+  "pplx": {
+    "apiKeyEnv": "PPLX_API_KEY",
+    "baseUrl": "https://api.perplexity.ai",
+    "model": "perplexity/sonar-pro"
+  },
+  "brave": {
+    "apiKeyEnv": "BRAVE_API_KEY",
+    "baseUrl": "https://api.search.brave.com/res/v1"
+  },
+  "ytDlp": {
+    "jsRuntime": "node",
+    "sleepInterval": 1,
+    "maxSleepInterval": 3,
+    "sleepRequests": 3,
+    "cookiesFromBrowser": "",
+    "subLangs": "vi,en"
+  },
+  "limits": {
+    "maxPosts": 100,
+    "maxYouTubeItems": 200,
+    "maxSubstackItems": 200
+  },
+  "persona": {
+    "mix": [
+      "analytical",
+      "reflective",
+      "warm"
+    ]
+  }
+}

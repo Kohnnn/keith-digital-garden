@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.env
+.env.*
+automation/.cache/
+automation/raw/

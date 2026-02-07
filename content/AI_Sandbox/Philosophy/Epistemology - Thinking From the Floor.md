@@ -1,6 +1,7 @@
 ---
 title: Epistemology - Thinking From the Floor
 tags: [philosophy, epistemology, thinking]
+keywords: [knowledge, doubt, reason, evidence, truth]
 draft: true
 description: Break a belief down and rebuild it on solid ground.
 created: 2022-10-09
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Epistemology - Thinking From the Floor
+
+<div class="keyword-row">
+  <span class="inline-keyword">knowledge</span>
+  <span class="inline-keyword">doubt</span>
+  <span class="inline-keyword">reason</span>
+  <span class="inline-keyword">evidence</span>
+  <span class="inline-keyword">truth</span>
+</div>
+
 
 When my head gets loud, I go down to the floor. I strip a belief until only the basic claims remain. If I cannot name those claims, I do not really know what I believe. I just have a mood dressed up as logic. Thinking from the floor is not a flex. It is a reset. It is the move from "I feel" to "I can show." And the moment I start showing, I find holes. I am wrong more than I want to admit. That is why this practice matters.
 

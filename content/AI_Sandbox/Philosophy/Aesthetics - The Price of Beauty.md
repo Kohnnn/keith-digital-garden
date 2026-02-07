@@ -1,6 +1,7 @@
 ---
 title: Aesthetics - The Price of Beauty
 tags: [philosophy, aesthetics, art]
+keywords: [beauty, art, desire, value, perception]
 draft: true
 description: Beauty is not just decoration; it reorganizes my attention.
 created: 2022-03-08
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Aesthetics - The Price of Beauty
+
+<div class="keyword-row">
+  <span class="inline-keyword">beauty</span>
+  <span class="inline-keyword">art</span>
+  <span class="inline-keyword">desire</span>
+  <span class="inline-keyword">value</span>
+  <span class="inline-keyword">perception</span>
+</div>
+
 
 I keep learning that beauty is not neutral. It does not just sit there and look pretty. It bends my attention. It changes how I breathe when I walk into a room. It can soften me, or it can harden me, depending on what it is asking for. A cold museum wall can make me behave like a small, careful person. A rough mural in a street can make me feel bold. That is why I treat aesthetics as a force, not a garnish. The form of a thing trains me long before the content of the thing does. If I am honest, a lot of my decisions start with how something feels before I can name why it matters.
 

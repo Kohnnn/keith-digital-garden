@@ -1,6 +1,7 @@
 ---
 title: Nietzsche - The Heaviest Question
 tags: [philosophy, nietzsche, meaning]
+keywords: [power, meaning, will, nihilism, courage]
 draft: true
 description: A decision test that forces me to own my life.
 created: 2022-05-18
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Nietzsche - The Heaviest Question
+
+<div class="keyword-row">
+  <span class="inline-keyword">power</span>
+  <span class="inline-keyword">meaning</span>
+  <span class="inline-keyword">will</span>
+  <span class="inline-keyword">nihilism</span>
+  <span class="inline-keyword">courage</span>
+</div>
+
 
 I keep a brutal test for my choices. Imagine a day that comes back again and again, in the same order. Would I want that exact day to repeat? Not just the highlight reel, but the boring scroll, the awkward silence, the tiny lie I told to avoid a hard talk. If the answer is no, I have to admit I am living a life I would not choose twice. If I cannot say yes to the day, I am still acting like a guest in my own life, and guests do not have to clean up the mess.
 

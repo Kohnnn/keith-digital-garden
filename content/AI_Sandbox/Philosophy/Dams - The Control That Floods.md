@@ -1,6 +1,7 @@
 ---
 title: Dams - The Control That Floods
 tags: [philosophy, environment, control]
+keywords: [control, power, nature, risk, scarcity]
 draft: true
 description: Every attempt to control a river controls me too.
 created: 2023-05-11
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Dams - The Control That Floods
+
+<div class="keyword-row">
+  <span class="inline-keyword">control</span>
+  <span class="inline-keyword">power</span>
+  <span class="inline-keyword">nature</span>
+  <span class="inline-keyword">risk</span>
+  <span class="inline-keyword">scarcity</span>
+</div>
+
 
 A dam is a declaration that I can control a river. It is also a confession that I fear what I cannot control. The structure looks clean on a map, but it changes everything: the flow, the soil, the communities downstream. That is why I think about dams as a moral metaphor. Every time I try to freeze a living system, I shift the costs somewhere else. The question is not only "does it work?" but "who pays and who benefits?"
 

@@ -9,11 +9,11 @@ tags:
 draft: true
 description: Autocomplete shifted from syntax to intent and rewired how code is produced.
 keywords:
-  - suggestion layer
-  - editor moat
-  - skill drift
-  - licensing trust
-  - productivity leverage
+  - suggestion
+  - editor
+  - skill
+  - licensing
+  - productivity
 created: 2021-06-29
 updated: 2025-09-27
 note_id: 210629TJ01
@@ -23,6 +23,14 @@ image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/
 ---
 
 # Copilot and the Autocomplete Layer
+
+<div class="keyword-row">
+  <span class="inline-keyword">suggestion</span>
+  <span class="inline-keyword">editor</span>
+  <span class="inline-keyword">skill</span>
+  <span class="inline-keyword">licensing</span>
+  <span class="inline-keyword">productivity</span>
+</div>
 
 The first shock was not that code could be generated, but that it could be generated inside the editor without ceremony. This moved AI from “tool you go to” into “layer you live inside.” Autocomplete became a new interface for intent. When the suggestion is one keystroke away, the cost of trying an idea collapses.
 

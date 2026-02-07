@@ -1,6 +1,7 @@
 ---
 title: Memetics - The Idea That Eats Me
 tags: [philosophy, memetics, culture]
+keywords: [ideas, contagion, culture, evolution, mind]
 draft: true
 description: I am not just thinking ideas; ideas are also thinking me.
 created: 2023-01-19
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Memetics - The Idea That Eats Me
+
+<div class="keyword-row">
+  <span class="inline-keyword">ideas</span>
+  <span class="inline-keyword">contagion</span>
+  <span class="inline-keyword">culture</span>
+  <span class="inline-keyword">evolution</span>
+  <span class="inline-keyword">mind</span>
+</div>
+
 
 I keep noticing that ideas do not just sit in my head. They spread. They mutate. They compete for space in the same way weeds compete for sunlight. A meme is not just a joke on a screen; it is a unit of cultural transmission, a tiny package of behavior that wants to survive. That survival pressure changes me. It shapes my attention, my language, my sense of what is "normal." This is the part that makes me uneasy. I want to be the author of my life, but the ideas around me want to use me as a host. That is not paranoia. That is ecology, just at the level of culture.
 

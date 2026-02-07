@@ -1,6 +1,7 @@
 ---
 title: Advaita Vedanta - The One Without Edges
 tags: [philosophy, vedanta, hinduism]
+keywords: [nonduality, self, consciousness, unity, surrender]
 draft: true
 description: Advaita Vedanta claims the deepest self and reality are one.
 created: 2021-06-17
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Advaita Vedanta - The One Without Edges
+
+<div class="keyword-row">
+  <span class="inline-keyword">nonduality</span>
+  <span class="inline-keyword">self</span>
+  <span class="inline-keyword">consciousness</span>
+  <span class="inline-keyword">unity</span>
+  <span class="inline-keyword">surrender</span>
+</div>
+
 
 Advaita Vedanta is the boldest claim I keep circling: there is only one reality, and the separations I cling to are illusions. The self I defend is not the deepest self. At the deepest level, self and world are not two. In a western frame, this sounds like metaphysical wildfire. It overturns the everyday assumption that I am a bounded individual. But it also feels like a profound invitation. If I stop gripping my edges, I might finally rest.
 

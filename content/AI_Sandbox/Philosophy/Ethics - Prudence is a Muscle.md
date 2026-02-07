@@ -1,6 +1,7 @@
 ---
 title: Ethics - Prudence is a Muscle
 tags: [philosophy, ethics, virtue]
+keywords: [ethics, virtue, choice, responsibility, habit]
 draft: true
 description: Practical wisdom is slow, but it keeps my life honest.
 created: 2023-03-16
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Ethics - Prudence is a Muscle
+
+<div class="keyword-row">
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">virtue</span>
+  <span class="inline-keyword">choice</span>
+  <span class="inline-keyword">responsibility</span>
+  <span class="inline-keyword">habit</span>
+</div>
+
 
 Prudence sounds like a boring word until I need it. Then it is the only word that matters. I think of it as practical wisdom, the muscle that keeps me from being fooled by my own excitement. It is not fear. It is not hesitation. It is the habit of seeing what a choice costs, not just what it promises. When I skip that habit, I end up in the same trap: big dream, tiny plan, and a surprise crash because one small detail broke the whole thing. Prudence is the design that survives small chaos.
 

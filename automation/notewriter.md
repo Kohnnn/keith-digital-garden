@@ -37,7 +37,7 @@ Goal: Collect public sources, cluster by topic, draft notes, and link by tags.
 - Use the `notewriter.md` workflow rules.
 - Do not mention source platforms inside the body.
 - Use tags for branching and include a linkage tree.
-- Add `keywords` (max 5, 1-2 words each) to help branch beyond tags.
+- Add `keywords` (max 5, 1 word each) to help branch beyond tags.
 
 7) **Place output**
 - Drafts go to `content/AI_Sandbox/<Type>/<Year>/`.

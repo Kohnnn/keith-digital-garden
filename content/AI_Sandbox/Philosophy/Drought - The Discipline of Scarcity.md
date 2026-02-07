@@ -1,6 +1,7 @@
 ---
 title: Drought - The Discipline of Scarcity
 tags: [philosophy, environment, scarcity]
+keywords: [scarcity, resilience, discipline, survival, nature]
 draft: true
 description: Scarcity reveals what I value when comfort disappears.
 created: 2022-06-02
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Drought - The Discipline of Scarcity
+
+<div class="keyword-row">
+  <span class="inline-keyword">scarcity</span>
+  <span class="inline-keyword">resilience</span>
+  <span class="inline-keyword">discipline</span>
+  <span class="inline-keyword">survival</span>
+  <span class="inline-keyword">nature</span>
+</div>
+
 
 Drought is a lesson in limits. It is not just a weather event; it is a moral pressure. When water shrinks, everything else shrinks with it. The land shows its bones. The routines I assumed were normal become fragile. Scarcity reveals what I actually value because it forces me to choose. It makes me ask: what do I keep, what do I let go, and what do I share?
 

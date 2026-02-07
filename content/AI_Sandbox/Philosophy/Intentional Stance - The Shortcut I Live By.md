@@ -1,6 +1,7 @@
 ---
 title: Intentional Stance - The Shortcut I Live By
 tags: [philosophy, mind, intentional-stance]
+keywords: [mind, inference, agency, interpretation, model]
 draft: true
 description: I treat minds like stories so I can move through the world.
 created: 2022-09-14
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Intentional Stance - The Shortcut I Live By
+
+<div class="keyword-row">
+  <span class="inline-keyword">mind</span>
+  <span class="inline-keyword">inference</span>
+  <span class="inline-keyword">agency</span>
+  <span class="inline-keyword">interpretation</span>
+  <span class="inline-keyword">model</span>
+</div>
+
 
 I do this all day without thinking: I look at a person, or a dog, or a messy project, and I assume there is a goal behind the motion. I decide that a coworker wants recognition, that my friend wants comfort, that the dog wants the ball. I might be wrong about the details, but the move itself keeps me alive. It is a shortcut that turns chaos into something I can respond to. I treat the thing in front of me like it has a mind, and suddenly I have a map. That is the intentional stance. It is not a claim about what a mind is made of. It is a way to navigate the world without freezing.
 

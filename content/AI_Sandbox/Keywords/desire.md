@@ -1,0 +1,17 @@
+---
+title: keyword - desire
+tags:
+  - keyword-index
+draft: true
+description: Notes linked by desire.
+created: 2026-02-07
+updated: 2026-02-07
+note_id: 260207KW30
+---
+
+# keyword - desire
+
+- [[Aesthetics - The Price of Beauty]]
+- [[Augustine - The Restless Heart]]
+
+#

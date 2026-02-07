@@ -1,6 +1,7 @@
 ---
 title: Jainism - The Discipline of Nonviolence
 tags: [philosophy, jainism, ethics]
+keywords: [nonviolence, discipline, compassion, asceticism, purity]
 draft: true
 description: Nonviolence is not passive; it is relentless care.
 created: 2022-05-07
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Jainism - The Discipline of Nonviolence
+
+<div class="keyword-row">
+  <span class="inline-keyword">nonviolence</span>
+  <span class="inline-keyword">discipline</span>
+  <span class="inline-keyword">compassion</span>
+  <span class="inline-keyword">asceticism</span>
+  <span class="inline-keyword">purity</span>
+</div>
+
 
 Jainism feels like a sharp edge of ethics. It takes nonviolence and turns it into a full lifestyle. It is not just "do not hurt people." It is do not harm life in any form, as much as you can avoid it. That is a radical standard. It challenges western moral thought that often treats harm as a necessary tool. Jainism says: start by refusing unnecessary harm, and let that refusal rewire your entire day.
 

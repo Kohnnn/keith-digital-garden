@@ -1,6 +1,7 @@
 ---
 title: Moral Development - The Ladder I Keep Climbing
 tags: [philosophy, ethics, moral-development]
+keywords: [growth, stages, ethics, learning, character]
 draft: true
 description: How my sense of right and wrong grows in stages.
 created: 2022-11-03
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Moral Development - The Ladder I Keep Climbing
+
+<div class="keyword-row">
+  <span class="inline-keyword">growth</span>
+  <span class="inline-keyword">stages</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">learning</span>
+  <span class="inline-keyword">character</span>
+</div>
+
 
 I used to think my moral instincts were just "me." Then I noticed how they change. What felt righteous at sixteen feels shallow at thirty. The way I judge people now is different than the way I judged them then. That shift is not just life experience; it is development. It feels like a ladder I keep climbing, where each rung changes how I see the whole room. The ladder idea is uncomfortable because it suggests that my current moral certainty is temporary. It suggests I will grow past it. I do not love that, but I think it is true.
 

@@ -9,11 +9,11 @@ tags:
 draft: true
 description: A 2021 cluster on the chip shortage, from autos to compute.
 keywords:
-  - capacity crunch
-  - legacy nodes
-  - supply fragility
-  - policy subsidy
-  - materials bottleneck
+  - capacity
+  - legacy
+  - supply
+  - subsidy
+  - materials
 created: 2021-08-19
 updated: 2025-09-14
 note_id: 210819RD01
@@ -23,6 +23,14 @@ image: "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimage
 ---
 
 # Chip Shortage and the Hardware Bottleneck
+
+<div class="keyword-row">
+  <span class="inline-keyword">capacity</span>
+  <span class="inline-keyword">legacy</span>
+  <span class="inline-keyword">supply</span>
+  <span class="inline-keyword">subsidy</span>
+  <span class="inline-keyword">materials</span>
+</div>
 
 This cluster is about one constraint showing up everywhere. The chip shortage was not a single event. It was a slow squeeze across auto output, consumer electronics, and data center build plans. The interesting part is not the scarcity itself. The interesting part is what scarcity revealed: a supply chain optimized for cost, not resilience.
 

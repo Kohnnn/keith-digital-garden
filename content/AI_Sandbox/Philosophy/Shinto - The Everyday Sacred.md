@@ -1,6 +1,7 @@
 ---
 title: Shinto - The Everyday Sacred
 tags: [philosophy, shinto, spirituality]
+keywords: [sacred, ritual, nature, purity, community]
 draft: true
 description: The sacred is not far away; it is woven into daily place.
 created: 2023-02-03
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Shinto - The Everyday Sacred
+
+<div class="keyword-row">
+  <span class="inline-keyword">sacred</span>
+  <span class="inline-keyword">ritual</span>
+  <span class="inline-keyword">nature</span>
+  <span class="inline-keyword">purity</span>
+  <span class="inline-keyword">community</span>
+</div>
+
 
 Shinto feels like a reminder that the sacred is not far away. It is in the ordinary. The rock, the tree, the river, the gate you pass through. It does not demand a single doctrine. It asks for attention and respect. That is why it speaks to me. In western religion, the sacred can feel distant or abstract. Shinto makes it local. It makes it a practice of presence.
 

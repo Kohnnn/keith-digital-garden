@@ -1,6 +1,7 @@
 ---
 title: Human Condition - The Weight of Being Here
 tags: [philosophy, existentialism, human-condition]
+keywords: [existence, meaning, suffering, mortality, self]
 draft: true
 description: The pressure of being alive without a script.
 created: 2023-04-12
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Human Condition - The Weight of Being Here
+
+<div class="keyword-row">
+  <span class="inline-keyword">existence</span>
+  <span class="inline-keyword">meaning</span>
+  <span class="inline-keyword">suffering</span>
+  <span class="inline-keyword">mortality</span>
+  <span class="inline-keyword">self</span>
+</div>
+
 
 I keep circling the same simple fact: I did not ask to be here, and yet I am here, and I still have to decide what to do with it. That is the human condition in the raw, not as a theory but as a pressure in my chest. Every morning arrives like a quiet test. I can drift, I can perform, or I can decide. None of those choices are neutral. Drift turns the day into a blur. Performance turns me into a character in a story I did not write. Decision turns me into a person who might have to live with the cost. This is why I keep returning to [[Nietzsche - The Heaviest Question]]. It is the same demand in a different outfit: are you willing to own the day you are about to live, or are you trying to slip past it without being seen?
 

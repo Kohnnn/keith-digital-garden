@@ -21,7 +21,8 @@ const PATHS = {
   outputPreflight: path.join(__dirname, "output", "preflight"),
   outputReports: path.join(__dirname, "output", "reports"),
   contentSandbox: path.join(REPO_ROOT, "content", "AI_Sandbox"),
-  contentOut: path.join(REPO_ROOT, "content", "mark-memo")
+  contentOut: path.join(REPO_ROOT, "content", "mark-memo"),
+  contentNews: path.join(REPO_ROOT, "content", "mark-memo", "news")
 }
 
 const DEFAULT_CONFIG = {
@@ -1910,6 +1911,74 @@ const buildNoteId = (created, type = "MR", index = 1) => {
   return `${year}${month}${day}${type}${seq}`
 }
 
+const readFrontmatter = (content) => {
+  const match = content.match(/^---\n([\s\S]*?)\n---/)
+  if (!match) return {}
+  const lines = match[1].split(/\r?\n/)
+  const data = {}
+  for (const line of lines) {
+    const idx = line.indexOf(":")
+    if (idx <= 0) continue
+    const key = line.slice(0, idx).trim()
+    const value = line.slice(idx + 1).trim()
+    data[key] = value
+  }
+  return data
+}
+
+const parseTags = (value) => {
+  if (!value) return []
+  const cleaned = value.replace(/^\[|\]$/g, "")
+  return cleaned
+    .split(",")
+    .map((item) => item.trim())
+    .filter(Boolean)
+}
+
+const ensureTrailingHash = (content) => {
+  if (content.trim().endsWith("#")) return content
+  return `${content.trimEnd()}\n\n#`
+}
+
+const getNextNewsId = async (date, yearDir) => {
+  const createdDate = parseDate(date)
+  if (!createdDate) return ""
+  const prefix = buildNoteId(createdDate.toISOString().slice(0, 10), "NW", 0).slice(0, 8)
+  const files = (await fileExists(yearDir)) ? await fs.readdir(yearDir) : []
+  let maxSeq = 0
+  for (const file of files) {
+    if (!file.endsWith(".md")) continue
+    const content = await fs.readFile(path.join(yearDir, file), "utf-8")
+    const fm = readFrontmatter(content)
+    const newsId = fm.news_id || fm.note_id || ""
+    if (!newsId.startsWith(prefix + "NW")) continue
+    const seq = Number(newsId.slice(-2))
+    if (!Number.isNaN(seq)) maxSeq = Math.max(maxSeq, seq)
+  }
+  const nextSeq = String(maxSeq + 1).padStart(2, "0")
+  return `${prefix}NW${nextSeq}`
+}
+
+const appendUpdatesBlock = async (filePath, updateSlug, summary, date) => {
+  if (!(await fileExists(filePath))) return false
+  const content = await fs.readFile(filePath, "utf-8")
+  const entry = `- ${date}: [[${updateSlug}]] — ${summary || "Update added."}`
+  let updated = content
+  if (/## Updates/i.test(content)) {
+    updated = content.replace(/## Updates[\s\S]*?(?=\n#\s*$|$)/i, (match) => {
+      if (match.includes(updateSlug)) return match
+      return `${match.trim()}\n${entry}\n`
+    })
+  } else {
+    updated = content.replace(/\n#\s*$/i, `\n\n## Updates\n${entry}\n\n#`)
+  }
+  if (updated !== content) {
+    await fs.writeFile(filePath, updated, "utf-8")
+    return true
+  }
+  return false
+}
+
 const insertCrossReference = (content, previousSlug) => {
   if (!content || !previousSlug) return content
   if (content.includes(`[[${previousSlug}]]`)) return content
@@ -3001,6 +3070,85 @@ const main = async () => {
     return
   }
 
+  if (command === "news-update") {
+    const sourcePath = args.get("source")
+    const title = args.get("title") || "News Update"
+    const summary = args.get("summary") || ""
+    const body = args.get("body") || ""
+    const date = args.get("date") || today()
+    const newsIdArg = args.get("newsid") || ""
+
+    if (!sourcePath) {
+      throw new Error("news-update requires --source <path>")
+    }
+
+    const sourceContent = await fs.readFile(sourcePath, "utf-8")
+    const sourceFrontmatter = readFrontmatter(sourceContent)
+    const sourceTitle = sourceFrontmatter.title || "Source Note"
+    const sourceNoteId = sourceFrontmatter.note_id || ""
+    const sourceSlug = path.basename(sourcePath, ".md")
+
+    const year = date.slice(0, 4)
+    const yearDir = path.join(PATHS.contentNews, year)
+    await ensureDir(yearDir)
+
+    const newsId = newsIdArg || (await getNextNewsId(date, yearDir))
+    const noteParent = sourceNoteId || ""
+    const noteBranch = noteParent ? `${noteParent}.N${newsId.slice(-2)}` : ""
+
+    const tags = parseTags(sourceFrontmatter.tags)
+    const mergedTags = Array.from(new Set(["news-update", ...tags]))
+
+    const frontmatter = [
+      "---",
+      `title: ${title}`,
+      `tags: [${mergedTags.join(", ")}]`,
+      ...(newsId ? [`note_id: ${newsId}`, `news_id: ${newsId}`] : []),
+      ...(noteParent ? [`note_parent: ${noteParent}`] : []),
+      ...(noteBranch ? [`note_branch: ${noteBranch}`] : []),
+      "draft: true",
+      `description: ${summary || "News update"}`,
+      `created: ${date}`,
+      `updated: ${today()}`,
+      "---"
+    ].join("\n")
+
+    const contentLines = [
+      `# ${title}`,
+      "",
+      `This update branches from [[${sourceTitle}]].`,
+      "",
+      "## What Changed",
+      summary ? `- ${summary}` : "- Update summary pending.",
+      "",
+      "## Why It Matters",
+      "- Note the impact on the original thesis.",
+      "",
+      "## My Read",
+      body || "I am extending the original note with a new data point and adjusting my risk posture accordingly.",
+      "",
+      "## Links",
+      `- [[${sourceSlug}]]`,
+      "",
+      "## questions / next",
+      "- What breaks if this update is wrong?",
+      "- What would confirm the new direction?",
+      "",
+      "#"
+    ]
+
+    const fileSlug = slugify(`${date}-${title}`)
+    const targetPath = path.join(yearDir, `${fileSlug}.md`)
+    const noteContent = `${frontmatter}\n\n${contentLines.join("\n")}`
+    await fs.writeFile(targetPath, noteContent, "utf-8")
+
+    await appendUpdatesBlock(sourcePath, fileSlug, summary, date)
+    await appendLinkedFrom(sourcePath, fileSlug, "News update added.")
+
+    console.log(`News update created: ${targetPath}`)
+    return
+  }
+
   if (command === "archive") {
     const archivedPath = await archiveInbox()
     console.log(`Archived inbox to: ${archivedPath}`)
@@ -3017,6 +3165,7 @@ const main = async () => {
   console.log("  node automation/pipeline.mjs weekly-generate --limit 10 --offset 0")
   console.log("  node automation/pipeline.mjs weekly-generate --week 2025-W01 --references true --refsources \"bls.gov,bea.gov,federalreserve.gov\"")
   console.log("  node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources \"bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com\"")
+  console.log("  node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title \"Tariff Pause Update\" --summary \"Policy pause shifted risk premium\"")
   console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --url <channel_url>")
   console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --dateafter 20250101 --datebefore 20250331 --url <channel_url>")
   console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --playliststart 1 --playlistend 120 --url <channel_url>")

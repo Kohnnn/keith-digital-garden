@@ -1,6 +1,7 @@
 ---
 title: River - The Long Witness
 tags: [philosophy, environment, river]
+keywords: [nature, time, memory, flow, change]
 draft: true
 description: A river keeps telling the truth even when I forget.
 created: 2021-09-09
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # River - The Long Witness
+
+<div class="keyword-row">
+  <span class="inline-keyword">nature</span>
+  <span class="inline-keyword">time</span>
+  <span class="inline-keyword">memory</span>
+  <span class="inline-keyword">flow</span>
+  <span class="inline-keyword">change</span>
+</div>
+
 
 A river is a long witness. It sees the slow changes that I miss. It keeps moving even when I pretend my life is still. I think about a river when I need to remember that time is real and that consequences flow. A river is a kind of memory, one that does not have to speak to be honest. If I want truth, I can watch the water.
 

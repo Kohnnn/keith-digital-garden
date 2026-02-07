@@ -1,6 +1,7 @@
 ---
 title: Communicant - The Ethics of Being Heard
 tags: [philosophy, communication, ethics]
+keywords: [communication, ethics, empathy, dialogue, voice]
 draft: true
 description: Speaking is power; listening is a promise.
 created: 2022-01-09
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Communicant - The Ethics of Being Heard
+
+<div class="keyword-row">
+  <span class="inline-keyword">communication</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">empathy</span>
+  <span class="inline-keyword">dialogue</span>
+  <span class="inline-keyword">voice</span>
+</div>
+
 
 I keep learning that communication is not just about clarity. It is about responsibility. When I speak, I am not only sharing an idea, I am shaping the space between us. The word "communicant" reminds me that communication is participation, not performance. It means I am part of a shared act, and the shared act has stakes. If I use words carelessly, I do damage. If I use words well, I build trust. That makes communication moral, not just technical.
 

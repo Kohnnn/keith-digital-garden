@@ -1,6 +1,7 @@
 ---
 title: Surrender - The Moment I Stop Gripping
 tags: [philosophy, spirituality, surrender]
+keywords: [surrender, release, trust, control, freedom]
 draft: true
 description: Letting go as a way to see what is actually here.
 created: 2021-06-30
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Surrender - The Moment I Stop Gripping
+
+<div class="keyword-row">
+  <span class="inline-keyword">surrender</span>
+  <span class="inline-keyword">release</span>
+  <span class="inline-keyword">trust</span>
+  <span class="inline-keyword">control</span>
+  <span class="inline-keyword">freedom</span>
+</div>
+
 
 Surrender is not giving up. It is the moment I stop fighting the reality I cannot change. That sounds soft, but it is actually a kind of discipline. I want to control everything because control feels like safety. But the tight grip makes me brittle. When life moves, I break. Surrender is the counter-move: I loosen my hand so I can actually feel what is in it. That is the only way I can respond to reality instead of wrestling a fantasy.
 

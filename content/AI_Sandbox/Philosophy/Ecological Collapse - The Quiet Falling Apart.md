@@ -1,6 +1,7 @@
 ---
 title: Ecological Collapse - The Quiet Falling Apart
 tags: [philosophy, environmental, collapse]
+keywords: [ecology, collapse, systems, loss, future]
 draft: true
 description: Collapse is rarely a bang; it is a long thinning of support.
 created: 2023-03-02
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Ecological Collapse - The Quiet Falling Apart
+
+<div class="keyword-row">
+  <span class="inline-keyword">ecology</span>
+  <span class="inline-keyword">collapse</span>
+  <span class="inline-keyword">systems</span>
+  <span class="inline-keyword">loss</span>
+  <span class="inline-keyword">future</span>
+</div>
+
 
 Ecological collapse is not a single disaster. It is a long unspooling of the systems that hold life together. The water gets less predictable. The soil loses its strength. The weather stops being a stable background and turns into a constant negotiation. Collapse feels quiet at first because it is made of many small losses. It does not start with headlines. It starts with slow changes that make life harder to sustain. That is why it is dangerous. We do not panic until the structure is already weak.
 

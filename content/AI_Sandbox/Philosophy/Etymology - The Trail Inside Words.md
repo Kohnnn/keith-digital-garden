@@ -1,6 +1,7 @@
 ---
 title: Etymology - The Trail Inside Words
 tags: [philosophy, language, etymology]
+keywords: [language, history, meaning, roots, identity]
 draft: true
 description: A word carries the footsteps of every mind that used it.
 created: 2022-02-09
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Etymology - The Trail Inside Words
+
+<div class="keyword-row">
+  <span class="inline-keyword">language</span>
+  <span class="inline-keyword">history</span>
+  <span class="inline-keyword">meaning</span>
+  <span class="inline-keyword">roots</span>
+  <span class="inline-keyword">identity</span>
+</div>
+
 
 Etymology is the trail inside a word. It is the history of how a meaning moved from one mind to another until it landed in mine. I love this because it reminds me that language is not static. Every word is a shared artifact. If I want to understand what I mean, I have to respect the path that got the word to me. That path is a kind of memory. Ignoring it makes my speech shallow.
 

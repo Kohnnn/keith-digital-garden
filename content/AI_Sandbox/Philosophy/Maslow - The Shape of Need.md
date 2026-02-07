@@ -1,6 +1,7 @@
 ---
 title: Maslow - The Shape of Need
 tags: [philosophy, psychology, needs]
+keywords: [needs, motivation, growth, psychology, self]
 draft: true
 description: The order of my needs shapes the order of my life.
 created: 2021-10-14
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Maslow - The Shape of Need
+
+<div class="keyword-row">
+  <span class="inline-keyword">needs</span>
+  <span class="inline-keyword">motivation</span>
+  <span class="inline-keyword">growth</span>
+  <span class="inline-keyword">psychology</span>
+  <span class="inline-keyword">self</span>
+</div>
+
 
 I keep returning to the idea that my needs have a shape. I can pretend I am pure willpower, but my body and mind keep exposing the order of the ladder. If I am hungry, I do not care about meaning. If I am unsafe, I cannot relax into creativity. This is not a moral failure. It is a map. The map says: needs come in layers, and I cannot skip the lower layers without paying for it. That is both humbling and freeing. Humbling because I am not above the body. Freeing because I can stop blaming myself for what is actually a missing foundation.
 

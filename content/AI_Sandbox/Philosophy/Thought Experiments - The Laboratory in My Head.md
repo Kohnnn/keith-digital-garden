@@ -1,6 +1,7 @@
 ---
 title: Thought Experiments - The Laboratory in My Head
 tags: [philosophy, thought-experiments, method]
+keywords: [thought, imagination, ethics, paradox, insight]
 draft: true
 description: When I test reality by stressing my imagination.
 created: 2021-08-05
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Thought Experiments - The Laboratory in My Head
+
+<div class="keyword-row">
+  <span class="inline-keyword">thought</span>
+  <span class="inline-keyword">imagination</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">paradox</span>
+  <span class="inline-keyword">insight</span>
+</div>
+
 
 I love thought experiments because they let me rehearse a decision before I have to pay for it. They are the cheapest way to fail. I can push a situation to its edge without breaking anyone, and then I can watch what my mind does when it runs out of excuses. That is why the best ones feel like traps. They corner the part of me that hides behind common sense. If a story about a brain in a vat makes me nervous, it is because I notice how much of my confidence rests on habit, not on proof. I do not need the story to be true. I need it to be sharp enough to expose where I am lazy. That is also why I keep leaning on [[Epistemology - Thinking From the Floor]]. The floor is the point. Thought experiments are the hammer that checks if the floor is real or just a painted rug.
 

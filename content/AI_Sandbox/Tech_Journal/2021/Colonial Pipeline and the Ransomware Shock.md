@@ -9,11 +9,11 @@ tags:
 draft: true
 description: A single intrusion exposed how fragile critical infrastructure really is.
 keywords:
-  - critical infrastructure
-  - ransomware shock
-  - shutdown uncertainty
-  - policy response
-  - operational debt
+  - infrastructure
+  - ransomware
+  - shutdown
+  - policy
+  - debt
 created: 2021-05-10
 updated: 2025-10-11
 note_id: 210510TJ01
@@ -23,6 +23,14 @@ image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/
 ---
 
 # Colonial Pipeline and the Ransomware Shock
+
+<div class="keyword-row">
+  <span class="inline-keyword">infrastructure</span>
+  <span class="inline-keyword">ransomware</span>
+  <span class="inline-keyword">shutdown</span>
+  <span class="inline-keyword">policy</span>
+  <span class="inline-keyword">debt</span>
+</div>
 
 The Colonial Pipeline incident was a reminder that digital risk becomes physical risk fast. A ransomware event shut down a major fuel artery, and the public response was immediate: lines at gas stations, panic buying, and political attention. The technical breach mattered, but the system reaction mattered more.
 

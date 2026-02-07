@@ -9,11 +9,11 @@ tags:
 draft: true
 description: The fee market shifted from chaos to policy, with a burn at the center.
 keywords:
-  - fee reform
-  - burn narrative
-  - protocol policy
-  - UX predictability
-  - governance credibility
+  - fees
+  - burn
+  - protocol
+  - usability
+  - governance
 created: 2021-08-05
 updated: 2025-09-21
 note_id: 210805TJ01
@@ -23,6 +23,14 @@ image: "https://image.cnbcfm.com/api/v1/image/106885738-1621490902783-gettyimage
 ---
 
 # EIP-1559 and the Fee Burn
+
+<div class="keyword-row">
+  <span class="inline-keyword">fees</span>
+  <span class="inline-keyword">burn</span>
+  <span class="inline-keyword">protocol</span>
+  <span class="inline-keyword">usability</span>
+  <span class="inline-keyword">governance</span>
+</div>
 
 EIP-1559 was less about a single upgrade and more about changing the bargaining power inside Ethereum’s fee market. It turned gas from a bidding war into a base fee plus tip, and then it took the base fee out of circulation. That single move blended user experience, monetary policy, and narrative momentum into one mechanism.
 

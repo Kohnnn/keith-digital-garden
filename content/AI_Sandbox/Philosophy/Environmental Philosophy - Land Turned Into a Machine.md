@@ -1,6 +1,7 @@
 ---
 title: Environmental Philosophy - Land Turned Into a Machine
 tags: [philosophy, environment, ethics]
+keywords: [nature, ethics, stewardship, extraction, responsibility]
 draft: true
 description: When place becomes function, ethics gets thin.
 created: 2024-01-05
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Environmental Philosophy - Land Turned Into a Machine
+
+<div class="keyword-row">
+  <span class="inline-keyword">nature</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">stewardship</span>
+  <span class="inline-keyword">extraction</span>
+  <span class="inline-keyword">responsibility</span>
+</div>
+
 
 I notice how quickly I turn land into a tool. A river becomes a pipe. A hill becomes a storage unit. A forest becomes a number on a report. This is efficient, but it is also a kind of blindness. When I only see function, I stop seeing relationship. And when I stop seeing relationship, my ethics shrink to whatever helps me win today. That is the machine mindset. It is clean and fast and strangely empty.
 

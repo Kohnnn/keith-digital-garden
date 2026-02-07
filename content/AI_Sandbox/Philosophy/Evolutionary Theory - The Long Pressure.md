@@ -1,6 +1,7 @@
 ---
 title: Evolutionary Theory - The Long Pressure
 tags: [philosophy, evolution, science]
+keywords: [evolution, adaptation, survival, time, change]
 draft: true
 description: The slow logic that shapes life without asking permission.
 created: 2021-04-27
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Evolutionary Theory - The Long Pressure
+
+<div class="keyword-row">
+  <span class="inline-keyword">evolution</span>
+  <span class="inline-keyword">adaptation</span>
+  <span class="inline-keyword">survival</span>
+  <span class="inline-keyword">time</span>
+  <span class="inline-keyword">change</span>
+</div>
+
 
 Evolutionary theory feels like a cold wind that never stops. It does not care about my hopes. It cares about what survives. That is the brutal honesty of it. Small differences, over long time, under relentless selection. The theory is not just a biology lesson. It is a philosophy of humility. It tells me that my body, my instincts, and even some of my values were shaped by pressures I did not choose. That is not depressing. It is clarifying. It means I should be careful about treating my impulses as sacred. Some of them are just ancient tools.
 

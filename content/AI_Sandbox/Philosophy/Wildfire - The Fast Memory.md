@@ -1,6 +1,7 @@
 ---
 title: Wildfire - The Fast Memory
 tags: [philosophy, environment, wildfire]
+keywords: [fire, ecology, loss, renewal, risk]
 draft: true
 description: Fire is a memory that returns faster than I am ready for.
 created: 2023-08-19
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Wildfire - The Fast Memory
+
+<div class="keyword-row">
+  <span class="inline-keyword">fire</span>
+  <span class="inline-keyword">ecology</span>
+  <span class="inline-keyword">loss</span>
+  <span class="inline-keyword">renewal</span>
+  <span class="inline-keyword">risk</span>
+</div>
+
 
 Wildfire feels like the land remembering something I forgot. It moves fast, it rewrites the map, and it leaves the smell of change everywhere. Fire is not just a disaster. It is a reminder that the world is alive and that my plans are small. When a place burns, the story of that place shifts. The soil changes, the animals move, the people remember. That is why wildfire is a philosophical subject for me. It is a test of humility.
 

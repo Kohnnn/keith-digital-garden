@@ -1,6 +1,7 @@
 ---
 title: Nyaya - The Rules of Knowing
 tags: [philosophy, nyaya, logic]
+keywords: [logic, knowledge, evidence, reason, clarity]
 draft: true
 description: Nyaya builds a disciplined path for reliable knowledge.
 created: 2024-10-06
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Nyaya - The Rules of Knowing
+
+<div class="keyword-row">
+  <span class="inline-keyword">logic</span>
+  <span class="inline-keyword">knowledge</span>
+  <span class="inline-keyword">evidence</span>
+  <span class="inline-keyword">reason</span>
+  <span class="inline-keyword">clarity</span>
+</div>
+
 
 Nyaya feels like a calm courtroom for the mind. It cares about how I know what I claim to know. It builds a system of reasoning and evidence so that truth is not just a loud opinion. In a western frame, it resembles logic and epistemology, but it is not merely abstract. Nyaya has an ethical urgency: wrong knowledge leads to wrong action, and wrong action multiplies suffering. It treats precision as a moral practice.
 

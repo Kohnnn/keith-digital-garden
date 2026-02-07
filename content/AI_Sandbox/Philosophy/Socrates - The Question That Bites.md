@@ -1,6 +1,7 @@
 ---
 title: Socrates - The Question That Bites
 tags: [philosophy, socrates, inquiry]
+keywords: [inquiry, doubt, virtue, dialogue, wisdom]
 draft: true
 description: A way of questioning that refuses to let me hide.
 created: 2021-11-02
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Socrates - The Question That Bites
+
+<div class="keyword-row">
+  <span class="inline-keyword">inquiry</span>
+  <span class="inline-keyword">doubt</span>
+  <span class="inline-keyword">virtue</span>
+  <span class="inline-keyword">dialogue</span>
+  <span class="inline-keyword">wisdom</span>
+</div>
+
 
 There is a kind of question that feels simple, and then it cuts deeper than I expected. It is the question that asks me what I mean, not just what I say. I can talk for an hour about "freedom" and "success" and still have no clue what those words are doing in my mouth. The Socratic move is to stop the smooth flow and ask, "What is it, exactly?" That question bites because it strips the easy story. I cannot hide behind vibes. I have to show the shape of the thing I believe. And most days, I realize I do not have the shape. I just have a mood.
 

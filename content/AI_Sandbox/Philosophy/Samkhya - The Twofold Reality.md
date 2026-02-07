@@ -1,6 +1,7 @@
 ---
 title: Samkhya - The Twofold Reality
 tags: [philosophy, samkhya, hinduism]
+keywords: [duality, consciousness, matter, witness, liberation]
 draft: true
 description: Samkhya splits reality into consciousness and matter to explain liberation.
 created: 2022-07-03
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Samkhya - The Twofold Reality
+
+<div class="keyword-row">
+  <span class="inline-keyword">duality</span>
+  <span class="inline-keyword">consciousness</span>
+  <span class="inline-keyword">matter</span>
+  <span class="inline-keyword">witness</span>
+  <span class="inline-keyword">liberation</span>
+</div>
+
 
 Samkhya gives me a clean, almost surgical split: consciousness and matter are two different kinds of reality. The self that knows is not the same as the world that changes. This is not the nondual move of Advaita. It is dual, but not in a hostile way. It is more like a careful diagnosis. In a western frame, it feels like a disciplined metaphysics that tries to explain why we suffer and how to loosen the knot. The claim is that liberation happens when consciousness stops confusing itself with the churn of matter.
 

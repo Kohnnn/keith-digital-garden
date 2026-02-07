@@ -9,11 +9,11 @@ tags:
 draft: true
 description: Log4Shell turned a common logging library into an industry-wide fire drill.
 keywords:
-  - dependency visibility
-  - ops tax
-  - patch velocity
-  - blast radius
-  - maintenance funding
+  - dependency
+  - ops
+  - patch
+  - blast
+  - maintenance
 created: 2021-12-09
 updated: 2025-10-19
 note_id: 211209TJ01
@@ -23,6 +23,14 @@ image: "https://ichef.bbci.co.uk/news/1024/branded_news/99FF/production/_1222324
 ---
 
 # Log4Shell and the Ops Tax
+
+<div class="keyword-row">
+  <span class="inline-keyword">dependency</span>
+  <span class="inline-keyword">ops</span>
+  <span class="inline-keyword">patch</span>
+  <span class="inline-keyword">blast</span>
+  <span class="inline-keyword">maintenance</span>
+</div>
 
 Log4Shell was the kind of vulnerability that makes the whole industry hold its breath. A logging library that touches everything suddenly becomes a remote code execution vector. The story was not just about a bug; it was about the shape of modern dependencies. When one small library is everywhere, a single mistake becomes a systemic event.
 

@@ -54,6 +54,7 @@ node automation/pipeline.mjs weekly-generate --preflight automation/output/prefl
 node automation/pipeline.mjs weekly-generate --week 2025-W01 --references true --refsources "bls.gov,bea.gov,federalreserve.gov"
 node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"
 node automation/pipeline.mjs weekly-generate --week 2025-W11 --crosslink true --crossreason "Follow-up reflection added by later week."
+node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium"
 ```
 
 You can generate in smaller batches:

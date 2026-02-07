@@ -1,6 +1,7 @@
 ---
 title: Buddhism - The Practice of Letting Go
 tags: [philosophy, buddhism, suffering]
+keywords: [suffering, impermanence, compassion, practice, self]
 draft: true
 description: The end of suffering is not escape; it is attention.
 created: 2021-05-14
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Buddhism - The Practice of Letting Go
+
+<div class="keyword-row">
+  <span class="inline-keyword">suffering</span>
+  <span class="inline-keyword">impermanence</span>
+  <span class="inline-keyword">compassion</span>
+  <span class="inline-keyword">practice</span>
+  <span class="inline-keyword">self</span>
+</div>
+
 
 Buddhism keeps telling me that suffering is not just pain. It is clinging. I cling to comfort, to identity, to a story about how the world should be, and then I suffer when the story breaks. The Buddha does not say "pretend pain is gone." He says watch the clinging and loosen the grip. That is a practice, not a slogan. It is why Buddhism feels more like a discipline than a belief.
 

@@ -9,11 +9,11 @@ tags:
 draft: true
 description: A government-level adoption move changed the question from price to legitimacy.
 keywords:
-  - legal tender
-  - volatility transfer
-  - policy bet
-  - inclusion risk
-  - narrative legitimacy
+  - legal
+  - volatility
+  - policy
+  - inclusion
+  - legitimacy
 created: 2021-06-09
 updated: 2025-08-22
 note_id: 210609TP01
@@ -23,6 +23,14 @@ image: "https://ichef.bbci.co.uk/news/1024/branded_news/AB75/production/_1188398
 ---
 
 # Bitcoin as a State Experiment
+
+<div class="keyword-row">
+  <span class="inline-keyword">legal</span>
+  <span class="inline-keyword">volatility</span>
+  <span class="inline-keyword">policy</span>
+  <span class="inline-keyword">inclusion</span>
+  <span class="inline-keyword">legitimacy</span>
+</div>
 
 When El Salvador made Bitcoin legal tender, the story shifted from charts to legitimacy. The move was not just about remittances or innovation theater. It was a state-level experiment with monetary credibility, and that kind of experiment is never neutral. It tests institutions, it tests trust, and it forces people who did not choose crypto to live with it.
 

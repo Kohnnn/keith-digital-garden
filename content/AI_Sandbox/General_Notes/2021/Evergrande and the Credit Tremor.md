@@ -10,11 +10,11 @@ tags:
 draft: true
 description: A property giant exposed how thin the credit buffer really was.
 keywords:
-  - credit tremor
-  - property leverage
-  - confidence channel
-  - policy boundary
-  - contagion risk
+  - credit
+  - leverage
+  - confidence
+  - policy
+  - contagion
 created: 2021-09-23
 updated: 2025-10-02
 note_id: 210923GN01
@@ -24,6 +24,14 @@ image: "https://ichef.bbci.co.uk/news/1024/branded_news/C2B2/production/_1206248
 ---
 
 # Evergrande and the Credit Tremor
+
+<div class="keyword-row">
+  <span class="inline-keyword">credit</span>
+  <span class="inline-keyword">leverage</span>
+  <span class="inline-keyword">confidence</span>
+  <span class="inline-keyword">policy</span>
+  <span class="inline-keyword">contagion</span>
+</div>
 
 The Evergrande story read like a slow-motion test of China’s credit plumbing. A real-estate giant pushed leverage to the edge, then ran out of runway. The headlines were about missed payments, but the deeper signal was about how policy tolerates stress in a system built on property-driven growth.
 

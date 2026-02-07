@@ -1,6 +1,7 @@
 ---
 title: Aristotle - The Mean I Miss
 tags: [philosophy, aristotle, virtue]
+keywords: [virtue, balance, character, ethics, habit]
 draft: true
 description: Balance is not average; it is a practiced target.
 created: 2021-12-07
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Aristotle - The Mean I Miss
+
+<div class="keyword-row">
+  <span class="inline-keyword">virtue</span>
+  <span class="inline-keyword">balance</span>
+  <span class="inline-keyword">character</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">habit</span>
+</div>
+
 
 I keep misreading the "golden mean" as a bland middle. But Aristotle did not mean "be average." He meant: find the right amount for this moment. Courage is not halfway between fear and rage. It is the right response to danger. Generosity is not an even split. It is the right response to need. The mean is not a math problem. It is a lived judgment. That is why I miss it so often. I want rules. The mean demands presence.
 

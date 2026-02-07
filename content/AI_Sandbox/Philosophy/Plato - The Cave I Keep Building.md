@@ -1,6 +1,7 @@
 ---
 title: Plato - The Cave I Keep Building
 tags: [philosophy, plato, reality]
+keywords: [forms, truth, cave, knowledge, illusion]
 draft: true
 description: I mistake the wall for the world more often than I admit.
 created: 2022-04-03
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Plato - The Cave I Keep Building
+
+<div class="keyword-row">
+  <span class="inline-keyword">forms</span>
+  <span class="inline-keyword">truth</span>
+  <span class="inline-keyword">cave</span>
+  <span class="inline-keyword">knowledge</span>
+  <span class="inline-keyword">illusion</span>
+</div>
+
 
 I keep coming back to the cave because I keep rebuilding it. It is not just a story about prisoners and shadows. It is a story about my habits. The cave is any routine that narrows my attention until the shadows feel like the whole world. I scroll, I skim, I accept the first explanation that fits, and suddenly my life has the shape of the wall I stare at. The cave is not a place I escaped once. It is a place I can recreate every day without meaning to.
 

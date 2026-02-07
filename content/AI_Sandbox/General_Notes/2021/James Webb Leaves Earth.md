@@ -9,11 +9,11 @@ tags:
 draft: true
 description: A $10B telescope left Earth with no repair trip waiting.
 keywords:
-  - long horizon
-  - deployment risk
-  - precision engineering
-  - science payoff
-  - institutional memory
+  - horizon
+  - deployment
+  - precision
+  - science
+  - memory
 created: 2021-12-25
 updated: 2025-08-03
 note_id: 211225GN01
@@ -23,6 +23,14 @@ image: "https://ichef.bbci.co.uk/news/1024/branded_news/17412/production/_122505
 ---
 
 # James Webb Leaves Earth
+
+<div class="keyword-row">
+  <span class="inline-keyword">horizon</span>
+  <span class="inline-keyword">deployment</span>
+  <span class="inline-keyword">precision</span>
+  <span class="inline-keyword">science</span>
+  <span class="inline-keyword">memory</span>
+</div>
 
 The launch of the James Webb Space Telescope was a quiet kind of high stakes. A decade of engineering left the ground in a single shot, with a deployment sequence that could not be repaired by astronauts. That is a different risk profile than most missions, and it changes how you feel about the whole project.
 

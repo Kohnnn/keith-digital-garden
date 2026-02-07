@@ -25,11 +25,23 @@ This is the process I follow when I write a philosophy note in my voice. It keep
 
 ## structure checklist
 - Frontmatter includes: title, tags, draft, description, created, updated, note_id.
-- Body is 800-1200 words with 2+ cross-links.
+- Base notes are 800-1200 words with 2+ cross-links.
+- Update notes can exceed 1200 words; no max length.
 - Add an annotations section with 3-5 sharp bullets.
 - Add a linkage tree block for connections.
 - Add references in callout blocks with direct links only.
 - End with a trailing # line.
+- Add a keywords line near the top (after the intro paragraph):
+  - Format: `Keywords: word1, word2, word3`
+  - Only use 1-word keywords, max 5 per note.
+
+## update and branching workflow
+- Update notes stay in the same folder as the base note (no branch folder).
+- Do not add new IDs beyond the standard note_id; no parent_note or news_id fields.
+- The update note title should be a keyword phrase, not a dated label.
+- Add the keywords to `keith-digital-garden/content/AI_Sandbox/Keywords/Keyword Index.md`.
+- Consolidation rule: when an update adds a stable insight, fold 2-3 sentences into the base note and keep the update as history.
+- Keep 2-4 west/east comparison links in each update note.
 
 ## tone checks
 - First person, casual, direct, no academic voice.

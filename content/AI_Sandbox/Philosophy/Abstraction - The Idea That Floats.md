@@ -1,6 +1,7 @@
 ---
 title: Abstraction - The Idea That Floats
 tags: [philosophy, metaphysics, abstraction]
+keywords: [abstraction, concept, language, mind, knowledge]
 draft: true
 description: How my mind turns lived mess into clean shapes.
 created: 2021-11-21
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Abstraction - The Idea That Floats
+
+<div class="keyword-row">
+  <span class="inline-keyword">abstraction</span>
+  <span class="inline-keyword">concept</span>
+  <span class="inline-keyword">language</span>
+  <span class="inline-keyword">mind</span>
+  <span class="inline-keyword">knowledge</span>
+</div>
+
 
 Abstraction is the move my mind makes when the world is too loud. I pull away from the clutter and I reach for a shape. I say "friend" instead of the chaos of every actual friend. I say "tree" instead of every single branch, bark texture, and season. That is useful, but it is also dangerous, because the abstraction starts to feel more real than the thing it came from. I catch myself living inside the label. The idea floats above the world and I begin to mistake the float for the ground. This is why I keep coming back to the question of what is real and what is just a clean model. If I do not watch it, my abstractions become a disguise for avoidance.
 

@@ -1,6 +1,7 @@
 ---
 title: Fair Division - The Blueberry Pie Rule
 tags: [philosophy, justice, fairness]
+keywords: [justice, fairness, equity, trust, community]
 draft: true
 description: A tiny rule that exposes how much I care about fairness.
 created: 2022-07-27
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Fair Division - The Blueberry Pie Rule
+
+<div class="keyword-row">
+  <span class="inline-keyword">justice</span>
+  <span class="inline-keyword">fairness</span>
+  <span class="inline-keyword">equity</span>
+  <span class="inline-keyword">trust</span>
+  <span class="inline-keyword">community</span>
+</div>
+
 
 I love the simple rule: "I cut, you choose." It is the blueberry pie method. It forces me to cut fairly because I will not know which piece I get. That tiny trick reveals something big about justice. Fairness is not just a feeling. It is a structure that limits my ability to cheat myself into comfort. When I build the structure right, I do not need a saint to make it fair. I just need incentives that make fairness the smart move.
 

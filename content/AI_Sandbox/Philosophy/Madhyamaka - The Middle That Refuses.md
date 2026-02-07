@@ -1,6 +1,7 @@
 ---
 title: Madhyamaka - The Middle That Refuses
 tags: [philosophy, buddhism, metaphysics]
+keywords: [emptiness, middle, wisdom, compassion, impermanence]
 draft: true
 description: Madhyamaka clears away extremes to reveal the openness of reality.
 created: 2022-02-14
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Madhyamaka - The Middle That Refuses
+
+<div class="keyword-row">
+  <span class="inline-keyword">emptiness</span>
+  <span class="inline-keyword">middle</span>
+  <span class="inline-keyword">wisdom</span>
+  <span class="inline-keyword">compassion</span>
+  <span class="inline-keyword">impermanence</span>
+</div>
+
 
 Madhyamaka feels like a philosophical demolition crew. It knocks down the extremes I keep clinging to: absolute existence and absolute nonexistence, rigid self and total nothingness. It is called the middle way because it refuses to let me land in either camp. In western terms, I keep trying to locate a stable essence. Madhyamaka says my craving for essence is the problem. Reality is empty of fixed nature, and that emptiness is not a void but a freedom. It is a way of cutting the knot of reification.
 

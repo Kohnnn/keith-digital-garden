@@ -10,11 +10,11 @@ tags:
 draft: true
 description: A single ship turned global logistics into a daily headline.
 keywords:
-  - choke point
-  - logistics fragility
-  - delay tax
-  - infrastructure risk
-  - system resilience
+  - choke
+  - logistics
+  - delay
+  - infrastructure
+  - resilience
 created: 2021-03-25
 updated: 2025-07-18
 note_id: 210325GN01
@@ -24,6 +24,14 @@ image: "https://ichef.bbci.co.uk/news/1024/branded_news/C5EC/production/_1176866
 ---
 
 # Suez Canal Week
+
+<div class="keyword-row">
+  <span class="inline-keyword">choke</span>
+  <span class="inline-keyword">logistics</span>
+  <span class="inline-keyword">delay</span>
+  <span class="inline-keyword">infrastructure</span>
+  <span class="inline-keyword">resilience</span>
+</div>
 
 The Suez blockage felt small and huge at the same time. One ship turned sideways and the global supply chain held its breath. The story was funny on the surface, but the underlying message was serious: the system is efficient, not resilient.
 

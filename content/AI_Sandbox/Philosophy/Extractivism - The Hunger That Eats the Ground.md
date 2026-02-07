@@ -1,6 +1,7 @@
 ---
 title: Extractivism - The Hunger That Eats the Ground
 tags: [philosophy, environmental, extractivism]
+keywords: [extraction, power, ecology, hunger, justice]
 draft: true
 description: A way of living that takes more than it gives back.
 created: 2021-09-17
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Extractivism - The Hunger That Eats the Ground
+
+<div class="keyword-row">
+  <span class="inline-keyword">extraction</span>
+  <span class="inline-keyword">power</span>
+  <span class="inline-keyword">ecology</span>
+  <span class="inline-keyword">hunger</span>
+  <span class="inline-keyword">justice</span>
+</div>
+
 
 Extractivism is the habit of taking from a place faster than it can recover. It is not just a mining practice. It is a mindset. It treats land as a storage unit and people as tools. It asks one question over and over: how much can I take before the system breaks? The answer is always more, until it is suddenly none. That is why extractivism feels like hunger. It is a way of living that cannot feel full. I can see this logic in economies, in companies, and even in my own routines when I strip my time down to pure output.
 

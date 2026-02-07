@@ -9,11 +9,11 @@ tags:
 draft: true
 description: The rebrand signaled a long horizon compute and platform bet.
 keywords:
-  - interface control
-  - compute wager
-  - trust reset
-  - developer surface
-  - hardware timeline
+  - interface
+  - compute
+  - trust
+  - developer
+  - hardware
 created: 2021-10-28
 updated: 2025-11-03
 note_id: 211028TJ01
@@ -23,6 +23,14 @@ image: "https://ichef.bbci.co.uk/news/1024/branded_news/12C4B/production/_121257
 ---
 
 # Meta and the AR Bet
+
+<div class="keyword-row">
+  <span class="inline-keyword">interface</span>
+  <span class="inline-keyword">compute</span>
+  <span class="inline-keyword">trust</span>
+  <span class="inline-keyword">developer</span>
+  <span class="inline-keyword">hardware</span>
+</div>
 
 Facebook did not just change a name. It tried to reframe a decade of trust drag into a long-horizon platform story. The rebrand to Meta reads like a capital allocation decision first and a marketing move second. It is the company saying: we are going to spend the next cycle on devices, on compute, and on a new distribution layer. That is not a pivot, it is a posture.
 

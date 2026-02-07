@@ -1,6 +1,7 @@
 ---
 title: Zen Buddhism - The Stillness That Cuts
 tags: [philosophy, buddhism, zen]
+keywords: [zen, attention, stillness, practice, presence]
 draft: true
 description: Zen asks for a direct contact with life before explanations arrive.
 created: 2023-08-04
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Zen Buddhism - The Stillness That Cuts
+
+<div class="keyword-row">
+  <span class="inline-keyword">zen</span>
+  <span class="inline-keyword">attention</span>
+  <span class="inline-keyword">stillness</span>
+  <span class="inline-keyword">practice</span>
+  <span class="inline-keyword">presence</span>
+</div>
+
 
 Zen feels like a refusal to let my mind run the show. It does not argue me into peace, it invites me to sit down and see. The point is not to collect concepts but to meet what is here without needing to fix it. In a western mood, I keep wanting the answer to be a tidy sentence. Zen answers with a bowl of rice, a breath, a bell. That is not anti-intellectual, but it is impatient with explanations that hide the thing itself. Zen is a direct experience of reality that makes my stories look thin.
 

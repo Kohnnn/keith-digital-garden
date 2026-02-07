@@ -1,6 +1,7 @@
 ---
 title: Legalism - Order Without Warmth
 tags: [philosophy, legalism, politics]
+keywords: [order, authority, law, control, power]
 draft: true
 description: Order can be clean and still be cruel.
 created: 2022-08-12
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Legalism - Order Without Warmth
+
+<div class="keyword-row">
+  <span class="inline-keyword">order</span>
+  <span class="inline-keyword">authority</span>
+  <span class="inline-keyword">law</span>
+  <span class="inline-keyword">control</span>
+  <span class="inline-keyword">power</span>
+</div>
+
 
 Legalism is the cold cousin in the Chinese philosophical family. It assumes people respond to incentives, not virtue. It says: build the system so it works even if people are selfish. That is a powerful insight. It is also a warning. Order can be clean and still be cruel. Legalism makes me face the fact that rules can discipline behavior without cultivating a heart. That is the difference between a system that functions and a community that thrives.
 

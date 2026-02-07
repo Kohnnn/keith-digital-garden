@@ -1,6 +1,7 @@
 ---
 title: Bushido - The Steel of Restraint
 tags: [philosophy, japan, ethics]
+keywords: [honor, discipline, duty, restraint, courage]
 draft: true
 description: Bushido frames honor as a daily discipline of restraint.
 created: 2023-01-12
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Bushido - The Steel of Restraint
+
+<div class="keyword-row">
+  <span class="inline-keyword">honor</span>
+  <span class="inline-keyword">discipline</span>
+  <span class="inline-keyword">duty</span>
+  <span class="inline-keyword">restraint</span>
+  <span class="inline-keyword">courage</span>
+</div>
+
 
 Bushido is a code that makes me uneasy and inspired at the same time. It treats honor as a practice, not a feeling. It says the self is shaped by loyalty, courage, and restraint. In a western frame, it sounds like a mix of virtue ethics and martial discipline, but it is more severe. It does not ask me what I want; it asks me what I must be. It values a quiet mind over a loud ego. That can be frightening, and it can also be clarifying. The self becomes a blade, sharpened by limits. The steel is not about aggression; it is about steadiness.
 

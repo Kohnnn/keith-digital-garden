@@ -1,6 +1,7 @@
 ---
 title: First Principles - Digging to Bedrock
 tags: [philosophy, epistemology, first-principles]
+keywords: [foundations, logic, reason, inquiry, truth]
 draft: true
 description: Refusing the borrowed answer until something solid appears.
 created: 2022-02-17
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # First Principles - Digging to Bedrock
+
+<div class="keyword-row">
+  <span class="inline-keyword">foundations</span>
+  <span class="inline-keyword">logic</span>
+  <span class="inline-keyword">reason</span>
+  <span class="inline-keyword">inquiry</span>
+  <span class="inline-keyword">truth</span>
+</div>
+
 
 When I say I want to reason from first principles, I am really saying I am tired of inherited answers. I want to know what I actually believe when I remove the scaffolding of culture, habit, and received wisdom. It sounds heroic, but it is mostly a slow, quiet excavation. I ask a question, then I ask why I believe the answer, then I ask why I trust the source of that answer, and eventually I hit a wall. The wall is the thing I cannot justify without circularity. That is my bedrock. The danger is pretending I do not have any. The danger is calling a preference a principle and then building my life on a soft floor. This is why I keep leaning on [[Epistemology - Thinking From the Floor]]. It is the simplest reminder that every argument stands on something it did not build.
 

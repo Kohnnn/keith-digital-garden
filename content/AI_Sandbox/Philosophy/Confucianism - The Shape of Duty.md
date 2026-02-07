@@ -1,6 +1,7 @@
 ---
 title: Confucianism - The Shape of Duty
 tags: [philosophy, confucianism, ethics]
+keywords: [duty, ritual, care, community, virtue]
 draft: true
 description: Duty is not a cage; it is a way of keeping the world human.
 created: 2022-03-19
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Confucianism - The Shape of Duty
+
+<div class="keyword-row">
+  <span class="inline-keyword">duty</span>
+  <span class="inline-keyword">ritual</span>
+  <span class="inline-keyword">care</span>
+  <span class="inline-keyword">community</span>
+  <span class="inline-keyword">virtue</span>
+</div>
+
 
 Confucianism keeps pulling me back to a simple idea: the world holds together because people practice care in their roles. Parent, friend, teacher, neighbor. It is not glamorous, but it is the glue. When I read Confucius, I hear a refusal to treat ethics as a private hobby. Ethics is public. It is a daily craft. The point is not to be perfect, but to keep the human texture intact. That feels very different from the western obsession with individual freedom. It is not anti-freedom, but it is suspicious of freedom that has no duty attached.
 

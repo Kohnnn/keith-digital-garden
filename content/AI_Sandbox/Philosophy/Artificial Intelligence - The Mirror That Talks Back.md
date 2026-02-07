@@ -1,6 +1,7 @@
 ---
 title: Artificial Intelligence - The Mirror That Talks Back
 tags: [philosophy, mind, ai]
+keywords: [machine, mind, agency, ethics, mirror]
 draft: true
 description: When a system speaks, I feel the urge to call it a self.
 created: 2024-01-14
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Artificial Intelligence - The Mirror That Talks Back
+
+<div class="keyword-row">
+  <span class="inline-keyword">machine</span>
+  <span class="inline-keyword">mind</span>
+  <span class="inline-keyword">agency</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">mirror</span>
+</div>
+
 
 AI scares me for a simple reason: it speaks back. The moment a system answers in a human tone, my brain reaches for a story. I want to call it a mind. I want to grant it agency. This is the same move I make every day with people and animals, just amplified by the glow of a screen. It is an ancient habit meeting a new object. The question is not whether the system is "really" a person. The question is what my habit does to me when I treat it like one.
 

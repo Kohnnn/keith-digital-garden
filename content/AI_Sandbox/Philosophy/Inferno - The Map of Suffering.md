@@ -1,6 +1,7 @@
 ---
 title: Inferno - The Map of Suffering
 tags: [philosophy, ethics, suffering]
+keywords: [suffering, morality, punishment, fear, descent]
 draft: true
 description: Hell is a mirror for the choices I keep making.
 created: 2021-12-19
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Inferno - The Map of Suffering
+
+<div class="keyword-row">
+  <span class="inline-keyword">suffering</span>
+  <span class="inline-keyword">morality</span>
+  <span class="inline-keyword">punishment</span>
+  <span class="inline-keyword">fear</span>
+  <span class="inline-keyword">descent</span>
+</div>
+
 
 I do not read hell as a literal destination. I read it as a map. The map shows what happens when a pattern becomes a prison. The idea of an inferno is a way to name the consequences of choices that harden over time. It is a picture of what I become if I keep feeding the worst parts of myself. That is why the story stays with me. It is not a threat from outside. It is a mirror from inside.
 

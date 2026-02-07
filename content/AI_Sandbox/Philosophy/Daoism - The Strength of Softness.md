@@ -1,6 +1,7 @@
 ---
 title: Daoism - The Strength of Softness
 tags: [philosophy, daoism, laozi]
+keywords: [flow, nature, balance, humility, simplicity]
 draft: true
 description: The soft way is not weak; it is patient.
 created: 2021-07-22
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Daoism - The Strength of Softness
+
+<div class="keyword-row">
+  <span class="inline-keyword">flow</span>
+  <span class="inline-keyword">nature</span>
+  <span class="inline-keyword">balance</span>
+  <span class="inline-keyword">humility</span>
+  <span class="inline-keyword">simplicity</span>
+</div>
+
 
 Daoism keeps whispering that I do not have to force everything. The Dao is not a rulebook. It is a flow. The more I try to control the flow, the more it slips through my hands. Laozi keeps asking me to trust the small, the quiet, the slow. That feels like an antidote to western grind culture, where success is measured by force and speed. Daoism does not reject effort. It rejects the kind of effort that breaks the world in the name of winning.
 

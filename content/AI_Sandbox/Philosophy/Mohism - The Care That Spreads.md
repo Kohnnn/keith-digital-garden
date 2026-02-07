@@ -1,6 +1,7 @@
 ---
 title: Mohism - The Care That Spreads
 tags: [philosophy, mohism, ethics]
+keywords: [care, impartiality, ethics, utility, peace]
 draft: true
 description: Mohism argues that care should be impartial, practical, and public.
 created: 2021-11-22
@@ -10,6 +11,15 @@ cssclasses: [philo-dump]
 ---
 
 # Mohism - The Care That Spreads
+
+<div class="keyword-row">
+  <span class="inline-keyword">care</span>
+  <span class="inline-keyword">impartiality</span>
+  <span class="inline-keyword">ethics</span>
+  <span class="inline-keyword">utility</span>
+  <span class="inline-keyword">peace</span>
+</div>
+
 
 Mohism hits me like a moral cold shower. It says I cannot keep my care in a small circle and pretend I am ethical. If I only love my own, I am practicing a disguised favoritism. Mohism pushes for impartial care, a kind of moral widening that feels almost impossible at first. It also refuses wasteful ritual and empty display. In a western frame, it sounds like a version of utilitarianism with a stricter spine, but it is less about math and more about social peace. The core question is simple: does this action reduce harm in the larger room?
 

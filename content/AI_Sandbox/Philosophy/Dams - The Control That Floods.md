@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 A dam is a declaration that I can control a river. It is also a confession that I fear what I cannot control. The structure looks clean on a map, but it changes everything: the flow, the soil, the communities downstream. That is why I think about dams as a moral metaphor. Every time I try to freeze a living system, I shift the costs somewhere else. The question is not only "does it work?" but "who pays and who benefits?"
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > Control always moves the cost; it never erases it.
 
@@ -30,6 +32,8 @@ The temptation is to call control progress. We build, we stabilize, we optimize.
 
 > [!question] Reflective question
 > Where am I freezing a living system just to feel safe?
+
+This keeps echoing [[Drought - The Discipline of Scarcity]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Flow:</strong> A living system needs movement, not just storage.</li>

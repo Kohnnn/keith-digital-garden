@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Neo-Confucianism feels like a bridge between order and mystery. It takes the old Confucian focus on ritual and duty and asks a deeper question: what is the pattern behind the world, and how do I align my life with it? The pattern is not abstract; it lives in daily conduct. That makes it different from western metaphysics that can sometimes float away from the body. Here, understanding the cosmos is also a practice of the self. The heart becomes a kind of mirror, and clarity becomes a moral responsibility.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > The world has a pattern, and my character is how I learn to see it.
 
@@ -30,6 +32,8 @@ I picture myself walking under trees after rain, looking at the beads of water o
 
 > [!question] Reflective question
 > What pattern in my life am I ignoring because it demands inner change?
+
+This keeps echoing [[Aquinas - The Reason That Prays]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Pattern:</strong> Reality has a form that can be learned.</li>

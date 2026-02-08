@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Drought is a lesson in limits. It is not just a weather event; it is a moral pressure. When water shrinks, everything else shrinks with it. The land shows its bones. The routines I assumed were normal become fragile. Scarcity reveals what I actually value because it forces me to choose. It makes me ask: what do I keep, what do I let go, and what do I share?
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Scarcity is not only a lack; it is a test of priorities.
 
@@ -30,6 +32,8 @@ I notice how scarcity changes my instincts. When resources feel thin, I want to 
 
 > [!question] Reflective question
 > What do I cling to first when things get scarce?
+
+I keep this close to [[Evolutionary Theory - The Long Pressure]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Limit:</strong> Scarcity reveals the real size of my habits.</li>

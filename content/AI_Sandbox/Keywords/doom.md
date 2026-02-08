@@ -11,6 +11,6 @@ note_id: 260207KW04
 
 # keyword - doom
 
-- [[Nordic Religion - The Cold Courage]]
+- [[Nordic - The Cold Courage]]
 
 #

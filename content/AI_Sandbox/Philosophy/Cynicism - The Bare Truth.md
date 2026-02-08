@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Cynicism is an uncomfortable mirror. It asks what is left when I strip away status, costume, and comfort. The early Cynics were not bitter; they were radical. They lived with less to expose the artificiality of the world. In a western frame, it is an ethic of integrity that refuses the theater. It also echoes eastern asceticism, but with a sharp, public edge. It is not quiet; it is confrontational simplicity.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > A life without performance is closer to truth.
 
@@ -30,6 +32,8 @@ I remember a time I wanted to impress someone and felt the performance rise in m
 
 > [!question] Reflective question
 > Where am I performing instead of being honest?
+
+I feel the hinge with [[Surrender - The Moment I Stop Gripping]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Freedom:</strong> Less possession can mean more integrity.</li>

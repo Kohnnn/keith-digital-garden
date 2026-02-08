@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A winter storm exposed the fragility of the power system.
 created: 2021-02-16
-updated: 2025-10-12
+updated: 2025-03-14
 note_id: 210216GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[China's Power Crunch]] because both show how energy cons
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-03-14: Seed draft from 2021 backfill. Pending manual review.
 
 #

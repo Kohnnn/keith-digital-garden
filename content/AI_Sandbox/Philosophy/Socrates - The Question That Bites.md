@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 There is a kind of question that feels simple, and then it cuts deeper than I expected. It is the question that asks me what I mean, not just what I say. I can talk for an hour about "freedom" and "success" and still have no clue what those words are doing in my mouth. The Socratic move is to stop the smooth flow and ask, "What is it, exactly?" That question bites because it strips the easy story. I cannot hide behind vibes. I have to show the shape of the thing I believe. And most days, I realize I do not have the shape. I just have a mood.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > A clear question is an ethical act. It refuses to let me hide behind slogans.
 
@@ -30,6 +32,8 @@ When I use the method honestly, it gets personal fast. I say I want a better job
 
 > [!question] Reflective question
 > Which word do I keep using that I would hesitate to define in public?
+
+This keeps echoing [[First Principles - Digging to Bedrock]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Move 1:</strong> Ask for a definition and wait in silence.</li>

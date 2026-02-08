@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Legalism is the cold cousin in the Chinese philosophical family. It assumes people respond to incentives, not virtue. It says: build the system so it works even if people are selfish. That is a powerful insight. It is also a warning. Order can be clean and still be cruel. Legalism makes me face the fact that rules can discipline behavior without cultivating a heart. That is the difference between a system that functions and a community that thrives.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > Legalism can create order, but it cannot create trust.
 
@@ -30,6 +32,8 @@ The part that stings is how effective it can be. If you reward obedience and pun
 
 > [!question] Reflective question
 > Where am I choosing order at the expense of relationship?
+
+This keeps echoing [[Surrender - The Moment I Stop Gripping]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Control:</strong> Rules are fast, but they can be thin.</li>

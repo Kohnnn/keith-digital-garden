@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Ecological collapse is not a single disaster. It is a long unspooling of the systems that hold life together. The water gets less predictable. The soil loses its strength. The weather stops being a stable background and turns into a constant negotiation. Collapse feels quiet at first because it is made of many small losses. It does not start with headlines. It starts with slow changes that make life harder to sustain. That is why it is dangerous. We do not panic until the structure is already weak.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > Collapse is not just an event; it is a slow loss of the conditions that make ordinary life possible.
 
@@ -30,6 +32,8 @@ The worst part is how easy it is to normalize it. I can accept smaller harvests,
 
 > [!question] Reflective question
 > Which slow loss have I already accepted as normal?
+
+My mind keeps running to [[Wildfire - The Fast Memory]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Drift:</strong> Collapse hides inside gradual change.</li>

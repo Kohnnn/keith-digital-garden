@@ -25,10 +25,14 @@ Taoist practice feels like a religion of breath and patience. It takes the ideas
 > [!note] Core claim
 > The way is learned by the body, not just the mind.
 
+This is the part that keeps tugging at me.
+
 I remember standing still for longer than I thought I could, feeling the tension in my shoulders soften. <span class="inline-note">When the body relaxes, the mind finally listens</span>. Taoist practice teaches that the body is not just a tool; it is a teacher. It asks me to move slowly, to breathe, to stop forcing. That is a direct critique of western speed and control.
 
 > [!question] Reflective question
 > Where am I pushing when I should be listening?
+
+I feel the hinge with [[Ancient Egypt - The River of Order]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Breath:</strong> The simplest practice is the deepest teacher.</li>

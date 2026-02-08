@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Maya religion feels like a civilization that listened to time itself. The calendar is not just a schedule; it is a living structure that holds the world together. The sky is a clock, the earth is a ritual stage, and blood is the currency of continuity. That is hard for a modern mind to digest. It is also a profound statement: life is maintained by offering, by giving back. In a western frame, that can sound like cruelty. In a deeper frame, it is a severe form of reciprocity. The question is not whether the ritual is comfortable; it is whether the ritual keeps the cosmos in balance.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > The world endures because the living return something to the source.
 
@@ -30,6 +32,8 @@ I remember standing in a temple ruin under a heavy sun, imagining the sound of d
 
 > [!question] Reflective question
 > What am I taking from the world without returning anything?
+
+I feel the hinge with [[Christianity - The Wound That Heals]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Calendar:</strong> Time is sacred and must be tended.</li>

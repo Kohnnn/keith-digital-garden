@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I used to think my moral instincts were just "me." Then I noticed how they change. What felt righteous at sixteen feels shallow at thirty. The way I judge people now is different than the way I judged them then. That shift is not just life experience; it is development. It feels like a ladder I keep climbing, where each rung changes how I see the whole room. The ladder idea is uncomfortable because it suggests that my current moral certainty is temporary. It suggests I will grow past it. I do not love that, but I think it is true.
 
+If I'm honest, I still don't know how to live this cleanly.
+
 > [!note] Core claim
 > Moral growth is real, and it keeps exposing the limits of my current confidence.
 
@@ -30,6 +32,8 @@ There is a famous theory that maps moral development in stages. The early stages
 
 > [!question] Reflective question
 > Which moral choice would I still make if nobody knew?
+
+I feel the hinge with [[Maslow - The Shape of Need]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Stages:</strong> My reasons for "good" keep maturing.</li>

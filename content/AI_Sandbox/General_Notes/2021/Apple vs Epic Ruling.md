@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A court decision reshaped platform power debates.
 created: 2021-09-10
-updated: 2025-10-12
+updated: 2025-04-30
 note_id: 210910GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Haugen and the Internal Files]] because both show how pl
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-04-30: Seed draft from 2021 backfill. Pending manual review.
 
 #

@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Changing guidance tested public trust and compliance.
 created: 2021-05-13
-updated: 2025-10-12
+updated: 2025-02-19
 note_id: 210513GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Vaccine Mandates Expand]] because both are about how pol
 </div>
 
 ## updates
-- 2025-05-11: Seed draft from 2021 backfill. Pending manual review.
+- 2025-02-19: Seed draft from 2021 backfill. Pending manual review.
 
 #

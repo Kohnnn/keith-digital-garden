@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A meat processor shutdown showed how cyber risk hits the real economy.
 created: 2021-06-02
-updated: 2025-10-12
+updated: 2025-05-24
 note_id: 210602TJ01
 cssclasses:
   - tech-journal
@@ -87,6 +87,6 @@ I keep this close to [[Colonial Pipeline and the Ransomware Shock]] because both
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-05-24: Seed draft from 2021 backfill. Pending manual review.
 
 #

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep returning to the idea that my needs have a shape. I can pretend I am pure willpower, but my body and mind keep exposing the order of the ladder. If I am hungry, I do not care about meaning. If I am unsafe, I cannot relax into creativity. This is not a moral failure. It is a map. The map says: needs come in layers, and I cannot skip the lower layers without paying for it. That is both humbling and freeing. Humbling because I am not above the body. Freeing because I can stop blaming myself for what is actually a missing foundation.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > I do not rise above my needs; I rise by respecting their order.
 
@@ -30,6 +32,8 @@ The ladder does not make me shallow. It makes me honest. It tells me that my lof
 
 > [!question] Reflective question
 > Which need am I ignoring that keeps sabotaging my higher goals?
+
+I keep this close to [[Advaita Vedanta - The One Without Edges]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Body:</strong> If I ignore the body, my mind lies to me.</li>

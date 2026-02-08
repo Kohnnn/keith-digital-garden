@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A wave of quits reshaped hiring and wage pressure.
 created: 2021-10-12
-updated: 2025-10-12
+updated: 2025-03-18
 note_id: 211012GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Inflation Prints 6.8]] because wage pressure feeds macro
 </div>
 
 ## updates
-- 2024-08-27: Seed draft from 2021 backfill. Pending manual review.
+- 2025-03-18: Seed draft from 2021 backfill. Pending manual review.
 
 #

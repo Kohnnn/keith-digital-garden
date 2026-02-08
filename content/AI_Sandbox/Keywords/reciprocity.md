@@ -11,6 +11,6 @@ note_id: 260207KW10
 
 # keyword - reciprocity
 
-- [[Maya Religion - The Calendar of Blood]]
+- [[Maya - The Calendar of Blood]]
 
 #

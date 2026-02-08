@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A major spending package reset the investment timeline.
 created: 2021-11-15
-updated: 2025-10-12
+updated: 2025-08-09
 note_id: 211115GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Inflation Prints 6.8]] because fiscal expectations and i
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-08-09: Seed draft from 2021 backfill. Pending manual review.
 
 #

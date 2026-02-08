@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Expanding mandates pushed health policy into workplaces.
 created: 2021-09-09
-updated: 2025-10-12
+updated: 2025-04-05
 note_id: 210909GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Remote Work Normalizes]] because workplace policy and tr
 </div>
 
 ## updates
-- 2024-12-14: Seed draft from 2021 backfill. Pending manual review.
+- 2025-04-05: Seed draft from 2021 backfill. Pending manual review.
 
 #

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Samkhya gives me a clean, almost surgical split: consciousness and matter are two different kinds of reality. The self that knows is not the same as the world that changes. This is not the nondual move of Advaita. It is dual, but not in a hostile way. It is more like a careful diagnosis. In a western frame, it feels like a disciplined metaphysics that tries to explain why we suffer and how to loosen the knot. The claim is that liberation happens when consciousness stops confusing itself with the churn of matter.
 
+If I'm honest, I still don't know how to live this cleanly.
+
 > [!note] Core claim
 > Freedom begins when I stop mistaking change for the self.
 
@@ -30,6 +32,8 @@ I think of a morning when I woke up in a bad mood for no clear reason. My body f
 
 > [!question] Reflective question
 > What part of my identity is really just a passing mood?
+
+My mind keeps running to [[Hinduism - The Many Paths]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Duality:</strong> Consciousness and matter are distinct.</li>

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I do not read hell as a literal destination. I read it as a map. The map shows what happens when a pattern becomes a prison. The idea of an inferno is a way to name the consequences of choices that harden over time. It is a picture of what I become if I keep feeding the worst parts of myself. That is why the story stays with me. It is not a threat from outside. It is a mirror from inside.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > Hell is a moral mirror, not a geographical claim.
 
@@ -30,6 +32,8 @@ The map is not just about punishment. It is about clarity. Each circle, each lay
 
 > [!question] Reflective question
 > Which pattern in my life already feels like a small hell?
+
+This is the angle where [[Buddhism - The Practice of Letting Go]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Pattern:</strong> Repetition can become a cage if I never question it.</li>

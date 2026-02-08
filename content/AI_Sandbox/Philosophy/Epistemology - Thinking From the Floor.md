@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 When my head gets loud, I go down to the floor. I strip a belief until only the basic claims remain. If I cannot name those claims, I do not really know what I believe. I just have a mood dressed up as logic. Thinking from the floor is not a flex. It is a reset. It is the move from "I feel" to "I can show." And the moment I start showing, I find holes. I am wrong more than I want to admit. That is why this practice matters.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > A belief I cannot rebuild from basics is a belief I do not own.
 
@@ -30,6 +32,8 @@ I learned this the hard way. I used to argue like a performance. I would win a p
 
 > [!question] Reflective question
 > Which belief do I repeat most loudly that I could not teach to a friend?
+
+This sits in the same neighborhood as [[Pyrrhonism - The Peace of Suspension]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Demolition:</strong> Break the claim until only the base pieces remain.</li>

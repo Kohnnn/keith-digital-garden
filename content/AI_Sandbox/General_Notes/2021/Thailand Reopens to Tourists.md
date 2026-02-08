@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A tourism reopening tested the balance between health and revenue.
 created: 2021-11-01
-updated: 2025-10-12
+updated: 2025-02-03
 note_id: 211101GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[US Travel Reopens]] because both are about reopening pol
 </div>
 
 ## updates
-- 2024-06-14: Seed draft from 2021 backfill. Pending manual review.
+- 2025-02-03: Seed draft from 2021 backfill. Pending manual review.
 
 #

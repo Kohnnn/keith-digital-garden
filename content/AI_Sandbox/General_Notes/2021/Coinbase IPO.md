@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A direct listing made crypto a mainstream market story.
 created: 2021-04-14
-updated: 2025-10-12
+updated: 2025-07-22
 note_id: 210414GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[ProShares Bitcoin ETF]] because both are about access an
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-07-22: Seed draft from 2021 backfill. Pending manual review.
 
 #

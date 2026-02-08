@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Zoroastrianism feels like a religion of moral clarity. It draws a hard line between truth and the lie, light and darkness, order and chaos. That line is not just cosmic; it is personal. Every action is a vote for one side or the other. This is not a soft tradition. It is direct. In a western frame, it can look like a stark dualism. In a deeper frame, it is a call to live honestly in a world that always tempts me to compromise.
 
+I want this to be simple, but it isn't.
+
 > [!note] Core claim
 > Every choice strengthens either truth or the lie.
 
@@ -30,6 +32,8 @@ I remember the moment I could have told a small lie to make a situation easier. 
 
 > [!question] Reflective question
 > What small lie am I calling practical when it is actually corrosive?
+
+This is the angle where [[First Principles - Digging to Bedrock]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Truth:</strong> The good is aligned with clarity and honesty.</li>

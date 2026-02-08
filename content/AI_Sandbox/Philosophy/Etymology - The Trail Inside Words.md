@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Etymology is the trail inside a word. It is the history of how a meaning moved from one mind to another until it landed in mine. I love this because it reminds me that language is not static. Every word is a shared artifact. If I want to understand what I mean, I have to respect the path that got the word to me. That path is a kind of memory. Ignoring it makes my speech shallow.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > A word is a history; if I ignore the history, I shrink the meaning.
 
@@ -30,6 +32,8 @@ The trail matters because it exposes hidden assumptions. I use a word like "prog
 
 > [!question] Reflective question
 > Which word do I use that I have never bothered to trace?
+
+This is the angle where [[Abstraction - The Idea That Floats]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Memory:</strong> Words store old choices I did not make.</li>

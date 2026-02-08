@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Booster programs shifted the pandemic playbook again.
 created: 2021-09-24
-updated: 2025-10-12
+updated: 2025-04-14
 note_id: 210924GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Vaccine Inequality and the Gap]] because supply trade-of
 </div>
 
 ## updates
-- 2025-01-26: Seed draft from 2021 backfill. Pending manual review.
+- 2025-04-14: Seed draft from 2021 backfill. Pending manual review.
 
 #

@@ -12,6 +12,6 @@ note_id: 260207KW13
 # keyword - sacrifice
 
 - [[Christianity - The Wound That Heals]]
-- [[Maya Religion - The Calendar of Blood]]
+- [[Maya - The Calendar of Blood]]
 
 #

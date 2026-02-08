@@ -13,7 +13,7 @@ note_id: 260207KW123
 
 - [[Ancient Egypt - The River of Order]]
 - [[Confucianism - The Shape of Duty]]
-- [[Maya Religion - The Calendar of Blood]]
+- [[Maya - The Calendar of Blood]]
 - [[Shinto - The Everyday Sacred]]
 - [[Taoist Practice - The Way in the Body]]
 

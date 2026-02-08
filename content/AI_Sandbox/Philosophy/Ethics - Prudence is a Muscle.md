@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Prudence sounds like a boring word until I need it. Then it is the only word that matters. I think of it as practical wisdom, the muscle that keeps me from being fooled by my own excitement. It is not fear. It is not hesitation. It is the habit of seeing what a choice costs, not just what it promises. When I skip that habit, I end up in the same trap: big dream, tiny plan, and a surprise crash because one small detail broke the whole thing. Prudence is the design that survives small chaos.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > Prudence is not caution, it is clarity under pressure.
 
@@ -30,6 +32,8 @@ I see this in daily stuff. I say yes to a project that looks cool, then I realiz
 
 > [!question] Reflective question
 > Which plan am I betting on that collapses the moment I get tired?
+
+I keep this close to [[Moral Development - The Ladder I Keep Climbing]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Map:</strong> I need a plan that still works when I am tired, late, or unsure.</li>

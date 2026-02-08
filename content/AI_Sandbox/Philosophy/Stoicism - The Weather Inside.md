@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Stoicism feels like a map for storms. It asks me to separate the world into two circles: what I can control and what I cannot. That sounds obvious, but living it is hard. My body wants to grip outcomes, and my mind wants guarantees. Stoicism says peace is not a reward for winning; it is a skill of staying centered while the weather changes. In a western frame, it is virtue ethics with steel in its spine, but it also rhymes with eastern practices that train attention and let go of grasping.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Freedom grows when I stop mistaking control for care.
 
@@ -30,6 +32,8 @@ I remember missing a flight and feeling the panic surge in my chest. The event w
 
 > [!question] Reflective question
 > What am I trying to control that is actually just fear in disguise?
+
+I keep this close to [[Logical Tautology - When It Says Nothing and Still Works]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Control:</strong> I can choose my response, not the world.</li>

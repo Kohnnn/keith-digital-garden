@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep misreading the "golden mean" as a bland middle. But Aristotle did not mean "be average." He meant: find the right amount for this moment. Courage is not halfway between fear and rage. It is the right response to danger. Generosity is not an even split. It is the right response to need. The mean is not a math problem. It is a lived judgment. That is why I miss it so often. I want rules. The mean demands presence.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > The mean is not a middle; it is the right response in context.
 
@@ -30,6 +32,8 @@ The problem is that the right response changes with the room. What is courage fo
 
 > [!question] Reflective question
 > Where am I using a rule to avoid the harder work of judgment?
+
+My mind keeps running to [[Artificial Intelligence - The Mirror That Talks Back]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Context:</strong> Virtue is calibrated to the moment, not to a spreadsheet.</li>

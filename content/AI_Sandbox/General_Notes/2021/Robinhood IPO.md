@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A trading app IPO tested trust after a volatile year.
 created: 2021-07-29
-updated: 2025-10-12
+updated: 2025-06-07
 note_id: 210729GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[GameStop and the Retail Squeeze]] because both are about
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-06-07: Seed draft from 2021 backfill. Pending manual review.
 
 #

@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A phased reopening tried to balance health and production.
 created: 2021-09-30
-updated: 2025-10-12
+updated: 2025-02-11
 note_id: 210930GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Vietnam Lockdowns and Factory Disruptions]] because both
 </div>
 
 ## updates
-- 2024-10-07: Seed draft from 2021 backfill. Pending manual review.
+- 2025-02-11: Seed draft from 2021 backfill. Pending manual review.
 
 #

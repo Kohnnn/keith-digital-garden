@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A record sale turned NFTs into a mainstream market signal.
 created: 2021-03-11
-updated: 2025-10-12
+updated: 2025-05-29
 note_id: 210311GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[ProShares Bitcoin ETF]] because both are about legitimac
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-05-29: Seed draft from 2021 backfill. Pending manual review.
 
 #

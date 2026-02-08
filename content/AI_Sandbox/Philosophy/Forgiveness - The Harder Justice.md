@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Forgiveness is the word I keep resisting and returning to. It is not a polite mood. It is not a quick apology. It is a structure for how time moves after harm. This branches from [[Christianity - The Wound That Heals]] because Christianity keeps insisting that love is proved by what it absorbs and transforms, not by what it conquers. I hear that and I want to push back. My western instincts want justice to look like payoff. My deeper instincts know that payback does not heal. Forgiveness is not the opposite of justice, it is a more demanding kind.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Forgiveness is not forgetting; it is choosing a future where harm does not get the final word.
 
@@ -30,6 +32,8 @@ I remember a conversation that cracked a friendship. The words were sharp and tr
 
 > [!question] Reflective question
 > Where am I confusing vengeance with healing because vengeance feels cleaner?
+
+I keep this close to [[Dams - The Control That Floods]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Repair:</strong> Forgiveness aims for a future with less harm.</li>

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Confucianism keeps pulling me back to a simple idea: the world holds together because people practice care in their roles. Parent, friend, teacher, neighbor. It is not glamorous, but it is the glue. When I read Confucius, I hear a refusal to treat ethics as a private hobby. Ethics is public. It is a daily craft. The point is not to be perfect, but to keep the human texture intact. That feels very different from the western obsession with individual freedom. It is not anti-freedom, but it is suspicious of freedom that has no duty attached.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > Confucian duty is a practice of care, not a demand for obedience.
 
@@ -30,6 +32,8 @@ The hardest part for me is the tension between self and role. In western thought
 
 > [!question] Reflective question
 > Which role in my life am I neglecting because I want to feel unconstrained?
+
+This sits in the same neighborhood as [[Ancient Egypt - The River of Order]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Ritual:</strong> Small forms make big relationships stable.</li>

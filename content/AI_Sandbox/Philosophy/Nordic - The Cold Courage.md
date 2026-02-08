@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Nordic religion feels like a worldview shaped by winter. The gods are not omnipotent saviors; they are brave in a doomed world. The end is known, and that knowledge does not lead to despair but to honor. This is a harsh, clear-eyed ethic. It does not ask me to escape fate. It asks me to meet it with courage. In a western frame, it can sound like a tragic hero culture. In an eastern frame, it can sound like acceptance without softness. It is neither. It is a commitment to stand, even when standing will not change the end.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > Courage matters even when victory is not guaranteed.
 
@@ -30,6 +32,8 @@ I remember walking through a bitter winter night, wind cutting my face, and feel
 
 > [!question] Reflective question
 > Where am I refusing to be brave because I want a guarantee?
+
+This keeps echoing [[Nietzsche - The Heaviest Question]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Fate:</strong> Some ends are fixed, but the way I meet them is mine.</li>

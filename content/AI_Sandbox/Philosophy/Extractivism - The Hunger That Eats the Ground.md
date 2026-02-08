@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Extractivism is the habit of taking from a place faster than it can recover. It is not just a mining practice. It is a mindset. It treats land as a storage unit and people as tools. It asks one question over and over: how much can I take before the system breaks? The answer is always more, until it is suddenly none. That is why extractivism feels like hunger. It is a way of living that cannot feel full. I can see this logic in economies, in companies, and even in my own routines when I strip my time down to pure output.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > Extractivism is not just environmental damage; it is a moral habit of depletion.
 
@@ -30,6 +32,8 @@ The tricky part is that extractivism often looks like progress. It looks like jo
 
 > [!question] Reflective question
 > What am I taking that I have no honest plan to give back?
+
+This is the angle where [[Fair Division - The Blueberry Pie Rule]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Logic:</strong> Extractivism treats the world like a pantry, not a partner.</li>

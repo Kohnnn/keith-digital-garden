@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Hinduism feels like a river with many tributaries. It refuses to compress the sacred into a single door. There are paths of devotion, knowledge, action, and discipline. That openness can look chaotic to a western mind that wants clean boundaries. But it is also a deep form of humility. It says the truth is wide and human needs are varied. The challenge is to keep that diversity without losing the thread of discipline. The river is wide. Deeply.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > Many paths can lead to truth, but every path requires discipline.
 
@@ -30,6 +32,8 @@ I remember reading a story where the divine appears in many forms, and the forms
 
 > [!question] Reflective question
 > Which path am I dismissing because it does not look like mine?
+
+I keep this close to [[Bushido - The Steel of Restraint]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Dharma:</strong> Duty is personal, not generic.</li>

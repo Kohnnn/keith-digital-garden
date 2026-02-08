@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Aquinas is the voice that tells me faith does not fear reason. He treats the mind as a tool of devotion, not a threat to it. That is a western religious stance that refuses the modern split between science and belief. Aquinas builds bridges: between logic and love, law and mercy, nature and grace. It also connects with eastern traditions that treat practice and insight as a unified path.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Reason can be an act of faith when it seeks truth with humility.
 
@@ -30,6 +32,8 @@ I remember learning something new and feeling my worldview stretch. The sensatio
 
 > [!question] Reflective question
 > Where am I treating reason as a threat instead of a gift?
+
+My mind keeps running to [[Ancient Egypt - The River of Order]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Reason:</strong> The mind is meant to seek clarity.</li>

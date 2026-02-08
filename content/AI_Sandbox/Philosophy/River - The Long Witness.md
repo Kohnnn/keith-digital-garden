@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 A river is a long witness. It sees the slow changes that I miss. It keeps moving even when I pretend my life is still. I think about a river when I need to remember that time is real and that consequences flow. A river is a kind of memory, one that does not have to speak to be honest. If I want truth, I can watch the water.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > The river is honest because it keeps moving and never pretends the past is gone.
 
@@ -30,6 +32,8 @@ I notice how easy it is to treat rivers as tools. We redirect them, dam them, po
 
 > [!question] Reflective question
 > Where am I trying to freeze something that needs to flow?
+
+I feel the hinge with [[Maya - The Calendar of Blood]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Flow:</strong> Movement is not noise; it is life.</li>

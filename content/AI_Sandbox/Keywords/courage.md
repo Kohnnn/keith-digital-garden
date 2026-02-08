@@ -13,6 +13,6 @@ note_id: 260207KW25
 
 - [[Bushido - The Steel of Restraint]]
 - [[Nietzsche - The Heaviest Question]]
-- [[Nordic Religion - The Cold Courage]]
+- [[Nordic - The Cold Courage]]
 
 #

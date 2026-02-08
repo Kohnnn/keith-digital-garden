@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Yogacara is a reminder that the world I see is not the world as it is. It is the world as my mind paints it. The claim is not that nothing exists, but that my experience is filtered through layers of perception and habit. In a western frame, it feels like a deep form of psychology that becomes metaphysics. It says the mind is not a passive mirror; it is a brush. That changes everything. Attention becomes creative, and that is a big responsibility. If my mind is trained in fear, I will see a fearful world.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Experience is shaped by mind, and mind can be retrained.
 
@@ -30,6 +32,8 @@ I remember walking into a room where I felt unwelcome. Nothing explicit happened
 
 > [!question] Reflective question
 > What habit of perception is coloring my world right now?
+
+My mind keeps running to [[Madhyamaka - The Middle That Refuses]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Mind-only:</strong> Experience is filtered through consciousness.</li>

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Bushido is a code that makes me uneasy and inspired at the same time. It treats honor as a practice, not a feeling. It says the self is shaped by loyalty, courage, and restraint. In a western frame, it sounds like a mix of virtue ethics and martial discipline, but it is more severe. It does not ask me what I want; it asks me what I must be. It values a quiet mind over a loud ego. That can be frightening, and it can also be clarifying. The self becomes a blade, sharpened by limits. The steel is not about aggression; it is about steadiness.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > Honor is a daily discipline, not a private mood.
 
@@ -30,6 +32,8 @@ I remember training at dawn, lungs burning, and wanting to quit. The voice in me
 
 > [!question] Reflective question
 > Where am I using freedom as an excuse to avoid discipline?
+
+This is the angle where [[Drought - The Discipline of Scarcity]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Honor:</strong> A life measured by integrity.</li>

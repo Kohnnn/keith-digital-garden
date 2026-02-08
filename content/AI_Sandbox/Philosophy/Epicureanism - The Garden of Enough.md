@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Epicureanism surprises me because it is not indulgent. It is restrained. It says pleasure is good, but the highest pleasure is peace, not excess. The garden is a symbol of enoughness: a place where simple needs are met, friendships are honored, and fear is quiet. In a western frame, it pushes against the culture of endless appetite. It also touches eastern ideas of simplicity and non-attachment, but it stays grounded in a bodily life.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > The best pleasure is the quiet that follows honest limits.
 
@@ -30,6 +32,8 @@ I remember eating a plain meal after a long day and feeling unexpectedly full. I
 
 > [!question] Reflective question
 > Where am I chasing intensity instead of peace?
+
+My mind keeps running to [[Inferno - The Map of Suffering]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Pleasure:</strong> The goal is calm, not chaos.</li>

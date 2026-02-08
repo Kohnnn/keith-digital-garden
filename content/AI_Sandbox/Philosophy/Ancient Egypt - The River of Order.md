@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Ancient Egypt feels like a civilization built on a single word: order. The river rises, the fields flood, the cycle repeats. The gods are not distant abstractions; they are the pattern itself. The central idea is not just belief but alignment. The world stays alive when the balance holds. That balance is both cosmic and political, and that is where the beauty and danger live together. In a western frame, it can look like rigid hierarchy. In an eastern frame, it can look like devotion to harmony. The truth is both: the culture worshiped balance and also used balance to justify power.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > Life stays alive when the balance is kept, and ritual is how the balance is remembered.
 
@@ -30,6 +32,8 @@ I remember watching a river swell after heavy rain, the water carrying branches,
 
 > [!question] Reflective question
 > What pattern in my life needs ritual to stay stable?
+
+This is the angle where [[Aristotle - The Mean I Miss]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Balance:</strong> Life requires a center of gravity.</li>

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Pyrrhonism is a kind of skeptical mercy. It does not say truth is impossible, it says my rush to certainty is the source of unnecessary distress. The practice is suspension: hold my judgments lightly, and the mind becomes quieter. In a western frame, skepticism often feels like a battle. Pyrrhonism feels like a release. It also overlaps with eastern habits of non-attachment, but it keeps the focus on the mind's tendency to cling.
 
+If I'm honest, I still don't know how to live this cleanly.
+
 > [!note] Core claim
 > When I stop forcing certainty, the mind settles.
 
@@ -30,6 +32,8 @@ I remember reading conflicting reports about a situation and feeling the agitati
 
 > [!question] Reflective question
 > Where am I gripping certainty because I am afraid of ambiguity?
+
+My mind keeps running to [[Mohism - The Care That Spreads]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Suspension:</strong> Let judgment rest when evidence is thin.</li>

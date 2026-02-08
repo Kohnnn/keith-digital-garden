@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Advaita Vedanta is the boldest claim I keep circling: there is only one reality, and the separations I cling to are illusions. The self I defend is not the deepest self. At the deepest level, self and world are not two. In a western frame, this sounds like metaphysical wildfire. It overturns the everyday assumption that I am a bounded individual. But it also feels like a profound invitation. If I stop gripping my edges, I might finally rest.
 
+If I'm honest, I still don't know how to live this cleanly.
+
 > [!note] Core claim
 > The deepest self is not separate from the deepest reality.
 
@@ -30,6 +32,8 @@ I remember sitting on the floor during a power outage, the house silent, the sky
 
 > [!question] Reflective question
 > What part of me insists on being separate even when it hurts?
+
+I feel the hinge with [[Neoplatonism - The Ascent of Light]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Nonduality:</strong> Reality is one, not divided.</li>

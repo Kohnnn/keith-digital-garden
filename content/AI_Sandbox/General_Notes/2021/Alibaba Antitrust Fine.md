@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A record fine clarified the direction of China’s tech policy.
 created: 2021-04-10
-updated: 2025-10-12
+updated: 2025-07-31
 note_id: 210410GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Didi and the Data Crackdown]] because both show how poli
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-07-31: Seed draft from 2021 backfill. Pending manual review.
 
 #

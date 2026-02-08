@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Wildfire feels like the land remembering something I forgot. It moves fast, it rewrites the map, and it leaves the smell of change everywhere. Fire is not just a disaster. It is a reminder that the world is alive and that my plans are small. When a place burns, the story of that place shifts. The soil changes, the animals move, the people remember. That is why wildfire is a philosophical subject for me. It is a test of humility.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Fire reminds me that the land is alive and my control is fragile.
 
@@ -30,6 +32,8 @@ The hardest part is the speed. Slow changes are easier to ignore. Fire does not 
 
 > [!question] Reflective question
 > Where am I assuming stability that can burn overnight?
+
+I keep this close to [[Dams - The Control That Floods]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Speed:</strong> Fire compresses years of change into hours.</li>

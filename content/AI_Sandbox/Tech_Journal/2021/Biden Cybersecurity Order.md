@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A federal order aimed to standardize baseline security practices.
 created: 2021-05-12
-updated: 2025-10-12
+updated: 2025-06-25
 note_id: 210512TJ01
 cssclasses:
   - tech-journal
@@ -86,6 +86,6 @@ I keep this linked to [[Log4Shell and the Ops Tax]] because both point to supply
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-06-25: Seed draft from 2021 backfill. Pending manual review.
 
 #

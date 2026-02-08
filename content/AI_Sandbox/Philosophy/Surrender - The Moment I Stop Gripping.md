@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Surrender is not giving up. It is the moment I stop fighting the reality I cannot change. That sounds soft, but it is actually a kind of discipline. I want to control everything because control feels like safety. But the tight grip makes me brittle. When life moves, I break. Surrender is the counter-move: I loosen my hand so I can actually feel what is in it. That is the only way I can respond to reality instead of wrestling a fantasy.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > Surrender is not weakness; it is a clear-eyed acceptance that makes real action possible.
 
@@ -30,6 +32,8 @@ The hard part is noticing when I am using control as an excuse to avoid pain. I 
 
 > [!question] Reflective question
 > Where am I confusing control with love?
+
+I feel the hinge with [[Legalism - Order Without Warmth]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Acceptance:</strong> I cannot choose reality, but I can choose my response.</li>

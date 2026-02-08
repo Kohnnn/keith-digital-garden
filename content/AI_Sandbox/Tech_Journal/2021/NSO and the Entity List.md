@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A blacklist move reframed spyware as a policy target.
 created: 2021-11-03
-updated: 2025-10-12
+updated: 2025-07-08
 note_id: 211103TJ01
 cssclasses:
   - tech-journal
@@ -86,6 +86,6 @@ I keep this linked to [[Pegasus and the Zero-Click Reality]] because both show h
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-07-08: Seed draft from 2021 backfill. Pending manual review.
 
 #

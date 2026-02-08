@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 A tautology feels like a shrug in sentence form. "It is what it is" dressed up with symbols. It cannot be false, and because of that it cannot tell me anything about the world. That sounds useless, but I keep noticing how much structure it gives my thinking. It draws the outline of the space where real claims can live. It is like the edge of a map. It shows the shape of the territory without naming a single street. When I understand a tautology, I understand the rules of the game I am about to play. That is not nothing. That is the skeleton. And when I forget it, I confuse my own assumptions for facts.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > Tautologies do not give me facts; they give me the frame that makes facts possible.
 
@@ -30,6 +32,8 @@ There is a tradition in logic that treats tautologies as boundary markers for se
 
 > [!question] Reflective question
 > Where am I mistaking a clean structure for a lived truth?
+
+This keeps echoing [[First Principles - Digging to Bedrock]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Frame:</strong> Tautologies are the scaffolding, not the building.</li>

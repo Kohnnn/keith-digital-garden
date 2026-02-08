@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 When I say I want to reason from first principles, I am really saying I am tired of inherited answers. I want to know what I actually believe when I remove the scaffolding of culture, habit, and received wisdom. It sounds heroic, but it is mostly a slow, quiet excavation. I ask a question, then I ask why I believe the answer, then I ask why I trust the source of that answer, and eventually I hit a wall. The wall is the thing I cannot justify without circularity. That is my bedrock. The danger is pretending I do not have any. The danger is calling a preference a principle and then building my life on a soft floor. This is why I keep leaning on [[Epistemology - Thinking From the Floor]]. It is the simplest reminder that every argument stands on something it did not build.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > First principles thinking is not about certainty; it is about seeing what my certainty rests on.
 
@@ -30,6 +32,8 @@ There is an older tradition that treats first principles as the starting points 
 
 > [!question] Reflective question
 > Which foundation in my life is really just a habit I have not tested?
+
+I keep this close to [[Nyaya - The Rules of Knowing]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Bedrock:</strong> Every argument rests on something it cannot prove.</li>

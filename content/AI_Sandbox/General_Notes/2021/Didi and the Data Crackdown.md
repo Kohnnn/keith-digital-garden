@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A post-IPO crackdown signaled a new data governance line.
 created: 2021-07-05
-updated: 2025-10-12
+updated: 2025-08-12
 note_id: 210705GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[AUKUS and the Alliance Reset]] because both show how pol
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-08-12: Seed draft from 2021 backfill. Pending manual review.
 
 #

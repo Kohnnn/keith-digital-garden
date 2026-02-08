@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Abstraction is the move my mind makes when the world is too loud. I pull away from the clutter and I reach for a shape. I say "friend" instead of the chaos of every actual friend. I say "tree" instead of every single branch, bark texture, and season. That is useful, but it is also dangerous, because the abstraction starts to feel more real than the thing it came from. I catch myself living inside the label. The idea floats above the world and I begin to mistake the float for the ground. This is why I keep coming back to the question of what is real and what is just a clean model. If I do not watch it, my abstractions become a disguise for avoidance.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > Abstraction is necessary for thinking, but it can also separate me from what I claim to know.
 
@@ -30,6 +32,8 @@ There is a long argument about whether ideas are more real than the things I tou
 
 > [!question] Reflective question
 > Which label am I using to avoid the messy details of a real person or place?
+
+My mind keeps running to [[Yogacara - The Mind That Paints]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Compression:</strong> Abstraction saves my attention, but it also hides the edge cases.</li>

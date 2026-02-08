@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Mohism hits me like a moral cold shower. It says I cannot keep my care in a small circle and pretend I am ethical. If I only love my own, I am practicing a disguised favoritism. Mohism pushes for impartial care, a kind of moral widening that feels almost impossible at first. It also refuses wasteful ritual and empty display. In a western frame, it sounds like a version of utilitarianism with a stricter spine, but it is less about math and more about social peace. The core question is simple: does this action reduce harm in the larger room?
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > If I can help, I should, even when the person is not mine.
 
@@ -30,6 +32,8 @@ I remember sitting in a crowded train, watching an elderly person sway without a
 
 > [!question] Reflective question
 > Whose well-being am I ignoring because they are outside my circle?
+
+I feel the hinge with [[Pyrrhonism - The Peace of Suspension]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Impartiality:</strong> Care should not be gated by kinship.</li>

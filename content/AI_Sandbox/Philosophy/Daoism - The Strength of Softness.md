@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Daoism keeps whispering that I do not have to force everything. The Dao is not a rulebook. It is a flow. The more I try to control the flow, the more it slips through my hands. Laozi keeps asking me to trust the small, the quiet, the slow. That feels like an antidote to western grind culture, where success is measured by force and speed. Daoism does not reject effort. It rejects the kind of effort that breaks the world in the name of winning.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > Softness is not weakness; it is a way of moving with reality.
 
@@ -30,6 +32,8 @@ The hardest part is believing that less force can still be powerful. I was train
 
 > [!question] Reflective question
 > Where am I forcing a result that might arrive through patience?
+
+This keeps echoing [[Aristotle - The Mean I Miss]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Flow:</strong> Reality moves whether I push it or not.</li>

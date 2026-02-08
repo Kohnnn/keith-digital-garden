@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Buddhism keeps telling me that suffering is not just pain. It is clinging. I cling to comfort, to identity, to a story about how the world should be, and then I suffer when the story breaks. The Buddha does not say "pretend pain is gone." He says watch the clinging and loosen the grip. That is a practice, not a slogan. It is why Buddhism feels more like a discipline than a belief.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Suffering softens when I see my clinging and stop feeding it.
 
@@ -30,6 +32,8 @@ The part that changes me is the emphasis on attention. In western religion, salv
 
 > [!question] Reflective question
 > What am I holding onto that is quietly exhausting me?
+
+My mind keeps running to [[Zen Buddhism - The Stillness That Cuts]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Craving:</strong> I chase what cannot stay.</li>

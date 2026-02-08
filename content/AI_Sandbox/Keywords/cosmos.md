@@ -11,6 +11,6 @@ note_id: 260207KW02
 
 # keyword - cosmos
 
-- [[Maya Religion - The Calendar of Blood]]
+- [[Maya - The Calendar of Blood]]
 
 #

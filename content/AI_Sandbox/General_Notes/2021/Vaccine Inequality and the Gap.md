@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Vaccine access gaps became a global policy constraint.
 created: 2021-09-15
-updated: 2025-10-12
+updated: 2025-05-02
 note_id: 210915GN02
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Delta Wave and the Global Reset]] because inequality fee
 </div>
 
 ## updates
-- 2024-09-19: Seed draft from 2021 backfill. Pending manual review.
+- 2025-05-02: Seed draft from 2021 backfill. Pending manual review.
 
 #

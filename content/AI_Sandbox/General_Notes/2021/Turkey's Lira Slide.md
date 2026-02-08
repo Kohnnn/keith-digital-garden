@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A currency spiral turned policy credibility into a market crisis.
 created: 2021-11-23
-updated: 2025-10-12
+updated: 2025-09-23
 note_id: 211123GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Inflation Prints 6.8]] because both show how inflation n
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-09-23: Seed draft from 2021 backfill. Pending manual review.
 
 #

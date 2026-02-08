@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I notice how quickly I turn land into a tool. A river becomes a pipe. A hill becomes a storage unit. A forest becomes a number on a report. This is efficient, but it is also a kind of blindness. When I only see function, I stop seeing relationship. And when I stop seeing relationship, my ethics shrink to whatever helps me win today. That is the machine mindset. It is clean and fast and strangely empty.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > A place treated only as a tool turns people into tools too.
 
@@ -30,6 +32,8 @@ The machine mindset makes me forget that I live inside a living system. It makes
 
 > [!question] Reflective question
 > Which daily convenience hides a cost I keep refusing to face?
+
+I feel the hinge with [[Artificial Intelligence - The Mirror That Talks Back]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Blind spot:</strong> I treat land as a silent helper, not a living partner.</li>

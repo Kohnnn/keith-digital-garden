@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Christianity is a religion of paradox. A crucified God. A kingdom that comes by surrender. Power revealed as weakness. I keep circling these contradictions because they expose how hungry I am for control. The story says the world is healed by a wound, and that makes my western instincts flinch. I want strength to look like victory. Christianity says strength looks like love that refuses to strike back. That is a hard claim, and it is also a strange kind of hope. It does not let me escape the brokenness of the world; it insists I enter it with open hands.
 
+This is where my theory meets my nervous system.
+
 > [!note] Core claim
 > Love becomes real when it is willing to be wounded for the other.
 
@@ -30,6 +32,8 @@ I remember standing in a hospital hallway, the air full of fluorescent hum, and 
 
 > [!question] Reflective question
 > Where am I avoiding love because it will cost me something real?
+
+I feel the hinge with [[Maya - The Calendar of Blood]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Incarnation:</strong> Love shows up in the body, not just in ideas.</li>

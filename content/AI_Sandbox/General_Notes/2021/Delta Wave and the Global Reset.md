@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: The Delta surge reset reopening timelines across economies.
 created: 2021-07-01
-updated: 2025-10-12
+updated: 2025-05-11
 note_id: 210701GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Omicron and the Risk Reset]] because both are about expe
 </div>
 
 ## updates
-- 2024-11-08: Seed draft from 2021 backfill. Pending manual review.
+- 2025-05-11: Seed draft from 2021 backfill. Pending manual review.
 
 #

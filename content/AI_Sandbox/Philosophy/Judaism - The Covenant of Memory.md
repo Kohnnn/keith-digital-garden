@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Judaism feels like a religion of memory and law woven together. It says a people can survive by remembering who they are and who they are called to be. The covenant is not a private feeling; it is a public contract. That is a hard idea in a western culture that treats religion as personal taste. Judaism says faith is shared practice, shared obligation, shared story. Memory is not nostalgia. It is the spine.
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > Memory keeps the people alive, and law keeps memory honest.
 
@@ -30,6 +32,8 @@ I remember reading a story of a people told to remember oppression so they would
 
 > [!question] Reflective question
 > What am I forgetting that would change how I treat other people?
+
+This is the angle where [[Aquinas - The Reason That Prays]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Law:</strong> The covenant is lived, not just believed.</li>

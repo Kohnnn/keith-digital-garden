@@ -11,6 +11,6 @@ note_id: 260207KW07
 
 # keyword - loyalty
 
-- [[Nordic Religion - The Cold Courage]]
+- [[Nordic - The Cold Courage]]
 
 #

@@ -38,6 +38,8 @@ I read it as a real income story. When prices rise faster than wages, households
 
 The report also reset expectations around policy. A high print makes it harder for central banks to stay patient. <span class="inline-claim">Inflation prints are not just data; they are narrative catalysts</span>. Once the narrative shifts, the market begins to price a different future.
 
+The subsequent year only cemented that shift—U.S. gasoline topping $5 proved how quickly energy could translate these numbers into lived reality ([[us gasoline jumps past five dollars nationwide]]).
+
 ## signals
 - Inflation moved from “temporary” to “structural” in public perception.
 - Real income pressure became the main political constraint.
@@ -81,6 +83,7 @@ I keep this close to [[Evergrande and the Credit Tremor]] because both are about
     <li>related
       <ul>
         <li>[[Evergrande and the Credit Tremor]]</li>
+        <li>[[us gasoline jumps past five dollars nationwide]]</li>
       </ul>
     </li>
   </ul>

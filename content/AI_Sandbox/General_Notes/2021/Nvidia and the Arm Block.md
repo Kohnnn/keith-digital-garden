@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Regulators moved to block a defining semiconductor deal.
 created: 2021-12-02
-updated: 2025-10-12
+updated: 2025-01-30
 note_id: 211202GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because both
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-01-30: Seed draft from 2021 backfill. Pending manual review.
 
 #

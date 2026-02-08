@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep learning that communication is not just about clarity. It is about responsibility. When I speak, I am not only sharing an idea, I am shaping the space between us. The word "communicant" reminds me that communication is participation, not performance. It means I am part of a shared act, and the shared act has stakes. If I use words carelessly, I do damage. If I use words well, I build trust. That makes communication moral, not just technical.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Communication is ethical because it shapes the reality we share.
 
@@ -30,6 +32,8 @@ I notice how easy it is to treat speaking as a tool for winning. I want to sound
 
 > [!question] Reflective question
 > Which conversation am I avoiding because I want to stay comfortable?
+
+I keep this close to [[Aristotle - The Mean I Miss]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Clarity:</strong> If I cannot say it plainly, I might not understand it.</li>

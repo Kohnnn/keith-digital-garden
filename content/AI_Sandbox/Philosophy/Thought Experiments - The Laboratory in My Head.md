@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I love thought experiments because they let me rehearse a decision before I have to pay for it. They are the cheapest way to fail. I can push a situation to its edge without breaking anyone, and then I can watch what my mind does when it runs out of excuses. That is why the best ones feel like traps. They corner the part of me that hides behind common sense. If a story about a brain in a vat makes me nervous, it is because I notice how much of my confidence rests on habit, not on proof. I do not need the story to be true. I need it to be sharp enough to expose where I am lazy. That is also why I keep leaning on [[Epistemology - Thinking From the Floor]]. The floor is the point. Thought experiments are the hammer that checks if the floor is real or just a painted rug.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Thought experiments are not fantasies; they are stress tests for the beliefs I live by.
 
@@ -30,6 +32,8 @@ The classic move is to take a belief and twist the lighting. What if my senses l
 
 > [!question] Reflective question
 > Which belief breaks first when I stress it with a strange case?
+
+I keep this close to [[Mohism - The Care That Spreads]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Edge cases:</strong> The strange case reveals the hidden rule.</li>

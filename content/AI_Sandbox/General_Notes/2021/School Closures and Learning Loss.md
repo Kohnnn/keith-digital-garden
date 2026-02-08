@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Prolonged closures left lasting gaps in education outcomes.
 created: 2021-06-21
-updated: 2025-10-12
+updated: 2025-03-09
 note_id: 210621GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Vaccine Mandates Expand]] because policy choices around 
 </div>
 
 ## updates
-- 2025-03-18: Seed draft from 2021 backfill. Pending manual review.
+- 2025-03-09: Seed draft from 2021 backfill. Pending manual review.
 
 #

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 AI scares me for a simple reason: it speaks back. The moment a system answers in a human tone, my brain reaches for a story. I want to call it a mind. I want to grant it agency. This is the same move I make every day with people and animals, just amplified by the glow of a screen. It is an ancient habit meeting a new object. The question is not whether the system is "really" a person. The question is what my habit does to me when I treat it like one.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > The pressure to personify AI says as much about me as it does about the machine.
 
@@ -30,6 +32,8 @@ The danger is that I confuse behavior with being. A fluent answer does not prove
 
 > [!question] Reflective question
 > Where am I granting moral weight just because a system sounds human?
+
+I keep this close to [[Abstraction - The Idea That Floats]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Projection:</strong> I map my own mind onto whatever responds.</li>

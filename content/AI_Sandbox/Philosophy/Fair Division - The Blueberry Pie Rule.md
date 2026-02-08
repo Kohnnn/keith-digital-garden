@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I love the simple rule: "I cut, you choose." It is the blueberry pie method. It forces me to cut fairly because I will not know which piece I get. That tiny trick reveals something big about justice. Fairness is not just a feeling. It is a structure that limits my ability to cheat myself into comfort. When I build the structure right, I do not need a saint to make it fair. I just need incentives that make fairness the smart move.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > Fairness is more reliable when it is built into the structure, not just trusted in the heart.
 
@@ -30,6 +32,8 @@ The hard part is admitting how often I prefer unfairness when I can hide it. I l
 
 > [!question] Reflective question
 > Where do I ask for fairness while secretly keeping the power to rig it?
+
+This sits in the same neighborhood as [[Surrender - The Moment I Stop Gripping]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Structure:</strong> Rules can make fairness easier than virtue alone.</li>

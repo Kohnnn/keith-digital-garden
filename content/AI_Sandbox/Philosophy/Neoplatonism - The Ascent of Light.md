@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Neoplatonism feels like a ladder made of light. It says reality is layered, and the soul can move upward from surface to source. The One is not a thing; it is the origin of all things. In a western frame, this is metaphysics with a spiritual glow. It also resonates with eastern ideas of unity and nonduality, but it keeps a structured sense of ascent, like a journey that must be practiced.
 
+If I'm honest, I still don't know how to live this cleanly.
+
 > [!note] Core claim
 > The soul can rise by turning toward its source.
 

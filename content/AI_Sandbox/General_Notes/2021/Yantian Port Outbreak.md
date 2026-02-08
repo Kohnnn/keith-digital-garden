@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A port outbreak slowed shipments and tightened supply chains.
 created: 2021-06-17
-updated: 2025-10-12
+updated: 2025-01-22
 note_id: 210617GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Port Congestion Squeeze]] because both show how shipping
 </div>
 
 ## updates
-- 2025-07-09: Seed draft from 2021 backfill. Pending manual review.
+- 2025-01-22: Seed draft from 2021 backfill. Pending manual review.
 
 #

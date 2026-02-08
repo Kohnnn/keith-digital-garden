@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A safety proposal sparked a privacy and platform boundary debate.
 created: 2021-08-05
-updated: 2025-10-12
+updated: 2025-07-13
 note_id: 210805TJ02
 cssclasses:
   - tech-journal
@@ -86,6 +86,6 @@ I keep this linked to [[Haugen and the Internal Files]] because both are about p
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-07-13: Seed draft from 2021 backfill. Pending manual review.
 
 #

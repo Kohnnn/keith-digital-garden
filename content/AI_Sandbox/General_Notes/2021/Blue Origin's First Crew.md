@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A billionaire-led flight signaled a new phase of space tourism.
 created: 2021-07-20
-updated: 2025-10-12
+updated: 2025-06-03
 note_id: 210720GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Inspiration4 and the Private Crew]] because both mark th
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-06-03: Seed draft from 2021 backfill. Pending manual review.
 
 #

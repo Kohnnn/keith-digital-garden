@@ -12,6 +12,6 @@ note_id: 260207KW62
 # keyword - honor
 
 - [[Bushido - The Steel of Restraint]]
-- [[Nordic Religion - The Cold Courage]]
+- [[Nordic - The Cold Courage]]
 
 #

@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A gas price spike exposed energy dependence and policy risk.
 created: 2021-10-06
-updated: 2025-10-12
+updated: 2025-08-18
 note_id: 211006GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[China's Power Crunch]] and [[Inflation Prints 6.8]] beca
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-08-18: Seed draft from 2021 backfill. Pending manual review.
 
 #

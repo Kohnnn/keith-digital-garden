@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Hospital oxygen shortages revealed system stress at scale.
 created: 2021-04-22
-updated: 2025-10-12
+updated: 2025-01-14
 note_id: 210422GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Delta Wave and the Global Reset]] because variant surges
 </div>
 
 ## updates
-- 2024-05-21: Seed draft from 2021 backfill. Pending manual review.
+- 2025-01-14: Seed draft from 2021 backfill. Pending manual review.
 
 #

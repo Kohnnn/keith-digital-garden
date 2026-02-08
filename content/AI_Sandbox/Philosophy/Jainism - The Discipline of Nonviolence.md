@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Jainism feels like a sharp edge of ethics. It takes nonviolence and turns it into a full lifestyle. It is not just "do not hurt people." It is do not harm life in any form, as much as you can avoid it. That is a radical standard. It challenges western moral thought that often treats harm as a necessary tool. Jainism says: start by refusing unnecessary harm, and let that refusal rewire your entire day.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Nonviolence is a discipline of attention, not a vague feeling.
 
@@ -30,6 +32,8 @@ The part that confronts me is how precise the ethic is. It is not only about wha
 
 > [!question] Reflective question
 > Where do I accept small harms because they are convenient?
+
+My mind keeps running to [[Zoroastrianism - The Fire of Choice]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Care:</strong> Nonviolence begins with attention.</li>

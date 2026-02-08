@@ -23,12 +23,16 @@ cssclasses: [philo-dump]
 
 Sikhism feels like a religion that refuses to separate devotion from justice. The sacred is not only in prayer, it is in service. The ideal is a heart turned toward God and hands turned toward people. That is a fierce combination. It refuses the western split between inner spirituality and public responsibility. It also resonates with eastern traditions of discipline, but it keeps the moral edge sharp: if my faith does not feed, defend, and serve, it is not complete.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > Devotion becomes real when it shows up as service and courage.
 
 I remember sharing a meal with strangers in a hall where no one asked who I was or where I came from. <span class="inline-note">Equality tastes like bread passed hand to hand</span>. Sikhism makes that practice central. It is not just kindness; it is theology. The image of God is not honored by words alone, it is honored by the way a community eats together. Service keeps my ego from becoming the center.
 > [!question] Reflective question
 > Where is my spirituality still separate from the way I treat people?
+
+My mind keeps running to [[Forgiveness - The Harder Justice]] whenever this tightens.
 
 <ul class="brain-dump">
   <li><strong>Service:</strong> Faith is measured by what it gives.</li>

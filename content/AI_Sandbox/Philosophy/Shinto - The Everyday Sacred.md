@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Shinto feels like a reminder that the sacred is not far away. It is in the ordinary. The rock, the tree, the river, the gate you pass through. It does not demand a single doctrine. It asks for attention and respect. That is why it speaks to me. In western religion, the sacred can feel distant or abstract. Shinto makes it local. It makes it a practice of presence.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > The sacred is woven into daily place, not reserved for rare moments.
 
@@ -30,6 +32,8 @@ The part that changes me is the emphasis on purity and care. Not purity as moral
 
 > [!question] Reflective question
 > What place in my daily life deserves more reverence than I give it?
+
+This sits in the same neighborhood as [[Jainism - The Discipline of Nonviolence]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Presence:</strong> The sacred appears where attention is real.</li>

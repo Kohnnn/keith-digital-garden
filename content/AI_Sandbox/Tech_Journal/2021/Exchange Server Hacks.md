@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A mass exploit wave turned email servers into a global emergency.
 created: 2021-03-02
-updated: 2025-10-12
+updated: 2025-06-30
 note_id: 210302TJ01
 cssclasses:
   - tech-journal
@@ -86,6 +86,6 @@ I link this to [[Log4Shell and the Ops Tax]] because both show how one widesprea
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-06-30: Seed draft from 2021 backfill. Pending manual review.
 
 #

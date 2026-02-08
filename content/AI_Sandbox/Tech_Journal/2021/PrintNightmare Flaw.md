@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A Windows print flaw became a rapid patch and exposure race.
 created: 2021-07-02
-updated: 2025-10-12
+updated: 2025-07-04
 note_id: 210702TJ01
 cssclasses:
   - tech-journal
@@ -86,6 +86,6 @@ I keep this linked to [[Exchange Server Hacks]] because both reveal the risk in 
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-07-04: Seed draft from 2021 backfill. Pending manual review.
 
 #

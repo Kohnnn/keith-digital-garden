@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: The final withdrawal reset regional power dynamics and trust.
 created: 2021-08-31
-updated: 2025-10-12
+updated: 2025-02-27
 note_id: 210831GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[AUKUS and the Alliance Reset]] because both are about al
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-02-27: Seed draft from 2021 backfill. Pending manual review.
 
 #

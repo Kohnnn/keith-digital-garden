@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A new OS release tried to reset the PC experience.
 created: 2021-10-04
-updated: 2025-10-12
+updated: 2025-06-16
 note_id: 211004TJ01
 cssclasses:
   - tech-journal
@@ -86,6 +86,6 @@ I keep this linked to [[M1 Pro and the Laptop Reset]] because both show how hard
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-06-16: Seed draft from 2021 backfill. Pending manual review.
 
 #

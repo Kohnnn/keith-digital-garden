@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Reopening borders reset travel timelines and airline planning.
 created: 2021-10-25
-updated: 2025-10-12
+updated: 2025-04-23
 note_id: 211025GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Omicron and the Risk Reset]] because policy reversals re
 </div>
 
 ## updates
-- 2025-04-03: Seed draft from 2021 backfill. Pending manual review.
+- 2025-04-23: Seed draft from 2021 backfill. Pending manual review.
 
 #

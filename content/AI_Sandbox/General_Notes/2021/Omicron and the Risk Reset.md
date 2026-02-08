@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A new variant reignited uncertainty across markets and policy.
 created: 2021-11-26
-updated: 2025-10-12
+updated: 2025-08-27
 note_id: 211126GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Inflation Prints 6.8]] because both are about expectatio
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-08-27: Seed draft from 2021 backfill. Pending manual review.
 
 #

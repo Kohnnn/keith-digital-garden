@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Mercy is the word that keeps standing between me and cruelty. It is not a feeling I can summon on demand. It is a decision to restrain harm even when I have the power to deliver it. This branches from [[Islam - The Discipline of Mercy]] because Islam insists that mercy is not an optional virtue; it is the first and last name of God, the posture that should hold everything else. I want that. I also resist it. My western instincts tell me that justice is strength and mercy is weakness. Mercy says the opposite: strength without mercy is just a sharper blade.
 
+If I'm honest, I still don't know how to live this cleanly.
+
 > [!note] Core claim
 > Mercy is the force that keeps justice from turning into cruelty.
 
@@ -30,6 +32,8 @@ I remember watching someone be humiliated in public and feeling the crowd lean i
 
 > [!question] Reflective question
 > Where am I using righteous anger to justify unnecessary harm?
+
+I feel the hinge with [[Yogacara - The Mind That Paints]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Restraint:</strong> Power is tested by what it refuses to do.</li>

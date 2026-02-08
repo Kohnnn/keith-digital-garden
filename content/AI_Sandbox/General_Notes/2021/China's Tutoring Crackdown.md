@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A sudden policy shift rewired the private education market.
 created: 2021-07-24
-updated: 2025-10-12
+updated: 2025-09-14
 note_id: 210724GN01
 cssclasses:
   - general-note
@@ -86,6 +86,6 @@ I keep this linked to [[Didi and the Data Crackdown]] because both show how poli
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-09-14: Seed draft from 2021 backfill. Pending manual review.
 
 #

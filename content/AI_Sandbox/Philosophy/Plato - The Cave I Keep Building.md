@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep coming back to the cave because I keep rebuilding it. It is not just a story about prisoners and shadows. It is a story about my habits. The cave is any routine that narrows my attention until the shadows feel like the whole world. I scroll, I skim, I accept the first explanation that fits, and suddenly my life has the shape of the wall I stare at. The cave is not a place I escaped once. It is a place I can recreate every day without meaning to.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > The cave is not behind me; it is a pattern I can rebuild at any time.
 
@@ -30,6 +32,8 @@ The hardest part is how comfortable the cave feels. The light outside is harsh. 
 
 > [!question] Reflective question
 > Which shadow am I calling truth because it feels familiar?
+
+This keeps echoing [[Cynicism - The Bare Truth]] when I try to live it.
 
 <ul class="brain-dump">
   <li><strong>Habit:</strong> Repetition makes a story feel real.</li>

@@ -11,6 +11,6 @@ note_id: 260207KW05
 
 # keyword - fate
 
-- [[Nordic Religion - The Cold Courage]]
+- [[Nordic - The Cold Courage]]
 
 #

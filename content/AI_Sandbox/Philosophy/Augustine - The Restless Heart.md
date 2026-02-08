@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Augustine feels like a confession that never stops echoing. He says the heart is restless until it finds God. That is not just a theological claim; it is a psychological diagnosis. The western religious tradition here is deeply personal, full of memory, guilt, and longing. It also resonates with eastern themes of desire and release, but Augustine locates the release in a specific love. The restlessness is not the enemy; it is the signal.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Restlessness is a clue pointing toward a deeper love.
 
@@ -30,6 +32,8 @@ I remember lying awake, scrolling for distraction, feeling an ache that none of 
 
 > [!question] Reflective question
 > What am I using to quiet my restlessness that does not actually heal it?
+
+I keep this close to [[Aquinas - The Reason That Prays]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Restlessness:</strong> Desire is a signal, not a defect.</li>

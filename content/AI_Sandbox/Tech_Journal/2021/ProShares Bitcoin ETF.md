@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: The first U.S. Bitcoin ETF reframed access and legitimacy.
 created: 2021-10-19
-updated: 2025-10-12
+updated: 2025-09-02
 note_id: 211019TJ01
 cssclasses:
   - tech-journal
@@ -87,6 +87,6 @@ I keep this linked to [[Tesla's Bitcoin Treasury]] because both are legitimacy s
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-09-02: Seed draft from 2021 backfill. Pending manual review.
 
 #

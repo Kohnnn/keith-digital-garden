@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A backlog at ports revealed how thin global slack had become.
 created: 2021-10-13
-updated: 2025-10-12
+updated: 2025-09-05
 note_id: 211013GN01
 cssclasses:
   - general-note
@@ -32,6 +32,8 @@ cssclasses:
 </div>
 
 The backlog at major ports became the physical symbol of a supply chain under strain. Ships waited offshore, warehouses overflowed, and delivery times stretched. The delay was not just an inconvenience; it was a cost multiplier.
+
+That pause never fully resolved—2022 brought Shanghai lockdowns, diesel shortages, and crash landing rates that kept the pressure on maritime chains (see [[shanghai lockdown stalls ports and factory calendars]], [[diesel inventories slip to crisis lows in us]], [[container rates collapse as demand evaporates]]).
 
 I read it as a slack problem. Modern logistics runs hot, and when demand spikes or labor tightens, the system hits a hard ceiling. <span class="inline-claim">Efficiency looks like fragility when the queues grow</span>.
 
@@ -80,12 +82,14 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because both
     <li>related
       <ul>
         <li>[[Chip Shortage and the Hardware Bottleneck]]</li>
+        <li>[[shanghai lockdown stalls ports and factory calendars]]</li>
+        <li>[[diesel inventories slip to crisis lows in us]]</li>
       </ul>
     </li>
   </ul>
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-09-05: Seed draft from 2021 backfill. Pending manual review.
 
 #

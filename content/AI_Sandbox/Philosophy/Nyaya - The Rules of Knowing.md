@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Nyaya feels like a calm courtroom for the mind. It cares about how I know what I claim to know. It builds a system of reasoning and evidence so that truth is not just a loud opinion. In a western frame, it resembles logic and epistemology, but it is not merely abstract. Nyaya has an ethical urgency: wrong knowledge leads to wrong action, and wrong action multiplies suffering. It treats precision as a moral practice.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Clear knowledge is the foundation of clear action.
 
@@ -30,6 +32,8 @@ I remember arguing with a friend about a rumor, only to realize my evidence was 
 
 > [!question] Reflective question
 > Where am I claiming certainty without enough ground?
+
+I feel the hinge with [[Logical Tautology - When It Says Nothing and Still Works]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Pramana:</strong> Reliable ways of knowing matter.</li>

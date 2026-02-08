@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep a brutal test for my choices. Imagine a day that comes back again and again, in the same order. Would I want that exact day to repeat? Not just the highlight reel, but the boring scroll, the awkward silence, the tiny lie I told to avoid a hard talk. If the answer is no, I have to admit I am living a life I would not choose twice. If I cannot say yes to the day, I am still acting like a guest in my own life, and guests do not have to clean up the mess.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > The repeat life test is not a metaphysics trick, it is a mirror for ownership.
 
@@ -30,6 +32,8 @@ It is a mirror that makes me see how much of my life is built on avoidance. I sa
 
 > [!question] Reflective question
 > If the day repeats, which single habit would I be ashamed to repeat?
+
+This sits in the same neighborhood as [[Bushido - The Steel of Restraint]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Ownership:</strong> If I cannot say yes to the day, I do not own it. I am borrowing it.</li>

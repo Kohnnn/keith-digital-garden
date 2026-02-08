@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep circling the same simple fact: I did not ask to be here, and yet I am here, and I still have to decide what to do with it. That is the human condition in the raw, not as a theory but as a pressure in my chest. Every morning arrives like a quiet test. I can drift, I can perform, or I can decide. None of those choices are neutral. Drift turns the day into a blur. Performance turns me into a character in a story I did not write. Decision turns me into a person who might have to live with the cost. This is why I keep returning to [[Nietzsche - The Heaviest Question]]. It is the same demand in a different outfit: are you willing to own the day you are about to live, or are you trying to slip past it without being seen?
 
+I keep circling this because it refuses to settle.
+
 > [!note] Core claim
 > The human condition is not a problem to solve; it is a weight to carry with honesty.
 
@@ -30,6 +32,8 @@ The weight gets heavier when I notice the parts of life that feel like cycles I 
 
 > [!question] Reflective question
 > Which daily moment proves I am alive, not just moving?
+
+This sits in the same neighborhood as [[Etymology - The Trail Inside Words]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Thrownness:</strong> I did not choose to start, but I do choose how I show up.</li>

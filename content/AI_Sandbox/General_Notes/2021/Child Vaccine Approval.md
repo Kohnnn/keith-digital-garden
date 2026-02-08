@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Authorization for children shifted school and family planning.
 created: 2021-10-29
-updated: 2025-10-12
+updated: 2025-03-01
 note_id: 211029GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[School Closures and Learning Loss]] because school stabi
 </div>
 
 ## updates
-- 2024-07-02: Seed draft from 2021 backfill. Pending manual review.
+- 2025-03-01: Seed draft from 2021 backfill. Pending manual review.
 
 #

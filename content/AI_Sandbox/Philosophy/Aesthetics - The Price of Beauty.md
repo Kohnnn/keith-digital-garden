@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep learning that beauty is not neutral. It does not just sit there and look pretty. It bends my attention. It changes how I breathe when I walk into a room. It can soften me, or it can harden me, depending on what it is asking for. A cold museum wall can make me behave like a small, careful person. A rough mural in a street can make me feel bold. That is why I treat aesthetics as a force, not a garnish. The form of a thing trains me long before the content of the thing does. If I am honest, a lot of my decisions start with how something feels before I can name why it matters.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > Beauty is a kind of power because it directs my attention before my arguments arrive.
 
@@ -30,6 +32,8 @@ This is the part where I notice how easily I confuse the beautiful with the good
 
 > [!question] Reflective question
 > Where am I letting beauty do the thinking for me?
+
+This is the angle where [[Yogacara - The Mind That Paints]] starts to make more sense.
 
 <ul class="brain-dump">
   <li><strong>Attention:</strong> Beauty steers my eyes before my reasons show up.</li>

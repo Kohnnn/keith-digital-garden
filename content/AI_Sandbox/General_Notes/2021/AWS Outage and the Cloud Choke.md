@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: A single region failure rippled through modern digital life.
 created: 2021-12-07
-updated: 2025-10-12
+updated: 2025-08-31
 note_id: 211207GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this close to [[Fastly and the Edge Outage]] because both show how extern
 </div>
 
 ## updates
-- 2025-10-12: Seed draft from 2021 backfill. Pending manual review.
+- 2025-08-31: Seed draft from 2021 backfill. Pending manual review.
 
 #

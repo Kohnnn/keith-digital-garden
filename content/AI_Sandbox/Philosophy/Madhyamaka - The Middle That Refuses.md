@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Madhyamaka feels like a philosophical demolition crew. It knocks down the extremes I keep clinging to: absolute existence and absolute nonexistence, rigid self and total nothingness. It is called the middle way because it refuses to let me land in either camp. In western terms, I keep trying to locate a stable essence. Madhyamaka says my craving for essence is the problem. Reality is empty of fixed nature, and that emptiness is not a void but a freedom. It is a way of cutting the knot of reification.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Things are real in relation, not in isolation.
 
@@ -30,6 +32,8 @@ I remember standing on a beach at night, watching waves appear and dissolve. Eac
 
 > [!question] Reflective question
 > Which certainty in my life is actually a fear of uncertainty?
+
+I feel the hinge with [[Mercy - The Weight of Compassion]] most when the stakes are real.
 
 <ul class="brain-dump">
   <li><strong>Emptiness:</strong> Things are empty of fixed essence.</li>

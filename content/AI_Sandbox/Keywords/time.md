@@ -12,7 +12,7 @@ note_id: 260207KW141
 # keyword - time
 
 - [[Evolutionary Theory - The Long Pressure]]
-- [[Maya Religion - The Calendar of Blood]]
+- [[Maya - The Calendar of Blood]]
 - [[River - The Long Witness]]
 
 #

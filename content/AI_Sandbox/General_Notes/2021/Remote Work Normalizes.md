@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Hybrid work moved from emergency to default for many teams.
 created: 2021-10-11
-updated: 2025-10-12
+updated: 2025-03-27
 note_id: 211011GN01
 cssclasses:
   - general-note
@@ -87,6 +87,6 @@ I keep this linked to [[Vaccine Mandates Expand]] because workplace policy and t
 </div>
 
 ## updates
-- 2025-02-09: Seed draft from 2021 backfill. Pending manual review.
+- 2025-03-27: Seed draft from 2021 backfill. Pending manual review.
 
 #

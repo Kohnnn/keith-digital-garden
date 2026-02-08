@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I do this all day without thinking: I look at a person, or a dog, or a messy project, and I assume there is a goal behind the motion. I decide that a coworker wants recognition, that my friend wants comfort, that the dog wants the ball. I might be wrong about the details, but the move itself keeps me alive. It is a shortcut that turns chaos into something I can respond to. I treat the thing in front of me like it has a mind, and suddenly I have a map. That is the intentional stance. It is not a claim about what a mind is made of. It is a way to navigate the world without freezing.
 
+I don't trust easy answers here.
+
 > [!note] Core claim
 > The intentional stance is a practical lens, not a metaphysical verdict.
 
@@ -30,6 +32,8 @@ The hard part is noticing how fast I slide from "this stance is useful" to "this
 
 > [!question] Reflective question
 > Where am I using the stance to avoid learning the real mechanics?
+
+This sits in the same neighborhood as [[Yogacara - The Mind That Paints]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Shortcut:</strong> The stance lets me predict without full knowledge.</li>

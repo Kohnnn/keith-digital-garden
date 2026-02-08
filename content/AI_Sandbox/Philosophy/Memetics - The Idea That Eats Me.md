@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 I keep noticing that ideas do not just sit in my head. They spread. They mutate. They compete for space in the same way weeds compete for sunlight. A meme is not just a joke on a screen; it is a unit of cultural transmission, a tiny package of behavior that wants to survive. That survival pressure changes me. It shapes my attention, my language, my sense of what is "normal." This is the part that makes me uneasy. I want to be the author of my life, but the ideas around me want to use me as a host. That is not paranoia. That is ecology, just at the level of culture.
 
+I keep testing this against my day, not just my ideas.
+
 > [!note] Core claim
 > Memes are not only things I share; they are patterns that shape who I become.
 
@@ -30,6 +32,8 @@ I feel the pressure most when I notice how quickly my language shifts. One week 
 
 > [!question] Reflective question
 > Which ideas am I feeding that leave me emptier each time?
+
+This sits in the same neighborhood as [[Yogacara - The Mind That Paints]], even if the mood is different.
 
 <ul class="brain-dump">
   <li><strong>Replication:</strong> Ideas survive by being easy to remember and repeat.</li>

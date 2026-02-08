@@ -15,7 +15,7 @@ keywords:
 draft: true
 description: Factory shutdowns turned a health crisis into a supply shock.
 created: 2021-08-19
-updated: 2025-10-12
+updated: 2025-05-20
 note_id: 210819GN02
 cssclasses:
   - general-note
@@ -88,6 +88,6 @@ I keep this linked to [[Port Congestion Squeeze]] because both show how physical
 </div>
 
 ## updates
-- 2025-06-23: Seed draft from 2021 backfill. Pending manual review.
+- 2025-05-20: Seed draft from 2021 backfill. Pending manual review.
 
 #

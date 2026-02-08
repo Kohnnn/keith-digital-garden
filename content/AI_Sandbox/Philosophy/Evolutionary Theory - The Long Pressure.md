@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Evolutionary theory feels like a cold wind that never stops. It does not care about my hopes. It cares about what survives. That is the brutal honesty of it. Small differences, over long time, under relentless selection. The theory is not just a biology lesson. It is a philosophy of humility. It tells me that my body, my instincts, and even some of my values were shaped by pressures I did not choose. That is not depressing. It is clarifying. It means I should be careful about treating my impulses as sacred. Some of them are just ancient tools.
 
+Some days this feels like a promise, other days a warning.
+
 > [!note] Core claim
 > Evolutionary theory is not a story about progress; it is a story about survival under pressure.
 
@@ -30,6 +32,8 @@ I notice the tension when people treat evolution like a ladder. We want to belie
 
 > [!question] Reflective question
 > Which of my values are chosen, and which are just old survival reflexes?
+
+I keep this close to [[Drought - The Discipline of Scarcity]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Pressure:</strong> Small advantages compound over time.</li>

@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Zen feels like a refusal to let my mind run the show. It does not argue me into peace, it invites me to sit down and see. The point is not to collect concepts but to meet what is here without needing to fix it. In a western mood, I keep wanting the answer to be a tidy sentence. Zen answers with a bowl of rice, a breath, a bell. That is not anti-intellectual, but it is impatient with explanations that hide the thing itself. Zen is a direct experience of reality that makes my stories look thin.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Zen is not a theory of life; it is the practice of meeting life without a screen.
 
@@ -30,6 +32,8 @@ There is a small moment I keep returning to: I am washing dishes, the water is t
 
 > [!question] Reflective question
 > What experience am I still trying to explain before I am willing to feel it?
+
+I keep this close to [[Buddhism - The Practice of Letting Go]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Attention:</strong> The real is here, not later.</li>

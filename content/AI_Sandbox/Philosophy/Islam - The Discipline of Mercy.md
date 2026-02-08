@@ -23,6 +23,8 @@ cssclasses: [philo-dump]
 
 Islam feels like a religion of alignment. The word itself points to surrender, but not surrender as weakness. It is the surrender of the self to a moral order that is bigger than the self. That is both beautiful and frightening. In a western frame, I am taught to make my own path. Islam says the path is already real, and my freedom is in walking it. The daily rhythm of prayer is not just ritual; it is a way of shaping the self around remembrance. It disciplines desire and teaches the heart to be honest.
 
+This is the part that keeps tugging at me.
+
 > [!note] Core claim
 > Submission becomes mercy when it aligns the self with what is good.
 
@@ -30,6 +32,8 @@ I remember waking before dawn and hearing the city still. The quiet felt like a 
 
 > [!question] Reflective question
 > Where am I resisting discipline because I fear losing myself?
+
+I keep this close to [[Drought - The Discipline of Scarcity]] because the tension feels related.
 
 <ul class="brain-dump">
   <li><strong>Submission:</strong> Surrender is alignment, not erasure.</li>

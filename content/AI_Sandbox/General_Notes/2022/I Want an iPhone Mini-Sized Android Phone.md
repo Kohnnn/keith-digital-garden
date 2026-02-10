@@ -87,7 +87,4 @@ This is a reminder that product differentiation is often about constraints. When
   </ul>
 </div>
 
-## updates
-- 2025-05-19: Seed draft from 2022 backfill. Pending manual review.
-
 #

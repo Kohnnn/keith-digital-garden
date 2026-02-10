@@ -86,7 +86,4 @@ I keep this linked to [[Vaccine Mandates Expand]] because workplace policy and t
   </ul>
 </div>
 
-## updates
-- 2025-03-27: Seed draft from 2021 backfill. Pending manual review.
-
 #

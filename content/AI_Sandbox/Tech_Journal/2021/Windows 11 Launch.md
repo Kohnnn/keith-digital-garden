@@ -85,7 +85,4 @@ I keep this linked to [[M1 Pro and the Laptop Reset]] because both show how hard
   </ul>
 </div>
 
-## updates
-- 2025-06-16: Seed draft from 2021 backfill. Pending manual review.
-
 #

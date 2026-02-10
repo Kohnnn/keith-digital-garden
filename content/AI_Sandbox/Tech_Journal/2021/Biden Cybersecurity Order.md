@@ -85,7 +85,4 @@ I keep this linked to [[Log4Shell and the Ops Tax]] because both point to supply
   </ul>
 </div>
 
-## updates
-- 2025-06-25: Seed draft from 2021 backfill. Pending manual review.
-
 #

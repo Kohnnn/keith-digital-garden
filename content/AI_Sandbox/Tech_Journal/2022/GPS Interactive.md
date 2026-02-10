@@ -82,7 +82,4 @@ This is the kind of work that changes how people think about infrastructure. It 
   </ul>
 </div>
 
-## updates
-- 2025-02-17: Seed draft from 2022 backfill. Pending manual review.
-
 #

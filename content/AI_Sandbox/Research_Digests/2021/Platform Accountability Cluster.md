@@ -81,7 +81,4 @@ This cluster links whistleblower disclosures, app store rulings, and privacy deb
   </ul>
 </div>
 
-## updates
-- 2025-03-02: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -84,7 +84,4 @@ This shift is about reducing cognitive overhead. Teams move faster when the path
   </ul>
 </div>
 
-## updates
-- 2025-03-16: Seed draft from 2022 backfill. Pending manual review.
-
 #

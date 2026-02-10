@@ -41,7 +41,4 @@ This links to [[NSO and the Entity List]] and [[Surveillance Normalized]] and [[
 ## open loop
 How do we make high-security modes usable without hiding risk?
 
-## updates
-- 2025-02-17: Seed draft from 2022 backfill. Pending manual review.
-
 #

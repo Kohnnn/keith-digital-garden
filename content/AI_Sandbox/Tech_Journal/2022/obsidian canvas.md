@@ -41,7 +41,4 @@ This links to [[RSS Brain]] and [[SD My Script Directory]] and [[I Regret My Web
 ## open loop
 What knowledge tasks benefit most from spatial layouts?
 
-## updates
-- 2025-02-14: Seed draft from 2022 backfill. Pending manual review.
-
 #

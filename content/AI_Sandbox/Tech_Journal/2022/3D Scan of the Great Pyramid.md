@@ -84,7 +84,4 @@ The real shift is accessibility. When high-resolution models are public, researc
   </ul>
 </div>
 
-## updates
-- 2025-05-08: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This links to [[OpenBSD Mastery Not in Kindle Store]] and [[RSS Brain]] and [[Pr
 ## open loop
 What other public-domain resources need this level of care?
 
-## updates
-- 2025-05-15: Seed draft from 2022 backfill. Pending manual review.
-
 #

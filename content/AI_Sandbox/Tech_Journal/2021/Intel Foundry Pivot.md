@@ -84,7 +84,4 @@ This pivot is a long-term bet. The payoff depends on delivery and sustained dema
   </ul>
 </div>
 
-## updates
-- 2025-02-14: Seed draft from 2021 backfill. Pending manual review.
-
 #

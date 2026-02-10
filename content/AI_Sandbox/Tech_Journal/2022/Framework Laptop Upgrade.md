@@ -41,7 +41,4 @@ This links to [[I Want an iPhone Mini-Sized Android Phone]] and [[Nvidia and the
 ## open loop
 What would make modular upgrades the default expectation for laptops?
 
-## updates
-- 2025-02-03: Seed draft from 2022 backfill. Pending manual review.
-
 #

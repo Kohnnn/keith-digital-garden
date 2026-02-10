@@ -87,7 +87,4 @@ This is a governance story, not a tooling story. The gap is about coordination, 
   </ul>
 </div>
 
-## updates
-- 2025-06-01: Seed draft from 2022 backfill. Pending manual review.
-
 #

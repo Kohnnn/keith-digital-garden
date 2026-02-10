@@ -81,7 +81,4 @@ Inflation in 2021 wasn’t only monetary; it was logistical. That reality change
   </ul>
 </div>
 
-## updates
-- 2025-02-28: Seed draft from 2021 backfill. Pending manual review.
-
 #

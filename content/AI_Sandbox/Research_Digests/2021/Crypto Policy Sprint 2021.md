@@ -81,7 +81,4 @@ This cluster ties together tax reporting, product restrictions, mining crackdown
   </ul>
 </div>
 
-## updates
-- 2024-12-22: Seed draft from 2021 backfill. Pending manual review.
-
 #

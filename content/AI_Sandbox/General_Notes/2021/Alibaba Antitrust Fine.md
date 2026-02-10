@@ -85,7 +85,4 @@ I keep this linked to [[Didi and the Data Crackdown]] because both show how poli
   </ul>
 </div>
 
-## updates
-- 2025-07-31: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -91,7 +91,4 @@ The shutdown strengthens the case for control and portability. It shifts demand 
   </ul>
 </div>
 
-## updates
-- 2025-06-11: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -85,7 +85,4 @@ I link this to [[Log4Shell and the Ops Tax]] because both show how one widesprea
   </ul>
 </div>
 
-## updates
-- 2025-06-30: Seed draft from 2021 backfill. Pending manual review.
-
 #

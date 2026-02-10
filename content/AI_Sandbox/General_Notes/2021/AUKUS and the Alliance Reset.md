@@ -86,7 +86,4 @@ I keep this close to [[China's Power Crunch]] because energy and defense are bot
   </ul>
 </div>
 
-## updates
-- 2025-10-08: Seed draft from 2021 backfill. Pending manual review.
-
 #

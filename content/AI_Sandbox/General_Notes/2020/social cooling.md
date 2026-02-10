@@ -42,7 +42,4 @@ This links to [[Surveillance Normalized]], [[NSO and the Entity List]], [[Trust 
 ## open loop
 Which scoring systems are already shaping daily choices?
 
-## updates
-- 2025-02-15: Seed draft from 2020 backfill. Pending manual review.
-
 #

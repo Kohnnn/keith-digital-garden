@@ -86,7 +86,4 @@ I keep this linked to [[Remote Work Normalizes]] because workplace policy and tr
   </ul>
 </div>
 
-## updates
-- 2025-04-05: Seed draft from 2021 backfill. Pending manual review.
-
 #

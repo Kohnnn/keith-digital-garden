@@ -41,7 +41,4 @@ This links to [[Twitter Suspends Paul Graham Account]] and [[Trust in Platforms]
 ## open loop
 What identity recovery path should be standardized across platforms?
 
-## updates
-- 2025-03-20: Seed draft from 2022 backfill. Pending manual review.
-
 #

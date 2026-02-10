@@ -41,7 +41,4 @@ This links to [[Self-Hosting Email Ends]] and [[State of HTTP in 2022]] and [[Bu
 ## open loop
 What metrics should trigger the jump to distributed systems?
 
-## updates
-- 2025-03-08: Seed draft from 2022 backfill. Pending manual review.
-
 #

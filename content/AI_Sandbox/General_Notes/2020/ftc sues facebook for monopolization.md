@@ -41,7 +41,4 @@ This links to [[Platform Accountability Cluster]] and [[Trust in Platforms]] and
 ## open loop
 Which platform behaviors will regulators target next?
 
-## updates
-- 2025-05-04: Seed draft from 2020 backfill. Pending manual review.
-
 #

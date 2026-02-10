@@ -84,7 +84,4 @@ This is a reminder that not all security has to be enterprise grade. Simplicity 
   </ul>
 </div>
 
-## updates
-- 2025-05-12: Seed draft from 2022 backfill. Pending manual review.
-
 #

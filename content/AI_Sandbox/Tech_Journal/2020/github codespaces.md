@@ -41,7 +41,4 @@ This links to [[Building a VM Inside ChatGPT]] and [[SD My Script Directory]] an
 ## open loop
 Which parts of dev setup still need local control?
 
-## updates
-- 2025-03-06: Seed draft from 2020 backfill. Pending manual review.
-
 #

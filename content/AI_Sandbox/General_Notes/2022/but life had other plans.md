@@ -41,7 +41,4 @@ This links to [[Surviving Disillusionment]] and [[Work Without a Center]] and [[
 ## open loop
 What helps a long-term plan survive the first major detour?
 
-## updates
-- 2025-02-08: Seed draft from 2022 backfill. Pending manual review.
-
 #

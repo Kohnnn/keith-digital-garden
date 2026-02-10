@@ -91,7 +91,4 @@ This is a quiet but meaningful move. It signals that the EU still expands its in
   </ul>
 </div>
 
-## updates
-- 2025-02-26: Seed draft from 2022 backfill. Pending manual review.
-
 #

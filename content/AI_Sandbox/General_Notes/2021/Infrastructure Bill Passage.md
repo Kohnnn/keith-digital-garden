@@ -85,7 +85,4 @@ I keep this linked to [[Inflation Prints 6.8]] because fiscal expectations and i
   </ul>
 </div>
 
-## updates
-- 2025-08-09: Seed draft from 2021 backfill. Pending manual review.
-
 #

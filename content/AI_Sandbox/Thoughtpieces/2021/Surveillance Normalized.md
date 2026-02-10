@@ -84,7 +84,4 @@ Normalization is the real shift. The most important question is who defines the 
   </ul>
 </div>
 
-## updates
-- 2025-04-14: Seed draft from 2021 backfill. Pending manual review.
-
 #

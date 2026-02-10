@@ -87,7 +87,4 @@ The core insight is that cash flow is not just a number. It is a behavioral leve
   </ul>
 </div>
 
-## updates
-- 2025-01-24: Seed draft from 2022 backfill. Pending manual review.
-
 #

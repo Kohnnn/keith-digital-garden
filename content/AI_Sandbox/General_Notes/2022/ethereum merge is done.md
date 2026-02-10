@@ -41,7 +41,4 @@ This links to [[Crypto Policy Sprint 2021]] and [[Markets of Narrative]] and [[T
 ## open loop
 Which layer of Ethereum’s roadmap now carries the most credibility risk?
 
-## updates
-- 2025-05-13: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -84,7 +84,4 @@ Hybrid work is a long-term structural shift. The companies that succeed will tre
   </ul>
 </div>
 
-## updates
-- 2025-05-17: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -85,7 +85,4 @@ I keep this linked to [[James Webb Leaves Earth]] because both are about long-ho
   </ul>
 </div>
 
-## updates
-- 2025-10-08: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This connects to [[Cached Chrome Top Million Websites]] and [[Log4Shell and the 
 ## open loop
 Which performance costs are still hidden from product teams?
 
-## updates
-- 2025-01-15: Seed draft from 2022 backfill. Pending manual review.
-
 #

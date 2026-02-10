@@ -41,7 +41,4 @@ This links to [[I Regret My Website Redesign]] and [[State of HTTP in 2022]] and
 ## open loop
 Which ecommerce patterns feel fast because the ops are fast?
 
-## updates
-- 2025-04-30: Seed draft from 2022 backfill. Pending manual review.
-
 #

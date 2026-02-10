@@ -87,7 +87,4 @@ This is the type of public signal that matters more than metrics. When users say
   </ul>
 </div>
 
-## updates
-- 2025-03-08: Seed draft from 2022 backfill. Pending manual review.
-
 #

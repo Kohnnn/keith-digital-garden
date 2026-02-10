@@ -82,7 +82,4 @@ This is less about email and more about modern ops realities. Small teams are fo
   </ul>
 </div>
 
-## updates
-- 2025-05-06: Seed draft from 2022 backfill. Pending manual review.
-
 #

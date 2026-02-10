@@ -84,7 +84,4 @@ This episode showed that privacy is a design constraint, not just a legal one. W
   </ul>
 </div>
 
-## updates
-- 2024-11-12: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -84,7 +84,4 @@ This is the kind of material that grows ecosystems. When people can see the stac
   </ul>
 </div>
 
-## updates
-- 2025-03-29: Seed draft from 2022 backfill. Pending manual review.
-
 #

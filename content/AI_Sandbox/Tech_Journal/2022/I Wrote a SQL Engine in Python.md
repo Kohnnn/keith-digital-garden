@@ -84,7 +84,4 @@ The real value is the learning path. It shows that systems thinking can start in
   </ul>
 </div>
 
-## updates
-- 2025-03-10: Seed draft from 2022 backfill. Pending manual review.
-
 #

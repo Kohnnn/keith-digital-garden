@@ -85,7 +85,4 @@ I keep this linked to [[Inflation Prints 6.8]] because both show how inflation n
   </ul>
 </div>
 
-## updates
-- 2025-09-23: Seed draft from 2021 backfill. Pending manual review.
-
 #

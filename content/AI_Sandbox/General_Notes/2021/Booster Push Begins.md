@@ -86,7 +86,4 @@ I keep this linked to [[Vaccine Inequality and the Gap]] because supply trade-of
   </ul>
 </div>
 
-## updates
-- 2025-04-14: Seed draft from 2021 backfill. Pending manual review.
-
 #

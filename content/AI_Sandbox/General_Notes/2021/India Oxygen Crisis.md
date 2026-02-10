@@ -86,7 +86,4 @@ I keep this linked to [[Delta Wave and the Global Reset]] because variant surges
   </ul>
 </div>
 
-## updates
-- 2025-01-14: Seed draft from 2021 backfill. Pending manual review.
-
 #

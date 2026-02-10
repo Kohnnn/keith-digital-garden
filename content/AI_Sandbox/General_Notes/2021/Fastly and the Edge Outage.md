@@ -85,7 +85,4 @@ I keep this near [[Facebook's Daylong Outage]] because both show how platform re
   </ul>
 </div>
 
-## updates
-- 2025-10-08: Seed draft from 2021 backfill. Pending manual review.
-
 #

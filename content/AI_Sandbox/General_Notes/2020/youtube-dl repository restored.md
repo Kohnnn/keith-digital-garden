@@ -41,7 +41,4 @@ This connects to [[youtube-dl dmca takedown]] and [[Trust in Platforms]] and [[P
 ## open loop
 What standard of evidence should platforms require before takedowns?
 
-## updates
-- 2025-03-09: Seed draft from 2020 backfill. Pending manual review.
-
 #

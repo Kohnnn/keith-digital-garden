@@ -41,7 +41,4 @@ This connects to [[Supreme Court Overturns Roe v Wade]] and [[Queen Elizabeth II
 ## open loop
 Which legal trajectories were most sensitive to this transition?
 
-## updates
-- 2025-01-31: Seed draft from 2020 backfill. Pending manual review.
-
 #

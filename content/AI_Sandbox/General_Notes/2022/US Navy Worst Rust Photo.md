@@ -87,7 +87,4 @@ The image matters because it is visceral. It makes abstract maintenance budgets 
   </ul>
 </div>
 
-## updates
-- 2025-02-24: Seed draft from 2022 backfill. Pending manual review.
-
 #

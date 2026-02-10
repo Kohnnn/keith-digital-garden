@@ -86,7 +86,4 @@ I keep this linked to [[Inflation Prints 6.8]] because wage pressure feeds macro
   </ul>
 </div>
 
-## updates
-- 2025-03-18: Seed draft from 2021 backfill. Pending manual review.
-
 #

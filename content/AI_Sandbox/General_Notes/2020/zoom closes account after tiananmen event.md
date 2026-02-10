@@ -41,7 +41,4 @@ This links to [[Twitter Accepts Musk Offer]] and [[Platform Accountability Clust
 ## open loop
 What governance model can survive incompatible legal regimes?
 
-## updates
-- 2025-02-11: Seed draft from 2020 backfill. Pending manual review.
-
 #

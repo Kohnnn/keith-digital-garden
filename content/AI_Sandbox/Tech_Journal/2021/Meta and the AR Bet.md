@@ -103,7 +103,4 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because the 
   </ul>
 </div>
 
-## updates
-- 2025-11-03: Seed draft from 2021 backfill. Pending manual review.
-
 #

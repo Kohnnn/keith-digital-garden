@@ -41,7 +41,4 @@ This links to [[We Lost 54k GitHub Stars]] and [[SD My Script Directory]] and [[
 ## open loop
 Which collaboration features should be considered public infrastructure?
 
-## updates
-- 2025-01-29: Seed draft from 2020 backfill. Pending manual review.
-
 #

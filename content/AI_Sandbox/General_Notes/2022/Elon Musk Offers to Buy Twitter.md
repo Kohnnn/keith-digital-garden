@@ -87,7 +87,4 @@ This was a reminder that platforms are infrastructure. When control changes, the
   </ul>
 </div>
 
-## updates
-- 2025-04-06: Seed draft from 2022 backfill. Pending manual review.
-
 #

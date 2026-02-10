@@ -91,7 +91,4 @@ This is a warning about execution drag. Vision is not enough if internal systems
   </ul>
 </div>
 
-## updates
-- 2025-05-22: Seed draft from 2022 backfill. Pending manual review.
-
 #

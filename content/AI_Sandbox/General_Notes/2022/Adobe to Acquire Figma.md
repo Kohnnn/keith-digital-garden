@@ -86,7 +86,4 @@ This deal puts a spotlight on dependency risk. If the tooling layer concentrates
   </ul>
 </div>
 
-## updates
-- 2025-02-14: Seed draft from 2022 backfill. Pending manual review.
-
 #

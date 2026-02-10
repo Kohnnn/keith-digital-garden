@@ -41,7 +41,4 @@ This links to [[Twitter Suspends Paul Graham Account]] and [[Twitter Accepts Mus
 ## open loop
 What privacy boundary is reasonable for public data tracking?
 
-## updates
-- 2025-01-22: Seed draft from 2022 backfill. Pending manual review.
-
 #

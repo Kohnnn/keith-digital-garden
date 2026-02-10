@@ -82,7 +82,4 @@ These pieces set the bar for technical education. The main takeaway is that inte
   </ul>
 </div>
 
-## updates
-- 2025-04-02: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -91,7 +91,4 @@ This is small on its own, but the pattern matters. Users price in governance ins
   </ul>
 </div>
 
-## updates
-- 2025-06-18: Seed draft from 2022 backfill. Pending manual review.
-
 #

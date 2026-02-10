@@ -41,7 +41,4 @@ This links to [[Adobe to Acquire Figma]] and [[Platform Accountability Cluster]]
 ## open loop
 What contract terms should require plain-language disclosure?
 
-## updates
-- 2025-04-07: Seed draft from 2022 backfill. Pending manual review.
-
 #

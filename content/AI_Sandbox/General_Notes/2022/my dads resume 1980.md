@@ -41,7 +41,4 @@ This connects to [[Labor Shortage and the Quit Wave]] and [[Remote Work Normaliz
 ## open loop
 What skills today will look strange in forty years?
 
-## updates
-- 2025-02-26: Seed draft from 2022 backfill. Pending manual review.
-
 #

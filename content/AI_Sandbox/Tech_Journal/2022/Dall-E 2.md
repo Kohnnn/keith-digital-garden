@@ -82,7 +82,4 @@ The most important shift is not the images, but the interface. Once language bec
   </ul>
 </div>
 
-## updates
-- 2025-01-12: Seed draft from 2022 backfill. Pending manual review.
-
 #

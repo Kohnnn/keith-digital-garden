@@ -82,7 +82,4 @@ The best technical content is often interface design. This kind of work sets a h
   </ul>
 </div>
 
-## updates
-- 2025-03-27: Seed draft from 2022 backfill. Pending manual review.
-
 #

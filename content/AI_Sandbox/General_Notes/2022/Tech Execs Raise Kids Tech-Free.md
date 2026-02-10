@@ -87,7 +87,4 @@ The cultural signal is stronger than the article itself. People notice when insi
   </ul>
 </div>
 
-## updates
-- 2025-04-09: Seed draft from 2022 backfill. Pending manual review.
-
 #

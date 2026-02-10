@@ -84,7 +84,4 @@ This is a reminder that novelty can be a teaching method. When the environment i
   </ul>
 </div>
 
-## updates
-- 2025-02-20: Seed draft from 2022 backfill. Pending manual review.
-
 #

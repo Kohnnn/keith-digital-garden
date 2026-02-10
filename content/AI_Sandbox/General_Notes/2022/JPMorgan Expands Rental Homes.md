@@ -87,7 +87,4 @@ This is a clear signal that housing is now a financial strategy. That increases 
   </ul>
 </div>
 
-## updates
-- 2025-04-23: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This links to [[OpenBSD Mastery Not in Kindle Store]] and [[Trust in Platforms]]
 ## open loop
 Which developer tools are one complaint away from removal?
 
-## updates
-- 2025-02-05: Seed draft from 2020 backfill. Pending manual review.
-
 #

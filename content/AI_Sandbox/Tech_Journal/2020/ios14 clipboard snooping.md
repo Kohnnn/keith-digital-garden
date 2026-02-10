@@ -41,7 +41,4 @@ This connects to [[Surveillance Normalized]] and [[NSO and the Entity List]] and
 ## open loop
 Which privacy behaviors remain invisible to users?
 
-## updates
-- 2025-01-27: Seed draft from 2020 backfill. Pending manual review.
-
 #

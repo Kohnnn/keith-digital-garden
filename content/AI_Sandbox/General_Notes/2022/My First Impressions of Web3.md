@@ -87,7 +87,4 @@ The key value is the framing. It pushes the discussion toward incentives and gov
   </ul>
 </div>
 
-## updates
-- 2025-02-16: Seed draft from 2022 backfill. Pending manual review.
-
 #

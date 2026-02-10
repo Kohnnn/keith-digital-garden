@@ -84,7 +84,4 @@ This is the long-term shift: platforms are now public infrastructure in the eyes
   </ul>
 </div>
 
-## updates
-- 2025-02-20: Seed draft from 2021 backfill. Pending manual review.
-
 #

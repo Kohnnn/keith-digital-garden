@@ -81,7 +81,4 @@ Ransomware in 2021 was a reminder that cyber risk is economic risk. The trend li
   </ul>
 </div>
 
-## updates
-- 2025-04-08: Seed draft from 2021 backfill. Pending manual review.
-
 #

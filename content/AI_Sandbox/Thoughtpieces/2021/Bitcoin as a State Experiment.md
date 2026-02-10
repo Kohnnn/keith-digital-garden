@@ -93,7 +93,4 @@ I keep this linked to #crypto because it is a defining moment for mainstream ado
   </ul>
 </div>
 
-## updates
-- 2025-08-22: Seed draft from 2021 backfill. Pending manual review.
-
 #

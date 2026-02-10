@@ -41,7 +41,4 @@ This links to [[Labor Shortage and the Quit Wave]] and [[Remote Work Normalizes]
 ## open loop
 What retention levers actually move healthcare capacity?
 
-## updates
-- 2025-05-21: Seed draft from 2022 backfill. Pending manual review.
-
 #

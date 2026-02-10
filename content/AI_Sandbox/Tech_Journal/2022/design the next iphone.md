@@ -41,7 +41,4 @@ This links to [[I Regret My Website Redesign]] and [[Framework Laptop Upgrade]] 
 ## open loop
 Which product categories could benefit from this kind of constraint tool?
 
-## updates
-- 2025-03-19: Seed draft from 2022 backfill. Pending manual review.
-
 #

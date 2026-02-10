@@ -84,7 +84,4 @@ This is a great example of interface as science communication. When the differen
   </ul>
 </div>
 
-## updates
-- 2025-03-31: Seed draft from 2022 backfill. Pending manual review.
-
 #

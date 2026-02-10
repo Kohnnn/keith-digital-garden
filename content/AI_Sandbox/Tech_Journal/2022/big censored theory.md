@@ -41,7 +41,4 @@ This links to [[Platform Accountability Cluster]] and [[Trust in Platforms]] and
 ## open loop
 Which moderation metrics should platforms publish by default?
 
-## updates
-- 2025-02-28: Seed draft from 2022 backfill. Pending manual review.
-
 #

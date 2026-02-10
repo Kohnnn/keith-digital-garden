@@ -41,7 +41,4 @@ This links to [[CPU Branch Prediction Evolution]] and [[Deceiving Windows Defend
 ## open loop
 Which hardware optimizations are still unmodeled for security risk?
 
-## updates
-- 2025-02-06: Seed draft from 2022 backfill. Pending manual review.
-
 #

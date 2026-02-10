@@ -41,7 +41,4 @@ This connects to [[Afghanistan Withdrawal]] and [[AUKUS and the Alliance Reset]]
 ## open loop
 Which policy timelines change fastest after a leadership reset?
 
-## updates
-- 2025-01-23: Seed draft from 2020 backfill. Pending manual review.
-
 #

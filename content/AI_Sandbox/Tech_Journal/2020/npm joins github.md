@@ -41,7 +41,4 @@ This links to [[Platform Accountability Cluster]] and [[We Lost 54k GitHub Stars
 ## open loop
 What governance guarantees matter most to package ecosystems?
 
-## updates
-- 2025-02-04: Seed draft from 2020 backfill. Pending manual review.
-
 #

@@ -83,7 +83,4 @@ This was a release with long tail effects. It changes the default starting point
   </ul>
 </div>
 
-## updates
-- 2025-06-02: Seed draft from 2021 backfill. Pending manual review.
-
 #

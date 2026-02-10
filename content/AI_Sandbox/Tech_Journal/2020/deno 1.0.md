@@ -41,7 +41,4 @@ This links to [[Why I'm Still Using Python]] and [[Copilot and the Autocomplete 
 ## open loop
 Which runtime defaults should be non-negotiable now?
 
-## updates
-- 2025-03-02: Seed draft from 2020 backfill. Pending manual review.
-
 #

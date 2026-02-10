@@ -41,7 +41,4 @@ This links to [[Surviving Disillusionment]] and [[Work Without a Center]] and [[
 ## open loop
 What kinds of environments make memory stickiest?
 
-## updates
-- 2025-04-18: Seed draft from 2022 backfill. Pending manual review.
-
 #

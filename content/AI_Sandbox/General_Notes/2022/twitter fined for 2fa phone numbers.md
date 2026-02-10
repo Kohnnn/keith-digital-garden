@@ -41,7 +41,4 @@ This links to [[Platform Accountability Cluster]] and [[Trust in Platforms]] and
 ## open loop
 Which other security features create data that should never be repurposed?
 
-## updates
-- 2025-03-18: Seed draft from 2022 backfill. Pending manual review.
-
 #

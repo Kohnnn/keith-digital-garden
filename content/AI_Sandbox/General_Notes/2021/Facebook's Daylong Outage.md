@@ -88,7 +88,4 @@ I link this to [[Log4Shell and the Ops Tax]] because both show how operations br
   </ul>
 </div>
 
-## updates
-- 2025-08-28: Seed draft from 2021 backfill. Pending manual review.
-
 #

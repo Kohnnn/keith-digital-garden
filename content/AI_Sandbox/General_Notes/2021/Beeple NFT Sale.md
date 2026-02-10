@@ -86,7 +86,4 @@ I keep this linked to [[ProShares Bitcoin ETF]] because both are about legitimac
   </ul>
 </div>
 
-## updates
-- 2025-05-29: Seed draft from 2021 backfill. Pending manual review.
-
 #

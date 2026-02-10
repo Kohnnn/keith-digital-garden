@@ -41,7 +41,4 @@ This connects to [[apple drops icloud encryption plan]] and [[Surveillance Norma
 ## open loop
 Which categories of user data still lack strong encryption by default?
 
-## updates
-- 2025-05-09: Seed draft from 2022 backfill. Pending manual review.
-
 #

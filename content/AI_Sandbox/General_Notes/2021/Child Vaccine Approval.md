@@ -86,7 +86,4 @@ I keep this linked to [[School Closures and Learning Loss]] because school stabi
   </ul>
 </div>
 
-## updates
-- 2025-03-01: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -84,7 +84,4 @@ This is a reminder that fundamentals do not expire. Old hardware is still a good
   </ul>
 </div>
 
-## updates
-- 2025-02-13: Seed draft from 2022 backfill. Pending manual review.
-
 #

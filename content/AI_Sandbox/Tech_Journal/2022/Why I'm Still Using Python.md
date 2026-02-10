@@ -84,7 +84,4 @@ Most projects do not fail because of performance; they fail because of slow iter
   </ul>
 </div>
 
-## updates
-- 2025-04-12: Seed draft from 2022 backfill. Pending manual review.
-
 #

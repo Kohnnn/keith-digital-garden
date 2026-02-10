@@ -41,7 +41,4 @@ This links to [[I Regret My Website Redesign]] and [[Platform Accountability Clu
 ## open loop
 Which review categories need open datasets to be credible?
 
-## updates
-- 2025-04-27: Seed draft from 2022 backfill. Pending manual review.
-
 #

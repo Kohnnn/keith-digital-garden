@@ -41,7 +41,4 @@ This links to [[Advent of Code on a Playstation]] and [[Pockit Modular Computer]
 ## open loop
 Which interface constraints create the most satisfying puzzles?
 
-## updates
-- 2025-02-23: Seed draft from 2022 backfill. Pending manual review.
-
 #

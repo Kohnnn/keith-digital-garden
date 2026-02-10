@@ -85,7 +85,4 @@ I keep this near [[Inflation Prints 6.8]] because both are about confidence shoc
   </ul>
 </div>
 
-## updates
-- 2025-10-08: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -84,7 +84,4 @@ If the performance floor rises, cross-platform stacks become a default choice. T
   </ul>
 </div>
 
-## updates
-- 2025-04-05: Seed draft from 2022 backfill. Pending manual review.
-
 #

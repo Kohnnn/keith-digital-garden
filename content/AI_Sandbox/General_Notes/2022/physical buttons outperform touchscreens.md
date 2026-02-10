@@ -41,7 +41,4 @@ This connects to [[I Regret My Website Redesign]] and [[Framework Laptop Upgrade
 ## open loop
 Which other everyday interfaces would improve with physical controls?
 
-## updates
-- 2025-02-01: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -107,7 +107,4 @@ This is also a reminder that future platforms only increase the surface area. If
   </ul>
 </div>
 
-## updates
-- 2025-10-19: Seed draft from 2021 backfill. Pending manual review.
-
 #

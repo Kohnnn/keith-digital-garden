@@ -41,7 +41,4 @@ This links to [[Deceiving Windows Defender Big Stack Bypass]] and [[ios14 clipbo
 ## open loop
 Which other UI-state paths are still untested for security?
 
-## updates
-- 2025-03-24: Seed draft from 2022 backfill. Pending manual review.
-
 #

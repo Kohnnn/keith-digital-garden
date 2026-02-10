@@ -84,7 +84,4 @@ The point is restraint. When the task is simple, the tool should be simpler.
   </ul>
 </div>
 
-## updates
-- 2025-01-19: Seed draft from 2022 backfill. Pending manual review.
-
 #

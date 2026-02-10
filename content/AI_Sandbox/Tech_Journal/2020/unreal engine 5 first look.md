@@ -41,7 +41,4 @@ This links to [[Adobe to Acquire Figma]] and [[GameStop and the Retail Squeeze]]
 ## open loop
 Which industries beyond games will absorb real-time pipelines next?
 
-## updates
-- 2025-02-19: Seed draft from 2020 backfill. Pending manual review.
-
 #

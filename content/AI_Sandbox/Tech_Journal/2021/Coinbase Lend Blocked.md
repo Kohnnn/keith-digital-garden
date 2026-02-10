@@ -84,7 +84,4 @@ This was a boundary-setting moment. It will push crypto products toward slower, 
   </ul>
 </div>
 
-## updates
-- 2025-01-11: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -84,7 +84,4 @@ This is a quiet but powerful artifact. When visibility data is public, research 
   </ul>
 </div>
 
-## updates
-- 2025-03-25: Seed draft from 2022 backfill. Pending manual review.
-
 #

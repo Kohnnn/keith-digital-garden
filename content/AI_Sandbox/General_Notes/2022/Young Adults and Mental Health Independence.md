@@ -87,7 +87,4 @@ The strongest insight is that mental health is partially a design outcome. If au
   </ul>
 </div>
 
-## updates
-- 2025-05-27: Seed draft from 2022 backfill. Pending manual review.
-
 #

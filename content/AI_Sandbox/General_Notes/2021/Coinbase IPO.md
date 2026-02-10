@@ -85,7 +85,4 @@ I keep this linked to [[ProShares Bitcoin ETF]] because both are about access an
   </ul>
 </div>
 
-## updates
-- 2025-07-22: Seed draft from 2021 backfill. Pending manual review.
-
 #

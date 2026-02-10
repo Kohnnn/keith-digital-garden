@@ -84,7 +84,4 @@ This is less about niche phones and more about long-term control. When vendors s
   </ul>
 </div>
 
-## updates
-- 2025-05-03: Seed draft from 2022 backfill. Pending manual review.
-
 #

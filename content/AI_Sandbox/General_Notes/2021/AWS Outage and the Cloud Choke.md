@@ -86,7 +86,4 @@ I keep this close to [[Fastly and the Edge Outage]] because both show how extern
   </ul>
 </div>
 
-## updates
-- 2025-08-31: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -82,7 +82,4 @@ This is a preview of the next tooling layer. The model is the substrate; the int
   </ul>
 </div>
 
-## updates
-- 2025-01-27: Seed draft from 2022 backfill. Pending manual review.
-
 #

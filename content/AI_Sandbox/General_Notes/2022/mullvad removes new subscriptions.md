@@ -41,7 +41,4 @@ This links to [[Storj Removes Warrant Canary]] and [[Surveillance Normalized]] a
 ## open loop
 Which business features quietly increase security risk the most?
 
-## updates
-- 2025-02-21: Seed draft from 2022 backfill. Pending manual review.
-
 #

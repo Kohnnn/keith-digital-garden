@@ -88,7 +88,4 @@ I keep this linked to [[Meta and the AR Bet]] because both are about who owns th
   </ul>
 </div>
 
-## updates
-- 2025-09-27: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This connects to [[John Carmack Leaves Meta]] and [[Meta and the AR Bet]] and [[
 ## open loop
 How long does a cost reset shape product risk appetite?
 
-## updates
-- 2025-01-18: Seed draft from 2022 backfill. Pending manual review.
-
 #

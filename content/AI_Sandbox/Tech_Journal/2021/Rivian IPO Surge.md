@@ -84,7 +84,4 @@ This was a moment of peak optimism. It doesn’t mean the company won’t delive
   </ul>
 </div>
 
-## updates
-- 2025-03-07: Seed draft from 2021 backfill. Pending manual review.
-
 #

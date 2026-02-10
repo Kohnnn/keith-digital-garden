@@ -84,7 +84,4 @@ This was less about payments and more about optics. Energy use became the primar
   </ul>
 </div>
 
-## updates
-- 2025-04-21: Seed draft from 2021 backfill. Pending manual review.
-
 #

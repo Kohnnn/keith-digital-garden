@@ -84,7 +84,4 @@ The headline is about cycle timing. When big buyers pull back, the entire supply
   </ul>
 </div>
 
-## updates
-- 2025-05-16: Seed draft from 2022 backfill. Pending manual review.
-
 #

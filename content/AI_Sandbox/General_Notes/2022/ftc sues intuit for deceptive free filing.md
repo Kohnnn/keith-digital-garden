@@ -41,7 +41,4 @@ This connects to [[Platform Accountability Cluster]] and [[Trust in Platforms]] 
 ## open loop
 What disclosures should be mandatory for pricing claims?
 
-## updates
-- 2025-02-10: Seed draft from 2022 backfill. Pending manual review.
-
 #

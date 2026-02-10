@@ -86,7 +86,4 @@ This was less about policy and more about continuity. When symbols change, the l
   </ul>
 </div>
 
-## updates
-- 2025-02-06: Seed draft from 2022 backfill. Pending manual review.
-
 #

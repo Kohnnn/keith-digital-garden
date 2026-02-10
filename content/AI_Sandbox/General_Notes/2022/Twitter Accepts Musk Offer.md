@@ -41,7 +41,4 @@ This links to [[Elon Musk Offers to Buy Twitter]] and [[Twitter Suspends Paul Gr
 ## open loop
 What accountability mechanisms still hold after a private acquisition?
 
-## updates
-- 2025-01-30: Seed draft from 2022 backfill. Pending manual review.
-
 #

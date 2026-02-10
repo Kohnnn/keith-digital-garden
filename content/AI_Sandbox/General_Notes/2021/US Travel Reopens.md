@@ -86,7 +86,4 @@ I keep this linked to [[Omicron and the Risk Reset]] because policy reversals re
   </ul>
 </div>
 
-## updates
-- 2025-04-23: Seed draft from 2021 backfill. Pending manual review.
-
 #

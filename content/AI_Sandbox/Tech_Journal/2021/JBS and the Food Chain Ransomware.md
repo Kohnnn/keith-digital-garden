@@ -86,7 +86,4 @@ I keep this close to [[Colonial Pipeline and the Ransomware Shock]] because both
   </ul>
 </div>
 
-## updates
-- 2025-05-24: Seed draft from 2021 backfill. Pending manual review.
-
 #

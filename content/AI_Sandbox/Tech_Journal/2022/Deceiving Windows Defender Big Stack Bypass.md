@@ -84,7 +84,4 @@ The strongest defenses are the ones that assume they will be bypassed. That mind
   </ul>
 </div>
 
-## updates
-- 2025-02-21: Seed draft from 2022 backfill. Pending manual review.
-
 #

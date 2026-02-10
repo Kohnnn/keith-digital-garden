@@ -86,7 +86,4 @@ This is not a near-term energy fix, but it is a trust update. It gives funders a
   </ul>
 </div>
 
-## updates
-- 2025-04-11: Seed draft from 2022 backfill. Pending manual review.
-
 #

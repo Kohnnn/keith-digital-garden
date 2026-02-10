@@ -84,7 +84,4 @@ This was a strategic shift. The open question is whether the policy pace can mat
   </ul>
 </div>
 
-## updates
-- 2025-05-02: Seed draft from 2021 backfill. Pending manual review.
-
 #

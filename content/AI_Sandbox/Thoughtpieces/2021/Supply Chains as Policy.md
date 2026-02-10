@@ -84,7 +84,4 @@ This is a structural shift. Supply chains are no longer neutral; they are strate
   </ul>
 </div>
 
-## updates
-- 2025-03-12: Seed draft from 2021 backfill. Pending manual review.
-
 #

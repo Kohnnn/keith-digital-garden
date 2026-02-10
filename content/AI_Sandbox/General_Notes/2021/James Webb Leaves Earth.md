@@ -86,7 +86,4 @@ I keep this near #future-tech because it is a reminder that real breakthroughs l
   </ul>
 </div>
 
-## updates
-- 2025-08-03: Seed draft from 2021 backfill. Pending manual review.
-
 #

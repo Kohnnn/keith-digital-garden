@@ -41,7 +41,4 @@ This connects to [[deno 1.0]] and [[Why I'm Still Using Python]] and [[github co
 ## open loop
 Which parts of the JS stack are still the biggest performance bottlenecks?
 
-## updates
-- 2025-05-02: Seed draft from 2022 backfill. Pending manual review.
-
 #

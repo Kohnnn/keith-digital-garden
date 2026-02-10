@@ -84,7 +84,4 @@ This flight was a marketing milestone as much as a technical one. The business c
   </ul>
 </div>
 
-## updates
-- 2024-10-28: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This links to [[obsidian canvas]] and [[State of HTTP in 2022]] and [[I Regret M
 ## open loop
 Which teams benefit most when mapping becomes collaborative?
 
-## updates
-- 2025-03-11: Seed draft from 2022 backfill. Pending manual review.
-
 #

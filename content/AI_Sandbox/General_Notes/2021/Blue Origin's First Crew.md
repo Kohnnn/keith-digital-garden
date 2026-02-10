@@ -85,7 +85,4 @@ I keep this linked to [[Inspiration4 and the Private Crew]] because both mark th
   </ul>
 </div>
 
-## updates
-- 2025-06-03: Seed draft from 2021 backfill. Pending manual review.
-
 #

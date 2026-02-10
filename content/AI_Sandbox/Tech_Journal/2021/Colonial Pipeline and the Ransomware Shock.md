@@ -92,7 +92,4 @@ I keep this linked to [[Log4Shell and the Ops Tax]] because both are about the o
   </ul>
 </div>
 
-## updates
-- 2025-10-11: Seed draft from 2021 backfill. Pending manual review.
-
 #

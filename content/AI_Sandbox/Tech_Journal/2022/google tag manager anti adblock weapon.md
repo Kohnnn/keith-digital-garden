@@ -41,7 +41,4 @@ This links to [[Surveillance Normalized]] and [[Google Search Is Dying]] and [[T
 ## open loop
 What countermeasures actually scale against tag-based tracking?
 
-## updates
-- 2025-01-21: Seed draft from 2022 backfill. Pending manual review.
-
 #

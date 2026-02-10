@@ -89,7 +89,4 @@ I keep this close to [[Evergrande and the Credit Tremor]] because both are about
   </ul>
 </div>
 
-## updates
-- 2025-10-04: Seed draft from 2021 backfill. Pending manual review.
-
 #

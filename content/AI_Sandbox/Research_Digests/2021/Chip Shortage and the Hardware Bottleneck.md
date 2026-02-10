@@ -111,7 +111,4 @@ For tech strategy, the signal is clear: compute capacity is an input you cannot 
   </ul>
 </div>
 
-## updates
-- 2025-09-14: Seed draft from 2021 backfill. Pending manual review.
-
 #

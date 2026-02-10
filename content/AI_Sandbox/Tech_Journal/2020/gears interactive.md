@@ -41,7 +41,4 @@ This connects to [[Mechanical Watch Interactive]] and [[Sound Interactive]] and 
 ## open loop
 Which other mechanical systems deserve this treatment?
 
-## updates
-- 2025-03-17: Seed draft from 2020 backfill. Pending manual review.
-
 #

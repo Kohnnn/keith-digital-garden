@@ -41,7 +41,4 @@ This links to [[Sound Interactive]] and [[Mechanical Watch Interactive]] and [[D
 ## open loop
 Which other physical systems deserve a playful demo?
 
-## updates
-- 2025-04-13: Seed draft from 2022 backfill. Pending manual review.
-
 #

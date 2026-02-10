@@ -85,7 +85,4 @@ The market is always a story, but 2021 made that story louder than usual. The le
   </ul>
 </div>
 
-## updates
-- 2025-01-30: Seed draft from 2021 backfill. Pending manual review.
-
 #

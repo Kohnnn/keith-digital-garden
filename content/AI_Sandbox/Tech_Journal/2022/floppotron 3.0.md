@@ -41,7 +41,4 @@ This links to [[Riffusion Generates Music]] and [[Pockit Modular Computer]] and 
 ## open loop
 Which obsolete hardware could become a new instrument?
 
-## updates
-- 2025-02-27: Seed draft from 2022 backfill. Pending manual review.
-
 #

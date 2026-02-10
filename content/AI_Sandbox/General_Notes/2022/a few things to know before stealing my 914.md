@@ -41,7 +41,4 @@ This links to [[Raspberry Pi Security Alarm Basics]] and [[Deceiving Windows Def
 ## open loop
 Where else could playful teaching improve security behavior?
 
-## updates
-- 2025-03-13: Seed draft from 2022 backfill. Pending manual review.
-
 #

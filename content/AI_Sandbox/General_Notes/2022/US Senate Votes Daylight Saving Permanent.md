@@ -87,7 +87,4 @@ This is a reminder that governance is often about invisible scaffolding. People 
   </ul>
 </div>
 
-## updates
-- 2025-02-12: Seed draft from 2022 backfill. Pending manual review.
-
 #

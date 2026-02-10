@@ -85,7 +85,4 @@ I keep this linked to [[Pegasus and the Zero-Click Reality]] because both show h
   </ul>
 </div>
 
-## updates
-- 2025-07-08: Seed draft from 2021 backfill. Pending manual review.
-
 #

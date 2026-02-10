@@ -88,7 +88,4 @@ I keep this linked to [[Bitcoin as a State Experiment]] because both are about h
   </ul>
 </div>
 
-## updates
-- 2025-09-21: Seed draft from 2021 backfill. Pending manual review.
-
 #

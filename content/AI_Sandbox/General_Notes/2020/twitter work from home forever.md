@@ -41,7 +41,4 @@ This links to [[Remote Work Normalizes]] and [[Labor Shortage and the Quit Wave]
 ## open loop
 What work rituals become mandatory when location is optional?
 
-## updates
-- 2025-02-27: Seed draft from 2020 backfill. Pending manual review.
-
 #

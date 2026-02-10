@@ -41,7 +41,4 @@ This connects to [[Google Search Is Dying]] and [[State of HTTP in 2022]] and [[
 ## open loop
 Which other defaults quietly decide user paths?
 
-## updates
-- 2025-02-12: Seed draft from 2022 backfill. Pending manual review.
-
 #

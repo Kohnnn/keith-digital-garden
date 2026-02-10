@@ -81,7 +81,4 @@ This cluster connects gas shocks, power rationing, and grid stress into a single
   </ul>
 </div>
 
-## updates
-- 2025-01-18: Seed draft from 2021 backfill. Pending manual review.
-
 #

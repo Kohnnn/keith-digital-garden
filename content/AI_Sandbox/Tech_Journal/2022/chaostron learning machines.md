@@ -41,7 +41,4 @@ This links to [[Claude Shannon Foundations of Communication]] and [[Whisper Open
 ## open loop
 Which old papers deserve a fresh read right now?
 
-## updates
-- 2025-04-16: Seed draft from 2022 backfill. Pending manual review.
-
 #

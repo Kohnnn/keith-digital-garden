@@ -41,7 +41,4 @@ This links to [[Platform Accountability Cluster]] and [[State of HTTP in 2022]] 
 ## open loop
 What governance signals make infrastructure transitions feel safe?
 
-## updates
-- 2025-02-03: Seed draft from 2022 backfill. Pending manual review.
-
 #

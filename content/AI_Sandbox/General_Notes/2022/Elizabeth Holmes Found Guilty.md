@@ -86,7 +86,4 @@ This is a credibility checkpoint. It will make investors and boards more cautiou
   </ul>
 </div>
 
-## updates
-- 2025-03-19: Seed draft from 2022 backfill. Pending manual review.
-
 #

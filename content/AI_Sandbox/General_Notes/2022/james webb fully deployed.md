@@ -41,7 +41,4 @@ This links to [[Compare Webb Images to Hubble]] and [[James Webb Leaves Earth]] 
 ## open loop
 What will Webb’s first unexpected result be?
 
-## updates
-- 2025-03-28: Seed draft from 2022 backfill. Pending manual review.
-
 #

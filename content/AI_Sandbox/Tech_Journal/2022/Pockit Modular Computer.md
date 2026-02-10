@@ -84,7 +84,4 @@ This is a reminder that hardware innovation can be small and still meaningful. I
   </ul>
 </div>
 
-## updates
-- 2025-02-08: Seed draft from 2022 backfill. Pending manual review.
-
 #

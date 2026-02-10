@@ -82,7 +82,4 @@ The main shift is usability. Once the interface is simple, the adoption curve ju
   </ul>
 </div>
 
-## updates
-- 2025-02-09: Seed draft from 2022 backfill. Pending manual review.
-
 #

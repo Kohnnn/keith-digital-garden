@@ -84,7 +84,4 @@ The transition is not optional, but neither is stability. The real challenge is 
   </ul>
 </div>
 
-## updates
-- 2024-12-05: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This links to [[US Senate Votes Daylight Saving Permanent]] and [[Pole Clock]] a
 ## open loop
 Which other standards persist mainly because change is too expensive?
 
-## updates
-- 2025-02-09: Seed draft from 2022 backfill. Pending manual review.
-
 #

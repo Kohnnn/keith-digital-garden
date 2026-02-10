@@ -41,7 +41,4 @@ This connects to [[Google Search Quality Declines]] and [[RSS Brain]] and [[Trus
 ## open loop
 What would restore confidence in an index without changing the incentives behind it?
 
-## updates
-- 2025-05-14: Seed draft from 2022 backfill. Pending manual review.
-
 #

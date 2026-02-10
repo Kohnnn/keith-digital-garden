@@ -84,7 +84,4 @@ The main shift is intention. RSS is not nostalgia; it is a constraint that prote
   </ul>
 </div>
 
-## updates
-- 2025-02-02: Seed draft from 2022 backfill. Pending manual review.
-
 #

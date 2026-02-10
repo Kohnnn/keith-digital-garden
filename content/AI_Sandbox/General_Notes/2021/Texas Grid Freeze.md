@@ -85,7 +85,4 @@ I keep this linked to [[China's Power Crunch]] because both show how energy cons
   </ul>
 </div>
 
-## updates
-- 2025-03-14: Seed draft from 2021 backfill. Pending manual review.
-
 #

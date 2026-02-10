@@ -84,7 +84,4 @@ This is a reminder that privacy products live or die on credibility. If transpar
   </ul>
 </div>
 
-## updates
-- 2025-01-29: Seed draft from 2022 backfill. Pending manual review.
-
 #

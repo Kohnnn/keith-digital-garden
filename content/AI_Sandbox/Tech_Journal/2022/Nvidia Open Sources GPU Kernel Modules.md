@@ -83,7 +83,4 @@ The biggest impact is in credibility. Once developers believe the stack is less 
   </ul>
 </div>
 
-## updates
-- 2025-03-11: Seed draft from 2022 backfill. Pending manual review.
-
 #

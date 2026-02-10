@@ -85,7 +85,4 @@ I keep this linked to [[AUKUS and the Alliance Reset]] because both are about al
   </ul>
 </div>
 
-## updates
-- 2025-02-27: Seed draft from 2021 backfill. Pending manual review.
-
 #

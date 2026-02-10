@@ -85,7 +85,4 @@ I keep this linked to [[Haugen and the Internal Files]] because both are about p
   </ul>
 </div>
 
-## updates
-- 2025-07-13: Seed draft from 2021 backfill. Pending manual review.
-
 #

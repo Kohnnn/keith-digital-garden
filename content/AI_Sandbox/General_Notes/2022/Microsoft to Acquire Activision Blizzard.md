@@ -86,7 +86,4 @@ This is about distribution and bargaining power. The long-term outcome depends l
   </ul>
 </div>
 
-## updates
-- 2025-02-22: Seed draft from 2022 backfill. Pending manual review.
-
 #

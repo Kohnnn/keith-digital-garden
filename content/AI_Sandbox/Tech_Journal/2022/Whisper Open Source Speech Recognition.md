@@ -86,7 +86,4 @@ This is the kind of release that changes roadmap math. When speech becomes a com
   </ul>
 </div>
 
-## updates
-- 2025-03-02: Seed draft from 2022 backfill. Pending manual review.
-
 #

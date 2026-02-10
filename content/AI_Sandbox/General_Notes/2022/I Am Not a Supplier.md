@@ -87,7 +87,4 @@ The strongest part is the framing. If you let the other side define the relation
   </ul>
 </div>
 
-## updates
-- 2025-04-15: Seed draft from 2022 backfill. Pending manual review.
-
 #

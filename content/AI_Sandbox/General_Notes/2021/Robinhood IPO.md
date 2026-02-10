@@ -85,7 +85,4 @@ I keep this linked to [[GameStop and the Retail Squeeze]] because both are about
   </ul>
 </div>
 
-## updates
-- 2025-06-07: Seed draft from 2021 backfill. Pending manual review.
-
 #

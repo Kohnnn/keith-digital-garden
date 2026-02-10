@@ -90,7 +90,4 @@ This was the moment where energy stopped being a technical policy file and becam
   </ul>
 </div>
 
-## updates
-- 2025-07-17: Seed draft from 2022 backfill. Pending manual review.
-
 #

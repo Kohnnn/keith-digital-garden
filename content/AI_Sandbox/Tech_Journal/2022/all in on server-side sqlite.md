@@ -41,7 +41,4 @@ This links to [[use one big server]] and [[State of HTTP in 2022]] and [[I Wrote
 ## open loop
 Which workloads truly need distributed databases on day one?
 
-## updates
-- 2025-01-24: Seed draft from 2022 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This links to [[macos cannot open non-apple apps]] and [[State of HTTP in 2022]]
 ## open loop
 Which other everyday tools fail on simple edge cases?
 
-## updates
-- 2025-01-30: Seed draft from 2022 backfill. Pending manual review.
-
 #

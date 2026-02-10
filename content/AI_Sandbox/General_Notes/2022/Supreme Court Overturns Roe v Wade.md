@@ -86,7 +86,4 @@ This is a reset moment. The biggest impact is not the headline, but the operatio
   </ul>
 </div>
 
-## updates
-- 2025-03-04: Seed draft from 2022 backfill. Pending manual review.
-
 #

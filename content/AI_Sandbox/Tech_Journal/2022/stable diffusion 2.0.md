@@ -41,7 +41,4 @@ This links to [[Dall-E 2]] and [[Riffusion Generates Music]] and [[Whisper Open 
 ## open loop
 Which guardrails will be expected as open models improve?
 
-## updates
-- 2025-01-25: Seed draft from 2022 backfill. Pending manual review.
-
 #

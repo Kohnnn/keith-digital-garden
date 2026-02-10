@@ -89,7 +89,4 @@ I keep this tied to [[EIP-1559 and the Fee Burn]] because both are moments where
   </ul>
 </div>
 
-## updates
-- 2025-09-30: Seed draft from 2021 backfill. Pending manual review.
-
 #

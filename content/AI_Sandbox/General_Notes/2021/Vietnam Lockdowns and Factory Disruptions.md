@@ -87,7 +87,4 @@ I keep this linked to [[Port Congestion Squeeze]] because both show how physical
   </ul>
 </div>
 
-## updates
-- 2025-05-20: Seed draft from 2021 backfill. Pending manual review.
-
 #

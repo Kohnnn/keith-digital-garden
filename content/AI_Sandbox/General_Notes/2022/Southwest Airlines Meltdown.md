@@ -91,7 +91,4 @@ This is a warning about under-investing in systems that only show value when eve
   </ul>
 </div>
 
-## updates
-- 2025-06-07: Seed draft from 2022 backfill. Pending manual review.
-
 #

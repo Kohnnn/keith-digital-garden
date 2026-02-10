@@ -86,7 +86,4 @@ I keep this linked to [[US Travel Reopens]] because both are about reopening pol
   </ul>
 </div>
 
-## updates
-- 2025-02-03: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -81,7 +81,4 @@ This cluster ties Blue Origin, Virgin Galactic, and Inspiration4 into a single t
   </ul>
 </div>
 
-## updates
-- 2025-06-10: Seed draft from 2021 backfill. Pending manual review.
-
 #

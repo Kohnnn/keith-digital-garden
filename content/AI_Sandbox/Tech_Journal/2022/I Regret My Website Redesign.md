@@ -83,7 +83,4 @@ The lesson is to keep some qualitative loops open. If you only listen to dashboa
   </ul>
 </div>
 
-## updates
-- 2025-06-02: Seed draft from 2022 backfill. Pending manual review.
-
 #

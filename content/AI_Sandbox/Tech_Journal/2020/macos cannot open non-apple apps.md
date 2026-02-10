@@ -41,7 +41,4 @@ This connects to [[AWS Outage and the Cloud Choke]] and [[State of HTTP in 2022]
 ## open loop
 What redundancy exists for platform trust systems?
 
-## updates
-- 2025-05-10: Seed draft from 2020 backfill. Pending manual review.
-
 #

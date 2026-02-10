@@ -85,7 +85,4 @@ I keep this linked to [[Exchange Server Hacks]] because both reveal the risk in 
   </ul>
 </div>
 
-## updates
-- 2025-07-04: Seed draft from 2021 backfill. Pending manual review.
-
 #

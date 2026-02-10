@@ -41,7 +41,4 @@ This links to [[Sound Interactive]] and [[Mechanical Watch Interactive]] and [[G
 ## open loop
 Which scientific concepts need better interactive translation?
 
-## updates
-- 2025-01-20: Seed draft from 2020 backfill. Pending manual review.
-
 #

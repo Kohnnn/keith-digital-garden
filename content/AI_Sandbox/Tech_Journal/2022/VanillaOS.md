@@ -84,7 +84,4 @@ This feels like a push toward safer defaults. The real challenge will be preserv
   </ul>
 </div>
 
-## updates
-- 2025-04-28: Seed draft from 2022 backfill. Pending manual review.
-
 #

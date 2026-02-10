@@ -87,7 +87,4 @@ This is the moment the market saw Meta as a mature system. That forces a sharper
   </ul>
 </div>
 
-## updates
-- 2025-01-21: Seed draft from 2022 backfill. Pending manual review.
-
 #

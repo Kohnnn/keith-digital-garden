@@ -86,7 +86,4 @@ I keep this linked to [[Tesla's Bitcoin Treasury]] because both are legitimacy s
   </ul>
 </div>
 
-## updates
-- 2025-09-02: Seed draft from 2021 backfill. Pending manual review.
-
 #

@@ -41,7 +41,4 @@ This links to [[apple drops icloud encryption plan]] and [[Surveillance Normaliz
 ## open loop
 Which technical safeguards can survive shifting policy rules?
 
-## updates
-- 2025-04-04: Seed draft from 2020 backfill. Pending manual review.
-
 #

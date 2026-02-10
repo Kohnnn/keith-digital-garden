@@ -41,7 +41,4 @@ This links to [[Raspberry Pi Security Alarm Basics]] and [[Pockit Modular Comput
 ## open loop
 What else should be bundled to make learning devices more durable?
 
-## updates
-- 2025-02-22: Seed draft from 2020 backfill. Pending manual review.
-
 #

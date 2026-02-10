@@ -14,14 +14,14 @@ draft: true
 description: The Framework Laptop as a signal about broader shifts.
 created: 2021-02-25
 updated: 2021-02-25
-note_id: 210225TJ03
+note_id: 210225TJ02
 cssclasses:
   - tech-journal
 ---
 
 # the framework laptop
 
-The Framework Laptop landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://frame.work/blog/introducing-the-framework-laptop)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+The Framework Laptop surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://frame.work/blog/introducing-the-framework-laptop)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The Framework Laptop signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

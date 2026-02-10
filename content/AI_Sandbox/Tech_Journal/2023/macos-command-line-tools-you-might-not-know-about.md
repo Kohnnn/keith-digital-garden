@@ -14,30 +14,33 @@ draft: true
 description: macOS command-line tools you might not know about as a signal about broader shifts.
 created: 2023-06-27
 updated: 2023-06-27
-note_id: 230627TJ09
+note_id: 230627TJ01
 cssclasses:
   - tech-journal
 ---
 
 # macos command-line tools you might not know about
 
-macOS command-line tools you might not know about landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://saurabhs.org/advanced-macos-commands)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+macos command-line tools you might not know about lands as a clean signal for the current cycle ([source](https://saurabhs.org/advanced-macos-commands)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 
 ## context + claim
-macOS command-line tools you might not know about signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.
+macos command-line tools you might not know about shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.
 
-## constraint map
-- Adoption depends on integration cost, not just performance.
-- Early gains are real but fragile without operational tooling.
-- The ecosystem follows once compatibility becomes predictable.
+## evidence stack
+- The visible change is only the surface; the incentive change is the durable part.
+- Adoption pressure shows up before the tooling catches up, which creates short-term friction.
+- The second-order effects are where I expect real compounding.
 
-## risk surface
-- Over-rotation on the headline could mask second-order costs.
-- Early adopters take execution risk while incumbents take narrative risk.
-- If incentives misalign, the outcome becomes a short-lived spike instead of a durable shift.
+## decision boundary
+If this lowers operational burden without a quality tradeoff, I treat it as a real shift. If it adds fragility or hidden cost, I treat it as a temporary spike.
 
 ## my take
-I treat this as a directional signal, not a definitive answer. The right response is to adjust posture while keeping the option to reverse if the signal fades.
+I am leaning cautious: treat the change as real, but do not calcify it until the operational story holds.
+
+<div class="note-micro">
+  <span class="inline-note">friction point</span>
+  <span class="inline-note">default drift</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -58,5 +61,8 @@ I treat this as a directional signal, not a definitive answer. The right respons
     </li>
   </ul>
 </div>
+
+## ending questions
+What would make this feel durable instead of episodic?
 
 #

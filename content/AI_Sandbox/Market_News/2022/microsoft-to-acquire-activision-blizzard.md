@@ -3,7 +3,7 @@ title: microsoft to acquire activision blizzard
 tags:
   - market-news
   - finance
-  - policy
+  - product
   - 2022
 keywords:
   - rates
@@ -15,14 +15,14 @@ draft: true
 description: Microsoft to Acquire Activision Blizzard as a signal about broader shifts.
 created: 2022-01-18
 updated: 2022-01-18
-note_id: 220118MR04
+note_id: 220118MR02
 cssclasses:
   - market-news
 ---
 
 # microsoft to acquire activision blizzard
 
-Microsoft to Acquire Activision Blizzard landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Microsoft to Acquire Activision Blizzard surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Microsoft to Acquire Activision Blizzard sits inside the market narrative for this period and reflects changing risk appetites. My claim: pricing is reacting to regime expectations more than fundamentals.
@@ -46,7 +46,7 @@ I treat this as a directional signal, not a definitive answer. The right respons
       <ul>
         <li>#market-news</li>
         <li>#finance</li>
-        <li>#policy</li>
+        <li>#product</li>
         <li>#2022</li>
       </ul>
     </li>

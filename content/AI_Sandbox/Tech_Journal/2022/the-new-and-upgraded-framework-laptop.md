@@ -14,14 +14,14 @@ draft: true
 description: The new and upgraded Framework Laptop as a signal about broader shifts.
 created: 2022-05-19
 updated: 2022-05-19
-note_id: 220519TJ08
+note_id: 220519TJ03
 cssclasses:
   - tech-journal
 ---
 
 # the new and upgraded framework laptop
 
-The new and upgraded Framework Laptop landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+The new and upgraded Framework Laptop surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The new and upgraded Framework Laptop signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

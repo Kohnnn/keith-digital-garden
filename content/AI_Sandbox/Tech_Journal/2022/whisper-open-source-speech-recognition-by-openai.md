@@ -14,14 +14,14 @@ draft: true
 description: Whisper – open source speech recognition by OpenAI as a signal about broader shifts.
 created: 2022-09-21
 updated: 2022-09-21
-note_id: 220921TJ07
+note_id: 220921TJ03
 cssclasses:
   - tech-journal
 ---
 
 # whisper – open source speech recognition by openai
 
-Whisper – open source speech recognition by OpenAI landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://openai.com/blog/whisper/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Whisper – open source speech recognition by OpenAI surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://openai.com/blog/whisper/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Whisper – open source speech recognition by OpenAI signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

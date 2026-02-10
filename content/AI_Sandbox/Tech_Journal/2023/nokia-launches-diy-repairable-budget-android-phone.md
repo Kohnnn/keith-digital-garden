@@ -14,14 +14,14 @@ draft: true
 description: Nokia launches DIY repairable budget Android phone as a signal about broader shifts.
 created: 2023-02-25
 updated: 2023-02-25
-note_id: 230225TJ10
+note_id: 230225TJ02
 cssclasses:
   - tech-journal
 ---
 
 # nokia launches diy repairable budget android phone
 
-Nokia launches DIY repairable budget Android phone landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Nokia launches DIY repairable budget Android phone surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Nokia launches DIY repairable budget Android phone signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

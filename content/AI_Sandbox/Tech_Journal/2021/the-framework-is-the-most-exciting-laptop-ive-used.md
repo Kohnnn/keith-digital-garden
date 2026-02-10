@@ -21,7 +21,7 @@ cssclasses:
 
 # the framework is the most exciting laptop i've used
 
-The Framework is the most exciting laptop I've used landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+The Framework is the most exciting laptop I've used surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The Framework is the most exciting laptop I've used signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

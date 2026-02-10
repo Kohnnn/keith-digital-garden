@@ -14,14 +14,14 @@ draft: true
 description: Remembering Allan McDonald, who refused to approve the Challenger launch as a signal about broader shifts.
 created: 2021-03-07
 updated: 2021-03-07
-note_id: 210307TJ05
+note_id: 210307TJ02
 cssclasses:
   - tech-journal
 ---
 
 # remembering allan mcdonald, who refused to approve the challenger launch
 
-Remembering Allan McDonald, who refused to approve the Challenger launch landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://text.npr.org/974534021)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Remembering Allan McDonald, who refused to approve the Challenger launch surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://text.npr.org/974534021)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Remembering Allan McDonald, who refused to approve the Challenger launch signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

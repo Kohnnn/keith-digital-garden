@@ -2,7 +2,6 @@
 title: replit used legal threats to kill my open-source project
 tags:
   - general-note
-  - signals
   - policy
   - 2021
 keywords:
@@ -22,7 +21,7 @@ cssclasses:
 
 # replit used legal threats to kill my open-source project
 
-Replit used legal threats to kill my open-source project landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Replit used legal threats to kill my open-source project surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The story puts a spotlight on replit used legal threats to kill my open-source project, which matters because it reframes where teams allocate attention. My claim: this is less about a single win and more about how the stack and the market are rebalancing around trust and durability.
@@ -47,7 +46,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
     <li>tags
       <ul>
         <li>#general-note</li>
-        <li>#signals</li>
         <li>#policy</li>
         <li>#2021</li>
       </ul>

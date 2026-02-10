@@ -21,7 +21,7 @@ cssclasses:
 
 # google’s copying of the java se api was fair use [pdf]
 
-Google’s copying of the Java SE API was fair use [pdf] landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Google’s copying of the Java SE API was fair use [pdf] landed as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around google’s copying of the java se api was fair use [pdf], giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

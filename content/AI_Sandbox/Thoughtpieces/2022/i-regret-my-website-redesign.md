@@ -14,28 +14,35 @@ draft: true
 description: I regret my website redesign as a signal about broader shifts.
 created: 2022-07-21
 updated: 2022-07-21
-note_id: 220721TP03
+note_id: 220721TP01
 cssclasses:
   - thoughtpiece
 ---
 
 # i regret my website redesign
 
-I regret my website redesign landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://mtlynch.io/tinypilot-redesign/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+i regret my website redesign lands as a clean signal for the current cycle ([source](https://mtlynch.io/tinypilot-redesign/)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 
 ## context + claim
-This reads as a cultural signal wrapped in i regret my website redesign, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.
+i regret my website redesign shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.
 
-## counter-model
-The other read is that this is a minor episode with no lasting structural impact. That argument is plausible, but it ignores the way small stories accumulate and set expectations. I treat it as a narrative hinge until proven otherwise.
+## signal vs noise
+- Signal: behavior that persists without marketing support.
+- Signal: policy or tooling that narrows future choices.
+- Noise: impressive demos without a maintenance story.
 
 ## risk surface
-- Over-rotation on the headline could mask second-order costs.
-- Early adopters take execution risk while incumbents take narrative risk.
-- If incentives misalign, the outcome becomes a short-lived spike instead of a durable shift.
+- The promise outruns operational reality.
+- Costs shift from build to maintenance without warning.
+- The narrative locks in before the evidence matures.
 
 ## my take
-I treat this as a directional signal, not a definitive answer. The right response is to adjust posture while keeping the option to reverse if the signal fades.
+I am leaning cautious: treat the change as real, but do not calcify it until the operational story holds.
+
+<div class="note-micro">
+  <span class="inline-note">friction point</span>
+  <span class="inline-note">default drift</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -56,5 +63,8 @@ I treat this as a directional signal, not a definitive answer. The right respons
     </li>
   </ul>
 </div>
+
+## ending questions
+What would make this feel durable instead of episodic?
 
 #

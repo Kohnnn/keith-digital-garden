@@ -3,7 +3,7 @@ title: adobe to acquire figma for $20b
 tags:
   - market-news
   - finance
-  - policy
+  - product
   - 2022
 keywords:
   - rates
@@ -22,21 +22,25 @@ cssclasses:
 
 # adobe to acquire figma for $20b
 
-Adobe to acquire Figma for $20B landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+adobe to acquire figma for $20b is a pressure test for how this stack behaves in the real world ([source](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
 
 ## context + claim
-Adobe to acquire Figma for $20B sits inside the market narrative for this period and reflects changing risk appetites. My claim: pricing is reacting to regime expectations more than fundamentals.
+adobe to acquire figma for $20b shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.
 
-## time horizon
-Short term, headline sensitivity drives volatility. Mid term, capital costs decide who survives. Long term, the winners are the ones that can keep optionality while the cycle resets.
+## causal chain
+Trigger -> workflow adjustment -> new default, because habits are stickier than roadmaps.
+New default -> platform leverage -> narrowing options for smaller teams.
 
-## risk surface
-- Over-rotation on the headline could mask second-order costs.
-- Early adopters take execution risk while incumbents take narrative risk.
-- If incentives misalign, the outcome becomes a short-lived spike instead of a durable shift.
+## counter-model
+The skeptical read is that this fades as soon as attention moves. That is plausible, but I keep watching whether teams encode it into their routines. Routines are the actual signal.
 
 ## my take
-I treat this as a directional signal, not a definitive answer. The right response is to adjust posture while keeping the option to reverse if the signal fades.
+I am leaning cautious: treat the change as real, but do not calcify it until the operational story holds.
+
+<div class="note-micro">
+  <span class="inline-note">friction point</span>
+  <span class="inline-note">default drift</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -46,7 +50,7 @@ I treat this as a directional signal, not a definitive answer. The right respons
       <ul>
         <li>#market-news</li>
         <li>#finance</li>
-        <li>#policy</li>
+        <li>#product</li>
         <li>#2022</li>
       </ul>
     </li>
@@ -60,6 +64,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
 </div>
 
 ## ending questions
-What would change my mind about how durable this shift really is?
+What would make this feel durable instead of episodic?
 
 #

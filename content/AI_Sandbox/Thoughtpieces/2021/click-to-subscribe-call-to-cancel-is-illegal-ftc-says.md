@@ -14,14 +14,14 @@ draft: true
 description: “Click to subscribe, call to cancel” is illegal, FTC says as a signal about broader shifts.
 created: 2021-11-17
 updated: 2021-11-17
-note_id: 211117TP09
+note_id: 211117TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # “click to subscribe, call to cancel” is illegal, ftc says
 
-“Click to subscribe, call to cancel” is illegal, FTC says landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+“Click to subscribe, call to cancel” is illegal, FTC says surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in “click to subscribe, call to cancel” is illegal, ftc says, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

@@ -15,14 +15,14 @@ draft: true
 description: Google’s copying of the Java SE API was fair use [pdf] as a signal about broader shifts.
 created: 2021-04-05
 updated: 2021-04-05
-note_id: 210405MR07
+note_id: 210405MR02
 cssclasses:
   - market-news
 ---
 
 # google’s copying of the java se api was fair use [pdf]
 
-Google’s copying of the Java SE API was fair use [pdf] landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Google’s copying of the Java SE API was fair use [pdf] surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Google’s copying of the Java SE API was fair use [pdf] sits inside the market narrative for this period and reflects changing risk appetites. My claim: pricing is reacting to regime expectations more than fundamentals.

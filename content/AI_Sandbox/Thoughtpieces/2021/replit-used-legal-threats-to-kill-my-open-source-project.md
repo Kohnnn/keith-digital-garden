@@ -14,14 +14,14 @@ draft: true
 description: Replit used legal threats to kill my open-source project as a signal about broader shifts.
 created: 2021-06-07
 updated: 2021-06-07
-note_id: 210607TP05
+note_id: 210607TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # replit used legal threats to kill my open-source project
 
-Replit used legal threats to kill my open-source project landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Replit used legal threats to kill my open-source project surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in replit used legal threats to kill my open-source project, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

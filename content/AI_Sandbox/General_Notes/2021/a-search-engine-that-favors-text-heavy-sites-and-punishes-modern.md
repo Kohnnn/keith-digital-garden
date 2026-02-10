@@ -2,7 +2,6 @@
 title: a search engine that favors text-heavy sites and punishes modern web design
 tags:
   - general-note
-  - signals
   - web
   - 2021
 keywords:
@@ -22,7 +21,7 @@ cssclasses:
 
 # a search engine that favors text-heavy sites and punishes modern web design
 
-A search engine that favors text-heavy sites and punishes modern web design landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+A search engine that favors text-heavy sites and punishes modern web design surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The story puts a spotlight on a search engine that favors text-heavy sites and punishes modern web design, which matters because it reframes where teams allocate attention. My claim: this is less about a single win and more about how the stack and the market are rebalancing around trust and durability.
@@ -47,7 +46,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
     <li>tags
       <ul>
         <li>#general-note</li>
-        <li>#signals</li>
         <li>#web</li>
         <li>#2021</li>
       </ul>

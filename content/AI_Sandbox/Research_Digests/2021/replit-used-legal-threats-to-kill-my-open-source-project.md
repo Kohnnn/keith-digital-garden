@@ -21,7 +21,7 @@ cssclasses:
 
 # replit used legal threats to kill my open-source project
 
-Replit used legal threats to kill my open-source project landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Replit used legal threats to kill my open-source project landed as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around replit used legal threats to kill my open-source project, giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

@@ -14,28 +14,33 @@ draft: true
 description: Why Lichess will always be free as a signal about broader shifts.
 created: 2021-04-23
 updated: 2021-04-23
-note_id: 210423TP01
+note_id: 210423TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # why lichess will always be free
 
-Why Lichess will always be free landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+why lichess will always be free lands as a clean signal for the current cycle ([source](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 
 ## context + claim
-This reads as a cultural signal wrapped in why lichess will always be free, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.
+why lichess will always be free shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.
 
-## counter-model
-The other read is that this is a minor episode with no lasting structural impact. That argument is plausible, but it ignores the way small stories accumulate and set expectations. I treat it as a narrative hinge until proven otherwise.
+## evidence stack
+- The visible change is only the surface; the incentive change is the durable part.
+- Adoption pressure shows up before the tooling catches up, which creates short-term friction.
+- The second-order effects are where I expect real compounding.
 
-## risk surface
-- Over-rotation on the headline could mask second-order costs.
-- Early adopters take execution risk while incumbents take narrative risk.
-- If incentives misalign, the outcome becomes a short-lived spike instead of a durable shift.
+## decision boundary
+If this lowers operational burden without a quality tradeoff, I treat it as a real shift. If it adds fragility or hidden cost, I treat it as a temporary spike.
 
 ## my take
-I treat this as a directional signal, not a definitive answer. The right response is to adjust posture while keeping the option to reverse if the signal fades.
+I am leaning cautious: treat the change as real, but do not calcify it until the operational story holds.
+
+<div class="note-micro">
+  <span class="inline-note">friction point</span>
+  <span class="inline-note">default drift</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -56,5 +61,8 @@ I treat this as a directional signal, not a definitive answer. The right respons
     </li>
   </ul>
 </div>
+
+## ending questions
+What would make this feel durable instead of episodic?
 
 #

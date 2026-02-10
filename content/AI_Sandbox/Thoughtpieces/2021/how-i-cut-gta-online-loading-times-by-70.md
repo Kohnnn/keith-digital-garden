@@ -14,14 +14,14 @@ draft: true
 description: How I cut GTA Online loading times by 70% as a signal about broader shifts.
 created: 2021-02-28
 updated: 2021-02-28
-note_id: 210228TP06
+note_id: 210228TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # how i cut gta online loading times by 70%
 
-How I cut GTA Online loading times by 70% landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+How I cut GTA Online loading times by 70% surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in how i cut gta online loading times by 70%, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

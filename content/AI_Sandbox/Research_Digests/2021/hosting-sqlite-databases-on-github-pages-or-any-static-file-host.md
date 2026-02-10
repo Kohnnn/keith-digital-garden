@@ -21,7 +21,7 @@ cssclasses:
 
 # hosting sqlite databases on github pages or any static file hoster
 
-Hosting SQLite databases on GitHub Pages or any static file hoster landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Hosting SQLite databases on GitHub Pages or any static file hoster surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around hosting sqlite databases on github pages or any static file hoster, giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

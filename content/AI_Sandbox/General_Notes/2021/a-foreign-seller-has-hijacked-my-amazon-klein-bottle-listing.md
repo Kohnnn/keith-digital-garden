@@ -2,7 +2,6 @@
 title: a foreign seller has hijacked my amazon klein bottle listing
 tags:
   - general-note
-  - signals
   - policy
   - 2021
 keywords:
@@ -15,14 +14,14 @@ draft: true
 description: A foreign seller has hijacked my Amazon Klein bottle listing as a signal about broader shifts.
 created: 2021-06-30
 updated: 2021-06-30
-note_id: 210630GN08
+note_id: 210630GN02
 cssclasses:
   - general-note
 ---
 
 # a foreign seller has hijacked my amazon klein bottle listing
 
-A foreign seller has hijacked my Amazon Klein bottle listing landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+A foreign seller has hijacked my Amazon Klein bottle listing surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The story puts a spotlight on a foreign seller has hijacked my amazon klein bottle listing, which matters because it reframes where teams allocate attention. My claim: this is less about a single win and more about how the stack and the market are rebalancing around trust and durability.
@@ -47,7 +46,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
     <li>tags
       <ul>
         <li>#general-note</li>
-        <li>#signals</li>
         <li>#policy</li>
         <li>#2021</li>
       </ul>

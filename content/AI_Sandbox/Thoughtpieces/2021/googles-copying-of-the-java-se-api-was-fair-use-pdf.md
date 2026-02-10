@@ -14,14 +14,14 @@ draft: true
 description: Google’s copying of the Java SE API was fair use [pdf] as a signal about broader shifts.
 created: 2021-04-05
 updated: 2021-04-05
-note_id: 210405TP04
+note_id: 210405TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # google’s copying of the java se api was fair use [pdf]
 
-Google’s copying of the Java SE API was fair use [pdf] landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Google’s copying of the Java SE API was fair use [pdf] surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in google’s copying of the java se api was fair use [pdf], not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

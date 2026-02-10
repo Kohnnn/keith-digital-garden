@@ -14,14 +14,14 @@ draft: true
 description: GitHub, fuck your name change as a signal about broader shifts.
 created: 2021-03-17
 updated: 2021-03-17
-note_id: 210317TP08
+note_id: 210317TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # github, fuck your name change
 
-GitHub, fuck your name change landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+GitHub, fuck your name change surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in github, fuck your name change, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

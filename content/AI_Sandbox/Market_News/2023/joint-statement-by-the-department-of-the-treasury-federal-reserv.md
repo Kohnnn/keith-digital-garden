@@ -14,14 +14,14 @@ draft: true
 description: Joint statement by the Department of the Treasury, Federal Reserve, and FDIC as a signal about broader shifts.
 created: 2023-03-12
 updated: 2023-03-12
-note_id: 230312MR06
+note_id: 230312MR02
 cssclasses:
   - market-news
 ---
 
 # joint statement by the department of the treasury, federal reserve, and fdic
 
-Joint statement by the Department of the Treasury, Federal Reserve, and FDIC landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://home.treasury.gov/news/press-releases/jy1337)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Joint statement by the Department of the Treasury, Federal Reserve, and FDIC surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://home.treasury.gov/news/press-releases/jy1337)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Joint statement by the Department of the Treasury, Federal Reserve, and FDIC sits inside the market narrative for this period and reflects changing risk appetites. My claim: pricing is reacting to regime expectations more than fundamentals.

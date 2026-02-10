@@ -14,14 +14,14 @@ draft: true
 description: Climate change: IPCC report is 'code red for humanity' as a signal about broader shifts.
 created: 2021-08-09
 updated: 2021-08-09
-note_id: 210809RD03
+note_id: 210809RD02
 cssclasses:
   - research-digest
 ---
 
 # climate change: ipcc report is 'code red for humanity'
 
-Climate change: IPCC report is 'code red for humanity' landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.bbc.com/news/science-environment-58130705)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Climate change: IPCC report is 'code red for humanity' surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.bbc.com/news/science-environment-58130705)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around climate change: ipcc report is 'code red for humanity', giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

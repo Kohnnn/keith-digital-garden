@@ -14,30 +14,32 @@ draft: true
 description: Everything that uses configuration files should report where they're located as a signal about broader shifts.
 created: 2023-06-25
 updated: 2023-06-25
-note_id: 230625RD05
+note_id: 230625RD01
 cssclasses:
   - research-digest
 ---
 
 # everything that uses configuration files should report where they're located
 
-Everything that uses configuration files should report where they're located landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+everything that uses configuration files should report where they're located lands as a clean signal for the current cycle ([source](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 
 ## context + claim
-The piece aggregates evidence around everything that uses configuration files should report where they're located, giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.
+everything that uses configuration files should report where they're located shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.
 
-## signal vs noise
-- Signal: directional change that persists across multiple metrics.
-- Signal: alignment between reported data and operator anecdotes.
-- Noise: one-off outliers that look dramatic but do not change the baseline.
+## causal chain
+Trigger -> workflow adjustment -> new default, because habits are stickier than roadmaps.
+New default -> platform leverage -> narrowing options for smaller teams.
 
-## risk surface
-- Over-rotation on the headline could mask second-order costs.
-- Early adopters take execution risk while incumbents take narrative risk.
-- If incentives misalign, the outcome becomes a short-lived spike instead of a durable shift.
+## counter-model
+The skeptical read is that this fades as soon as attention moves. That is plausible, but I keep watching whether teams encode it into their routines. Routines are the actual signal.
 
 ## my take
-I treat this as a directional signal, not a definitive answer. The right response is to adjust posture while keeping the option to reverse if the signal fades.
+I am leaning cautious: treat the change as real, but do not calcify it until the operational story holds.
+
+<div class="note-micro">
+  <span class="inline-note">friction point</span>
+  <span class="inline-note">default drift</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -60,6 +62,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
 </div>
 
 ## ending questions
-What would change my mind about how durable this shift really is?
+What would make this feel durable instead of episodic?
 
 #

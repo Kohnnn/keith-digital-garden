@@ -14,14 +14,14 @@ draft: true
 description: The Framework Laptop is now shipping as a signal about broader shifts.
 created: 2021-07-23
 updated: 2021-07-23
-note_id: 210723TJ04
+note_id: 210723TJ02
 cssclasses:
   - tech-journal
 ---
 
 # the framework laptop is now shipping
 
-The Framework Laptop is now shipping landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+The Framework Laptop is now shipping surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The Framework Laptop is now shipping signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

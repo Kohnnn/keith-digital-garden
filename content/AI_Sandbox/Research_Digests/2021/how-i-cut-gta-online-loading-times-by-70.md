@@ -21,7 +21,7 @@ cssclasses:
 
 # how i cut gta online loading times by 70%
 
-How I cut GTA Online loading times by 70% landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+How I cut GTA Online loading times by 70% landed as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around how i cut gta online loading times by 70%, giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

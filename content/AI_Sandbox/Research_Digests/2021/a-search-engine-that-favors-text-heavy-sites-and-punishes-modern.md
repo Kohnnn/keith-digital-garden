@@ -21,7 +21,7 @@ cssclasses:
 
 # a search engine that favors text-heavy sites and punishes modern web design
 
-A search engine that favors text-heavy sites and punishes modern web design landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+A search engine that favors text-heavy sites and punishes modern web design landed as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around a search engine that favors text-heavy sites and punishes modern web design, giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

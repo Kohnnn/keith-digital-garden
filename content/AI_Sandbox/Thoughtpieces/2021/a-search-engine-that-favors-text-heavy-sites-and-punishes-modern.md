@@ -14,14 +14,14 @@ draft: true
 description: A search engine that favors text-heavy sites and punishes modern web design as a signal about broader shifts.
 created: 2021-09-16
 updated: 2021-09-16
-note_id: 210916TP07
+note_id: 210916TP02
 cssclasses:
   - thoughtpiece
 ---
 
 # a search engine that favors text-heavy sites and punishes modern web design
 
-A search engine that favors text-heavy sites and punishes modern web design landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+A search engine that favors text-heavy sites and punishes modern web design surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in a search engine that favors text-heavy sites and punishes modern web design, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

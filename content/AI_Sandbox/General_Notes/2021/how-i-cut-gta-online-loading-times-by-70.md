@@ -2,7 +2,6 @@
 title: how i cut gta online loading times by 70%
 tags:
   - general-note
-  - signals
   - policy
   - 2021
 keywords:
@@ -22,7 +21,7 @@ cssclasses:
 
 # how i cut gta online loading times by 70%
 
-How I cut GTA Online loading times by 70% landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+How I cut GTA Online loading times by 70% surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The story puts a spotlight on how i cut gta online loading times by 70%, which matters because it reframes where teams allocate attention. My claim: this is less about a single win and more about how the stack and the market are rebalancing around trust and durability.
@@ -47,7 +46,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
     <li>tags
       <ul>
         <li>#general-note</li>
-        <li>#signals</li>
         <li>#policy</li>
         <li>#2021</li>
       </ul>

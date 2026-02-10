@@ -15,14 +15,14 @@ draft: true
 description: How I cut GTA Online loading times by 70% as a signal about broader shifts.
 created: 2021-02-28
 updated: 2021-02-28
-note_id: 210228MR09
+note_id: 210228MR02
 cssclasses:
   - market-news
 ---
 
 # how i cut gta online loading times by 70%
 
-How I cut GTA Online loading times by 70% landed as a high-signal HN thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+How I cut GTA Online loading times by 70% surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 How I cut GTA Online loading times by 70% sits inside the market narrative for this period and reflects changing risk appetites. My claim: pricing is reacting to regime expectations more than fundamentals.

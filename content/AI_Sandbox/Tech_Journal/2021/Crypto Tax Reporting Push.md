@@ -1,5 +1,5 @@
 ---
-title: Crypto Tax Reporting Push
+title: crypto tax reporting push
 tags:
   - tech-journal
   - crypto
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Crypto Tax Reporting Push
+# crypto tax reporting push
 
 <div class="keyword-row">
   <span class="inline-keyword">tax</span>
@@ -86,4 +86,4 @@ I keep this linked to [[China's Mining Exodus]] because both show how policy res
   </ul>
 </div>
 
-#
+# crypto tax reporting push

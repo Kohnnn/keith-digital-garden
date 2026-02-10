@@ -1,5 +1,5 @@
 ---
-title: China's Mining Exodus
+title: china's mining exodus
 tags:
   - tech-journal
   - crypto
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/1322C/production/_118892437_bitcoin_reuters.jpg"
 ---
 
-# China's Mining Exodus
+# china's mining exodus
 
 <div class="keyword-row">
   <span class="inline-keyword">hashrate</span>
@@ -89,4 +89,4 @@ I keep this tied to [[EIP-1559 and the Fee Burn]] because both are moments where
   </ul>
 </div>
 
-#
+# china's mining exodus

@@ -1,5 +1,5 @@
 ---
-title: Whisper Open Source Speech Recognition
+title: whisper open source speech recognition
 tags:
   - tech-journal
   - ai
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Whisper Open Source Speech Recognition
+# whisper open source speech recognition
 
 <div class="keyword-row">
   <span class="inline-keyword">speech</span>
@@ -86,4 +86,4 @@ This is the kind of release that changes roadmap math. When speech becomes a com
   </ul>
 </div>
 
-#
+# whisper open source speech recognition

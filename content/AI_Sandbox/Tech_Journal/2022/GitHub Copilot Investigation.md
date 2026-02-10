@@ -1,5 +1,5 @@
 ---
-title: GitHub Copilot Investigation
+title: github copilot investigation
 tags:
   - tech-journal
   - ai
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# GitHub Copilot Investigation
+# github copilot investigation
 
 <div class="keyword-row">
   <span class="inline-keyword">license</span>
@@ -82,4 +82,4 @@ The strongest products will be the ones that can show provenance and compliance.
   </ul>
 </div>
 
-#
+# github copilot investigation

@@ -1,5 +1,5 @@
 ---
-title: Windows 11 Launch
+title: windows 11 launch
 tags:
   - tech-journal
   - platform
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Windows 11 Launch
+# windows 11 launch
 
 <div class="keyword-row">
   <span class="inline-keyword">platform</span>
@@ -85,4 +85,4 @@ I keep this linked to [[M1 Pro and the Laptop Reset]] because both show how hard
   </ul>
 </div>
 
-#
+# windows 11 launch

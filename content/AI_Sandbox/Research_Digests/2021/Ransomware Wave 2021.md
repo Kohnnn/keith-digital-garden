@@ -1,5 +1,5 @@
 ---
-title: Ransomware Wave 2021
+title: ransomware wave 2021
 tags:
   - research-digest
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - research-digest
 ---
 
-# Ransomware Wave 2021
+# ransomware wave 2021
 
 <div class="keyword-row">
   <span class="inline-keyword">ransomware</span>
@@ -81,4 +81,4 @@ Ransomware in 2021 was a reminder that cyber risk is economic risk. The trend li
   </ul>
 </div>
 
-#
+# ransomware wave 2021

@@ -1,5 +1,5 @@
 ---
-title: Vietnam Reopens Ho Chi Minh City
+title: vietnam reopens ho chi minh city
 tags:
   - general-note
   - vietnam
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Vietnam Reopens Ho Chi Minh City
+# vietnam reopens ho chi minh city
 
 <div class="keyword-row">
   <span class="inline-keyword">vietnam</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Vietnam Lockdowns and Factory Disruptions]] because both
   </ul>
 </div>
 
-#
+# vietnam reopens ho chi minh city

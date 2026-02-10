@@ -1,5 +1,5 @@
 ---
-title: Tesla's Bitcoin Treasury
+title: tesla's bitcoin treasury
 tags:
   - tech-journal
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Tesla's Bitcoin Treasury
+# tesla's bitcoin treasury
 
 <div class="keyword-row">
   <span class="inline-keyword">balance</span>
@@ -85,4 +85,4 @@ I keep this near [[Bitcoin as a State Experiment]] because both are about legiti
   </ul>
 </div>
 
-#
+# tesla's bitcoin treasury

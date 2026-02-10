@@ -1,5 +1,5 @@
 ---
-title: Deceiving Windows Defender Big Stack Bypass
+title: deceiving windows defender big stack bypass
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Deceiving Windows Defender Big Stack Bypass
+# deceiving windows defender big stack bypass
 
 <div class="keyword-row">
   <span class="inline-keyword">bypass</span>
@@ -84,4 +84,4 @@ The strongest defenses are the ones that assume they will be bypassed. That mind
   </ul>
 </div>
 
-#
+# deceiving windows defender big stack bypass

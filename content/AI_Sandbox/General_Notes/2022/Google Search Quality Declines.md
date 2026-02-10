@@ -1,5 +1,5 @@
 ---
-title: Google Search Quality Declines
+title: google search quality declines
 tags:
   - general-note
   - tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Google Search Quality Declines
+# google search quality declines
 
 <div class="keyword-row">
   <span class="inline-keyword">search</span>
@@ -87,4 +87,4 @@ This is the type of public signal that matters more than metrics. When users say
   </ul>
 </div>
 
-#
+# google search quality declines

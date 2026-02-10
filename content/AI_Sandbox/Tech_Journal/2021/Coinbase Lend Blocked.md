@@ -1,5 +1,5 @@
 ---
-title: Coinbase Lend Blocked
+title: coinbase lend blocked
 tags:
   - tech-journal
   - crypto
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Coinbase Lend Blocked
+# coinbase lend blocked
 
 <div class="keyword-row">
   <span class="inline-keyword">regulation</span>
@@ -84,4 +84,4 @@ This was a boundary-setting moment. It will push crypto products toward slower, 
   </ul>
 </div>
 
-#
+# coinbase lend blocked

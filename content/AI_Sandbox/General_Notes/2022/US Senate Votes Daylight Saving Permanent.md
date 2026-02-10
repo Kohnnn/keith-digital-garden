@@ -1,5 +1,5 @@
 ---
-title: US Senate Votes Daylight Saving Permanent
+title: us senate votes daylight saving permanent
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# US Senate Votes Daylight Saving Permanent
+# us senate votes daylight saving permanent
 
 <div class="keyword-row">
   <span class="inline-keyword">time</span>
@@ -87,4 +87,4 @@ This is a reminder that governance is often about invisible scaffolding. People 
   </ul>
 </div>
 
-#
+# us senate votes daylight saving permanent

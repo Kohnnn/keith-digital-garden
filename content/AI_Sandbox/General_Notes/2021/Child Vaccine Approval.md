@@ -1,5 +1,5 @@
 ---
-title: Child Vaccine Approval
+title: child vaccine approval
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Child Vaccine Approval
+# child vaccine approval
 
 <div class="keyword-row">
   <span class="inline-keyword">children</span>
@@ -86,4 +86,4 @@ I keep this linked to [[School Closures and Learning Loss]] because school stabi
   </ul>
 </div>
 
-#
+# child vaccine approval

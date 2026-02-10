@@ -1,5 +1,5 @@
 ---
-title: Energy vs Transition
+title: energy vs transition
 tags:
   - thoughtpiece
   - energy
@@ -21,7 +21,7 @@ cssclasses:
   - thoughtpiece
 ---
 
-# Energy vs Transition
+# energy vs transition
 
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
@@ -84,4 +84,4 @@ The transition is not optional, but neither is stability. The real challenge is 
   </ul>
 </div>
 
-#
+# energy vs transition

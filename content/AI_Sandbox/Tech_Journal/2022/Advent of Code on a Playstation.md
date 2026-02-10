@@ -1,5 +1,5 @@
 ---
-title: Advent of Code on a Playstation
+title: advent of code on a playstation
 tags:
   - tech-journal
   - programming
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Advent of Code on a Playstation
+# advent of code on a playstation
 
 <div class="keyword-row">
   <span class="inline-keyword">aoc</span>
@@ -84,4 +84,4 @@ This is a reminder that novelty can be a teaching method. When the environment i
   </ul>
 </div>
 
-#
+# advent of code on a playstation

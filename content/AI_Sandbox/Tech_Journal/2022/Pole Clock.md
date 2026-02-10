@@ -1,5 +1,5 @@
 ---
-title: Pole Clock
+title: pole clock
 tags:
   - tech-journal
   - tooling
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Pole Clock
+# pole clock
 
 <div class="keyword-row">
   <span class="inline-keyword">clock</span>
@@ -84,4 +84,4 @@ The point is restraint. When the task is simple, the tool should be simpler.
   </ul>
 </div>
 
-#
+# pole clock

@@ -1,5 +1,5 @@
 ---
-title: Meta and the AR Bet
+title: meta and the ar bet
 tags:
   - tech-journal
   - ai
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/12C4B/production/_121257867_gettyimages-1349793492.jpg"
 ---
 
-# Meta and the AR Bet
+# meta and the ar bet
 
 <div class="keyword-row">
   <span class="inline-keyword">interface</span>
@@ -103,4 +103,4 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because the 
   </ul>
 </div>
 
-#
+# meta and the ar bet

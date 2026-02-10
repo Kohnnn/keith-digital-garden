@@ -1,5 +1,5 @@
 ---
-title: Croatia Joins Euro and Schengen
+title: croatia joins euro and schengen
 tags:
   - general-note
   - geopolitics
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Croatia Joins Euro and Schengen
+# croatia joins euro and schengen
 
 <div class="keyword-row">
   <span class="inline-keyword">euro</span>
@@ -91,4 +91,4 @@ This is a quiet but meaningful move. It signals that the EU still expands its in
   </ul>
 </div>
 
-#
+# croatia joins euro and schengen

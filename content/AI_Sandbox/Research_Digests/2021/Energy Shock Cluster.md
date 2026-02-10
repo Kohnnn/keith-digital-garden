@@ -1,5 +1,5 @@
 ---
-title: Energy Shock Cluster
+title: energy shock cluster
 tags:
   - research-digest
   - energy
@@ -21,7 +21,7 @@ cssclasses:
   - research-digest
 ---
 
-# Energy Shock Cluster
+# energy shock cluster
 
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
@@ -81,4 +81,4 @@ This cluster connects gas shocks, power rationing, and grid stress into a single
   </ul>
 </div>
 
-#
+# energy shock cluster

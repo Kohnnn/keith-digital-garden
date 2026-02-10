@@ -1,5 +1,5 @@
 ---
-title: Omicron and the Risk Reset
+title: omicron and the risk reset
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Omicron and the Risk Reset
+# omicron and the risk reset
 
 <div class="keyword-row">
   <span class="inline-keyword">volatility</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Inflation Prints 6.8]] because both are about expectatio
   </ul>
 </div>
 
-#
+# omicron and the risk reset

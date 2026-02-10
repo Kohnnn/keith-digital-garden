@@ -1,5 +1,5 @@
 ---
-title: Turkey's Lira Slide
+title: turkey's lira slide
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Turkey's Lira Slide
+# turkey's lira slide
 
 <div class="keyword-row">
   <span class="inline-keyword">inflation</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Inflation Prints 6.8]] because both show how inflation n
   </ul>
 </div>
 
-#
+# turkey's lira slide

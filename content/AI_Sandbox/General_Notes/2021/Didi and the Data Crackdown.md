@@ -1,5 +1,5 @@
 ---
-title: Didi and the Data Crackdown
+title: didi and the data crackdown
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Didi and the Data Crackdown
+# didi and the data crackdown
 
 <div class="keyword-row">
   <span class="inline-keyword">china</span>
@@ -85,4 +85,4 @@ I keep this linked to [[AUKUS and the Alliance Reset]] because both show how pol
   </ul>
 </div>
 
-#
+# didi and the data crackdown

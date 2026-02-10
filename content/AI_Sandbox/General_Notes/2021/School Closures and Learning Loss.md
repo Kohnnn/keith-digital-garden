@@ -1,5 +1,5 @@
 ---
-title: School Closures and Learning Loss
+title: school closures and learning loss
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# School Closures and Learning Loss
+# school closures and learning loss
 
 <div class="keyword-row">
   <span class="inline-keyword">schools</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Vaccine Mandates Expand]] because policy choices around 
   </ul>
 </div>
 
-#
+# school closures and learning loss

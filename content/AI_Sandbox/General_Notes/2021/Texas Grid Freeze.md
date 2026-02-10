@@ -1,5 +1,5 @@
 ---
-title: Texas Grid Freeze
+title: texas grid freeze
 tags:
   - general-note
   - energy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Texas Grid Freeze
+# texas grid freeze
 
 <div class="keyword-row">
   <span class="inline-keyword">grid</span>
@@ -85,4 +85,4 @@ I keep this linked to [[China's Power Crunch]] because both show how energy cons
   </ul>
 </div>
 
-#
+# texas grid freeze

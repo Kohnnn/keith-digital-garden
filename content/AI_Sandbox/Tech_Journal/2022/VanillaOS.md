@@ -1,5 +1,5 @@
 ---
-title: VanillaOS
+title: vanillaos
 tags:
   - tech-journal
   - linux
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# VanillaOS
+# vanillaos
 
 <div class="keyword-row">
   <span class="inline-keyword">linux</span>
@@ -84,4 +84,4 @@ This feels like a push toward safer defaults. The real challenge will be preserv
   </ul>
 </div>
 
-#
+# vanillaos

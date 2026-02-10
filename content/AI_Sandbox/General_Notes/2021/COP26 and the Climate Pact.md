@@ -1,5 +1,5 @@
 ---
-title: COP26 and the Climate Pact
+title: cop26 and the climate pact
 tags:
   - general-note
   - future-tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# COP26 and the Climate Pact
+# cop26 and the climate pact
 
 <div class="keyword-row">
   <span class="inline-keyword">climate</span>
@@ -86,4 +86,4 @@ I keep this linked to [[China's Power Crunch]] because energy transition goals c
   </ul>
 </div>
 
-#
+# cop26 and the climate pact

@@ -1,5 +1,5 @@
 ---
-title: John Carmack Leaves Meta
+title: john carmack leaves meta
 tags:
   - general-note
   - tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# John Carmack Leaves Meta
+# john carmack leaves meta
 
 <div class="keyword-row">
   <span class="inline-keyword">leadership</span>
@@ -91,4 +91,4 @@ This is a warning about execution drag. Vision is not enough if internal systems
   </ul>
 </div>
 
-#
+# john carmack leaves meta

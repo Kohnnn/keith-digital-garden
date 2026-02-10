@@ -1,5 +1,5 @@
 ---
-title: Supreme Court Overturns Roe v Wade
+title: supreme court overturns roe v wade
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Supreme Court Overturns Roe v Wade
+# supreme court overturns roe v wade
 
 <div class="keyword-row">
   <span class="inline-keyword">abortion</span>
@@ -86,4 +86,4 @@ This is a reset moment. The biggest impact is not the headline, but the operatio
   </ul>
 </div>
 
-#
+# supreme court overturns roe v wade

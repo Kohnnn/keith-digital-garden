@@ -1,5 +1,5 @@
 ---
-title: China's Tutoring Crackdown
+title: china's tutoring crackdown
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# China's Tutoring Crackdown
+# china's tutoring crackdown
 
 <div class="keyword-row">
   <span class="inline-keyword">crackdown</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Didi and the Data Crackdown]] because both show how poli
   </ul>
 </div>
 
-#
+# china's tutoring crackdown

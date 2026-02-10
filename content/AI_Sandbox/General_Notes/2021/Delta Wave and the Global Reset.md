@@ -1,5 +1,5 @@
 ---
-title: Delta Wave and the Global Reset
+title: delta wave and the global reset
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Delta Wave and the Global Reset
+# delta wave and the global reset
 
 <div class="keyword-row">
   <span class="inline-keyword">delta</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Omicron and the Risk Reset]] because both are about expe
   </ul>
 </div>
 
-#
+# delta wave and the global reset

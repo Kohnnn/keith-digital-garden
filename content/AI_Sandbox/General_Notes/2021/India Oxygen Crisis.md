@@ -1,5 +1,5 @@
 ---
-title: India Oxygen Crisis
+title: india oxygen crisis
 tags:
   - general-note
   - health
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# India Oxygen Crisis
+# india oxygen crisis
 
 <div class="keyword-row">
   <span class="inline-keyword">oxygen</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Delta Wave and the Global Reset]] because variant surges
   </ul>
 </div>
 
-#
+# india oxygen crisis

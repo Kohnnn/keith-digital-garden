@@ -1,5 +1,5 @@
 ---
-title: Inflation Prints 6.8
+title: inflation prints 6.8
 tags:
   - general-note
   - economy
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/FE0A/production/_121647556_gettyimages-1237075425.jpg"
 ---
 
-# Inflation Prints 6.8
+# inflation prints 6.8
 
 <div class="keyword-row">
   <span class="inline-keyword">inflation</span>
@@ -89,4 +89,4 @@ I keep this close to [[Evergrande and the Credit Tremor]] because both are about
   </ul>
 </div>
 
-#
+# inflation prints 6.8

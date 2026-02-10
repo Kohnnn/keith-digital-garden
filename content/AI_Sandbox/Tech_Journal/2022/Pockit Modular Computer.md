@@ -1,5 +1,5 @@
 ---
-title: Pockit Modular Computer
+title: pockit modular computer
 tags:
   - tech-journal
   - hardware
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Pockit Modular Computer
+# pockit modular computer
 
 <div class="keyword-row">
   <span class="inline-keyword">modular</span>
@@ -84,4 +84,4 @@ This is a reminder that hardware innovation can be small and still meaningful. I
   </ul>
 </div>
 
-#
+# pockit modular computer

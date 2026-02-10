@@ -1,5 +1,5 @@
 ---
-title: Platform Accountability Cluster
+title: platform accountability cluster
 tags:
   - research-digest
   - platform
@@ -21,7 +21,7 @@ cssclasses:
   - research-digest
 ---
 
-# Platform Accountability Cluster
+# platform accountability cluster
 
 <div class="keyword-row">
   <span class="inline-keyword">platform</span>
@@ -81,4 +81,4 @@ This cluster links whistleblower disclosures, app store rulings, and privacy deb
   </ul>
 </div>
 
-#
+# platform accountability cluster

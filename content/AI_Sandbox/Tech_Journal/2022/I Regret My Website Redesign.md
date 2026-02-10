@@ -1,5 +1,5 @@
 ---
-title: I Regret My Website Redesign
+title: i regret my website redesign
 tags:
   - tech-journal
   - product
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# I Regret My Website Redesign
+# i regret my website redesign
 
 <div class="keyword-row">
   <span class="inline-keyword">redesign</span>
@@ -83,4 +83,4 @@ The lesson is to keep some qualitative loops open. If you only listen to dashboa
   </ul>
 </div>
 
-#
+# i regret my website redesign

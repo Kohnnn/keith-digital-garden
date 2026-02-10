@@ -1,5 +1,5 @@
 ---
-title: Intel Foundry Pivot
+title: intel foundry pivot
 tags:
   - tech-journal
   - hardware
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Intel Foundry Pivot
+# intel foundry pivot
 
 <div class="keyword-row">
   <span class="inline-keyword">foundry</span>
@@ -84,4 +84,4 @@ This pivot is a long-term bet. The payoff depends on delivery and sustained dema
   </ul>
 </div>
 
-#
+# intel foundry pivot

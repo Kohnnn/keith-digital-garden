@@ -1,5 +1,5 @@
 ---
-title: GameBoy Graphics Part 2 Tile Maps
+title: gameboy graphics part 2 tile maps
 tags:
   - tech-journal
   - graphics
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# GameBoy Graphics Part 2 Tile Maps
+# gameboy graphics part 2 tile maps
 
 <div class="keyword-row">
   <span class="inline-keyword">gameboy</span>
@@ -84,4 +84,4 @@ This is a reminder that fundamentals do not expire. Old hardware is still a good
   </ul>
 </div>
 
-#
+# gameboy graphics part 2 tile maps

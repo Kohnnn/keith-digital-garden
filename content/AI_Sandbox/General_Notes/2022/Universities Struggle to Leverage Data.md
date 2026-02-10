@@ -1,5 +1,5 @@
 ---
-title: Universities Struggle to Leverage Data
+title: universities struggle to leverage data
 tags:
   - general-note
   - education
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Universities Struggle to Leverage Data
+# universities struggle to leverage data
 
 <div class="keyword-row">
   <span class="inline-keyword">data</span>
@@ -87,4 +87,4 @@ This is a governance story, not a tooling story. The gap is about coordination, 
   </ul>
 </div>
 
-#
+# universities struggle to leverage data

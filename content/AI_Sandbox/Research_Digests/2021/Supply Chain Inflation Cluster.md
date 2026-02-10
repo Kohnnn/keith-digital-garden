@@ -1,5 +1,5 @@
 ---
-title: Supply Chain Inflation Cluster
+title: supply chain inflation cluster
 tags:
   - research-digest
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - research-digest
 ---
 
-# Supply Chain Inflation Cluster
+# supply chain inflation cluster
 
 <div class="keyword-row">
   <span class="inline-keyword">supply</span>
@@ -81,4 +81,4 @@ Inflation in 2021 wasn’t only monetary; it was logistical. That reality change
   </ul>
 </div>
 
-#
+# supply chain inflation cluster

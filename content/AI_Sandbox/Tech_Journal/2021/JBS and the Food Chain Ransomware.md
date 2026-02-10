@@ -1,5 +1,5 @@
 ---
-title: JBS and the Food Chain Ransomware
+title: jbs and the food chain ransomware
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# JBS and the Food Chain Ransomware
+# jbs and the food chain ransomware
 
 <div class="keyword-row">
   <span class="inline-keyword">food</span>
@@ -86,4 +86,4 @@ I keep this close to [[Colonial Pipeline and the Ransomware Shock]] because both
   </ul>
 </div>
 
-#
+# jbs and the food chain ransomware

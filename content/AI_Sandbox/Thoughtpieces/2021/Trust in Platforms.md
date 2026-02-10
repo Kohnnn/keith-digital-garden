@@ -1,5 +1,5 @@
 ---
-title: Trust in Platforms
+title: trust in platforms
 tags:
   - thoughtpiece
   - platform
@@ -21,7 +21,7 @@ cssclasses:
   - thoughtpiece
 ---
 
-# Trust in Platforms
+# trust in platforms
 
 <div class="keyword-row">
   <span class="inline-keyword">trust</span>
@@ -84,4 +84,4 @@ This is the long-term shift: platforms are now public infrastructure in the eyes
   </ul>
 </div>
 
-#
+# trust in platforms

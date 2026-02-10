@@ -1,5 +1,5 @@
 ---
-title: Apple CSAM Proposal
+title: apple csam proposal
 tags:
   - tech-journal
   - privacy
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Apple CSAM Proposal
+# apple csam proposal
 
 <div class="keyword-row">
   <span class="inline-keyword">privacy</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Haugen and the Internal Files]] because both are about p
   </ul>
 </div>
 
-#
+# apple csam proposal

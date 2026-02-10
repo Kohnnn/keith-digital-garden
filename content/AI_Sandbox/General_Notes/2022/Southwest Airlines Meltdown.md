@@ -1,5 +1,5 @@
 ---
-title: Southwest Airlines Meltdown
+title: southwest airlines meltdown
 tags:
   - general-note
   - operations
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Southwest Airlines Meltdown
+# southwest airlines meltdown
 
 <div class="keyword-row">
   <span class="inline-keyword">meltdown</span>
@@ -91,4 +91,4 @@ This is a warning about under-investing in systems that only show value when eve
   </ul>
 </div>
 
-#
+# southwest airlines meltdown

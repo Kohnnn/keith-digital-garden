@@ -1,5 +1,5 @@
 ---
-title: Haugen and the Internal Files
+title: haugen and the internal files
 tags:
   - tech-journal
   - platform
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Haugen and the Internal Files
+# haugen and the internal files
 
 <div class="keyword-row">
   <span class="inline-keyword">whistleblower</span>
@@ -86,4 +86,4 @@ I keep this near [[Facebook's Daylong Outage]] because both are trust events. On
   </ul>
 </div>
 
-#
+# haugen and the internal files

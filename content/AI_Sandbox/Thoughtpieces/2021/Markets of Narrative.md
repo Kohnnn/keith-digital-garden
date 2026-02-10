@@ -1,5 +1,5 @@
 ---
-title: Markets of Narrative
+title: markets of narrative
 tags:
   - thoughtpiece
   - markets
@@ -21,7 +21,7 @@ cssclasses:
   - thoughtpiece
 ---
 
-# Markets of Narrative
+# markets of narrative
 
 <div class="keyword-row">
   <span class="inline-keyword">markets</span>
@@ -85,4 +85,4 @@ The market is always a story, but 2021 made that story louder than usual. The le
   </ul>
 </div>
 
-#
+# markets of narrative

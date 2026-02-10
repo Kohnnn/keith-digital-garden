@@ -1,5 +1,5 @@
 ---
-title: Elizabeth Holmes Found Guilty
+title: elizabeth holmes found guilty
 tags:
   - general-note
   - law
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Elizabeth Holmes Found Guilty
+# elizabeth holmes found guilty
 
 <div class="keyword-row">
   <span class="inline-keyword">fraud</span>
@@ -86,4 +86,4 @@ This is a credibility checkpoint. It will make investors and boards more cautiou
   </ul>
 </div>
 
-#
+# elizabeth holmes found guilty

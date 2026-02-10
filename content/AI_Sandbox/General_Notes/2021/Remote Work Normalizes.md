@@ -1,5 +1,5 @@
 ---
-title: Remote Work Normalizes
+title: remote work normalizes
 tags:
   - general-note
   - labor
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Remote Work Normalizes
+# remote work normalizes
 
 <div class="keyword-row">
   <span class="inline-keyword">remote</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Vaccine Mandates Expand]] because workplace policy and t
   </ul>
 </div>
 
-#
+# remote work normalizes

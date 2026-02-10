@@ -1,5 +1,5 @@
 ---
-title: CHIPS Act Momentum
+title: chips act momentum
 tags:
   - tech-journal
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# CHIPS Act Momentum
+# chips act momentum
 
 <div class="keyword-row">
   <span class="inline-keyword">chips</span>
@@ -84,4 +84,4 @@ This was a strategic shift. The open question is whether the policy pace can mat
   </ul>
 </div>
 
-#
+# chips act momentum

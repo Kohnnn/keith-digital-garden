@@ -1,5 +1,5 @@
 ---
-title: Bitcoin as a State Experiment
+title: bitcoin as a state experiment
 tags:
   - thoughtpiece
   - crypto
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/AB75/production/_118839834_bitcoinstorereuters.jpg"
 ---
 
-# Bitcoin as a State Experiment
+# bitcoin as a state experiment
 
 <div class="keyword-row">
   <span class="inline-keyword">legal</span>
@@ -93,4 +93,4 @@ I keep this linked to #crypto because it is a defining moment for mainstream ado
   </ul>
 </div>
 
-#
+# bitcoin as a state experiment

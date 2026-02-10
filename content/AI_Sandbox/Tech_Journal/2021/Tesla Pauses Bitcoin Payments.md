@@ -1,5 +1,5 @@
 ---
-title: Tesla Pauses Bitcoin Payments
+title: tesla pauses bitcoin payments
 tags:
   - tech-journal
   - crypto
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Tesla Pauses Bitcoin Payments
+# tesla pauses bitcoin payments
 
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
@@ -84,4 +84,4 @@ This was less about payments and more about optics. Energy use became the primar
   </ul>
 </div>
 
-#
+# tesla pauses bitcoin payments

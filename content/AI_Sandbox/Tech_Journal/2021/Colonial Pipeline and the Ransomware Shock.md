@@ -1,5 +1,5 @@
 ---
-title: Colonial Pipeline and the Ransomware Shock
+title: colonial pipeline and the ransomware shock
 tags:
   - tech-journal
   - security
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22505063/1317302232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
 ---
 
-# Colonial Pipeline and the Ransomware Shock
+# colonial pipeline and the ransomware shock
 
 <div class="keyword-row">
   <span class="inline-keyword">infrastructure</span>
@@ -92,4 +92,4 @@ I keep this linked to [[Log4Shell and the Ops Tax]] because both are about the o
   </ul>
 </div>
 
-#
+# colonial pipeline and the ransomware shock

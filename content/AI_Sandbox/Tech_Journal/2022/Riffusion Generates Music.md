@@ -1,5 +1,5 @@
 ---
-title: Riffusion Generates Music
+title: riffusion generates music
 tags:
   - tech-journal
   - ai
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Riffusion Generates Music
+# riffusion generates music
 
 <div class="keyword-row">
   <span class="inline-keyword">audio</span>
@@ -82,4 +82,4 @@ The main shift is usability. Once the interface is simple, the adoption curve ju
   </ul>
 </div>
 
-#
+# riffusion generates music

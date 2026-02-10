@@ -1,5 +1,5 @@
 ---
-title: Nvidia and the Arm Block
+title: nvidia and the arm block
 tags:
   - general-note
   - hardware
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Nvidia and the Arm Block
+# nvidia and the arm block
 
 <div class="keyword-row">
   <span class="inline-keyword">merger</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because both
   </ul>
 </div>
 
-#
+# nvidia and the arm block

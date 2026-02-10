@@ -1,5 +1,5 @@
 ---
-title: Cached Chrome Top Million Websites
+title: cached chrome top million websites
 tags:
   - tech-journal
   - web
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Cached Chrome Top Million Websites
+# cached chrome top million websites
 
 <div class="keyword-row">
   <span class="inline-keyword">web</span>
@@ -84,4 +84,4 @@ This is a quiet but powerful artifact. When visibility data is public, research 
   </ul>
 </div>
 
-#
+# cached chrome top million websites

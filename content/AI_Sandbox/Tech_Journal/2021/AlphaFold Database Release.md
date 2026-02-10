@@ -1,5 +1,5 @@
 ---
-title: AlphaFold Database Release
+title: alphafold database release
 tags:
   - tech-journal
   - ai
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# AlphaFold Database Release
+# alphafold database release
 
 <div class="keyword-row">
   <span class="inline-keyword">ai</span>
@@ -83,4 +83,4 @@ This was a release with long tail effects. It changes the default starting point
   </ul>
 </div>
 
-#
+# alphafold database release

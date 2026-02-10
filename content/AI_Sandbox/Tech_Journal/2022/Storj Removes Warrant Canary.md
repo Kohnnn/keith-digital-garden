@@ -1,5 +1,5 @@
 ---
-title: Storj Removes Warrant Canary
+title: storj removes warrant canary
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Storj Removes Warrant Canary
+# storj removes warrant canary
 
 <div class="keyword-row">
   <span class="inline-keyword">canary</span>
@@ -84,4 +84,4 @@ This is a reminder that privacy products live or die on credibility. If transpar
   </ul>
 </div>
 
-#
+# storj removes warrant canary

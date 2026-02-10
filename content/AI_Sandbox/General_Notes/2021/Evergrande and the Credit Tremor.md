@@ -1,5 +1,5 @@
 ---
-title: Evergrande and the Credit Tremor
+title: evergrande and the credit tremor
 tags:
   - general-note
   - economy
@@ -23,7 +23,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/C2B2/production/_120624894_evergrande_getty.jpg"
 ---
 
-# Evergrande and the Credit Tremor
+# evergrande and the credit tremor
 
 <div class="keyword-row">
   <span class="inline-keyword">credit</span>
@@ -89,4 +89,4 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because both
   </ul>
 </div>
 
-#
+# evergrande and the credit tremor

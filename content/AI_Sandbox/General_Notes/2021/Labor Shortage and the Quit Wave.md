@@ -1,5 +1,5 @@
 ---
-title: Labor Shortage and the Quit Wave
+title: labor shortage and the quit wave
 tags:
   - general-note
   - labor
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Labor Shortage and the Quit Wave
+# labor shortage and the quit wave
 
 <div class="keyword-row">
   <span class="inline-keyword">labor</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Inflation Prints 6.8]] because wage pressure feeds macro
   </ul>
 </div>
 
-#
+# labor shortage and the quit wave

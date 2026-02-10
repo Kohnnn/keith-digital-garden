@@ -1,5 +1,5 @@
 ---
-title: Thailand Reopens to Tourists
+title: thailand reopens to tourists
 tags:
   - general-note
   - tourism
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Thailand Reopens to Tourists
+# thailand reopens to tourists
 
 <div class="keyword-row">
   <span class="inline-keyword">tourism</span>
@@ -86,4 +86,4 @@ I keep this linked to [[US Travel Reopens]] because both are about reopening pol
   </ul>
 </div>
 
-#
+# thailand reopens to tourists

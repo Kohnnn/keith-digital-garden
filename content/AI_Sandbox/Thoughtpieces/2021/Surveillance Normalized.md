@@ -1,5 +1,5 @@
 ---
-title: Surveillance Normalized
+title: surveillance normalized
 tags:
   - thoughtpiece
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - thoughtpiece
 ---
 
-# Surveillance Normalized
+# surveillance normalized
 
 <div class="keyword-row">
   <span class="inline-keyword">surveillance</span>
@@ -84,4 +84,4 @@ Normalization is the real shift. The most important question is who defines the 
   </ul>
 </div>
 
-#
+# surveillance normalized

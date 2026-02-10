@@ -1,5 +1,5 @@
 ---
-title: Space Commercialization 2021
+title: space commercialization 2021
 tags:
   - research-digest
   - space
@@ -21,7 +21,7 @@ cssclasses:
   - research-digest
 ---
 
-# Space Commercialization 2021
+# space commercialization 2021
 
 <div class="keyword-row">
   <span class="inline-keyword">space</span>
@@ -81,4 +81,4 @@ This cluster ties Blue Origin, Virgin Galactic, and Inspiration4 into a single t
   </ul>
 </div>
 
-#
+# space commercialization 2021

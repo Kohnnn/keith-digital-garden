@@ -1,5 +1,5 @@
 ---
-title: Microsoft to Acquire Activision Blizzard
+title: microsoft to acquire activision blizzard
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Microsoft to Acquire Activision Blizzard
+# microsoft to acquire activision blizzard
 
 <div class="keyword-row">
   <span class="inline-keyword">acquisition</span>
@@ -86,4 +86,4 @@ This is about distribution and bargaining power. The long-term outcome depends l
   </ul>
 </div>
 
-#
+# microsoft to acquire activision blizzard

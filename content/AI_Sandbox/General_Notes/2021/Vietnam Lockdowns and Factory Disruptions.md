@@ -1,5 +1,5 @@
 ---
-title: Vietnam Lockdowns and Factory Disruptions
+title: vietnam lockdowns and factory disruptions
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Vietnam Lockdowns and Factory Disruptions
+# vietnam lockdowns and factory disruptions
 
 <div class="keyword-row">
   <span class="inline-keyword">vietnam</span>
@@ -87,4 +87,4 @@ I keep this linked to [[Port Congestion Squeeze]] because both show how physical
   </ul>
 </div>
 
-#
+# vietnam lockdowns and factory disruptions

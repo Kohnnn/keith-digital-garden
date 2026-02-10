@@ -1,5 +1,5 @@
 ---
-title: maps.google.com redirects
+title: redirects are soft power on the web
 tags:
   - general-note
   - tech
@@ -13,7 +13,7 @@ keywords:
   - control
   - platform
 draft: true
-description: A redirect change revealed how defaults steer behavior.
+description: A small redirect change shows how defaults steer navigation at scale.
 created: 2022-11-24
 updated: 2025-02-12
 note_id: 221124GN01
@@ -21,24 +21,58 @@ cssclasses:
   - general-note
 ---
 
-# maps.google.com redirects
+# redirects are soft power on the web
 
-## scene cut
-Google began redirecting maps.google.com to google.com/maps, a small change that shifts user muscle memory ([source](https://garrit.xyz/posts/2022-11-24-smart-move-google)). The tweak shows how defaults control flow.
+<div class="inline-ref">
+  <span class="inline-note">ref</span> <a href="https://garrit.xyz/posts/2022-11-24-smart-move-google">https://garrit.xyz/posts/2022-11-24-smart-move-google</a>
+</div>
 
-## signal braid
-- Defaults are a quiet form of governance.
-- URL control shapes navigation behavior.
-- Platform layers change without visible notices.
-- The trust effect aligns with [[Google Search Is Dying]].
+Google began redirecting maps.google.com to google.com/maps, a tiny move that quietly rewires muscle memory ([source](https://garrit.xyz/posts/2022-11-24-smart-move-google)). I read it as soft power: control the default, shape the path, never touch the UI.
 
-## single-line take
-Small redirects can reshape habits at scale.
+## context + claim
+Redirects are not just plumbing; they are governance. My claim: the web's most durable power move is to change the URL people type, not the page they see.
 
-## link hop
-This connects to [[Google Search Is Dying]] and [[State of HTTP in 2022]] and [[Trust in Platforms]].
+## causal chain
+Redirect -> habit rewiring -> attention capture, because the user's path becomes a platform decision.
+Habit rewiring -> discovery bias -> market share drift, even when the product is unchanged.
 
-## open loop
+## signal vs noise
+- Signal: default paths change without public debate.
+- Signal: navigation becomes a policy surface.
+- Noise: UX chatter that ignores URL-level control.
+
+## my take
+I treat redirects as a strategic layer. If you own the path, you often own the outcome.
+
+<div class="note-micro">
+  <span class="inline-note">default drift</span>
+  <span class="inline-note">navigation bias</span>
+</div>
+
+## linkage
+<div class="linkage-tree">
+  <div class="linkage-tree-title">linkage tree</div>
+  <ul>
+    <li>tags
+      <ul>
+        <li>#general-note</li>
+        <li>#tech</li>
+        <li>#web</li>
+        <li>#platform</li>
+        <li>#2022</li>
+      </ul>
+    </li>
+    <li>related
+      <ul>
+        <li>[[Google Search Is Dying]]</li>
+        <li>[[State of HTTP in 2022]]</li>
+        <li>[[Trust in Platforms]]</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+## ending questions
 Which other defaults quietly decide user paths?
 
 #

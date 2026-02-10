@@ -1,5 +1,5 @@
 ---
-title: Nvidia Open Sources GPU Kernel Modules
+title: nvidia open sources gpu kernel modules
 tags:
   - tech-journal
   - hardware
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Nvidia Open Sources GPU Kernel Modules
+# nvidia open sources gpu kernel modules
 
 <div class="keyword-row">
   <span class="inline-keyword">driver</span>
@@ -83,4 +83,4 @@ The biggest impact is in credibility. Once developers believe the stack is less 
   </ul>
 </div>
 
-#
+# nvidia open sources gpu kernel modules

@@ -1,5 +1,5 @@
 ---
-title: Compare Webb Images to Hubble
+title: compare webb images to hubble
 tags:
   - tech-journal
   - space
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Compare Webb Images to Hubble
+# compare webb images to hubble
 
 <div class="keyword-row">
   <span class="inline-keyword">webb</span>
@@ -84,4 +84,4 @@ This is a great example of interface as science communication. When the differen
   </ul>
 </div>
 
-#
+# compare webb images to hubble

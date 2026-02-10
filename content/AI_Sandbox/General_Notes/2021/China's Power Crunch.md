@@ -1,5 +1,5 @@
 ---
-title: China's Power Crunch
+title: china's power crunch
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# China's Power Crunch
+# china's power crunch
 
 <div class="keyword-row">
   <span class="inline-keyword">power</span>
@@ -86,4 +86,4 @@ I keep this near [[Inflation Prints 6.8]] because energy price shocks are a dire
   </ul>
 </div>
 
-#
+# china's power crunch

@@ -1,5 +1,5 @@
 ---
-title: Biden Cybersecurity Order
+title: biden cybersecurity order
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Biden Cybersecurity Order
+# biden cybersecurity order
 
 <div class="keyword-row">
   <span class="inline-keyword">security</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Log4Shell and the Ops Tax]] because both point to supply
   </ul>
 </div>
 
-#
+# biden cybersecurity order

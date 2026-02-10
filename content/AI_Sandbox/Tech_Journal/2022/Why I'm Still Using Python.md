@@ -1,5 +1,5 @@
 ---
-title: Why I'm Still Using Python
+title: why i'm still using python
 tags:
   - tech-journal
   - software
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Why I'm Still Using Python
+# why i'm still using python
 
 <div class="keyword-row">
   <span class="inline-keyword">python</span>
@@ -84,4 +84,4 @@ Most projects do not fail because of performance; they fail because of slow iter
   </ul>
 </div>
 
-#
+# why i'm still using python

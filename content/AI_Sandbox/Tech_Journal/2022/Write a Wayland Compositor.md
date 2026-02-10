@@ -1,5 +1,5 @@
 ---
-title: Write a Wayland Compositor
+title: write a wayland compositor
 tags:
   - tech-journal
   - linux
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Write a Wayland Compositor
+# write a wayland compositor
 
 <div class="keyword-row">
   <span class="inline-keyword">wayland</span>
@@ -84,4 +84,4 @@ This is the kind of material that grows ecosystems. When people can see the stac
   </ul>
 </div>
 
-#
+# write a wayland compositor

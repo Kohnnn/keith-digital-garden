@@ -1,5 +1,5 @@
 ---
-title: Crypto Policy Sprint 2021
+title: crypto policy sprint 2021
 tags:
   - research-digest
   - crypto
@@ -21,7 +21,7 @@ cssclasses:
   - research-digest
 ---
 
-# Crypto Policy Sprint 2021
+# crypto policy sprint 2021
 
 <div class="keyword-row">
   <span class="inline-keyword">policy</span>
@@ -81,4 +81,4 @@ This cluster ties together tax reporting, product restrictions, mining crackdown
   </ul>
 </div>
 
-#
+# crypto policy sprint 2021

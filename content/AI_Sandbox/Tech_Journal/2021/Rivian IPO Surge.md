@@ -1,5 +1,5 @@
 ---
-title: Rivian IPO Surge
+title: rivian ipo surge
 tags:
   - tech-journal
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Rivian IPO Surge
+# rivian ipo surge
 
 <div class="keyword-row">
   <span class="inline-keyword">ipo</span>
@@ -84,4 +84,4 @@ This was a moment of peak optimism. It doesn’t mean the company won’t delive
   </ul>
 </div>
 
-#
+# rivian ipo surge

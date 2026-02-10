@@ -1,5 +1,5 @@
 ---
-title: Chipmakers Slash Orders with TSMC
+title: chipmakers slash orders with tsmc
 tags:
   - tech-journal
   - hardware
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Chipmakers Slash Orders with TSMC
+# chipmakers slash orders with tsmc
 
 <div class="keyword-row">
   <span class="inline-keyword">tsmc</span>
@@ -84,4 +84,4 @@ The headline is about cycle timing. When big buyers pull back, the entire supply
   </ul>
 </div>
 
-#
+# chipmakers slash orders with tsmc

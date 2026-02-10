@@ -1,5 +1,5 @@
 ---
-title: Vaccine Mandates Expand
+title: vaccine mandates expand
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Vaccine Mandates Expand
+# vaccine mandates expand
 
 <div class="keyword-row">
   <span class="inline-keyword">mandates</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Remote Work Normalizes]] because workplace policy and tr
   </ul>
 </div>
 
-#
+# vaccine mandates expand

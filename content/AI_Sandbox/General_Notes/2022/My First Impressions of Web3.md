@@ -1,5 +1,5 @@
 ---
-title: My First Impressions of Web3
+title: my first impressions of web3
 tags:
   - general-note
   - crypto
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# My First Impressions of Web3
+# my first impressions of web3
 
 <div class="keyword-row">
   <span class="inline-keyword">web3</span>
@@ -87,4 +87,4 @@ The key value is the framing. It pushes the discussion toward incentives and gov
   </ul>
 </div>
 
-#
+# my first impressions of web3

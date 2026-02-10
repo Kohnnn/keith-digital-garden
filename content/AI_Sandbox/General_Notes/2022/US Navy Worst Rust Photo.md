@@ -1,5 +1,5 @@
 ---
-title: US Navy Worst Rust Photo
+title: us navy worst rust photo
 tags:
   - general-note
   - defense
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# US Navy Worst Rust Photo
+# us navy worst rust photo
 
 <div class="keyword-row">
   <span class="inline-keyword">readiness</span>
@@ -87,4 +87,4 @@ The image matters because it is visceral. It makes abstract maintenance budgets 
   </ul>
 </div>
 
-#
+# us navy worst rust photo

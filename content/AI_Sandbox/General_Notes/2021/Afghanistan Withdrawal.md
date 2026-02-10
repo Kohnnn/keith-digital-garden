@@ -1,5 +1,5 @@
 ---
-title: Afghanistan Withdrawal
+title: afghanistan withdrawal
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Afghanistan Withdrawal
+# afghanistan withdrawal
 
 <div class="keyword-row">
   <span class="inline-keyword">security</span>
@@ -85,4 +85,4 @@ I keep this linked to [[AUKUS and the Alliance Reset]] because both are about al
   </ul>
 </div>
 
-#
+# afghanistan withdrawal

@@ -1,5 +1,5 @@
 ---
-title: Young Adults and Mental Health Independence
+title: young adults and mental health independence
 tags:
   - general-note
   - society
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Young Adults and Mental Health Independence
+# young adults and mental health independence
 
 <div class="keyword-row">
   <span class="inline-keyword">mental</span>
@@ -87,4 +87,4 @@ The strongest insight is that mental health is partially a design outcome. If au
   </ul>
 </div>
 
-#
+# young adults and mental health independence

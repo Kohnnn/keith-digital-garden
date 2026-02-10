@@ -1,5 +1,5 @@
 ---
-title: Facebook's Daylong Outage
+title: facebook's daylong outage
 tags:
   - general-note
   - infrastructure
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/14410/production/_121134098_gettyimages-1235717271.jpg"
 ---
 
-# Facebook's Daylong Outage
+# facebook's daylong outage
 
 <div class="keyword-row">
   <span class="inline-keyword">routing</span>
@@ -88,4 +88,4 @@ I link this to [[Log4Shell and the Ops Tax]] because both show how operations br
   </ul>
 </div>
 
-#
+# facebook's daylong outage

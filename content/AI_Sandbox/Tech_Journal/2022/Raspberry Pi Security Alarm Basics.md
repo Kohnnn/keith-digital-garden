@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Security Alarm Basics
+title: raspberry pi security alarm basics
 tags:
   - tech-journal
   - hardware
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Raspberry Pi Security Alarm Basics
+# raspberry pi security alarm basics
 
 <div class="keyword-row">
   <span class="inline-keyword">raspberry</span>
@@ -84,4 +84,4 @@ This is a reminder that not all security has to be enterprise grade. Simplicity 
   </ul>
 </div>
 
-#
+# raspberry pi security alarm basics

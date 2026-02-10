@@ -1,5 +1,5 @@
 ---
-title: Facebook Loses Users First Time
+title: facebook loses users first time
 tags:
   - general-note
   - tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Facebook Loses Users First Time
+# facebook loses users first time
 
 <div class="keyword-row">
   <span class="inline-keyword">users</span>
@@ -87,4 +87,4 @@ This is the moment the market saw Meta as a mature system. That forces a sharper
   </ul>
 </div>
 
-#
+# facebook loses users first time

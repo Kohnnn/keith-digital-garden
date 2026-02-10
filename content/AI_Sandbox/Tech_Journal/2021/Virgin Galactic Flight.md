@@ -1,5 +1,5 @@
 ---
-title: Virgin Galactic Flight
+title: virgin galactic flight
 tags:
   - tech-journal
   - space
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Virgin Galactic Flight
+# virgin galactic flight
 
 <div class="keyword-row">
   <span class="inline-keyword">space</span>
@@ -84,4 +84,4 @@ This flight was a marketing milestone as much as a technical one. The business c
   </ul>
 </div>
 
-#
+# virgin galactic flight

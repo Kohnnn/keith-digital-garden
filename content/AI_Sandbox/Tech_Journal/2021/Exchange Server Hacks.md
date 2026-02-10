@@ -1,5 +1,5 @@
 ---
-title: Exchange Server Hacks
+title: exchange server hacks
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Exchange Server Hacks
+# exchange server hacks
 
 <div class="keyword-row">
   <span class="inline-keyword">exchange</span>
@@ -85,4 +85,4 @@ I link this to [[Log4Shell and the Ops Tax]] because both show how one widesprea
   </ul>
 </div>
 
-#
+# exchange server hacks

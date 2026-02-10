@@ -1,5 +1,5 @@
 ---
-title: Elon Musk Offers to Buy Twitter
+title: elon musk offers to buy twitter
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Elon Musk Offers to Buy Twitter
+# elon musk offers to buy twitter
 
 <div class="keyword-row">
   <span class="inline-keyword">takeover</span>
@@ -87,4 +87,4 @@ This was a reminder that platforms are infrastructure. When control changes, the
   </ul>
 </div>
 
-#
+# elon musk offers to buy twitter

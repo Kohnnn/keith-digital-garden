@@ -1,5 +1,5 @@
 ---
-title: Google Shuts Down Stadia
+title: google shuts down stadia
 tags:
   - general-note
   - tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Google Shuts Down Stadia
+# google shuts down stadia
 
 <div class="keyword-row">
   <span class="inline-keyword">stadia</span>
@@ -91,4 +91,4 @@ The shutdown strengthens the case for control and portability. It shifts demand 
   </ul>
 </div>
 
-#
+# google shuts down stadia

@@ -1,5 +1,5 @@
 ---
-title: James Webb Leaves Earth
+title: james webb leaves earth
 tags:
   - general-note
   - future-tech
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/17412/production/_122505259_072799675.jpg"
 ---
 
-# James Webb Leaves Earth
+# james webb leaves earth
 
 <div class="keyword-row">
   <span class="inline-keyword">horizon</span>
@@ -86,4 +86,4 @@ I keep this near #future-tech because it is a reminder that real breakthroughs l
   </ul>
 </div>
 
-#
+# james webb leaves earth

@@ -1,5 +1,5 @@
 ---
-title: AWS Outage and the Cloud Choke
+title: aws outage and the cloud choke
 tags:
   - general-note
   - infrastructure
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# AWS Outage and the Cloud Choke
+# aws outage and the cloud choke
 
 <div class="keyword-row">
   <span class="inline-keyword">aws</span>
@@ -86,4 +86,4 @@ I keep this close to [[Fastly and the Edge Outage]] because both show how extern
   </ul>
 </div>
 
-#
+# aws outage and the cloud choke

@@ -1,5 +1,5 @@
 ---
-title: US Travel Reopens
+title: us travel reopens
 tags:
   - general-note
   - travel
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# US Travel Reopens
+# us travel reopens
 
 <div class="keyword-row">
   <span class="inline-keyword">travel</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Omicron and the Risk Reset]] because policy reversals re
   </ul>
 </div>
 
-#
+# us travel reopens

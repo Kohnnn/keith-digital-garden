@@ -1,5 +1,5 @@
 ---
-title: Sound Interactive
+title: sound interactive
 tags:
   - tech-journal
   - learning
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Sound Interactive
+# sound interactive
 
 <div class="keyword-row">
   <span class="inline-keyword">sound</span>
@@ -82,4 +82,4 @@ These pieces set the bar for technical education. The main takeaway is that inte
   </ul>
 </div>
 
-#
+# sound interactive

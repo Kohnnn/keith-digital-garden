@@ -1,5 +1,5 @@
 ---
-title: ProShares Bitcoin ETF
+title: proshares bitcoin etf
 tags:
   - tech-journal
   - crypto
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# ProShares Bitcoin ETF
+# proshares bitcoin etf
 
 <div class="keyword-row">
   <span class="inline-keyword">etf</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Tesla's Bitcoin Treasury]] because both are legitimacy s
   </ul>
 </div>
 
-#
+# proshares bitcoin etf

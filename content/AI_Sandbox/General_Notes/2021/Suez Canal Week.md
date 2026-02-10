@@ -1,5 +1,5 @@
 ---
-title: Suez Canal Week
+title: suez canal week
 tags:
   - general-note
   - daily
@@ -23,7 +23,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/C5EC/production/_117686605_9d7a3562-59e1-454a-ac31-88a108c54573.jpg"
 ---
 
-# Suez Canal Week
+# suez canal week
 
 <div class="keyword-row">
   <span class="inline-keyword">choke</span>
@@ -87,4 +87,4 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because both
   </ul>
 </div>
 
-#
+# suez canal week

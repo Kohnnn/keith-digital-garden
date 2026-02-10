@@ -1,5 +1,5 @@
 ---
-title: Tamagui 1.0
+title: tamagui 1.0
 tags:
   - tech-journal
   - tooling
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Tamagui 1.0
+# tamagui 1.0
 
 <div class="keyword-row">
   <span class="inline-keyword">react</span>
@@ -84,4 +84,4 @@ If the performance floor rises, cross-platform stacks become a default choice. T
   </ul>
 </div>
 
-#
+# tamagui 1.0

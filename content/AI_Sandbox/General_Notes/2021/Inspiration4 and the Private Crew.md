@@ -1,5 +1,5 @@
 ---
-title: Inspiration4 and the Private Crew
+title: inspiration4 and the private crew
 tags:
   - general-note
   - future-tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Inspiration4 and the Private Crew
+# inspiration4 and the private crew
 
 <div class="keyword-row">
   <span class="inline-keyword">private</span>
@@ -85,4 +85,4 @@ I keep this linked to [[James Webb Leaves Earth]] because both are about long-ho
   </ul>
 </div>
 
-#
+# inspiration4 and the private crew

@@ -1,5 +1,5 @@
 ---
-title: Fastly and the Edge Outage
+title: fastly and the edge outage
 tags:
   - general-note
   - infrastructure
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Fastly and the Edge Outage
+# fastly and the edge outage
 
 <div class="keyword-row">
   <span class="inline-keyword">outage</span>
@@ -85,4 +85,4 @@ I keep this near [[Facebook's Daylong Outage]] because both show how platform re
   </ul>
 </div>
 
-#
+# fastly and the edge outage

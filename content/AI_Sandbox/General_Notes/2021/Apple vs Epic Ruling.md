@@ -1,5 +1,5 @@
 ---
-title: Apple vs Epic Ruling
+title: apple vs epic ruling
 tags:
   - general-note
   - platform
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Apple vs Epic Ruling
+# apple vs epic ruling
 
 <div class="keyword-row">
   <span class="inline-keyword">appstore</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Haugen and the Internal Files]] because both show how pl
   </ul>
 </div>
 
-#
+# apple vs epic ruling

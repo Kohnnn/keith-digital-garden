@@ -1,5 +1,5 @@
 ---
-title: Twitter Suspends Paul Graham Account
+title: twitter suspends paul graham account
 tags:
   - general-note
   - tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Twitter Suspends Paul Graham Account
+# twitter suspends paul graham account
 
 <div class="keyword-row">
   <span class="inline-keyword">suspension</span>
@@ -91,4 +91,4 @@ This is small on its own, but the pattern matters. Users price in governance ins
   </ul>
 </div>
 
-#
+# twitter suspends paul graham account

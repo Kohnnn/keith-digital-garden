@@ -1,5 +1,5 @@
 ---
-title: Fusion Ignition Achieved
+title: fusion ignition achieved
 tags:
   - general-note
   - energy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Fusion Ignition Achieved
+# fusion ignition achieved
 
 <div class="keyword-row">
   <span class="inline-keyword">fusion</span>
@@ -86,4 +86,4 @@ This is not a near-term energy fix, but it is a trust update. It gives funders a
   </ul>
 </div>
 
-#
+# fusion ignition achieved

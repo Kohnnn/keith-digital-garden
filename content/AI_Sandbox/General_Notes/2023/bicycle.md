@@ -14,30 +14,38 @@ draft: true
 description: Bicycle as a signal about broader shifts.
 created: 2023-03-28
 updated: 2023-03-28
-note_id: 230328GN02
+note_id: 230328GN01
 cssclasses:
   - general-note
 ---
 
 # bicycle
 
-Bicycle surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://ciechanow.ski/bicycle/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+<div class="inline-ref">
+  <span class="inline-note">ref</span>
+  <a class="ref-link" href="https://ciechanow.ski/bicycle/">ciechanow.ski</a>
+  <span class="ref-title">Bicycle</span>
+</div>
+
+Bicycle is a pressure test for how this cycle behaves ([source](https://ciechanow.ski/bicycle/)). I care less about the headline and more about the constraints it reveals. The interesting part is what defaults this makes feel inevitable.
 
 ## context + claim
-The story puts a spotlight on bicycle, which matters because it reframes where teams allocate attention. My claim: this is less about a single win and more about how the stack and the market are rebalancing around trust and durability.
+bicycle shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.
 
 ## causal chain
-Signal -> attention shift -> product or policy adjustment, which matters because it changes who can move fastest.
-Adjustment -> new defaults -> lock-in, which pushes smaller teams to adapt or exit.
-Lock-in -> consolidation of workflow, which raises the cost of switching later.
+Trigger -> workflow adjustment -> new default, because habits are stickier than roadmaps.
+New default -> platform leverage -> narrowing options for smaller teams.
 
-## risk surface
-- Over-rotation on the headline could mask second-order costs.
-- Early adopters take execution risk while incumbents take narrative risk.
-- If incentives misalign, the outcome becomes a short-lived spike instead of a durable shift.
+## counter-model
+The skeptical read is that this fades as soon as attention moves. That is plausible, but I keep watching whether teams encode it into their routines. Routines are the actual signal.
 
 ## my take
-I treat this as a directional signal, not a definitive answer. The right response is to adjust posture while keeping the option to reverse if the signal fades.
+I am leaning cautious: treat the change as real, but do not calcify it until the operational story holds.
+
+<div class="note-micro">
+  <span class="inline-note">friction point</span>
+  <span class="inline-note">default drift</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -60,6 +68,6 @@ I treat this as a directional signal, not a definitive answer. The right respons
 </div>
 
 ## ending questions
-What would change my mind about how durable this shift really is?
+What would make this feel durable instead of episodic?
 
 #

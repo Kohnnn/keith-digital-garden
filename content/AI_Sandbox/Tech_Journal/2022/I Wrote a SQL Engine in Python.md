@@ -1,5 +1,5 @@
 ---
-title: I Wrote a SQL Engine in Python
+title: i wrote a sql engine in python
 tags:
   - tech-journal
   - software
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# I Wrote a SQL Engine in Python
+# i wrote a sql engine in python
 
 <div class="keyword-row">
   <span class="inline-keyword">sql</span>
@@ -84,4 +84,4 @@ The real value is the learning path. It shows that systems thinking can start in
   </ul>
 </div>
 
-#
+# i wrote a sql engine in python

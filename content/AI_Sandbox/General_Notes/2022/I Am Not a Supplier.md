@@ -1,5 +1,5 @@
 ---
-title: I Am Not a Supplier
+title: i am not a supplier
 tags:
   - general-note
   - business
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# I Am Not a Supplier
+# i am not a supplier
 
 <div class="keyword-row">
   <span class="inline-keyword">supplier</span>
@@ -87,4 +87,4 @@ The strongest part is the framing. If you let the other side define the relation
   </ul>
 </div>
 
-#
+# i am not a supplier

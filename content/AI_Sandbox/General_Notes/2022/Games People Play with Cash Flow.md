@@ -1,5 +1,5 @@
 ---
-title: Games People Play with Cash Flow
+title: games people play with cash flow
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Games People Play with Cash Flow
+# games people play with cash flow
 
 <div class="keyword-row">
   <span class="inline-keyword">cashflow</span>
@@ -87,4 +87,4 @@ The core insight is that cash flow is not just a number. It is a behavioral leve
   </ul>
 </div>
 
-#
+# games people play with cash flow

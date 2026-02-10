@@ -1,5 +1,5 @@
 ---
-title: RSS Brain
+title: rss brain
 tags:
   - tech-journal
   - tooling
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# RSS Brain
+# rss brain
 
 <div class="keyword-row">
   <span class="inline-keyword">rss</span>
@@ -84,4 +84,4 @@ The main shift is intention. RSS is not nostalgia; it is a constraint that prote
   </ul>
 </div>
 
-#
+# rss brain

@@ -1,5 +1,5 @@
 ---
-title: PrintNightmare Flaw
+title: printnightmare flaw
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# PrintNightmare Flaw
+# printnightmare flaw
 
 <div class="keyword-row">
   <span class="inline-keyword">breach</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Exchange Server Hacks]] because both reveal the risk in 
   </ul>
 </div>
 
-#
+# printnightmare flaw

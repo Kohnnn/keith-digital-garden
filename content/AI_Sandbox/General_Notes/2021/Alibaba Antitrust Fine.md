@@ -1,5 +1,5 @@
 ---
-title: Alibaba Antitrust Fine
+title: alibaba antitrust fine
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Alibaba Antitrust Fine
+# alibaba antitrust fine
 
 <div class="keyword-row">
   <span class="inline-keyword">antitrust</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Didi and the Data Crackdown]] because both show how poli
   </ul>
 </div>
 
-#
+# alibaba antitrust fine

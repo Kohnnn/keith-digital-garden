@@ -1,5 +1,5 @@
 ---
-title: Yantian Port Outbreak
+title: yantian port outbreak
 tags:
   - general-note
   - logistics
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Yantian Port Outbreak
+# yantian port outbreak
 
 <div class="keyword-row">
   <span class="inline-keyword">outbreak</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Port Congestion Squeeze]] because both show how shipping
   </ul>
 </div>
 
-#
+# yantian port outbreak

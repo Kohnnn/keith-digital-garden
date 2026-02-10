@@ -1,5 +1,5 @@
 ---
-title: 3D Scan of the Great Pyramid
+title: 3d scan of the great pyramid
 tags:
   - tech-journal
   - visualization
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# 3D Scan of the Great Pyramid
+# 3d scan of the great pyramid
 
 <div class="keyword-row">
   <span class="inline-keyword">scan</span>
@@ -84,4 +84,4 @@ The real shift is accessibility. When high-resolution models are public, researc
   </ul>
 </div>
 
-#
+# 3d scan of the great pyramid

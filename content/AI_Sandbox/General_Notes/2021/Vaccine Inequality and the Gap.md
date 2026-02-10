@@ -1,5 +1,5 @@
 ---
-title: Vaccine Inequality and the Gap
+title: vaccine inequality and the gap
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Vaccine Inequality and the Gap
+# vaccine inequality and the gap
 
 <div class="keyword-row">
   <span class="inline-keyword">vaccines</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Delta Wave and the Global Reset]] because inequality fee
   </ul>
 </div>
 
-#
+# vaccine inequality and the gap

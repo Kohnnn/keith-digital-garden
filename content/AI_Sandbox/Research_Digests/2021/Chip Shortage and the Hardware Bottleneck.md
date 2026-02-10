@@ -1,5 +1,5 @@
 ---
-title: Chip Shortage and the Hardware Bottleneck
+title: chip shortage and the hardware bottleneck
 tags:
   - research-digest
   - hardware
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1732626619&w=1920&h=1080"
 ---
 
-# Chip Shortage and the Hardware Bottleneck
+# chip shortage and the hardware bottleneck
 
 <div class="keyword-row">
   <span class="inline-keyword">capacity</span>
@@ -111,4 +111,4 @@ For tech strategy, the signal is clear: compute capacity is an input you cannot 
   </ul>
 </div>
 
-#
+# chip shortage and the hardware bottleneck

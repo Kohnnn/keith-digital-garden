@@ -1,5 +1,5 @@
 ---
-title: Robinhood IPO
+title: robinhood ipo
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Robinhood IPO
+# robinhood ipo
 
 <div class="keyword-row">
   <span class="inline-keyword">markets</span>
@@ -85,4 +85,4 @@ I keep this linked to [[GameStop and the Retail Squeeze]] because both are about
   </ul>
 </div>
 
-#
+# robinhood ipo

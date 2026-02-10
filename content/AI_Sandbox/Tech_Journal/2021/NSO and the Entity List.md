@@ -1,5 +1,5 @@
 ---
-title: NSO and the Entity List
+title: nso and the entity list
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# NSO and the Entity List
+# nso and the entity list
 
 <div class="keyword-row">
   <span class="inline-keyword">blacklist</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Pegasus and the Zero-Click Reality]] because both show h
   </ul>
 </div>
 
-#
+# nso and the entity list

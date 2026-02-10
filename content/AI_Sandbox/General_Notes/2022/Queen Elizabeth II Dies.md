@@ -1,5 +1,5 @@
 ---
-title: Queen Elizabeth II Dies
+title: queen elizabeth ii dies
 tags:
   - general-note
   - geopolitics
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Queen Elizabeth II Dies
+# queen elizabeth ii dies
 
 <div class="keyword-row">
   <span class="inline-keyword">monarchy</span>
@@ -86,4 +86,4 @@ This was less about policy and more about continuity. When symbols change, the l
   </ul>
 </div>
 
-#
+# queen elizabeth ii dies

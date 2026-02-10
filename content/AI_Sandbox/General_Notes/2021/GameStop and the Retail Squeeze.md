@@ -1,5 +1,5 @@
 ---
-title: GameStop and the Retail Squeeze
+title: gamestop and the retail squeeze
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# GameStop and the Retail Squeeze
+# gamestop and the retail squeeze
 
 <div class="keyword-row">
   <span class="inline-keyword">retail</span>
@@ -85,4 +85,4 @@ I keep this near [[Inflation Prints 6.8]] because both are about confidence shoc
   </ul>
 </div>
 
-#
+# gamestop and the retail squeeze

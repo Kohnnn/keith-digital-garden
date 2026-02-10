@@ -1,5 +1,5 @@
 ---
-title: Beeple NFT Sale
+title: beeple nft sale
 tags:
   - general-note
   - markets
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Beeple NFT Sale
+# beeple nft sale
 
 <div class="keyword-row">
   <span class="inline-keyword">markets</span>
@@ -86,4 +86,4 @@ I keep this linked to [[ProShares Bitcoin ETF]] because both are about legitimac
   </ul>
 </div>
 
-#
+# beeple nft sale

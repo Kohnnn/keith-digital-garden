@@ -1,5 +1,5 @@
 ---
-title: Port Congestion Squeeze
+title: port congestion squeeze
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Port Congestion Squeeze
+# port congestion squeeze
 
 <div class="keyword-row">
   <span class="inline-keyword">logistics</span>
@@ -89,4 +89,4 @@ I keep this linked to [[Chip Shortage and the Hardware Bottleneck]] because both
   </ul>
 </div>
 
-#
+# port congestion squeeze

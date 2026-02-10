@@ -1,5 +1,5 @@
 ---
-title: Work Without a Center
+title: work without a center
 tags:
   - thoughtpiece
   - labor
@@ -21,7 +21,7 @@ cssclasses:
   - thoughtpiece
 ---
 
-# Work Without a Center
+# work without a center
 
 <div class="keyword-row">
   <span class="inline-keyword">work</span>
@@ -84,4 +84,4 @@ Hybrid work is a long-term structural shift. The companies that succeed will tre
   </ul>
 </div>
 
-#
+# work without a center

@@ -1,5 +1,5 @@
 ---
-title: Russia Invades Ukraine
+title: russia invades ukraine
 tags:
   - general-note
   - geopolitics
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Russia Invades Ukraine
+# russia invades ukraine
 
 <div class="keyword-row">
   <span class="inline-keyword">invasion</span>
@@ -90,4 +90,4 @@ This was the moment where energy stopped being a technical policy file and becam
   </ul>
 </div>
 
-#
+# russia invades ukraine

@@ -1,5 +1,5 @@
 ---
-title: Copilot and the Autocomplete Layer
+title: copilot and the autocomplete layer
 tags:
   - tech-journal
   - ai
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19897329/GitHub___Day_1_Keynote_NatFriedman_1_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
 ---
 
-# Copilot and the Autocomplete Layer
+# copilot and the autocomplete layer
 
 <div class="keyword-row">
   <span class="inline-keyword">suggestion</span>
@@ -88,4 +88,4 @@ I keep this linked to [[Meta and the AR Bet]] because both are about who owns th
   </ul>
 </div>
 
-#
+# copilot and the autocomplete layer

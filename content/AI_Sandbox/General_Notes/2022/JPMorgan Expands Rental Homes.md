@@ -1,5 +1,5 @@
 ---
-title: JPMorgan Expands Rental Homes
+title: jpmorgan expands rental homes
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# JPMorgan Expands Rental Homes
+# jpmorgan expands rental homes
 
 <div class="keyword-row">
   <span class="inline-keyword">housing</span>
@@ -87,4 +87,4 @@ This is a clear signal that housing is now a financial strategy. That increases 
   </ul>
 </div>
 
-#
+# jpmorgan expands rental homes

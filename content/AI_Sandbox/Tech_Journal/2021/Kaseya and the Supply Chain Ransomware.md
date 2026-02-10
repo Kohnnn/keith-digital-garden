@@ -1,5 +1,5 @@
 ---
-title: Kaseya and the Supply Chain Ransomware
+title: kaseya and the supply chain ransomware
 tags:
   - tech-journal
   - security
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Kaseya and the Supply Chain Ransomware
+# kaseya and the supply chain ransomware
 
 <div class="keyword-row">
   <span class="inline-keyword">supply</span>
@@ -86,4 +86,4 @@ I keep this near [[Log4Shell and the Ops Tax]] because both show how dependency 
   </ul>
 </div>
 
-#
+# kaseya and the supply chain ransomware

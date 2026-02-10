@@ -1,5 +1,5 @@
 ---
-title: Blue Origin's First Crew
+title: blue origin's first crew
 tags:
   - general-note
   - future-tech
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Blue Origin's First Crew
+# blue origin's first crew
 
 <div class="keyword-row">
   <span class="inline-keyword">launch</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Inspiration4 and the Private Crew]] because both mark th
   </ul>
 </div>
 
-#
+# blue origin's first crew

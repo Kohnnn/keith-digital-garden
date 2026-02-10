@@ -1,5 +1,5 @@
 ---
-title: Mechanical Watch Interactive
+title: mechanical watch interactive
 tags:
   - tech-journal
   - learning
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Mechanical Watch Interactive
+# mechanical watch interactive
 
 <div class="keyword-row">
   <span class="inline-keyword">mechanics</span>
@@ -82,4 +82,4 @@ The best technical content is often interface design. This kind of work sets a h
   </ul>
 </div>
 
-#
+# mechanical watch interactive

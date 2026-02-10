@@ -1,5 +1,5 @@
 ---
-title: pockit modular computer tests tiny form factor ambition
+title: tiny modular computers hit the battery wall
 tags:
   - general-note
   - hardware
@@ -13,7 +13,7 @@ keywords:
   - battery
   - formfactor
 draft: true
-description: A tiny modular computer raised questions about edge usability.
+description: Pockit highlights how modular ambition collides with power limits.
 created: 2022-03-09
 updated: 2022-03-09
 note_id: 220309GN01
@@ -21,32 +21,38 @@ cssclasses:
   - general-note
 ---
 
-# pockit modular computer tests tiny form factor ambition
+# tiny modular computers hit the battery wall
+
+<div class="inline-ref">
+  <span class="inline-note">ref</span> <a href="https://www.youtube.com/watch?v=b3F9OtH2Xx4">https://www.youtube.com/watch?v=b3F9OtH2Xx4</a>
+</div>
 
 Pockit showed a tiny modular computer designed for flexible edge and mobile use
-([YouTube](https://www.youtube.com/watch?v=b3F9OtH2Xx4)). The design sits between a dev kit and a
-consumer device, which makes it a useful experiment in form factor economics. I read it as a probe
-for how small modular computing can get before usability breaks.
+([YouTube](https://www.youtube.com/watch?v=b3F9OtH2Xx4)). The shape is seductive, but physics is
+still the gatekeeper. I read it as a stress test: how small can we go before workflows collapse?
 
-## evidence stack
-- The modular approach suggests a desire to separate compute, battery, and interface concerns.
-- The tiny form factor emphasizes portability, but also limits thermal and I/O headroom.
-- The pitch targets builders, which keeps expectations about polish lower but raises expectations
-  about extensibility.
+## context + claim
+The dream is pocketable compute with swap‑able parts. My claim: the real constraint is not modularity,
+it is energy density and thermal headroom. Until those shift, the category remains a prototyping
+curiosity, not a daily driver.
 
 ## constraint map
 - Battery density limits sustained performance in pocket-sized devices.
 - Thermal constraints force conservative clocks and throttling.
-- Ecosystem support is thin unless a larger platform adopts the form factor.
+- I/O and screen tradeoffs turn into workflow friction fast.
 
-## time horizon
-Short term, this is a developer curiosity and a prototyping tool. Mid term, it becomes relevant if
-edge deployments value modularity more than raw performance. Long term, it tests whether modular
-computing can win in the ultra-mobile tier.
+## decision boundary
+If someone ships a repeatable workflow where the device saves real time per day, I will upgrade this
+from curiosity to category. If not, it stays a demo that never crosses the adoption chasm.
 
 ## my take
-I like the ambition, but I want to see real workflows, not just demos. Form factor innovation dies
-without a repeatable use case.
+I like the ambition, but I want to see a job that only this form factor can do. Without that, it is
+a beautiful dead end.
+
+<div class="note-micro">
+  <span class="inline-note">power limits</span>
+  <span class="inline-note">workflow fit</span>
+</div>
 
 ## linkage
 <div class="linkage-tree">
@@ -65,6 +71,7 @@ without a repeatable use case.
         <li>[[Pockit Modular Computer]]</li>
         <li>[[Framework Laptop Upgrade]]</li>
         <li>[[M1 Pro and the Laptop Reset]]</li>
+        <li>[[edge ai compute nodes land in scotland]]</li>
       </ul>
     </li>
   </ul>

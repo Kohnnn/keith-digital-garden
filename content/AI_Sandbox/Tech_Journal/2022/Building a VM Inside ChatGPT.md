@@ -1,5 +1,5 @@
 ---
-title: Building a VM Inside ChatGPT
+title: building a vm inside chatgpt
 tags:
   - tech-journal
   - ai
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# Building a VM Inside ChatGPT
+# building a vm inside chatgpt
 
 <div class="keyword-row">
   <span class="inline-keyword">vm</span>
@@ -82,4 +82,4 @@ This is a preview of the next tooling layer. The model is the substrate; the int
   </ul>
 </div>
 
-#
+# building a vm inside chatgpt

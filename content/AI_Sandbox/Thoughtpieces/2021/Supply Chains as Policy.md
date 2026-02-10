@@ -1,5 +1,5 @@
 ---
-title: Supply Chains as Policy
+title: supply chains as policy
 tags:
   - thoughtpiece
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - thoughtpiece
 ---
 
-# Supply Chains as Policy
+# supply chains as policy
 
 <div class="keyword-row">
   <span class="inline-keyword">supply</span>
@@ -84,4 +84,4 @@ This is a structural shift. Supply chains are no longer neutral; they are strate
   </ul>
 </div>
 
-#
+# supply chains as policy

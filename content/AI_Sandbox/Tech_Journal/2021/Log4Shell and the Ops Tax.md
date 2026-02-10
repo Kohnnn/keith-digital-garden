@@ -1,5 +1,5 @@
 ---
-title: Log4Shell and the Ops Tax
+title: log4shell and the ops tax
 tags:
   - tech-journal
   - security
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/99FF/production/_122232493_computerrepairgettyimages-1307404577.jpg"
 ---
 
-# Log4Shell and the Ops Tax
+# log4shell and the ops tax
 
 <div class="keyword-row">
   <span class="inline-keyword">dependency</span>
@@ -107,4 +107,4 @@ This is also a reminder that future platforms only increase the surface area. If
   </ul>
 </div>
 
-#
+# log4shell and the ops tax

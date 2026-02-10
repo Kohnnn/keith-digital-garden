@@ -1,5 +1,5 @@
 ---
-title: AUKUS and the Alliance Reset
+title: aukus and the alliance reset
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# AUKUS and the Alliance Reset
+# aukus and the alliance reset
 
 <div class="keyword-row">
   <span class="inline-keyword">alliance</span>
@@ -86,4 +86,4 @@ I keep this close to [[China's Power Crunch]] because energy and defense are bot
   </ul>
 </div>
 
-#
+# aukus and the alliance reset

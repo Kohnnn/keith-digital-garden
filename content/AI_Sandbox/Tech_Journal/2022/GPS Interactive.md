@@ -1,5 +1,5 @@
 ---
-title: GPS Interactive
+title: gps interactive
 tags:
   - tech-journal
   - learning
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# GPS Interactive
+# gps interactive
 
 <div class="keyword-row">
   <span class="inline-keyword">gps</span>
@@ -82,4 +82,4 @@ This is the kind of work that changes how people think about infrastructure. It 
   </ul>
 </div>
 
-#
+# gps interactive

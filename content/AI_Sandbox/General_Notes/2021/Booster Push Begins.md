@@ -1,5 +1,5 @@
 ---
-title: Booster Push Begins
+title: booster push begins
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Booster Push Begins
+# booster push begins
 
 <div class="keyword-row">
   <span class="inline-keyword">booster</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Vaccine Inequality and the Gap]] because supply trade-of
   </ul>
 </div>
 
-#
+# booster push begins

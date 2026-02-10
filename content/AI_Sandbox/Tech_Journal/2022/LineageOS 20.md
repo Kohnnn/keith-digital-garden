@@ -1,5 +1,5 @@
 ---
-title: LineageOS 20
+title: lineageos 20
 tags:
   - tech-journal
   - mobile
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# LineageOS 20
+# lineageos 20
 
 <div class="keyword-row">
   <span class="inline-keyword">android</span>
@@ -84,4 +84,4 @@ This is less about niche phones and more about long-term control. When vendors s
   </ul>
 </div>
 
-#
+# lineageos 20

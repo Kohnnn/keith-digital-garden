@@ -1,5 +1,5 @@
 ---
-title: AirTag Tracking Debate
+title: airtag tracking debate
 tags:
   - tech-journal
   - privacy
@@ -21,7 +21,7 @@ cssclasses:
   - tech-journal
 ---
 
-# AirTag Tracking Debate
+# airtag tracking debate
 
 <div class="keyword-row">
   <span class="inline-keyword">privacy</span>
@@ -84,4 +84,4 @@ This episode showed that privacy is a design constraint, not just a legal one. W
   </ul>
 </div>
 
-#
+# airtag tracking debate

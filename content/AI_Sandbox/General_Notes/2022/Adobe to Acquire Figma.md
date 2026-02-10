@@ -1,5 +1,5 @@
 ---
-title: Adobe to Acquire Figma
+title: adobe to acquire figma
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Adobe to Acquire Figma
+# adobe to acquire figma
 
 <div class="keyword-row">
   <span class="inline-keyword">acquisition</span>
@@ -86,4 +86,4 @@ This deal puts a spotlight on dependency risk. If the tooling layer concentrates
   </ul>
 </div>
 
-#
+# adobe to acquire figma

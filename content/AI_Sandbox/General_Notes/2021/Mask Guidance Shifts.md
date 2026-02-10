@@ -1,5 +1,5 @@
 ---
-title: Mask Guidance Shifts
+title: mask guidance shifts
 tags:
   - general-note
   - policy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Mask Guidance Shifts
+# mask guidance shifts
 
 <div class="keyword-row">
   <span class="inline-keyword">masks</span>
@@ -86,4 +86,4 @@ I keep this linked to [[Vaccine Mandates Expand]] because both are about how pol
   </ul>
 </div>
 
-#
+# mask guidance shifts

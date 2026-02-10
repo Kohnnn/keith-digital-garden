@@ -1,5 +1,5 @@
 ---
-title: Infrastructure Bill Passage
+title: infrastructure bill passage
 tags:
   - general-note
   - economy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Infrastructure Bill Passage
+# infrastructure bill passage
 
 <div class="keyword-row">
   <span class="inline-keyword">policy</span>
@@ -85,4 +85,4 @@ I keep this linked to [[Inflation Prints 6.8]] because fiscal expectations and i
   </ul>
 </div>
 
-#
+# infrastructure bill passage

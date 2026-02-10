@@ -1,5 +1,5 @@
 ---
-title: M1 Pro and the Laptop Reset
+title: m1 pro and the laptop reset
 tags:
   - tech-journal
   - hardware
@@ -22,7 +22,7 @@ cssclasses:
 image: "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-pro_10182021_big.jpg.large.jpg"
 ---
 
-# M1 Pro and the Laptop Reset
+# m1 pro and the laptop reset
 
 <div class="keyword-row">
   <span class="inline-keyword">silicon</span>
@@ -89,4 +89,4 @@ I keep this close to [[Chip Shortage and the Hardware Bottleneck]] because suppl
   </ul>
 </div>
 
-#
+# m1 pro and the laptop reset

@@ -1,5 +1,5 @@
 ---
-title: Coinbase IPO
+title: coinbase ipo
 tags:
   - general-note
   - finance
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Coinbase IPO
+# coinbase ipo
 
 <div class="keyword-row">
   <span class="inline-keyword">adoption</span>
@@ -85,4 +85,4 @@ I keep this linked to [[ProShares Bitcoin ETF]] because both are about access an
   </ul>
 </div>
 
-#
+# coinbase ipo

@@ -1,5 +1,5 @@
 ---
-title: Europe's Gas Shock
+title: europe's gas shock
 tags:
   - general-note
   - energy
@@ -21,7 +21,7 @@ cssclasses:
   - general-note
 ---
 
-# Europe's Gas Shock
+# europe's gas shock
 
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
@@ -86,4 +86,4 @@ I keep this linked to [[China's Power Crunch]] and [[Inflation Prints 6.8]] beca
   </ul>
 </div>
 
-#
+# europe's gas shock

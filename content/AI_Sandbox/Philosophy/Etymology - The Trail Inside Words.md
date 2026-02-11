@@ -1,13 +1,24 @@
 ---
 title: Etymology - The Trail Inside Words
-tags: [philosophy, language, etymology]
-keywords: [language, history, meaning, roots, identity]
+tags:
+  - philosophy
+  - language
+  - etymology
+  - history
+  - meaning
+keywords:
+  - language
+  - history
+  - meaning
+  - roots
+  - identity
 draft: true
 description: A word carries the footsteps of every mind that used it.
 created: 2022-02-09
 updated: 2025-12-13
 note_id: 220209ET01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Etymology - The Trail Inside Words

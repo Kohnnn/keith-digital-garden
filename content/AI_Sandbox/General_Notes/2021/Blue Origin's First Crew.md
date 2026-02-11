@@ -23,6 +23,8 @@ cssclasses:
 
 # blue origin's first crew
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">launch</span>
   <span class="inline-keyword">tourism</span>

@@ -23,6 +23,8 @@ cssclasses:
 
 # physical buttons outperform touchscreens
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A car test reported that physical buttons were safer and more usable than touchscreens for key functions ([source](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)). It reframed UI as a safety system, not just a style choice.
 

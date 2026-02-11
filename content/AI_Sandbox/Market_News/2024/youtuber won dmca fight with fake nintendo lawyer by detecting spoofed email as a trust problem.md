@@ -4,6 +4,8 @@ tags:
   - market-news
   - ai
   - 2024
+  - email
+  - trust
 keywords:
   - youtuber
   - won

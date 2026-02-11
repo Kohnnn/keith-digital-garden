@@ -23,6 +23,8 @@ cssclasses:
 
 # state of http in 2022
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 Cloudflare's report mapped how protocol choices and traffic patterns shape performance at scale ([source](https://blog.cloudflare.com/the-state-of-http-in-2022/)). The web is measured as a system, not a black box.
 

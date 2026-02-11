@@ -23,6 +23,8 @@ cssclasses:
 
 # end to end by default rewrites recovery economics
 
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
+
 <div class="inline-ref">
   <span class="inline-note">ref</span> <a href="https://www.apple.com/newsroom/2022/12/apple-advances-personal-data-protection-with-powerful-new-features/">https://www.apple.com/newsroom/2022/12/apple-advances-personal-data-protection-with-powerful-new-features/</a>
 </div>

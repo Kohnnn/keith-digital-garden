@@ -23,6 +23,8 @@ cssclasses:
 
 # ethereum merge is done
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The Ethereum merge completed the shift to proof of stake, ending a multi-year upgrade path ([source](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/)). The change reset energy narratives and operational risk.
 

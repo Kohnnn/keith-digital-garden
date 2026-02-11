@@ -2,6 +2,9 @@
 title: keyword - attention
 tags:
   - keyword-index
+  - attention
+  - zen
+  - buddhism
 draft: true
 description: Notes linked by attention.
 created: 2026-02-07

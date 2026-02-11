@@ -2,6 +2,8 @@
 title: keyword - simplicity
 tags:
   - keyword-index
+  - daoism
+  - epicureanism
 draft: true
 description: Notes linked by simplicity.
 created: 2026-02-07

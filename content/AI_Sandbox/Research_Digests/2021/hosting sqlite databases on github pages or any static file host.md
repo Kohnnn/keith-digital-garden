@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # hosting sqlite databases on github pages or any static file hoster
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Hosting SQLite databases on GitHub Pages or any static file hoster surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

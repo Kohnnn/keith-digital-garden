@@ -2,6 +2,8 @@
 title: keyword - surrender
 tags:
   - keyword-index
+  - surrender
+  - vedanta
 draft: true
 description: Notes linked by surrender.
 created: 2026-02-07

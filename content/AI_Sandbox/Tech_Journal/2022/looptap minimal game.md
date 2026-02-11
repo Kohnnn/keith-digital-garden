@@ -23,6 +23,8 @@ cssclasses:
 
 # looptap minimal game
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Small games are good stress tests for interface design. My read is that minimal loops reveal what actually keeps attention.
 
 ## scene cut

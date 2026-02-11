@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # grand jury subpoena for signal user data, central district of california
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Grand jury subpoena for Signal user data, Central District of California surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://signal.org/bigbrother/cd-california-grand-jury/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

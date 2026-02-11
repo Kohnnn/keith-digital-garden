@@ -23,6 +23,8 @@ cssclasses:
 
 # twitter accepts musk offer
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 Twitter agreed to Elon Musk's acquisition offer, turning platform governance into a capital event ([source](https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/)). The shift made ownership the fastest path to policy change.
 

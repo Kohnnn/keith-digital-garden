@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # nascar driver stuns to qualify for championship with gamecube move
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Nascar driver stuns to qualify for championship with GameCube move surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.nintendolife.com/news/2022/10/random-nascar-driver-stuns-to-qualify-for-championship-with-gamecube-move)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

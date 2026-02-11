@@ -23,6 +23,8 @@ cssclasses:
 
 # gears interactive
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The Gears interactive broke down mechanical motion into clear visual sequences ([source](https://ciechanow.ski/gears/)). It showed how interfaces can teach physics faster than text.
 

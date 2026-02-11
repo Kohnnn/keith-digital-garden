@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # i deeply regret my participation in the board's actions
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://twitter.com/ilyasut/status/1726590052392956028">twitter.com</a> <span class="ref-title">I deeply regret my participation in the board's actions</span> <span class="ref-meta">2023-11-20</span></p>

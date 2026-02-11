@@ -23,6 +23,8 @@ cssclasses:
 
 # youtube dl repository restored
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 ## scene cut
 GitHub restored the youtube-dl repository and explained its stance on DMCA requests ([source](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)). The reversal showed platform policy can flex under public scrutiny.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # riffusion generates music
 
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
+
 <div class="keyword-row">
   <span class="inline-keyword">audio</span>
   <span class="inline-keyword">diffusion</span>

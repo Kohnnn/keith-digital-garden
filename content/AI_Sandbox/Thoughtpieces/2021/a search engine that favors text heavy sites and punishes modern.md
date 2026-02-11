@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - web
   - 2021
+  - product
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # a search engine that favors text heavy sites and punishes modern web design
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 A search engine that favors text-heavy sites and punishes modern web design surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://search.marginalia.nu/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

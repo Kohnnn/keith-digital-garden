@@ -23,6 +23,8 @@ cssclasses:
 
 # steam deck anchors a handheld pc category
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Valve announced the Steam Deck, a handheld PC designed around the Steam library
 ([Valve](https://www.steamdeck.com/en/)). The move matters because distribution power can create a
 new hardware category almost overnight. I read it as a platform play disguised as a device launch.

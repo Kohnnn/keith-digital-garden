@@ -4,10 +4,14 @@ tags:
   - general-note
   - manufacturing
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - manufacturing
   - diaries
+  - supply
+  - div
 draft: true
 description: Manufacturers started sharing machine-level dashboards to pre-empt COVID disruptions.
 created: 2020-06-18
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # manufacturing data diaries
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Plants published digital diaries to track capacity and supply, similar to the logistics monitoring discussed in [[playbook covid supply shocks data review]].
 

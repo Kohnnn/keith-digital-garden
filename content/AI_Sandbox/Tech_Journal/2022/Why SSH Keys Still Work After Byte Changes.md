@@ -23,6 +23,8 @@ cssclasses:
 
 # why ssh keys still work after byte changes
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A crypto exchange discussion explained why some SSH key byte changes do not break validity ([source](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)). The answer is about encoding, structure, and error tolerance.
 

@@ -1,13 +1,23 @@
 ---
 title: Nyaya - The Rules of Knowing
-tags: [philosophy, nyaya, logic]
-keywords: [logic, knowledge, evidence, reason, clarity]
+tags:
+  - philosophy
+  - nyaya
+  - logic
+  - knowledge
+keywords:
+  - logic
+  - knowledge
+  - evidence
+  - reason
+  - clarity
 draft: true
 description: Nyaya builds a disciplined path for reliable knowledge.
 created: 2024-10-06
 updated: 2026-01-31
 note_id: 241006NY01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Nyaya - The Rules of Knowing

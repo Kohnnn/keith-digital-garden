@@ -23,6 +23,8 @@ cssclasses:
 
 # all in on server side sqlite
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A writeup argued for SQLite as a server-side default, using Litestream as the durability layer ([source](https://fly.io/blog/all-in-on-sqlite-litestream/)). The piece framed simplicity as an operational advantage.
 

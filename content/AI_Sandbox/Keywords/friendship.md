@@ -2,6 +2,7 @@
 title: keyword - friendship
 tags:
   - keyword-index
+  - epicureanism
 draft: true
 description: Notes linked by friendship.
 created: 2026-02-07

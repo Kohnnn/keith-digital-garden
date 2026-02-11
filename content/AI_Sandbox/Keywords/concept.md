@@ -2,6 +2,7 @@
 title: keyword - concept
 tags:
   - keyword-index
+  - abstraction
 draft: true
 description: Notes linked by concept.
 created: 2026-02-07

@@ -23,6 +23,8 @@ cssclasses:
 
 # recursive game of life
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 This demo felt like a small portal into complexity. My read is that recursion makes systems more intuitive when the visuals are right.
 
 ## scene cut

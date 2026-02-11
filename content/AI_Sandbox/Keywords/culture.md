@@ -2,6 +2,8 @@
 title: keyword - culture
 tags:
   - keyword-index
+  - culture
+  - memetics
 draft: true
 description: Notes linked by culture.
 created: 2026-02-07

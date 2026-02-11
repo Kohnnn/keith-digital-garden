@@ -5,11 +5,13 @@ tags:
   - ai
   - marketplace
   - 2023
+  - platform
 keywords:
-  - gpt-store
+  - gptstore
   - commerce
   - monetization
   - api
+  - gpt
 draft: true
 description: OpenAI unveiled the GPT Store to sell third-party and first-party copilots.
 created: 2023-11-06
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # openai gpt store rewrites platform play
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 OpenAI launched GPT Store, letting developers sell specialized agents, suggesting the model provider is embracing platform economics rather than pure API revenue ([OpenAI Blog](https://openai.com/newsroom/gpt-store/)). This move changes how we think about distribution and royalties.
 

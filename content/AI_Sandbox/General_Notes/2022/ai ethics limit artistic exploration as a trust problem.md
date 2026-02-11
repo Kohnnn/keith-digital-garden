@@ -1,9 +1,11 @@
 ---
-title: 'ai' ethics limit artistic exploration as a trust problem
+title: ai' ethics limit artistic exploration as a trust problem
 tags:
   - general-note
   - ai
   - 2022
+  - ethics
+  - trust
 keywords:
   - ai
   - ethics
@@ -11,7 +13,7 @@ keywords:
   - artistic
   - exploration
 draft: true
-description: 'AI' ethics limit artistic exploration
+description: AI' ethics limit artistic exploration
 created: 2022-12-31
 updated: 2022-12-31
 note_id: 221231GN23

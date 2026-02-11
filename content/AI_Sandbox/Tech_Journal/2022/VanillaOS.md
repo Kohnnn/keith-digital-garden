@@ -23,6 +23,8 @@ cssclasses:
 
 # vanillaos
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">linux</span>
   <span class="inline-keyword">immutable</span>

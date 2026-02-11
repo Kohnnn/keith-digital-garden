@@ -1,13 +1,24 @@
 ---
 title: River - The Long Witness
-tags: [philosophy, environment, river]
-keywords: [nature, time, memory, flow, change]
+tags:
+  - philosophy
+  - environment
+  - river
+  - time
+  - memory
+keywords:
+  - nature
+  - time
+  - memory
+  - flow
+  - change
 draft: true
 description: A river keeps telling the truth even when I forget.
 created: 2021-09-09
 updated: 2025-12-12
 note_id: 210909RV01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # River - The Long Witness

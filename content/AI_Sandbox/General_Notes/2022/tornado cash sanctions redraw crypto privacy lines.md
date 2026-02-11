@@ -1,11 +1,11 @@
 ---
 title: tornado cash sanctions redraw crypto privacy lines
 tags:
+  - general-note
   - tech-journal
   - crypto
   - policy
   - security
-  - 2022
 keywords:
   - tornado
   - sanctions
@@ -19,9 +19,12 @@ updated: 2022-08-08
 note_id: 220808GN64
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # tornado cash sanctions redraw crypto privacy lines
+
+*see also:* [[Security Posture]] · [[Trust in Platforms]]
 
 The U.S. Treasury sanctioned Tornado Cash, citing $7B of laundered funds including North Korea's Lazarus activity, effectively banning Americans from interacting with its smart contracts ([Treasury](https://home.treasury.gov/news/press-releases/jy0916)). DeFi privacy tools suddenly carried felony risk.
 

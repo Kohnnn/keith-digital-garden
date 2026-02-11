@@ -23,6 +23,8 @@ cssclasses:
 
 # hyundai supply chain child labor probe
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 This reads like a supply‑chain governance test. My read is that compliance is now a brand risk, not a back‑office issue.
 
 ## scene cut

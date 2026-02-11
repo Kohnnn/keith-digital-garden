@@ -2,6 +2,10 @@
 title: keyword - power
 tags:
   - keyword-index
+  - control
+  - extractivism
+  - justice
+  - legalism
 draft: true
 description: Notes linked by power.
 created: 2026-02-07

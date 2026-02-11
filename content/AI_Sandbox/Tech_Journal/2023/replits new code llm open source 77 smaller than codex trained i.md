@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - open
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # replit's new code llm: open source, 77% smaller than codex, trained in 1 week
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # missing covid 19 test data was caused by the ill thought out use of excel
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Missing Covid-19 test data was caused by the ill-thought-out use of Excel surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.bbc.com/news/technology-54423988)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

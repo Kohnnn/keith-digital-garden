@@ -5,11 +5,13 @@ tags:
   - remote-work
   - policy
   - 2023
+  - product
 keywords:
   - visas
   - remote
   - talent
   - policy
+  - work
 draft: true
 description: Countries offering remote work visas are turning workers into strategic assets.
 created: 2023-05-05
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # remote work visas become geopolitical tools
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Barbados, Portugal, and dozens more rolled out remote work visas that promise tax stability and easy residency, and it finally clicked: we’re witnessing competition for human capital the way we once did for factories.
 

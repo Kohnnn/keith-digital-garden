@@ -23,6 +23,8 @@ cssclasses:
 
 # compare webb images to hubble
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">webb</span>
   <span class="inline-keyword">hubble</span>

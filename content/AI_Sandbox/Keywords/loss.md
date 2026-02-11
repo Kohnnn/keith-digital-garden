@@ -2,6 +2,9 @@
 title: keyword - loss
 tags:
   - keyword-index
+  - collapse
+  - wildfire
+  - memory
 draft: true
 description: Notes linked by loss.
 created: 2026-02-07

@@ -2,6 +2,10 @@
 title: keyword - knowledge
 tags:
   - keyword-index
+  - knowledge
+  - abstraction
+  - epistemology
+  - thinking
 draft: true
 description: Notes linked by knowledge.
 created: 2026-02-07

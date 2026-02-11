@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - chips
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # 20gb leak of intel data: whole git repositories, dev tools, backdoor mentions
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/deletescape/status/1291405688204402689)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

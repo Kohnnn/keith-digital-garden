@@ -23,6 +23,8 @@ cssclasses:
 
 # draw svg rope using javascript
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A short tutorial showed how to simulate rope motion using SVG and simple physics ([source](https://muffinman.io/blog/draw-svg-rope-using-javascript/)). It is a reminder that small math demos can teach a lot.
 

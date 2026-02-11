@@ -23,6 +23,8 @@ cssclasses:
 
 # vietnam reopens ho chi minh city
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">vietnam</span>
   <span class="inline-keyword">reopening</span>

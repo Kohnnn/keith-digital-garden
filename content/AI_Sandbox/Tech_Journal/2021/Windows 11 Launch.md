@@ -23,6 +23,8 @@ cssclasses:
 
 # windows 11 launch
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">platform</span>
   <span class="inline-keyword">productivity</span>

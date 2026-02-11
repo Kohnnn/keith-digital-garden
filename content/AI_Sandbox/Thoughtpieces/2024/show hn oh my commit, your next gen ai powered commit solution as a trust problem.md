@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2024
+  - trust
 keywords:
   - show
   - hn

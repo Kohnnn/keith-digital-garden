@@ -4,10 +4,14 @@ tags:
   - thoughtpiece
   - privacy
   - 2020
+  - infra
+  - ai
 keywords:
   - trust
   - data
   - leaks
+  - div
+  - linkage
 draft: true
 description: Rumours about data leaks forced firms to reconsider transparent trust-building even before formal breaches.
 created: 2020-09-01
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # restoring trust after rumoured data leaks
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Rumours of leaks hurt more than actual breaches; people now demand audit trails similar to the zero trust need in [[privacy tradeoffs in ai oversight]].
 

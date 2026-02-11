@@ -2,6 +2,7 @@
 title: keyword - nonviolence
 tags:
   - keyword-index
+  - jainism
 draft: true
 description: Notes linked by nonviolence.
 created: 2026-02-07

@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - edge
 keywords:
   - analyzing
   - cosmic

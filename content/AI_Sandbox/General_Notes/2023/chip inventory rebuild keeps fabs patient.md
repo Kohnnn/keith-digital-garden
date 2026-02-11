@@ -5,11 +5,13 @@ tags:
   - supply-chain
   - hardware
   - 2023
+  - chips
 keywords:
   - chips
   - inventory
   - fabs
   - demand
+  - linkage
 draft: true
 description: Elevated inventories from 2022 forced fabs to slow new capacity despite long-term AI demand.
 created: 2023-08-15
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # chip inventory rebuild keeps fabs patient
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 After 2022’s orders froze, chipmakers reported bloated inventories and chose to dial back production ramps, leaving ample capacity even as AI demand heats up ([Reuters](https://www.reuters.com/technology/semiconductor-inventory-up-2023-08-15/)). The pause gives customers breathing room but slows downstream innovation investments.
 

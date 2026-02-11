@@ -23,6 +23,8 @@ cssclasses:
 
 # tiktok in russia and ukraine
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 The report felt like a case study in how platforms can reshape reality across borders. My read is that feed variance is now a geopolitical variable.
 
 ## scene cut

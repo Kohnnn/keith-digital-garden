@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # sql maxis: why we ditched rabbitmq and replaced it with a postgres queue
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue">www.prequel.co</a> <span class="ref-title">SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue</span> <span class="ref-meta">2023-04-11</span></p>

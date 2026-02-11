@@ -5,11 +5,13 @@ tags:
   - labor
   - logistics
   - 2020
+  - infra
 keywords:
   - amazon
   - workers
   - protest
   - essential
+  - linkage
 draft: true
 description: Amazon employees walked out over COVID safety, exposing vulnerability in so-called essential systems.
 created: 2020-03-30
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # amazon warehouse protests highlight essential risks
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Workers at Amazon fulfillment centers staged walkouts demanding better PPE and paid sick leave, making "essential" feel like a liability ([Reuters Amazon Walkout](https://www.reuters.com/article/us-health-coronavirus-amazon/amazon-workers-claim-lack-of-protection-amid-coronavirus-idUSKBN21E32K)). The supply chain depends on underpaid humans.
 

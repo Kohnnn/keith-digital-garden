@@ -23,6 +23,8 @@ cssclasses:
 
 # a taste of pavex
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A preview of the Pavex framework emphasized ergonomics and explicitness in Rust web development ([source](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)). It highlighted design choices that reduce hidden magic.
 

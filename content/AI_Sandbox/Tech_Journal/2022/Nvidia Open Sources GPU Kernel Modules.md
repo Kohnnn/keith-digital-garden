@@ -23,6 +23,8 @@ cssclasses:
 
 # nvidia open sources gpu kernel modules
 
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
+
 <div class="keyword-row">
   <span class="inline-keyword">driver</span>
   <span class="inline-keyword">kernel</span>

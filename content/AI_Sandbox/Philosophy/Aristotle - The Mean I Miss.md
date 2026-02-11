@@ -1,13 +1,22 @@
 ---
 title: Aristotle - The Mean I Miss
-tags: [philosophy, aristotle, virtue]
-keywords: [virtue, balance, character, ethics, habit]
+tags:
+  - philosophy
+  - aristotle
+  - virtue
+keywords:
+  - virtue
+  - balance
+  - character
+  - ethics
+  - habit
 draft: true
 description: Balance is not average; it is a practiced target.
 created: 2021-12-07
 updated: 2025-12-14
 note_id: 211207AR01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Aristotle - The Mean I Miss

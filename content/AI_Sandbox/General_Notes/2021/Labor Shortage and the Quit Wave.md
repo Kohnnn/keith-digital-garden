@@ -23,6 +23,8 @@ cssclasses:
 
 # labor shortage and the quit wave
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">labor</span>
   <span class="inline-keyword">wages</span>

@@ -23,6 +23,8 @@ cssclasses:
 
 # design the next iphone
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 ## scene cut
 A playful web tool let users assemble their ideal iPhone, turning product tradeoffs into a game ([source](https://neal.fun/design-the-next-iphone/)). It showed how user priorities surface under constraint.
 

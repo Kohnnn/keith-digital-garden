@@ -23,6 +23,8 @@ cssclasses:
 
 # degenerate matter and uncertainty
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 ## context shard
 The essay explored degenerate matter as a way to understand uncertainty and limits in physical systems ([source](https://azeemba.com/posts/degenerate-matter.html)). It framed complexity as something you can reason about with the right mental models.
 

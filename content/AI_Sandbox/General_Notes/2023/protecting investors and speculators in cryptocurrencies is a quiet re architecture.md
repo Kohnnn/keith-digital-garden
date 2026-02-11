@@ -4,11 +4,13 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
 keywords:
   - protecting
   - investors
   - speculators
   - cryptocurrencies
+  - span
 draft: true
 description: Protecting Investors AND Speculators in Cryptocurrencies
 created: 2023-12-31

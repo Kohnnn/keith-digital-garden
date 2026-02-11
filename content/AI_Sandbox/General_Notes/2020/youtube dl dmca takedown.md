@@ -23,6 +23,8 @@ cssclasses:
 
 # youtube dl dmca takedown
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 GitHub received a DMCA takedown request for youtube-dl, making a developer tool a copyright battleground ([source](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md)). The action reframed tooling as enforcement terrain.
 

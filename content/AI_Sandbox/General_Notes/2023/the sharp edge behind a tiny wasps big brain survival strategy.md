@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2023
+  - edge
+  - strategy
 keywords:
   - tiny
   - wasps

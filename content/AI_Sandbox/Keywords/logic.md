@@ -2,6 +2,8 @@
 title: keyword - logic
 tags:
   - keyword-index
+  - logic
+  - nyaya
 draft: true
 description: Notes linked by logic.
 created: 2026-02-07

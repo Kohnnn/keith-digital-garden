@@ -4,6 +4,8 @@ tags:
   - research-digest
   - product
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # despite having just 5.8% sales, over 38% of bug reports come from linux
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Despite having just 5.8% sales, over 38% of bug reports come from Linux surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

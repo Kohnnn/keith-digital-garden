@@ -5,11 +5,13 @@ tags:
   - energy
   - ai
   - 2023
+  - demand
 keywords:
   - energy
   - ai
   - data
   - demand
+  - center
 draft: true
 description: Diarize energy use rising 12% YoY for AI training centers per Uptime Institute survey.
 created: 2023-11-22
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # ai workloads raise energy demand data
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Uptime Institute’s Q3 survey shows AI training clusters now account for a 12% year-over-year increase in data center energy demand, with 45% of surveyed operators planning dedicated hydrogen or grid reserves ([Uptime Institute](https://uptimeinstitute.com/research/2023-energy-survey)).
 

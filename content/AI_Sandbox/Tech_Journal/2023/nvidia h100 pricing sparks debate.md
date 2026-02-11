@@ -5,10 +5,13 @@ tags:
   - hardware
   - ai
   - 2023
+  - chips
 keywords:
   - nvidia
   - h100
   - pricing
+  - compute
+  - debate
 draft: true
 description: Nvidia’s H100 price hikes reignite debate over affordability for mid-tier AI teams.
 created: 2023-12-07
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # nvidia h100 pricing sparks debate
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia raised list prices for H100 configurations in select markets, sending ripples through enterprise purchasing cycles and fueling the ongoing debate about compute accessibility ([Reuters](https://www.reuters.com/technology/industry-voices-nvidia-h100-pricing-2023-12-07/)).
 

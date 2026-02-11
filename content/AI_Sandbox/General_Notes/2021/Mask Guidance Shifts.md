@@ -23,6 +23,8 @@ cssclasses:
 
 # mask guidance shifts
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">masks</span>
   <span class="inline-keyword">policy</span>

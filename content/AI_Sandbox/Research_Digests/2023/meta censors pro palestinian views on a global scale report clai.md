@@ -4,6 +4,7 @@ tags:
   - research-digest
   - ai
   - 2023
+  - behavior
 keywords:
   - data
   - trend
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # meta censors pro palestinian views on a global scale, report claims
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report">www.theguardian.com</a> <span class="ref-title">Meta censors pro-Palestinian views on a global scale, report claims</span> <span class="ref-meta">2023-12-23</span></p>

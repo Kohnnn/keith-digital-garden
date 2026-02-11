@@ -5,11 +5,13 @@ tags:
   - xr
   - hardware
   - 2021
+  - infra
 keywords:
   - meta
   - haptics
   - glove
   - vr
+  - div
 draft: true
 description: Meta’s Reality Labs unveiled a soft robotic glove prototype that simulates touch in VR.
 created: 2021-11-16
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # meta reality labs builds haptic glove prototype
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Meta showed off a soft robotic glove with pneumatic actuators and microfluidic sensors that promise realistic haptics inside VR worlds ([Meta](https://about.fb.com/news/2021/11/meta-haptic-gloves/)).
 

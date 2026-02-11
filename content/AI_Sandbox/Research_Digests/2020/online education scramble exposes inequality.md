@@ -5,11 +5,13 @@ tags:
   - education
   - social-impact
   - 2020
+  - infra
 keywords:
   - remote
   - school
   - inequality
   - bandwidth
+  - linkage
 draft: true
 description: Schools rushing online revealed digital divide issues as millions of students lost access.
 created: 2020-04-20
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # online education scramble exposes inequality
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 When schools shut down, districts moved to online classes, but students without devices or broadband vanished from the roll books ([Reuters Schools Online](https://www.reuters.com/article/us-health-coronavirus-usa-schools-idUSKCN21V1Q4)). Distance learning became a magnifying glass on inequality.
 

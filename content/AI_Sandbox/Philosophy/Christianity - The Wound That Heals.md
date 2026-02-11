@@ -1,13 +1,22 @@
 ---
 title: Christianity - The Wound That Heals
-tags: [philosophy, christianity, religion]
-keywords: [grace, sacrifice, love, redemption, cross]
+tags:
+  - philosophy
+  - christianity
+  - religion
+keywords:
+  - grace
+  - sacrifice
+  - love
+  - redemption
+  - cross
 draft: true
 description: Christianity asks me to treat love as a wound that heals the world.
 created: 2022-01-14
 updated: 2026-02-07
 note_id: 220114CH01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Christianity - The Wound That Heals

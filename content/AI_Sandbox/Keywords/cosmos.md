@@ -2,6 +2,7 @@
 title: keyword - cosmos
 tags:
   - keyword-index
+  - maya
 draft: true
 description: Notes linked by cosmos.
 created: 2026-02-07

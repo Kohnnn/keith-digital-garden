@@ -23,6 +23,8 @@ cssclasses:
 
 # proshares bitcoin etf
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">etf</span>
   <span class="inline-keyword">futures</span>

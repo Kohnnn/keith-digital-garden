@@ -4,6 +4,7 @@ tags:
   - general-note
   - ai
   - 2023
+  - behavior
 keywords:
   - signal
   - context
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # openai's board has fired sam altman
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

@@ -4,6 +4,7 @@ tags:
   - market-news
   - economy
   - 2023
+  - ai
 keywords:
   - sam
   - bankmanfried

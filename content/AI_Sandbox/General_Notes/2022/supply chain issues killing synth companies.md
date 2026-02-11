@@ -23,6 +23,8 @@ cssclasses:
 
 # supply chain issues killing synth companies
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 Small hardware makers felt like the canary in the supply chain. My read is that component scarcity punishes low‑volume innovation first.
 
 ## scene cut

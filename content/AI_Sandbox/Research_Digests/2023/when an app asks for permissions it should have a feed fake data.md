@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - product
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # when an app asks for permissions, it should have a “feed fake data” option
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

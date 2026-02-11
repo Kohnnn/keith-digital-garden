@@ -1,11 +1,11 @@
 ---
 title: three arrows liquidation exposes leverage maze
 tags:
+  - general-note
   - tech-journal
   - crypto
   - leverage
   - regulation
-  - 2022
 keywords:
   - threearrows
   - liquidation
@@ -19,9 +19,12 @@ updated: 2022-06-29
 note_id: 220629GN63
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # three arrows liquidation exposes leverage maze
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 A British Virgin Islands court ordered Three Arrows Capital to liquidate after the hedge fund defaulted on margin calls tied to Terra, GBTC, and stETH ([Reuters](https://www.reuters.com/business/finance/singapore-hedge-fund-three-arrows-ordered-liquidation-sources-2022-06-29/)). The fund's collapse turned a crypto selloff into a full contagion map.
 

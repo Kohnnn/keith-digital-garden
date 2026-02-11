@@ -4,14 +4,18 @@ tags:
   - market-news
   - markets
   - 2023
+  - software
+  - growth
 keywords:
   - software
   - bonds
   - credit
+  - watch
+  - after
 draft: true
-note_id: 231222MR12
 created: 2023-12-22
 updated: 2023-12-22
+note_id: 231222MR12
 cssclasses:
   - market-news
 ---

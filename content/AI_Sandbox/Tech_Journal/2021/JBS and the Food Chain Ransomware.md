@@ -23,6 +23,8 @@ cssclasses:
 
 # jbs and the food chain ransomware
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">food</span>
   <span class="inline-keyword">ransomware</span>

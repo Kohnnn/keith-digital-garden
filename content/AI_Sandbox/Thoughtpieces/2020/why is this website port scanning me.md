@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - web
   - 2020
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why is this website port scanning me?
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Why Is This Website Port Scanning Me? surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nullsweep.com/why-is-this-website-port-scanning-me/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

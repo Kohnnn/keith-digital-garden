@@ -5,11 +5,13 @@ tags:
   - food
   - inflation
   - 2022
+  - infra
 keywords:
   - fao
   - food
   - index
   - inflation
+  - div
 draft: true
 description: FAO data showed food prices easing into late 2022 but still up sharply year on year.
 created: 2022-12-02
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # fao food price index cools from march spike
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 The UN FAO Food Price Index dropped to 135.7 points in November 2022, down from March’s record 159.7 but still 0.3% higher year on year ([FAO](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)).
 

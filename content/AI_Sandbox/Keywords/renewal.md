@@ -2,6 +2,8 @@
 title: keyword - renewal
 tags:
   - keyword-index
+  - wildfire
+  - memory
 draft: true
 description: Notes linked by renewal.
 created: 2026-02-07

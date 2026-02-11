@@ -23,6 +23,8 @@ cssclasses:
 
 # bun fast javascript runtime
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Bun launched as a fast JavaScript runtime, bundler, and package manager written in Zig ([source](https://bun.sh/?launch)). It promised a unified, speed-first dev stack.
 

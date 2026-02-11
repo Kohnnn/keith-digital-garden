@@ -6,23 +6,25 @@ tags:
   - opsec
   - supply-chain
   - 2021
-draft: true
-description: Log4Shell turned a common logging library into an industry-wide fire drill.
 keywords:
   - dependency
   - ops
   - patch
   - blast
   - maintenance
+draft: true
+description: Log4Shell turned a common logging library into an industry-wide fire drill.
 created: 2021-12-09
 updated: 2025-10-19
 note_id: 211209TJ01
 cssclasses:
   - tech-journal
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/99FF/production/_122232493_computerrepairgettyimages-1307404577.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/99FF/production/_122232493_computerrepairgettyimages-1307404577.jpg
 ---
 
 # log4shell and the ops tax
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">dependency</span>

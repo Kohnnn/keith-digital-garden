@@ -23,6 +23,8 @@ cssclasses:
 
 # cop26 and the climate pact
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">climate</span>
   <span class="inline-keyword">carbon</span>

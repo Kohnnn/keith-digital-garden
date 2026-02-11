@@ -5,10 +5,13 @@ tags:
   - finance
   - fed
   - 2023
+  - economy
 keywords:
   - rates
   - fed
   - pause
+  - linkage
+  - data
 draft: true
 description: The Fed held rates steady but signaled future hikes depend on incoming data.
 created: 2023-07-26
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # fed holds and signals pause watch
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 The FOMC maintained its overnight rate at 5.25%–5.50% and said future hikes depend on data, marking a pause after 11 consecutive increases ([Reuters](https://www.reuters.com/markets/us/fed-unlikely-cut-rates-until-2024-record-highs-2023-07-26/)). Market pricing now treats CPI prints as triggers.
 

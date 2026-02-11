@@ -4,10 +4,14 @@ tags:
   - general-note
   - energy
   - 2021
+  - infra
+  - ai
 keywords:
   - grid
   - flex
   - signals
+  - div
+  - linkage
 draft: true
 description: Demand response pilots reveal flexibility signals in 2021 summer peaks.
 created: 2021-08-07
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # electric grid flex signals
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Grid operators recorded demand response spikes as air conditioning loads flattened, linking to earlier energy narratives like [[nord stream 1 shutdown cements europe gas crunch]] and [[diesel inventories slip to crisis lows in us]].
 

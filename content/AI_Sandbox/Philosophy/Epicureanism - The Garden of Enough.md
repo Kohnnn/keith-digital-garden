@@ -1,13 +1,22 @@
 ---
 title: Epicureanism - The Garden of Enough
-tags: [philosophy, epicureanism, ethics]
-keywords: [pleasure, enough, friendship, simplicity, fear]
+tags:
+  - philosophy
+  - epicureanism
+  - ethics
+keywords:
+  - pleasure
+  - enough
+  - friendship
+  - simplicity
+  - fear
 draft: true
 description: Epicureanism teaches me that peace comes from simple pleasures and honest limits.
 created: 2021-09-08
 updated: 2026-02-07
 note_id: 210908EP01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Epicureanism - The Garden of Enough

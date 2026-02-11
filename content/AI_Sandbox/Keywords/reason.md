@@ -2,6 +2,8 @@
 title: keyword - reason
 tags:
   - keyword-index
+  - epistemology
+  - thinking
 draft: true
 description: Notes linked by reason.
 created: 2026-02-07

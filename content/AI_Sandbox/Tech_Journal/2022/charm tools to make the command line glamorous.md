@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2022
+  - product
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # charm tools to make the command line glamorous
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Charm – Tools to make the command line glamorous surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://charm.sh/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

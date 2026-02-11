@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # github copilot as open source code laundering?
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 GitHub Copilot as open source code laundering? surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/eevee/status/1410037309848752128)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

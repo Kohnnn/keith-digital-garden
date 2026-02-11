@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # us department of energy: fusion ignition achieved
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 US Department of Energy: Fusion Ignition Achieved surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

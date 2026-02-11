@@ -2,6 +2,7 @@
 title: keyword - release
 tags:
   - keyword-index
+  - surrender
 draft: true
 description: Notes linked by release.
 created: 2026-02-07

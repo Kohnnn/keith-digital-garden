@@ -23,6 +23,8 @@ cssclasses:
 
 # europe's gas shock
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
   <span class="inline-keyword">prices</span>

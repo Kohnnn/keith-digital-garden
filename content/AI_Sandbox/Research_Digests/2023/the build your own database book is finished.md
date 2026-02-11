@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # the “build your own database” book is finished
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://build-your-own.org/blog/20230420_byodb_done/">build-your-own.org</a> <span class="ref-title">The “Build Your Own Database” book is finished</span> <span class="ref-meta">2023-04-22</span></p>

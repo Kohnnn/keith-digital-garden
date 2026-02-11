@@ -2,6 +2,7 @@
 title: keyword - pattern
 tags:
   - keyword-index
+  - confucianism
 draft: true
 description: Notes linked by pattern.
 created: 2026-02-07

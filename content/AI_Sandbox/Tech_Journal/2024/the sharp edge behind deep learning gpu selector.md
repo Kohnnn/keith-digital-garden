@@ -4,11 +4,14 @@ tags:
   - tech-journal
   - chips
   - 2024
+  - ai
+  - edge
 keywords:
   - deep
   - learning
   - gpu
   - selector
+  - span
 draft: true
 description: Deep Learning GPU Selector
 created: 2024-12-31

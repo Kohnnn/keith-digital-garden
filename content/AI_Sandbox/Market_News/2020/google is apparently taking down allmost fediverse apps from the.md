@@ -4,6 +4,8 @@ tags:
   - market-news
   - finance
   - 2020
+  - economy
+  - ai
 keywords:
   - rates
   - market
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google is apparently taking down all/most fediverse apps from the play store
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 Google is apparently taking down all/most Fediverse apps from the Play Store surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://qoto.org/@freemo/104765288863293481)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

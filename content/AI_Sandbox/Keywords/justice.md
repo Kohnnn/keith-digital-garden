@@ -2,6 +2,9 @@
 title: keyword - justice
 tags:
   - keyword-index
+  - justice
+  - extractivism
+  - islam
 draft: true
 description: Notes linked by justice.
 created: 2026-02-07

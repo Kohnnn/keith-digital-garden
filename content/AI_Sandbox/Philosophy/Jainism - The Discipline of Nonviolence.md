@@ -1,13 +1,22 @@
 ---
 title: Jainism - The Discipline of Nonviolence
-tags: [philosophy, jainism, ethics]
-keywords: [nonviolence, discipline, compassion, asceticism, purity]
+tags:
+  - philosophy
+  - jainism
+  - ethics
+keywords:
+  - nonviolence
+  - discipline
+  - compassion
+  - asceticism
+  - purity
 draft: true
 description: Nonviolence is not passive; it is relentless care.
 created: 2022-05-07
 updated: 2025-12-20
 note_id: 220507JA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Jainism - The Discipline of Nonviolence

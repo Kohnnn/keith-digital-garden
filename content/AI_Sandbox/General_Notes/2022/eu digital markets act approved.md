@@ -23,6 +23,8 @@ cssclasses:
 
 # eu digital markets act approved
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 The DMA feels like a structural shift in how Europe regulates platform power. I read it as a long-term constraint on default behaviors.
 
 ## scene cut

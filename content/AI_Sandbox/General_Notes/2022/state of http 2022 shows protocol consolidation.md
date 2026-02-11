@@ -23,6 +23,8 @@ cssclasses:
 
 # http3 makes consolidation feel inevitable
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="inline-ref">
   <span class="inline-note">ref</span> <a href="https://blog.cloudflare.com/the-state-of-http-in-2022/">https://blog.cloudflare.com/the-state-of-http-in-2022/</a>
 </div>

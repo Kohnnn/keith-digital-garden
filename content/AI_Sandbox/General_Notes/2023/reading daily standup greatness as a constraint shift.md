@@ -4,10 +4,13 @@ tags:
   - general-note
   - ai
   - 2023
+  - daily
 keywords:
   - daily
   - standup
   - greatness
+  - span
+  - class
 draft: true
 description: Daily Standup Greatness
 created: 2023-12-31

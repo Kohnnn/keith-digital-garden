@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - open
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # show hn: hyperdx open source dev friendly datadog alternative
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

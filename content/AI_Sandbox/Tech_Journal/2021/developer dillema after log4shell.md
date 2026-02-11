@@ -4,10 +4,14 @@ tags:
   - tech-journal
   - security
   - 2021
+  - infra
+  - ai
 keywords:
   - log4shell
   - patch
   - trust
+  - after
+  - div
 draft: true
 description: Post-Log4Shell rush exposed hidden dependencies and patch fatigue.
 created: 2021-12-16
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # developer dillema after log4shell
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 After the Log4Shell panic, teams rebuilt dependency maps, echoing earlier supply chain visibility issues from [[supply chain visibility hubs]].
 

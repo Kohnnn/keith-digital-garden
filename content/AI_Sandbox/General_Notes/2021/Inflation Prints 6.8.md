@@ -19,10 +19,12 @@ updated: 2025-10-04
 note_id: 211210GN01
 cssclasses:
   - general-note
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/FE0A/production/_121647556_gettyimages-1237075425.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/FE0A/production/_121647556_gettyimages-1237075425.jpg
 ---
 
 # inflation prints 6.8
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 <div class="keyword-row">
   <span class="inline-keyword">inflation</span>

@@ -23,6 +23,8 @@ cssclasses:
 
 # yantian port outbreak
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">outbreak</span>
   <span class="inline-keyword">ports</span>

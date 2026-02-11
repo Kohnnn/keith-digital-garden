@@ -2,6 +2,10 @@
 title: keyword - order
 tags:
   - keyword-index
+  - egypt
+  - river
+  - legalism
+  - confucianism
 draft: true
 description: Notes linked by order.
 created: 2026-02-07

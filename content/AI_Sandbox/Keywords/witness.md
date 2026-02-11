@@ -2,6 +2,8 @@
 title: keyword - witness
 tags:
   - keyword-index
+  - samkhya
+  - reality
 draft: true
 description: Notes linked by witness.
 created: 2026-02-07

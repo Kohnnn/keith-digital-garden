@@ -23,6 +23,8 @@ cssclasses:
 
 # element suspended from play store exposes platform choke points
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Element reported being suspended from the Google Play Store without warning, cutting off Android
 distribution until the issue was resolved ([Element](https://twitter.com/element_hq/status/1355290296947499013)).
 The incident shows how a single gatekeeper can interrupt critical communications tooling. I read it

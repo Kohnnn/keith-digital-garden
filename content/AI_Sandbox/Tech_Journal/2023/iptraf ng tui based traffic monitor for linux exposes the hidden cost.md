@@ -4,8 +4,10 @@ tags:
   - tech-journal
   - infra
   - 2023
+  - ai
+  - linux
 keywords:
-  - iptraf-ng
+  - iptrafng
   - tui
   - based
   - traffic

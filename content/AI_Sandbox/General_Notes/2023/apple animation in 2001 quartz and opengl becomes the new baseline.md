@@ -4,6 +4,8 @@ tags:
   - general-note
   - product
   - 2023
+  - ai
+  - apple
 keywords:
   - apple
   - animation

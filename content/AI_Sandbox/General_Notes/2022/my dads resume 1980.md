@@ -23,6 +23,8 @@ cssclasses:
 
 # my dads resume 1980
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A shared resume from 1980 highlighted how skill language and career framing have shifted ([source](https://github.com/runvnc/dadsresume)). It is a small artifact that shows labor culture changing.
 

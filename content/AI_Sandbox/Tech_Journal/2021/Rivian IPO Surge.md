@@ -23,6 +23,8 @@ cssclasses:
 
 # rivian ipo surge
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">ipo</span>
   <span class="inline-keyword">valuation</span>

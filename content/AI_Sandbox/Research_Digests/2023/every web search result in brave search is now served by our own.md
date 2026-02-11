@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # every web search result in brave search is now served by our own index
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

@@ -2,6 +2,10 @@
 title: keyword - ethics
 tags:
   - keyword-index
+  - ethics
+  - aristotle
+  - environmental
+  - philosophy
 draft: true
 description: Notes linked by ethics.
 created: 2026-02-07

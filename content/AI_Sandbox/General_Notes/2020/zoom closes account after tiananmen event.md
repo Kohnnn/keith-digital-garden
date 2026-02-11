@@ -23,6 +23,8 @@ cssclasses:
 
 # zoom closes account after tiananmen event
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Axios reported Zoom closed an account tied to a Tiananmen event, raising questions about cross-border policy pressure ([source](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)). The incident framed platform compliance as a geopolitical issue.
 

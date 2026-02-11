@@ -4,6 +4,8 @@ tags:
   - research-digest
   - hardware
   - 2023
+  - chips
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # smartphones with qualcomm chip secretly send personal data to qualcomm
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

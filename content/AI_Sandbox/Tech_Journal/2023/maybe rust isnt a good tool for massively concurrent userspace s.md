@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - product
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # maybe rust isn’t a good tool for massively concurrent, userspace software
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://bitbashing.io/async-rust.html">bitbashing.io</a> <span class="ref-title">Maybe Rust isn’t a good tool for massively concurrent, userspace software</span> <span class="ref-meta">2023-09-08</span></p>

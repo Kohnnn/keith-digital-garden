@@ -2,6 +2,7 @@
 title: keyword - character
 tags:
   - keyword-index
+  - aristotle
 draft: true
 description: Notes linked by character.
 created: 2026-02-07

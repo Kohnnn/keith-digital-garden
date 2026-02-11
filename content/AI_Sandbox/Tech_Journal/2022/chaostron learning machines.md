@@ -23,6 +23,8 @@ cssclasses:
 
 # chaostron learning machines
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A 1961 paper on learning machines resurfaced, reminding readers how early the field’s ideas appeared ([source](https://dl.acm.org/doi/pdf/10.1145/358027.358047)). It puts modern momentum in longer context.
 

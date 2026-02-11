@@ -23,6 +23,8 @@ cssclasses:
 
 # why do you waste so much time on the internet
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The essay landed for me because it treats attention loss as a system, not a personal failure. My read is that the interface shapes the habit before the habit feels like a choice.
 
 ## scene cut

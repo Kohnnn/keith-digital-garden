@@ -4,6 +4,8 @@ tags:
   - research-digest
   - economy
   - 2024
+  - ai
+  - manufacturing
 keywords:
   - annual
   - report

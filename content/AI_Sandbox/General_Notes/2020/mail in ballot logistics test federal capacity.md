@@ -5,11 +5,13 @@ tags:
   - politics
   - logistics
   - 2020
+  - ai
 keywords:
-  - mail-in
+  - mailin
   - ballots
   - logistics
   - postal
+  - mail
 draft: true
 description: The U.S. election's reliance on mail alerted everyone to how fragile ballot logistics really are.
 created: 2020-08-02
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # mail in ballot logistics test federal capacity
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 To avoid queues, states expanded mail-in voting, but the U.S. Postal Service warned it could not handle the surge without emergency funding ([Reuters USPS Mail-in](https://www.reuters.com/article/us-usa-election-postal-service-idUSKCN24S26W)). The logistics question suddenly became a policy frontier.
 

@@ -1,11 +1,11 @@
 ---
 title: tesla ai day 2022 shows optimus learning curve
 tags:
+  - general-note
   - tech-journal
   - ai
   - robotics
   - hardware
-  - 2022
 keywords:
   - tesla
   - optimus
@@ -19,9 +19,12 @@ updated: 2022-09-30
 note_id: 220930GN77
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # tesla ai day 2022 shows optimus learning curve
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Tesla's 2022 AI Day featured a walking Optimus humanoid prototype and updates on Dojo training hardware, aiming to prove the company is more than cars ([Reuters](https://www.reuters.com/technology/tesla-unveils-optimus-robot-prototype-2022-10-01/)). The robot shuffled across stage, wires exposed, while engineers narrated the roadmap.
 

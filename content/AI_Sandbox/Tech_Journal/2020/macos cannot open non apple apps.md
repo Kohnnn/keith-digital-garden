@@ -23,6 +23,8 @@ cssclasses:
 
 # macos cannot open non apple apps
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 ## scene cut
 A Gatekeeper issue caused macOS to block non-Apple applications, effectively creating a sudden trust outage ([source](https://twitter.com/lapcatsoftware/status/1326990296412991489)). It made platform verification an operational dependency.
 

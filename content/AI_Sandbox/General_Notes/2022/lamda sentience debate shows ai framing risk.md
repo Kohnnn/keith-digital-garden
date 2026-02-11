@@ -1,11 +1,11 @@
 ---
 title: lamda sentience debate shows ai framing risk
 tags:
+  - general-note
   - tech-journal
   - ai
   - ethics
   - narrative
-  - 2022
 keywords:
   - lamda
   - sentience
@@ -19,9 +19,12 @@ updated: 2022-06-13
 note_id: 220613GN76
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # lamda sentience debate shows ai framing risk
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Google placed Blake Lemoine on leave after he said the LaMDA chatbot was sentient, publishing transcripts that read like sci-fi dialogue and forcing the company to defend its research framing ([NPR](https://www.npr.org/2022/06/13/1104635953/google-engineer-blake-lemoine-sentient-ai)). The story highlighted how anthropomorphism can outrun science.
 

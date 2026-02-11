@@ -4,10 +4,14 @@ tags:
   - research-digest
   - security
   - 2021
+  - infra
+  - data
 keywords:
   - iot
   - exposures
   - data
+  - div
+  - linkage
 draft: true
 description: IoT exposures surged 62% in 2021, adding to security debt.
 created: 2021-11-01
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # cyber iot exposures climb data
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 IoT exposures grew due to remote deployments, layering with points we saw in [[okta breach fallout highlights identity fragility]] and [[zoom security meltdown exposes cryptography gaps]].
 

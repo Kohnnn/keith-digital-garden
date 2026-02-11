@@ -1,11 +1,11 @@
 ---
 title: celsius freezes withdrawals and sparks retail panic
 tags:
+  - general-note
   - tech-journal
   - crypto
   - credit
   - liquidity
-  - 2022
 keywords:
   - celsius
   - withdrawals
@@ -19,9 +19,12 @@ updated: 2022-06-12
 note_id: 220612GN62
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # celsius freezes withdrawals and sparks retail panic
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Celsius froze withdrawals for its 1.7M users, citing "extreme market conditions" after Terra and broader crypto leverage collapsed ([Reuters](https://www.reuters.com/technology/crypto-firm-celsius-pauses-withdrawals-and-transfers-between-accounts-2022-06-13/)). The decision validated every fear that crypto lending desks were rehypothecating collateral without adult supervision.
 

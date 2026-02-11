@@ -5,6 +5,7 @@ tags:
   - finance
   - product
   - 2022
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # adobe to acquire figma for $20b
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 adobe to acquire figma for $20b is a pressure test for how this stack behaves in the real world ([source](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
 

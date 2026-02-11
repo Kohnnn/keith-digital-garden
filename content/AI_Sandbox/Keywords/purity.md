@@ -2,6 +2,9 @@
 title: keyword - purity
 tags:
   - keyword-index
+  - jainism
+  - shinto
+  - zoroastrianism
 draft: true
 description: Notes linked by purity.
 created: 2026-02-07

@@ -2,6 +2,8 @@
 title: keyword - dialogue
 tags:
   - keyword-index
+  - ethics
+  - socrates
 draft: true
 description: Notes linked by dialogue.
 created: 2026-02-07

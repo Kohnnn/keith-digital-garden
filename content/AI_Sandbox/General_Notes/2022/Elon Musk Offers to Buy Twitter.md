@@ -23,6 +23,8 @@ cssclasses:
 
 # elon musk offers to buy twitter
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">takeover</span>
   <span class="inline-keyword">platform</span>

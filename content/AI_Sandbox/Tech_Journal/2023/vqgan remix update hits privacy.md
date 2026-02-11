@@ -5,10 +5,13 @@ tags:
   - ai
   - creative
   - 2023
+  - security
 keywords:
   - vqgan
   - remix
   - privacy
+  - div
+  - linkage
 draft: true
 description: VQGAN-based remix tools add safeguards against private content.
 created: 2023-12-10
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # vqgan remix update hits privacy
+
+*see also:* [[Security Posture]] · [[Trust in Platforms]]
 
 A VQGAN remix platform now flags prompts referencing private datasets and limits outputs, echoing policy-driven tools like [[privacy tradeoffs in ai oversight]].
 

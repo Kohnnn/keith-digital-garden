@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - ai
   - 2023
+  - justice
+  - trust
 keywords:
   - chief
   - justice

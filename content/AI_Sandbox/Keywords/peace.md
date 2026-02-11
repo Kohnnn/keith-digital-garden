@@ -2,6 +2,8 @@
 title: keyword - peace
 tags:
   - keyword-index
+  - mohism
+  - pyrrhonism
 draft: true
 description: Notes linked by peace.
 created: 2026-02-07

@@ -1,13 +1,22 @@
 ---
 title: Pyrrhonism - The Peace of Suspension
-tags: [philosophy, skepticism, pyrrhonism]
-keywords: [skepticism, doubt, suspension, peace, clarity]
+tags:
+  - philosophy
+  - skepticism
+  - pyrrhonism
+keywords:
+  - skepticism
+  - doubt
+  - suspension
+  - peace
+  - clarity
 draft: true
 description: Pyrrhonism invites me to pause judgment to reduce inner turbulence.
 created: 2022-11-11
 updated: 2026-02-07
 note_id: 221111PY01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Pyrrhonism - The Peace of Suspension

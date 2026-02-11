@@ -1,13 +1,22 @@
 ---
 title: Hinduism - The Many Paths
-tags: [philosophy, hinduism, religion]
-keywords: [dharma, karma, devotion, liberation, duty]
+tags:
+  - philosophy
+  - hinduism
+  - religion
+keywords:
+  - dharma
+  - karma
+  - devotion
+  - liberation
+  - duty
 draft: true
 description: Hinduism holds many paths to truth without erasing discipline.
 created: 2022-12-12
 updated: 2026-02-07
 note_id: 221212HI01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Hinduism - The Many Paths

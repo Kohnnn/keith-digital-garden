@@ -5,11 +5,13 @@ tags:
   - health
   - privacy
   - 2020
+  - product
 keywords:
   - exposure
   - api
   - bluetooth
   - privacy
+  - apple
 draft: true
 description: Apple and Google's joint API aimed to balance public health and user data protection.
 created: 2020-04-10
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple google contact tracing framework
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 The two giants jointly built an Exposure Notification API that promised Bluetooth-based proximity tracking while keeping data off servers ([Apple Google Exposure](https://www.apple.com/covid19/contacttracing)). It became a template for how platform-level consent can coexist with public-health mandates.
 

@@ -1,13 +1,22 @@
 ---
 title: Extractivism - The Hunger That Eats the Ground
-tags: [philosophy, environmental, extractivism]
-keywords: [extraction, power, ecology, hunger, justice]
+tags:
+  - philosophy
+  - environmental
+  - extractivism
+keywords:
+  - extraction
+  - power
+  - ecology
+  - hunger
+  - justice
 draft: true
 description: A way of living that takes more than it gives back.
 created: 2021-09-17
 updated: 2025-12-04
 note_id: 210917EX01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Extractivism - The Hunger That Eats the Ground

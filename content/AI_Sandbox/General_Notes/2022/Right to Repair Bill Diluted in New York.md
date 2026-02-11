@@ -23,6 +23,8 @@ cssclasses:
 
 # right to repair bill diluted in new york
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 ## context shard
 New York's right to repair bill was signed with key carve-outs, as documented by repair advocates ([source](https://www.youtube.com/watch?v=k9kXnm9uW5k)). The outcome highlights how legislative wins can be weakened during implementation.
 

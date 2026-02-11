@@ -23,6 +23,8 @@ cssclasses:
 
 # russia invades ukraine
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">invasion</span>
   <span class="inline-keyword">sanctions</span>

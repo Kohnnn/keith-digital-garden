@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2023
+  - language
+  - behavior
 keywords:
   - build
   - large

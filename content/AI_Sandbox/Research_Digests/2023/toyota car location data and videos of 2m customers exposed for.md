@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # toyota: car location data and videos of 2m customers exposed for ten years
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/">www.bleepingcomputer.com</a> <span class="ref-title">Toyota: Car location data and videos of 2M customers exposed for ten years</span> <span class="ref-meta">2023-05-12</span></p>

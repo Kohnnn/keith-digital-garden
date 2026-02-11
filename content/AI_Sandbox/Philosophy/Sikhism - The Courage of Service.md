@@ -1,13 +1,22 @@
 ---
 title: Sikhism - The Courage of Service
-tags: [philosophy, sikhism, religion]
-keywords: [service, equality, devotion, justice, humility]
+tags:
+  - philosophy
+  - sikhism
+  - religion
+keywords:
+  - service
+  - equality
+  - devotion
+  - justice
+  - humility
 draft: true
 description: Sikhism binds devotion to justice through service and equality.
 created: 2023-06-02
 updated: 2026-02-07
 note_id: 230602SI01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Sikhism - The Courage of Service

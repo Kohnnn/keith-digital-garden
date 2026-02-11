@@ -4,6 +4,7 @@ tags:
   - research-digest
   - ai
   - 2024
+  - edge
 keywords:
   - zhengdong
   - wang

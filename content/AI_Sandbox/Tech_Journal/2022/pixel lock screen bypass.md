@@ -23,6 +23,8 @@ cssclasses:
 
 # pixel lock screen bypass
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A report documented a Pixel lock screen bypass triggered by a specific crash path ([source](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)). It highlighted how edge cases can defeat core protections.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # ruth bader ginsburg dies
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 NPR reported the death of Justice Ruth Bader Ginsburg, a pivotal figure in U.S. law and culture ([source](https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87)). The moment intensified focus on judicial succession and legacy.
 

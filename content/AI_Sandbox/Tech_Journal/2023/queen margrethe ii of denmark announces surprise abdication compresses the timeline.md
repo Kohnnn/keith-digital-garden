@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - infra
   - 2023
+  - ai
 keywords:
   - queen
   - margrethe

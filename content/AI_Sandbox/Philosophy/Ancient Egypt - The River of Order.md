@@ -1,13 +1,23 @@
 ---
 title: Ancient Egypt - The River of Order
-tags: [philosophy, religion, egypt]
-keywords: [order, river, ritual, afterlife, balance]
+tags:
+  - philosophy
+  - religion
+  - egypt
+  - river
+keywords:
+  - order
+  - river
+  - ritual
+  - afterlife
+  - balance
 draft: true
 description: Ancient Egypt binds life to order, ritual, and the long memory of the river.
 created: 2021-03-05
 updated: 2026-02-07
 note_id: 210305EG01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Ancient Egypt - The River of Order

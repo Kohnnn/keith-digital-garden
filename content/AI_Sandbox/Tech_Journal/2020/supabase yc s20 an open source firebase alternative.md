@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2020
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # supabase (yc s20) an open source firebase alternative
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 Supabase (YC S20) – An open source Firebase alternative surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://supabase.io/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

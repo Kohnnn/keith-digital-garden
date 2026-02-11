@@ -2,6 +2,9 @@
 title: keyword - risk
 tags:
   - keyword-index
+  - control
+  - wildfire
+  - memory
 draft: true
 description: Notes linked by risk.
 created: 2026-02-07

@@ -23,6 +23,8 @@ cssclasses:
 
 # tiny modular computers hit the battery wall
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="inline-ref">
   <span class="inline-note">ref</span> <a href="https://www.youtube.com/watch?v=b3F9OtH2Xx4">https://www.youtube.com/watch?v=b3F9OtH2Xx4</a>
 </div>

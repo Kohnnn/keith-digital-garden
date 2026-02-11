@@ -4,10 +4,13 @@ tags:
   - research-digest
   - hardware
   - 2023
+  - chips
 keywords:
   - chipmaker
   - hungary
   - eu
+  - div
+  - fabs
 draft: true
 description: Several fabs moved into Hungary as the EU backs semiconductor industrial clusters.
 created: 2023-10-08
@@ -18,6 +21,8 @@ cssclasses:
 ---
 
 # chipmakers eye hungary for fab expansion
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 TSMC, Samsung, and Infineon all signed MoUs for new EU fabs in Hungary, signaling a push to de-risk supply from East Asia ([Reuters](https://www.reuters.com/technology/hungary-attracts-chip-fabs-2023-10-08/)).
 

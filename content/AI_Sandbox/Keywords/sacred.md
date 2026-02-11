@@ -2,6 +2,7 @@
 title: keyword - sacred
 tags:
   - keyword-index
+  - shinto
 draft: true
 description: Notes linked by sacred.
 created: 2026-02-07

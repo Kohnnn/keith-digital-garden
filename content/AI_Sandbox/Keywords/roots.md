@@ -2,6 +2,7 @@
 title: keyword - roots
 tags:
   - keyword-index
+  - etymology
 draft: true
 description: Notes linked by roots.
 created: 2026-02-07

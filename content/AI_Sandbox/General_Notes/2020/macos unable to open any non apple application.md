@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2020
+  - product
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # macos unable to open any non apple application
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 macOS unable to open any non-Apple application surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/lapcatsoftware/status/1326990296412991489)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -4,10 +4,14 @@ tags:
   - general-note
   - geo
   - 2022
+  - ai
+  - security
 keywords:
   - ukraine
   - nuclear
   - security
+  - chain
+  - div
 draft: true
 description: Threats near Ukrainian nuclear sites forced new global nuclear protection protocols.
 created: 2022-03-20
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # ukraine nuclear security demands new protocols
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Escalation close to Zaporizhzhia raised alarms, triggering international calls for better control rooms and remote monitoring reminiscent of [[cloud outages show single points of failure]].
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # claude shannon foundations of communication
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A profile of Claude Shannon traced how information theory laid the foundations for modern communication systems ([source](https://www.quantamagazine.org/how-claude-shannons-information-theory-invented-the-future-20201222/)). It framed theory as infrastructure.
 

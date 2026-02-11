@@ -23,6 +23,8 @@ cssclasses:
 
 # marginalia search bets on text first web
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Marginalia launched as a search engine that favors text-heavy sites and downranks modern SEO-heavy
 design ([Marginalia](https://search.marginalia.nu/)). The project is less about scale and more about
 taste in discovery. I read it as a reminder that search quality is partly a curatorial choice.

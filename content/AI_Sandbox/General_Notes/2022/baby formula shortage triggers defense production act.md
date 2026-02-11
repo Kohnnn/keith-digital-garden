@@ -1,11 +1,11 @@
 ---
 title: baby formula shortage triggers defense production act
 tags:
+  - general-note
   - research-digest
   - logistics
   - policy
   - health
-  - 2022
 keywords:
   - formula
   - shortage
@@ -19,9 +19,12 @@ updated: 2022-05-18
 note_id: 220518GN73
 cssclasses:
   - research-digest
+  - general-note
 ---
 
 # baby formula shortage triggers defense production act
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 After months of empty shelves tied to Abbott's Sturgis recall, President Biden invoked the Defense Production Act to prioritize ingredients and launched "Operation Fly Formula" airlifts for imported supply ([White House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/fact-sheet-president-biden-invokes-defense-production-act-to-accelerate-domestic-manufacturing-of-infant-formula/)). Infant nutrition became a national security issue.
 

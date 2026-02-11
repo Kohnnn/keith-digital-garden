@@ -1,13 +1,22 @@
 ---
 title: Dams - The Control That Floods
-tags: [philosophy, environment, control]
-keywords: [control, power, nature, risk, scarcity]
+tags:
+  - philosophy
+  - environment
+  - control
+keywords:
+  - control
+  - power
+  - nature
+  - risk
+  - scarcity
 draft: true
 description: Every attempt to control a river controls me too.
 created: 2023-05-11
 updated: 2025-12-08
 note_id: 230511DA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Dams - The Control That Floods

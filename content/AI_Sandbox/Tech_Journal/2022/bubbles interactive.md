@@ -23,6 +23,8 @@ cssclasses:
 
 # bubbles interactive
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The Bubbles demo visualized fluid motion in a way that felt tactile and immediate ([source](https://oimo.io/works/bubbles/)). It turned physics into a direct sensory experience.
 

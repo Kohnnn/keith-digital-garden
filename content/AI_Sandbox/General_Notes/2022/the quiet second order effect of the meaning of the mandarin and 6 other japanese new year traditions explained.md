@@ -4,6 +4,7 @@ tags:
   - general-note
   - ai
   - 2022
+  - meaning
 keywords:
   - meaning
   - mandarin

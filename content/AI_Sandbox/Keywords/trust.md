@@ -2,6 +2,8 @@
 title: keyword - trust
 tags:
   - keyword-index
+  - trust
+  - surrender
 draft: true
 description: Notes linked by trust.
 created: 2026-02-07

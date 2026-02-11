@@ -4,10 +4,13 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
 keywords:
   - cypherpunks
   - manifesto
   - 1993
+  - span
+  - class
 draft: true
 description: A Cypherpunk's Manifesto (1993)
 created: 2023-12-31

@@ -2,6 +2,8 @@
 title: keyword - freedom
 tags:
   - keyword-index
+  - cynicism
+  - surrender
 draft: true
 description: Notes linked by freedom.
 created: 2026-02-07

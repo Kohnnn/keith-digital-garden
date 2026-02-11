@@ -2,6 +2,7 @@
 title: keyword - forms
 tags:
   - keyword-index
+  - plato
 draft: true
 description: Notes linked by forms.
 created: 2026-02-07

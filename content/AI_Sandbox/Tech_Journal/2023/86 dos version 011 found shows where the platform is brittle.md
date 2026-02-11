@@ -4,11 +4,13 @@ tags:
   - tech-journal
   - infra
   - 2023
+  - ai
 keywords:
-  - 86-dos
+  - 86dos
   - version
   - 011
   - found
+  - dos
 draft: true
 description: 86-DOS Version 0.11 Found
 created: 2023-12-31

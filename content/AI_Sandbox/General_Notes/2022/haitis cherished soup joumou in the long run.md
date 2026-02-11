@@ -4,11 +4,13 @@ tags:
   - general-note
   - ai
   - 2022
+  - travel
 keywords:
   - haitis
   - cherished
   - soup
   - joumou
+  - span
 draft: true
 description: Haiti's Cherished Soup Joumou
 created: 2022-12-31

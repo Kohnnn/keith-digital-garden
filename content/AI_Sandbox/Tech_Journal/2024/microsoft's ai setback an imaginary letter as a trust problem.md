@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2024
+  - microsoft
+  - trust
 keywords:
   - microsofts
   - ai

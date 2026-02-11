@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google search is dying
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Google Search Is Dying surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://dkb.io/post/google-search-is-dying)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

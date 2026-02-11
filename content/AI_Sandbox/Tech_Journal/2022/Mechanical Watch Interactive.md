@@ -23,6 +23,8 @@ cssclasses:
 
 # mechanical watch interactive
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">mechanics</span>
   <span class="inline-keyword">visualization</span>

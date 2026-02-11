@@ -4,10 +4,14 @@ tags:
   - research-digest
   - energy
   - 2021
+  - infra
+  - ai
 keywords:
   - green
   - funding
   - utility
+  - div
+  - linkage
 draft: true
 description: Clean tech investors now ask for utility partnerships to ensure grid demand alignment.
 created: 2021-06-18
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # green tech funding looks for utility partners
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Investors in clean tech now require partnerships with utilities before funding projects, echoing renewables supply insights from [[global renewables additions keep pace despite geopolitics]].
 

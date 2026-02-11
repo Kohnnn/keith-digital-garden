@@ -4,6 +4,8 @@ tags:
   - market-news
   - ai
   - 2024
+  - infrastructure
+  - behavior
 keywords:
   - nvidia
   - completes

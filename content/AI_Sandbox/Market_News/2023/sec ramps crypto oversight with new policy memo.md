@@ -5,10 +5,13 @@ tags:
   - crypto
   - policy
   - 2023
+  - infra
 keywords:
   - sec
   - crypto
   - oversight
+  - div
+  - linkage
 draft: true
 description: The SEC issued guidance tightening compliance expectations for crypto brokers.
 created: 2023-10-18
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # sec ramps crypto oversight with new policy memo
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 The SEC published a memo clarifying that most crypto brokers must register under the Exchange Act, increasing scrutiny after FTX and Terraform ([Reuters](https://www.reuters.com/business/finance/sec-outlines-plan-tighten-crypto-market-oversight-2023-10-18/)). Markets now price additional compliance costs.
 

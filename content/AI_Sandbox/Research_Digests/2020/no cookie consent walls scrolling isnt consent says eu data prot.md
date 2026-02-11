@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # no cookie consent walls, scrolling isn’t consent, says eu data protection body
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 No cookie consent walls, scrolling isn’t consent, says EU data protection body surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://techcrunch.com/2020/05/06/no-cookie-consent-walls-and-no-scrolling-isnt-consent-says-eu-data-protection-body/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

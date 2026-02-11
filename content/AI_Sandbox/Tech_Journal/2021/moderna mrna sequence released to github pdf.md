@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # moderna mrna sequence released to github [pdf]
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 Moderna mRNA sequence released to GitHub [pdf] surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -2,6 +2,9 @@
 title: keyword - meaning
 tags:
   - keyword-index
+  - meaning
+  - etymology
+  - nietzsche
 draft: true
 description: Notes linked by meaning.
 created: 2026-02-07

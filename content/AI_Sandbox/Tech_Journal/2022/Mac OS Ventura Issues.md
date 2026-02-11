@@ -23,6 +23,8 @@ cssclasses:
 
 # mac os ventura issues
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A roundup documented stability issues after macOS Ventura upgrades, highlighting pain points in early releases ([source](https://morrick.me/archives/9696)). It framed reliability as part of the upgrade decision.
 

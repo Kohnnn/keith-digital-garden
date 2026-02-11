@@ -2,6 +2,7 @@
 title: keyword - cynicism
 tags:
   - keyword-index
+  - cynicism
 draft: true
 description: Notes linked by cynicism.
 created: 2026-02-07

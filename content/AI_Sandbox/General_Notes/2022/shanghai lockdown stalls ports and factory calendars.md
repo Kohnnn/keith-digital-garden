@@ -1,17 +1,17 @@
 ---
 title: shanghai lockdown stalls ports and factory calendars
 tags:
+  - general-note
   - research-digest
   - logistics
   - china
   - manufacturing
-  - 2022
 keywords:
   - shanghai
   - lockdown
   - ports
   - supplychain
-  - zero-covid
+  - zerocovid
 draft: true
 description: Shanghai's April lockdown let zero-COVID spill directly into global supply chains.
 created: 2022-04-18
@@ -19,9 +19,12 @@ updated: 2022-04-18
 note_id: 220418GN70
 cssclasses:
   - research-digest
+  - general-note
 ---
 
 # shanghai lockdown stalls ports and factory calendars
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Shanghai's COVID lockdown halted factories and slowed the world's busiest port, forcing exporters to warehouse goods and blank sailings to pile up ([CNBC](https://www.cnbc.com/2022/04/18/shanghai-covid-lockdown-further-strains-us-supply-chain.html)). Zero-COVID became a global manufacturing constraint.
 

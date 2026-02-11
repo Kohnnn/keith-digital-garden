@@ -5,6 +5,7 @@ tags:
   - finance
   - ai
   - 2022
+  - behavior
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # make a video: ai system that generates videos from text
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Make-A-Video: AI system that generates videos from text surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://makeavideo.studio/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

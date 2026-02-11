@@ -5,6 +5,7 @@ tags:
   - finance
   - product
   - 2020
+  - chips
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # nvidia to acquire arm for $40b
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia to Acquire Arm for $40B surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

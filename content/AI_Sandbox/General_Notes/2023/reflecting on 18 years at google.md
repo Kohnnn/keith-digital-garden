@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # reflecting on 18 years at google
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

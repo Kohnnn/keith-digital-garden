@@ -23,6 +23,8 @@ cssclasses:
 
 # portable secret
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 I like tools that make security portable without making it brittle. My read is that simplicity is the real safety feature.
 
 ## scene cut

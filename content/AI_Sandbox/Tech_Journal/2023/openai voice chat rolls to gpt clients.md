@@ -5,11 +5,13 @@ tags:
   - ai
   - product
   - 2023
+  - behavior
 keywords:
   - openai
   - voice
   - chatgpt
   - product
+  - gpt
 draft: true
 description: OpenAI launched real-time voice conversation for ChatGPT across iOS/Android plus API access.
 created: 2023-09-25
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # openai voice chat rolls to gpt clients
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 OpenAI announced that ChatGPT will now support low-latency voice conversations, starting on mobile and expanding via the API so developers can embed speech-driven agents ([OpenAI](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)).
 

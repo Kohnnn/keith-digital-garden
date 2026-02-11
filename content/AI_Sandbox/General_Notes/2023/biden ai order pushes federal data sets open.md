@@ -5,11 +5,13 @@ tags:
   - ai
   - policy
   - 2023
+  - data
 keywords:
   - biden
   - ai
   - data
   - open
+  - agencies
 draft: true
 description: The latest executive order mandates open, high-quality federal datasets for AI developers.
 created: 2023-12-06
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # biden ai order pushes federal data sets open
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 President Biden signed an AI executive order requiring federal agencies to publish structured data sets for model training, plus metadata identifying privacy constraints ([White House](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/06/executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)).
 

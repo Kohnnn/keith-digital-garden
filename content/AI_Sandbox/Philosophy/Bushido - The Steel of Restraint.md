@@ -1,13 +1,22 @@
 ---
 title: Bushido - The Steel of Restraint
-tags: [philosophy, japan, ethics]
-keywords: [honor, discipline, duty, restraint, courage]
+tags:
+  - philosophy
+  - japan
+  - ethics
+keywords:
+  - honor
+  - discipline
+  - duty
+  - restraint
+  - courage
 draft: true
 description: Bushido frames honor as a daily discipline of restraint.
 created: 2023-01-12
 updated: 2026-01-28
 note_id: 230112BU01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Bushido - The Steel of Restraint

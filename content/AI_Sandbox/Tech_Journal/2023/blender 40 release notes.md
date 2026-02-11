@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # blender 4.0 release notes
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://wiki.blender.org/wiki/Reference/Release_Notes/4.0">wiki.blender.org</a> <span class="ref-title">Blender 4.0 release notes</span> <span class="ref-meta">2023-11-14</span></p>

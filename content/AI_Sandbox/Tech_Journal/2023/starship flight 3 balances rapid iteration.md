@@ -5,11 +5,13 @@ tags:
   - space
   - hardware
   - 2023
+  - infra
 keywords:
   - starship
   - spacex
   - iteration
   - failure
+  - flight
 draft: true
 description: Starship Flight 3 ended with another premature shutdown, yet SpaceX took key lessons.
 created: 2023-03-03
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # starship flight 3 balances rapid iteration
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 SpaceX fired Starship Flight 3, which flew higher than previous attempts but again terminated early because of unseen aerodynamic stress in stage separation ([SpaceX](https://www.spacex.com/launches/)). The mission still provided telemetry that fueled rapid redesigns.
 

@@ -1,13 +1,23 @@
 ---
 title: Mercy - The Weight of Compassion
-tags: [philosophy, islam, ethics]
-keywords: [mercy, compassion, justice, restraint, humility]
+tags:
+  - philosophy
+  - islam
+  - ethics
+  - justice
+keywords:
+  - mercy
+  - compassion
+  - justice
+  - restraint
+  - humility
 draft: true
 description: Mercy is not softness; it is the weight that keeps power human.
 created: 2024-03-03
 updated: 2026-02-07
 note_id: 240303ME01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Mercy - The Weight of Compassion

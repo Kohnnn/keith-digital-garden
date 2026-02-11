@@ -2,6 +2,9 @@
 title: keyword index
 tags:
   - keyword-index
+  - abstraction
+  - art
+  - attention
 draft: true
 description: Single-word keyword threads for cross-branch navigation.
 created: 2025-10-12

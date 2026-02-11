@@ -2,6 +2,7 @@
 title: keyword - service
 tags:
   - keyword-index
+  - sikhism
 draft: true
 description: Notes linked by service.
 created: 2026-02-07

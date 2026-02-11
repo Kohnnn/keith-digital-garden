@@ -23,6 +23,8 @@ cssclasses:
 
 # ftc sues facebook for monopolization
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The FTC sued Facebook for illegal monopolization, framing platform scale as a legal liability ([source](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization)). The action signaled a shift toward more aggressive antitrust posture.
 

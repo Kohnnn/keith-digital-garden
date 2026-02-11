@@ -23,6 +23,8 @@ cssclasses:
 
 # us navy worst rust photo
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">readiness</span>
   <span class="inline-keyword">rust</span>

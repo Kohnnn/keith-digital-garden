@@ -2,6 +2,8 @@
 title: keyword - presence
 tags:
   - keyword-index
+  - zen
+  - buddhism
 draft: true
 description: Notes linked by presence.
 created: 2026-02-07

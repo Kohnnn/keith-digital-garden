@@ -23,6 +23,8 @@ cssclasses:
 
 # bits of advice i wish i had known
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 I read the list as a catalog of tradeoffs rather than a set of rules. My take is that the value is in pattern recognition, not compliance.
 
 ## scene cut

@@ -23,6 +23,8 @@ cssclasses:
 
 # 3d scan of the great pyramid
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">scan</span>
   <span class="inline-keyword">imaging</span>

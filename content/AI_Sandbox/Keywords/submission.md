@@ -2,6 +2,7 @@
 title: keyword - submission
 tags:
   - keyword-index
+  - islam
 draft: true
 description: Notes linked by submission.
 created: 2026-02-07

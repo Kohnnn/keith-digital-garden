@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # biden wins white house, vowing new direction for divided u.s.
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Biden wins White House, vowing new direction for divided U.S. surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

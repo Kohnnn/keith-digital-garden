@@ -5,11 +5,13 @@ tags:
   - infrastructure
   - policy
   - 2020
+  - infra
 keywords:
   - youtube
   - bandwidth
   - quality
   - europe
+  - linkage
 draft: true
 description: The EU asked streaming services to temporarily lower bitrate, exposing fragility in content delivery.
 created: 2020-03-19
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # youtube reduces european streaming quality to ease bandwidth
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 European regulators asked Netflix, YouTube, and others to reduce streaming bitrates to prevent internet congestion as lockdowns spiked usage ([Reuters EU Streaming](https://www.reuters.com/article/us-health-coronavirus-internet/european-commission-asks-streaming-services-to-cut-bit-rate-idUSKBN2142ST)). The decision exposed how lean CDNs had grown.
 

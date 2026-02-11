@@ -5,11 +5,13 @@ tags:
   - ai
   - developer
   - 2023
+  - behavior
 keywords:
   - stackoverflow
   - survey
   - ai
   - usage
+  - div
 draft: true
 description: Stack Overflow’s 2023 Developer Survey shows two thirds of developers already using AI tools on the job.
 created: 2023-07-12
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # stack overflow developer survey tracks ai adoption
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Stack Overflow’s survey found 70% of professional respondents are using or planning to use AI assistants, with GitHub Copilot leading mindshare ([Stack Overflow](https://survey.stackoverflow.co/2023/)).
 

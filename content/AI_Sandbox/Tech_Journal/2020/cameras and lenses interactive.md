@@ -23,6 +23,8 @@ cssclasses:
 
 # cameras and lenses interactive
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The Cameras and Lenses interactive showed how optics work through direct manipulation ([source](https://ciechanow.ski/cameras-and-lenses/)). It translated abstract physics into hands-on intuition.
 

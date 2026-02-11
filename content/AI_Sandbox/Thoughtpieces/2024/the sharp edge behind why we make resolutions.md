@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - ai
   - 2024
+  - infra
+  - edge
 keywords:
   - why
   - we

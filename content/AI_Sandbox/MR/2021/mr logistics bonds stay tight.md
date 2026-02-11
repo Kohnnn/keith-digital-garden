@@ -8,10 +8,12 @@ keywords:
   - bonds
   - logistics
   - tight
+  - pandemic
+  - confidence
 draft: true
-note_id: 210715MR13
 created: 2021-07-15
 updated: 2021-07-15
+note_id: 210715MR13
 cssclasses:
   - market-news
 ---

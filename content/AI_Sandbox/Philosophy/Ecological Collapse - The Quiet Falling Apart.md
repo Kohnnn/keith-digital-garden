@@ -1,13 +1,22 @@
 ---
 title: Ecological Collapse - The Quiet Falling Apart
-tags: [philosophy, environmental, collapse]
-keywords: [ecology, collapse, systems, loss, future]
+tags:
+  - philosophy
+  - environmental
+  - collapse
+keywords:
+  - ecology
+  - collapse
+  - systems
+  - loss
+  - future
 draft: true
 description: Collapse is rarely a bang; it is a long thinning of support.
 created: 2023-03-02
 updated: 2025-12-06
 note_id: 230302EC01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Ecological Collapse - The Quiet Falling Apart

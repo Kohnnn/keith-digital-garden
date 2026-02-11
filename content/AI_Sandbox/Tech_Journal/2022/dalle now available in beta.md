@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - ai
   - 2022
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # dall·e now available in beta
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 DALL·E now available in beta surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://openai.com/blog/dall-e-now-available-in-beta/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

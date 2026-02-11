@@ -23,6 +23,8 @@ cssclasses:
 
 # china's power crunch
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">power</span>
   <span class="inline-keyword">energy</span>

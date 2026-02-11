@@ -23,6 +23,8 @@ cssclasses:
 
 # cpu branch prediction evolution
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A long-form analysis tracked branch prediction techniques across CPU generations ([source](https://danluu.com/branch-prediction/)). It shows how incremental ideas stack into major performance gains.
 

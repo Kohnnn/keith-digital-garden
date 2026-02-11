@@ -23,6 +23,8 @@ cssclasses:
 
 # facebook loses users first time
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">users</span>
   <span class="inline-keyword">growth</span>

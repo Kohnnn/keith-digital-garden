@@ -23,6 +23,8 @@ cssclasses:
 
 # building a vm inside chatgpt previews jailbreak design
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 An experiment showed how to build a virtual machine inside ChatGPT using prompts
 ([source](https://www.engraved.blog/building-a-virtual-machine-inside/)). The project illustrates
 how users can create structured constraints that both guide and jailbreak model behavior. I read it

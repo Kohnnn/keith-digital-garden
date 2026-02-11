@@ -2,6 +2,8 @@
 title: keyword - covenant
 tags:
   - keyword-index
+  - judaism
+  - memory
 draft: true
 description: Notes linked by covenant.
 created: 2026-02-07

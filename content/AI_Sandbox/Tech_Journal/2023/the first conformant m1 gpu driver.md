@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - hardware
   - 2023
+  - chips
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # the first conformant m1 gpu driver
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

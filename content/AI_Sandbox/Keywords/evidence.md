@@ -2,6 +2,9 @@
 title: keyword - evidence
 tags:
   - keyword-index
+  - epistemology
+  - thinking
+  - nyaya
 draft: true
 description: Notes linked by evidence.
 created: 2026-02-07

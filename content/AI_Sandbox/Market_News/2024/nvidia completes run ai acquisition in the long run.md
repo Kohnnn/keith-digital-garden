@@ -9,6 +9,7 @@ keywords:
   - completes
   - runai
   - acquisition
+  - run
 draft: true
 description: Nvidia Completes Run:AI Acquisition
 created: 2024-12-30

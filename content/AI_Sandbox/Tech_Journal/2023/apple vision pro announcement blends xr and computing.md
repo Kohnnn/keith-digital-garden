@@ -5,11 +5,13 @@ tags:
   - xr
   - hardware
   - 2023
+  - product
 keywords:
   - visionpro
   - xr
   - apple
   - headset
+  - pro
 draft: true
 description: Apple unveiled Vision Pro, mixing micro-OLED displays, eye tracking, and spatial computing hype.
 created: 2023-06-05
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple vision pro announcement blends xr and computing
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Apple used WWDC to launch Vision Pro, a $3,499 headset with dual 4K micro-OLED displays, eye/hand tracking, and an external EyeSight display so outsiders see your gaze ([Apple](https://www.apple.com/vision-pro/)).
 

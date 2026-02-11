@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - product
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # macos command line tools you might not know about
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

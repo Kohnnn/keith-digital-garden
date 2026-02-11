@@ -1,13 +1,22 @@
 ---
 title: Confucianism - The Shape of Duty
-tags: [philosophy, confucianism, ethics]
-keywords: [duty, ritual, care, community, virtue]
+tags:
+  - philosophy
+  - confucianism
+  - ethics
+keywords:
+  - duty
+  - ritual
+  - care
+  - community
+  - virtue
 draft: true
 description: Duty is not a cage; it is a way of keeping the world human.
 created: 2022-03-19
 updated: 2025-12-20
 note_id: 220319CO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Confucianism - The Shape of Duty

@@ -1,13 +1,23 @@
 ---
 title: Forgiveness - The Harder Justice
-tags: [philosophy, christianity, ethics]
-keywords: [forgiveness, justice, mercy, repair, power]
+tags:
+  - philosophy
+  - christianity
+  - ethics
+  - justice
+keywords:
+  - forgiveness
+  - justice
+  - mercy
+  - repair
+  - power
 draft: true
 description: Forgiveness is not soft; it is a harder justice that refuses to let harm rule the future.
 created: 2024-02-09
 updated: 2026-02-07
 note_id: 240209FO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Forgiveness - The Harder Justice

@@ -23,6 +23,8 @@ cssclasses:
 
 # should small rust structs be passed by copy
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A Rust performance note explained when passing small structs by copy is faster than borrowing ([source](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)). It reframed intuition about ownership and performance.
 

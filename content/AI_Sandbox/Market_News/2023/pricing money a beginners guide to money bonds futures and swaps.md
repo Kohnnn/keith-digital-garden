@@ -5,6 +5,7 @@ tags:
   - finance
   - product
   - 2023
+  - economy
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # pricing money: a beginner's guide to money, bonds, futures and swaps
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

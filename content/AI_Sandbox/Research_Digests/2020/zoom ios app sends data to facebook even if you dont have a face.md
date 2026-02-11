@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - product
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # zoom ios app sends data to facebook even if you don’t have a facebook account
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Zoom iOS app sends data to Facebook even if you don’t have a Facebook account surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.vice.com/en_us/article/k7e599/zoom-ios-app-sends-data-to-facebook-even-if-you-dont-have-a-facebook-account)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

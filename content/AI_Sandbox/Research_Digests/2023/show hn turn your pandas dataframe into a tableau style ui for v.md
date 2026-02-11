@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # show hn: turn your pandas dataframe into a tableau style ui for visual analysis
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

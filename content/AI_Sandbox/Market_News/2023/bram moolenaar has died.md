@@ -5,6 +5,7 @@ tags:
   - finance
   - policy
   - 2023
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # bram moolenaar has died
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

@@ -2,6 +2,8 @@
 title: keyword - exile
 tags:
   - keyword-index
+  - judaism
+  - memory
 draft: true
 description: Notes linked by exile.
 created: 2026-02-07

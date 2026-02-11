@@ -5,11 +5,13 @@ tags:
   - cloud
   - policy
   - 2023
+  - ai
 keywords:
   - google
   - sovereign
   - ai
   - cloud
+  - regions
 draft: true
 description: Google announced sovereign AI regions to satisfy data residency and compliance demands.
 created: 2023-10-17
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google cloud sovereign ai regions
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 At Cloud Next, Google launched Sovereign AI Regions for Europe and Asia, promising that Vertex AI workloads will stay within designated jurisdictions and be monitored by local operators ([Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/sovereign-ai)).
 

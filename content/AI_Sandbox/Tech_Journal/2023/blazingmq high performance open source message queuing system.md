@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - product
   - 2023
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # blazingmq: high performance open source message queuing system
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://bloomberg.github.io/blazingmq/">bloomberg.github.io</a> <span class="ref-title">BlazingMQ: High-performance open source message queuing system</span> <span class="ref-meta">2023-07-27</span></p>

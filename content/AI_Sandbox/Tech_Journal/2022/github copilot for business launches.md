@@ -5,11 +5,13 @@ tags:
   - ai
   - devtools
   - 2022
+  - open
 keywords:
   - copilot
   - github
   - devtools
   - business
+  - div
 draft: true
 description: GitHub shipped Copilot for Business so entire orgs can integrate AI pair programming with policy controls.
 created: 2022-12-07
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # github copilot for business launches
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 GitHub launched Copilot for Business at $19/month per user, bundling SSO, policy toggles, and seat management around the AI autocomplete tool ([GitHub Blog](https://github.blog/2022-12-07-copilot-for-business/)).
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # texas grid freeze
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">grid</span>
   <span class="inline-keyword">storm</span>

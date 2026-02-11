@@ -23,6 +23,8 @@ cssclasses:
 
 # crypto tax reporting push
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 <div class="keyword-row">
   <span class="inline-keyword">tax</span>
   <span class="inline-keyword">compliance</span>

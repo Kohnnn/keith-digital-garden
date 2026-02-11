@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # bing: “i will not harm you unless you harm me first”
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Bing: “I will not harm you unless you harm me first” surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://simonwillison.net/2023/Feb/15/bing/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

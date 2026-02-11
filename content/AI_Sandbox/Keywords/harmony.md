@@ -2,6 +2,7 @@
 title: keyword - harmony
 tags:
   - keyword-index
+  - confucianism
 draft: true
 description: Notes linked by harmony.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # how i cut gta online loading times by 70%
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 How I cut GTA Online loading times by 70% landed as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # whisper open source speech recognition
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 <div class="keyword-row">
   <span class="inline-keyword">speech</span>
   <span class="inline-keyword">model</span>

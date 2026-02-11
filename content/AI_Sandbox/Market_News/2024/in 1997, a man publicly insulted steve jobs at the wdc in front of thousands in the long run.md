@@ -4,6 +4,7 @@ tags:
   - market-news
   - economy
   - 2024
+  - ai
 keywords:
   - 1997
   - man

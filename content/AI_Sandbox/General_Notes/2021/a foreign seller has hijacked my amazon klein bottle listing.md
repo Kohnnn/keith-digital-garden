@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # amazon listing hijack exposes the trust tax
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span> <a href="https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING">https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING</a>

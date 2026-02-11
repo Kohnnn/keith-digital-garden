@@ -4,6 +4,8 @@ tags:
   - research-digest
   - ai
   - 2024
+  - open
+  - science
 keywords:
   - unreasonable
   - effectiveness

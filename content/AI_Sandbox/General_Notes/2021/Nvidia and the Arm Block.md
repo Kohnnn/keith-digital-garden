@@ -23,6 +23,8 @@ cssclasses:
 
 # nvidia and the arm block
 
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
+
 <div class="keyword-row">
   <span class="inline-keyword">merger</span>
   <span class="inline-keyword">antitrust</span>

@@ -8,7 +8,7 @@ keywords:
   - show
   - hn
   - chatroom
-  - gpt-4
+  - gpt4
   - assistant
 draft: true
 description: Show HN: Chatroom with GPT-4 assistant for English learners

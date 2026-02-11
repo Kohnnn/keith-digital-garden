@@ -5,11 +5,13 @@ tags:
   - hardware
   - economy
   - 2020
+  - chips
 keywords:
   - gpu
   - mining
   - demand
   - supply
+  - miners
 draft: true
 description: Pandemic demand and crypto mining sent GPU prices soaring.
 created: 2020-10-15
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # gpu shortage hits gamers and miners
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia's RTX 30-series sold out in minutes as remote workers and crypto miners snapped up every chip, turning GPU availability into a national news item ([Reuters GPU Shortage](https://www.reuters.com/article/us-nvidia-chips/nvidia-gpus-sell-out-as-crypto-miners-remote-workers-drive-demand-idUSKBN27W0XH)). The shortage underscored how hardware supply chains respond to multipole demand.
 

@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2023
+  - product
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple vision pro: apple’s first spatial computer
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Apple Vision Pro: Apple’s first spatial computer surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - web
   - 2021
+  - open
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # governor vows criminal prosecution of reporter who found flaw in state website
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 Governor vows criminal prosecution of reporter who found flaw in state website surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # sd my script directory
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 SD is a small tool for managing a personal script directory, framing scripts as reusable workflow primitives ([source](https://github.com/ianthehenry/sd)). It treats scripting as infrastructure for daily work.
 

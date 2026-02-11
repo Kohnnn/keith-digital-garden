@@ -23,6 +23,8 @@ cssclasses:
 
 # google analytics declared illegal in france
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 This felt like a real escalation in privacy enforcement. I read it as a warning that defaults are now enforceable policy choices.
 
 ## scene cut

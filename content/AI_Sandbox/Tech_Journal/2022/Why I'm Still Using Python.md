@@ -23,6 +23,8 @@ cssclasses:
 
 # why i'm still using python
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">python</span>
   <span class="inline-keyword">tooling</span>

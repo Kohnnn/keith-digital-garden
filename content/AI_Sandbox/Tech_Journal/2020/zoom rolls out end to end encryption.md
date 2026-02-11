@@ -5,11 +5,13 @@ tags:
   - security
   - remote-work
   - 2020
+  - infra
 keywords:
   - zoom
   - e2ee
   - meetings
   - security
+  - end
 draft: true
 description: Zoom delivered optional end-to-end encryption for all users, addressing spring 2020 trust issues.
 created: 2020-10-26
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # zoom rolls out end to end encryption
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Zoom started rolling out opt-in end-to-end encryption (E2EE) across free and paid tiers, promising meeting keys on local clients rather than Zoom’s servers ([Zoom Blog](https://blog.zoom.us/end-to-end-encryption-phase-1/)).
 

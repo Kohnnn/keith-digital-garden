@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why discord is switching from go to rust
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Why Discord is switching from Go to Rust surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # inspiration4 and the private crew
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">private</span>
   <span class="inline-keyword">mission</span>

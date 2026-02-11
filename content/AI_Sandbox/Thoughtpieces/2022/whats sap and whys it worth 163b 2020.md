@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # what's sap, and why's it worth $163b? (2020)
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 What's SAP, and why's it worth $163B? (2020) surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://retool.com/blog/erp-for-engineers/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

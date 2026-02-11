@@ -2,6 +2,10 @@
 title: keyword - nature
 tags:
   - keyword-index
+  - control
+  - daoism
+  - scarcity
+  - environmental
 draft: true
 description: Notes linked by nature.
 created: 2026-02-07

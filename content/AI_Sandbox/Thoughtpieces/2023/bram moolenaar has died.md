@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # bram moolenaar has died
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

@@ -1,13 +1,23 @@
 ---
 title: Socrates - The Question That Bites
-tags: [philosophy, socrates, inquiry]
-keywords: [inquiry, doubt, virtue, dialogue, wisdom]
+tags:
+  - philosophy
+  - socrates
+  - inquiry
+  - virtue
+keywords:
+  - inquiry
+  - doubt
+  - virtue
+  - dialogue
+  - wisdom
 draft: true
 description: A way of questioning that refuses to let me hide.
 created: 2021-11-02
 updated: 2024-04-22
 note_id: 211102SO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Socrates - The Question That Bites

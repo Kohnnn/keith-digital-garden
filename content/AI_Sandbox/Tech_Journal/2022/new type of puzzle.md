@@ -23,6 +23,8 @@ cssclasses:
 
 # new type of puzzle
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A creator shared a new puzzle format with a physical-style grid and emergent patterns ([source](http://www.dogbunnypuzzle.com/)). The experiment framed puzzle design as interface design.
 

@@ -5,10 +5,13 @@ tags:
   - cloud
   - security
   - 2021
+  - ai
 keywords:
   - credentials
   - guardrails
   - cost
+  - cloud
+  - div
 draft: true
 description: Cloud providers tighten credential rotations to rein in risk without crushing spend.
 created: 2021-11-05
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # cloud credentials cost guardrails
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 AWS and Azure introduced credential guardrails to automate key rotation, balancing risk with the spending focus shown in [[Chipmakers Slash Orders with TSMC]].
 

@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2022
+  - product
 keywords:
   - vladimir
   - nesterov

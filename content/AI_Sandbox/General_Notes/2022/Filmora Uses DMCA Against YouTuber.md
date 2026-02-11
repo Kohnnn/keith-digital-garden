@@ -23,6 +23,8 @@ cssclasses:
 
 # filmora uses dmca against youtuber
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 ## context shard
 A YouTuber reported a DMCA takedown after criticizing Filmora's license change ([source](https://www.youtube.com/watch?v=OMIIwQZMFLE)). The story became a case study in platform leverage over creators.
 

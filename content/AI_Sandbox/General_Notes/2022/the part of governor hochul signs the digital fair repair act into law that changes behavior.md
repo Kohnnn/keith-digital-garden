@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2022
+  - repair
+  - law
 keywords:
   - governor
   - hochul

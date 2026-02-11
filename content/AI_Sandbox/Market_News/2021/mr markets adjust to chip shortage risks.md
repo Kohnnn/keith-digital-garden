@@ -4,19 +4,25 @@ tags:
   - market-news
   - markets
   - 2021
+  - chips
+  - ai
 keywords:
   - chip
   - markets
   - shortage
+  - div
+  - linkage
 draft: true
-note_id: 210710MR13
 created: 2021-07-10
 updated: 2021-07-10
+note_id: 210710MR13
 cssclasses:
   - market-news
 ---
 
 # mr markets adjust to chip shortage risks
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Equities in autos and electronics traded down after Intel warned about lead times, echoing the hardware stress glimpsed in [[chipmakers eye hungary for fab expansion]].
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # delta wave and the global reset
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">delta</span>
   <span class="inline-keyword">pandemic</span>

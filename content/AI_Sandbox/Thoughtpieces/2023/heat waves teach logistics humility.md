@@ -5,10 +5,13 @@ tags:
   - climate
   - logistics
   - 2023
+  - infra
 keywords:
   - heat
   - logistics
   - resilience
+  - rail
+  - div
 draft: true
 description: 2023 heat waves exposed how fragile inland logistics chains are.
 created: 2023-07-25
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # heat waves teach logistics humility
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 When 2023's summer heat broke records across Europe and North America, rail sinuousness, warehouse cooling failures, and drayage issues reminded me that physical networks are as sensitive as financial ones.
 

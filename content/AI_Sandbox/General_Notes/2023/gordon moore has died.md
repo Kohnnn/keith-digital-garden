@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # gordon moore has died
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 gordon moore has died is a pressure test for how this stack behaves in the real world ([source](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
 

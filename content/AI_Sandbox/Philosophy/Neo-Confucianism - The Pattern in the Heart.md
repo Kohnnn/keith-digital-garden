@@ -1,13 +1,22 @@
 ---
 title: Neo-Confucianism - The Pattern in the Heart
-tags: [philosophy, confucianism, metaphysics]
-keywords: [pattern, order, virtue, harmony, cultivation]
+tags:
+  - philosophy
+  - confucianism
+  - metaphysics
+keywords:
+  - pattern
+  - order
+  - virtue
+  - harmony
+  - cultivation
 draft: true
 description: Neo-Confucianism blends ethics and cosmology into a single practice.
 created: 2024-04-09
 updated: 2026-01-22
 note_id: 240409NC01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Neo-Confucianism - The Pattern in the Heart

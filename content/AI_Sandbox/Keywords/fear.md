@@ -2,6 +2,8 @@
 title: keyword - fear
 tags:
   - keyword-index
+  - epicureanism
+  - suffering
 draft: true
 description: Notes linked by fear.
 created: 2026-02-07

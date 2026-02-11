@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # twitter set to accept musk's $43b offer sources
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Twitter set to accept Musk's $43B offer – sources surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

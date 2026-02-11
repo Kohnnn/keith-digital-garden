@@ -5,10 +5,13 @@ tags:
   - hardware
   - ai
   - 2023
+  - chips
 keywords:
   - h100
   - hyperscaler
   - gpu
+  - supply
+  - nvidia
 draft: true
 description: H100 shipments remain concentrated at hyperscalers while startups wait for allocations.
 created: 2023-11-30
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # h100 supply still favors hyperscalers
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia still prioritizes cloud providers for H100 delivery, leaving startups and research labs on multi-month waits even as demand for inference clusters surges across industries ([Reuters](https://www.reuters.com/technology/nvidia-h100-gpu-price-2023-05-22/)).
 

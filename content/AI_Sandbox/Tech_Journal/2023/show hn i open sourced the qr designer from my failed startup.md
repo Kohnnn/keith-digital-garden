@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - open
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # show hn: i open sourced the qr designer from my failed startup
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://github.com/kochrt/qr-designer">github.com</a> <span class="ref-title">Show HN: I open sourced the QR designer from my failed startup</span> <span class="ref-meta">2023-05-30</span></p>

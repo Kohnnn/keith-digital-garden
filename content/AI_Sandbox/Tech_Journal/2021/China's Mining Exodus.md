@@ -19,10 +19,12 @@ updated: 2025-09-30
 note_id: 210625TJ01
 cssclasses:
   - tech-journal
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/1322C/production/_118892437_bitcoin_reuters.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/1322C/production/_118892437_bitcoin_reuters.jpg
 ---
 
 # china's mining exodus
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">hashrate</span>

@@ -23,6 +23,8 @@ cssclasses:
 
 # intentionally making close friends
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The piece lands because it treats friendship as a design problem, not a lucky accident. My read is that closeness is built through repeated, intentional systems.
 
 ## scene cut

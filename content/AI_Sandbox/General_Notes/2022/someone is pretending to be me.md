@@ -23,6 +23,8 @@ cssclasses:
 
 # someone is pretending to be me
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A developer described an impersonation problem that was hard to resolve across platforms ([source](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)). The story makes identity defense feel fragile and slow.
 

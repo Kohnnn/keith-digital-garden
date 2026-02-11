@@ -5,6 +5,7 @@ tags:
   - finance
   - infra
   - 2020
+  - ai
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # paypal to allow cryptocurrency buying, selling and shopping on its network
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 PayPal to allow cryptocurrency buying, selling and shopping on its network surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.reuters.com/article/paypal-cryptocurrency/paypal-to-allow-cryptocurrency-buying-selling-and-shopping-on-its-network-idINL1N2HB14U)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

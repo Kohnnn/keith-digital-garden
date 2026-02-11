@@ -23,6 +23,8 @@ cssclasses:
 
 # intel foundry pivot
 
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
+
 <div class="keyword-row">
   <span class="inline-keyword">foundry</span>
   <span class="inline-keyword">supply</span>

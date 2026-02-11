@@ -23,6 +23,8 @@ cssclasses:
 
 # google tag manager anti adblock weapon
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A technical analysis argued that Google Tag Manager can be used to bypass ad blockers and tracking defenses ([source](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)). It framed tagging infrastructure as a surveillance layer.
 

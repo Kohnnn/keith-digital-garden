@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # show hn: non.io, a reddit like platform ive been working on for the last 4 years
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://non.io">non.io</a> <span class="ref-title">Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years</span> <span class="ref-meta">2023-06-12</span></p>

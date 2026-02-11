@@ -4,6 +4,8 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
+  - rust
 keywords:
   - librs
   - catalog

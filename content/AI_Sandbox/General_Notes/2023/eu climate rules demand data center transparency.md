@@ -5,10 +5,13 @@ tags:
   - energy
   - policy
   - 2023
+  - infra
 keywords:
   - eu
   - datacenter
   - transparency
+  - data
+  - div
 draft: true
 description: EU climate guidance now demands datacenter builders publish energy intensity before permitting.
 created: 2023-11-20
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # eu climate rules demand data center transparency
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Brussels requires new datacenters to disclose energy intensity metrics and on-site renewables before permits, pushing hyperscalers to quantify emissions alongside growth ([EU Climate](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_5001)).
 

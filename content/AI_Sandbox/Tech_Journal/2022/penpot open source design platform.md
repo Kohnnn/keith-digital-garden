@@ -23,6 +23,8 @@ cssclasses:
 
 # penpot open source design platform
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 Penpot feels like a reminder that design workflows do not have to be locked into a single vendor. My read is that openness is now a strategic differentiator for creative teams.
 
 ## scene cut

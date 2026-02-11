@@ -4,9 +4,14 @@ tags:
   - thoughtpiece
   - ai
   - 2024
+  - infra
+  - philosophy
 keywords:
   - process
   - philosophy
+  - span
+  - class
+  - div
 draft: true
 description: Process Philosophy
 created: 2024-12-31

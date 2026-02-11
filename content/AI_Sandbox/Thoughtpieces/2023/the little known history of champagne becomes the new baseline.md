@@ -4,10 +4,14 @@ tags:
   - thoughtpiece
   - infra
   - 2023
+  - ai
+  - history
 keywords:
-  - little-known
+  - littleknown
   - history
   - champagne
+  - known
+  - little
 draft: true
 description: The little-known history of Champagne
 created: 2023-12-31

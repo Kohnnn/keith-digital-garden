@@ -5,6 +5,7 @@ tags:
   - finance
   - policy
   - 2020
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # every google result now looks like an ad
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Every Google result now looks like an ad surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/craigmod/status/1219644556003565568)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2023
+  - open
+  - windows
 keywords:
   - germanys
   - inefficient

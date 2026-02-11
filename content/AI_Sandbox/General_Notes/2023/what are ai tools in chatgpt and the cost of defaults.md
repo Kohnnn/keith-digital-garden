@@ -4,11 +4,13 @@ tags:
   - general-note
   - ai
   - 2023
+  - tools
 keywords:
   - what
   - ai
   - tools
   - chatgpt
+  - span
 draft: true
 description: What are AI tools in ChatGPT
 created: 2023-12-30

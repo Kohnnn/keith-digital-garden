@@ -2,6 +2,7 @@
 title: keyword - descent
 tags:
   - keyword-index
+  - suffering
 draft: true
 description: Notes linked by descent.
 created: 2026-02-07

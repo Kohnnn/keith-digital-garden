@@ -23,6 +23,8 @@ cssclasses:
 
 # i wrote a sql engine in python
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">sql</span>
   <span class="inline-keyword">engine</span>

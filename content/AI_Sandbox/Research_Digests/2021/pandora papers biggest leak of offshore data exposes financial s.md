@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # pandora papers: biggest leak of offshore data exposes financial secrets of rich
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Pandora papers: biggest leak of offshore data exposes financial secrets of rich surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

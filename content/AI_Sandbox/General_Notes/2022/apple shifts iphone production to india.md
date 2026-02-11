@@ -23,6 +23,8 @@ cssclasses:
 
 # apple shifts iphone production to india
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 I read this as a risk‑balancing move, not a cost move. Apple is trading efficiency for resilience.
 
 ## scene cut

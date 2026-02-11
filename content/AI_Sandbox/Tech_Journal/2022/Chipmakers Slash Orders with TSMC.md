@@ -23,6 +23,8 @@ cssclasses:
 
 # chipmakers slash orders with tsmc
 
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
+
 <div class="keyword-row">
   <span class="inline-keyword">tsmc</span>
   <span class="inline-keyword">demand</span>

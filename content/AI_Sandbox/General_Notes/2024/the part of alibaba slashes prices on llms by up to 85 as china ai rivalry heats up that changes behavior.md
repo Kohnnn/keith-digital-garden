@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2024
+  - china
+  - behavior
 keywords:
   - alibaba
   - slashes

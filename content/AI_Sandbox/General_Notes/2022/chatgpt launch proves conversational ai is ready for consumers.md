@@ -1,11 +1,11 @@
 ---
 title: chatgpt launch proves conversational ai is ready for consumers
 tags:
+  - general-note
   - tech-journal
   - ai
   - product
   - behavior
-  - 2022
 keywords:
   - chatgpt
   - openai
@@ -19,9 +19,12 @@ updated: 2022-11-30
 note_id: 221130GN75
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # chatgpt launch proves conversational ai is ready for consumers
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 OpenAI rolled out ChatGPT as a free research preview, and the chatbot crossed one million users within five days, producing essays, debug sessions, and bedtime stories with a single prompt ([OpenAI](https://openai.com/blog/chatgpt)). AI finally felt mainstream.
 

@@ -1,13 +1,23 @@
 ---
 title: Maya Religion - The Calendar of Blood
-tags: [philosophy, religion, maya]
-keywords: [time, sacrifice, cosmos, reciprocity, ritual]
+tags:
+  - philosophy
+  - religion
+  - maya
+  - time
+keywords:
+  - time
+  - sacrifice
+  - cosmos
+  - reciprocity
+  - ritual
 draft: true
 description: Maya religion ties time, sacrifice, and cosmos into a living calendar.
 created: 2022-08-19
 updated: 2026-02-07
 note_id: 220819MA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Maya Religion - The Calendar of Blood

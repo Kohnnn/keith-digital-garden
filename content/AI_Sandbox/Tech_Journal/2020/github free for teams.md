@@ -23,6 +23,8 @@ cssclasses:
 
 # github free for teams
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 ## scene cut
 GitHub made team features free, lowering barriers to collaboration for small groups ([source](https://github.blog/2020-04-14-github-is-now-free-for-teams/)). The move reframed collaboration as a default rather than a premium.
 

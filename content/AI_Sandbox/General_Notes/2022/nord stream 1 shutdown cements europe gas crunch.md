@@ -1,11 +1,11 @@
 ---
 title: nord stream 1 shutdown cements europe gas crunch
 tags:
+  - general-note
   - thoughtpiece
   - energy
   - europe
   - geopolitics
-  - 2022
 keywords:
   - nordstream
   - gas
@@ -19,9 +19,12 @@ updated: 2022-09-05
 note_id: 220905GN66
 cssclasses:
   - thoughtpiece
+  - general-note
 ---
 
 # nord stream 1 shutdown cements europe gas crunch
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Gazprom said Nord Stream 1 flows would stay shut after a maintenance outage, blaming a turbine fault while European regulators called it political retaliation ([Reuters](https://www.reuters.com/business/energy/russias-gazprom-says-nord-stream-1-pipeline-flows-remain-shut-2022-09-05/)). The move forced the continent into emergency storage draws before winter even started.
 

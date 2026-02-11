@@ -23,6 +23,8 @@ cssclasses:
 
 # energy vs transition
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
   <span class="inline-keyword">policy</span>

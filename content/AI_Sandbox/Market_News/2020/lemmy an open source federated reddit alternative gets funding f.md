@@ -4,6 +4,8 @@ tags:
   - market-news
   - finance
   - 2020
+  - economy
+  - ai
 keywords:
   - rates
   - market
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # lemmy, an open source federated reddit alternative, gets funding for development
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 Lemmy, an open-source federated Reddit alternative, gets funding for development surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://dev.lemmy.ml/post/35293)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

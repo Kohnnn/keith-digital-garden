@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # postgres as a graph database
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/">www.dylanpaulus.com</a> <span class="ref-title">Postgres as a graph database</span> <span class="ref-meta">2023-03-31</span></p>

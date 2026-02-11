@@ -4,6 +4,8 @@ tags:
   - market-news
   - economy
   - 2024
+  - ai
+  - information
 keywords:
   - agi
   - what

@@ -19,10 +19,12 @@ updated: 2025-08-28
 note_id: 211004GN01
 cssclasses:
   - general-note
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/14410/production/_121134098_gettyimages-1235717271.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/14410/production/_121134098_gettyimages-1235717271.jpg
 ---
 
 # facebook's daylong outage
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">routing</span>

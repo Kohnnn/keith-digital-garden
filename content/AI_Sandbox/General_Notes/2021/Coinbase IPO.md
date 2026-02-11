@@ -23,6 +23,8 @@ cssclasses:
 
 # coinbase ipo
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">adoption</span>
   <span class="inline-keyword">markets</span>

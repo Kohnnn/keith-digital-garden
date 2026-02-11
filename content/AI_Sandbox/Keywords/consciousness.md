@@ -2,6 +2,10 @@
 title: keyword - consciousness
 tags:
   - keyword-index
+  - vedanta
+  - samkhya
+  - reality
+  - mind
 draft: true
 description: Notes linked by consciousness.
 created: 2026-02-07

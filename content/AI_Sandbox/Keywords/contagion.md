@@ -2,6 +2,8 @@
 title: keyword - contagion
 tags:
   - keyword-index
+  - contagion
+  - memetics
 draft: true
 description: Notes linked by contagion.
 created: 2026-02-07

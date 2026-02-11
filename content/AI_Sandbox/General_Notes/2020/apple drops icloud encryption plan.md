@@ -23,6 +23,8 @@ cssclasses:
 
 # apple drops icloud encryption plan
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Reuters reported Apple dropped plans for iCloud backup encryption after FBI complaints ([source](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT)). The story underscored how policy pressure shapes product security.
 

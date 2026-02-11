@@ -1,13 +1,23 @@
 ---
 title: Augustine - The Restless Heart
-tags: [philosophy, christianity, theology]
-keywords: [grace, faith, memory, restlessness, desire]
+tags:
+  - philosophy
+  - christianity
+  - theology
+  - memory
+keywords:
+  - grace
+  - faith
+  - memory
+  - restlessness
+  - desire
 draft: true
 description: Augustine frames desire as a restless search for God.
 created: 2023-07-21
 updated: 2026-02-07
 note_id: 230721AU01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Augustine - The Restless Heart

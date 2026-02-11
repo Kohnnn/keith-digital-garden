@@ -4,6 +4,8 @@ tags:
   - market-news
   - finance
   - 2021
+  - infra
+  - ai
 keywords:
   - rates
   - market
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # robinhood is limiting purchases of stocks: amc, blackberry, nokia, and gamestop
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 robinhood is limiting purchases of stocks: amc, blackberry, nokia, and gamestop lands as a clean signal for the current cycle ([source](https://twitter.com/KHOUStephanie/status/1354781130021609478)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 

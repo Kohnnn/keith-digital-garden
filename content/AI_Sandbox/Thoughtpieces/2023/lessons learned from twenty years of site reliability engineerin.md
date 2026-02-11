@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - web
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # lessons learned from twenty years of site reliability engineering
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/">sre.google</a> <span class="ref-title">Lessons Learned from Twenty Years of Site Reliability Engineering</span> <span class="ref-meta">2023-10-27</span></p>

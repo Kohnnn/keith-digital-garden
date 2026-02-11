@@ -23,6 +23,8 @@ cssclasses:
 
 # gta online load time fix shows performance leverage
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 A modder documented how a small change cut GTA Online load times dramatically
 ([source](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)). The story shows
 that big gains often hide behind boring parsing work, not exotic optimization. I see it as a

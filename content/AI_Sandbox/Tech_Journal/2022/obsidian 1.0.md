@@ -23,6 +23,8 @@ cssclasses:
 
 # obsidian 1.0
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The 1.0 label matters because it signals stability, not just features. I read it as a commitment to long-term workflows.
 
 ## scene cut

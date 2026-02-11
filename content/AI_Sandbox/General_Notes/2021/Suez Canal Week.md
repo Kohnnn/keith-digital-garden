@@ -6,24 +6,25 @@ tags:
   - interesting
   - logistics
   - supply-chain
-  - 2021
-draft: true
-description: A single ship turned global logistics into a daily headline.
 keywords:
   - choke
   - logistics
   - delay
   - infrastructure
   - resilience
+draft: true
+description: A single ship turned global logistics into a daily headline.
 created: 2021-03-25
 updated: 2025-07-18
 note_id: 210325GN01
 cssclasses:
   - general-note
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/C5EC/production/_117686605_9d7a3562-59e1-454a-ac31-88a108c54573.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/C5EC/production/_117686605_9d7a3562-59e1-454a-ac31-88a108c54573.jpg
 ---
 
 # suez canal week
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">choke</span>

@@ -5,10 +5,13 @@ tags:
   - ai
   - policy
   - 2023
+  - regulation
 keywords:
   - ethics
   - council
   - regulation
+  - councils
+  - div
 draft: true
 description: Governments convene ethical councils ahead of AI bills.
 created: 2023-12-26
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # ai regulation ethics council forms
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 A flurry of ethics councils across EU, UK, and US indicates policymakers want technical advice before AI bills land ([Reuters](https://www.reuters.com/technology/ai-ethics-council-2023)).
 

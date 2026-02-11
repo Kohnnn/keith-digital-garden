@@ -2,6 +2,8 @@
 title: keyword - evolution
 tags:
   - keyword-index
+  - evolution
+  - memetics
 draft: true
 description: Notes linked by evolution.
 created: 2026-02-07

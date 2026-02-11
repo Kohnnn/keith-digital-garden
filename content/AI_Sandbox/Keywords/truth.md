@@ -2,6 +2,9 @@
 title: keyword - truth
 tags:
   - keyword-index
+  - cynicism
+  - epistemology
+  - thinking
 draft: true
 description: Notes linked by truth.
 created: 2026-02-07

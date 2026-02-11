@@ -2,6 +2,8 @@
 title: keyword - perception
 tags:
   - keyword-index
+  - aesthetics
+  - mind
 draft: true
 description: Notes linked by perception.
 created: 2026-02-07

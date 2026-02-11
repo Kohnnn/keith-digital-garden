@@ -4,10 +4,14 @@ tags:
   - research-digest
   - remote-work
   - 2021
+  - product
+  - ai
 keywords:
   - productivity
   - remote
   - data
+  - work
+  - div
 draft: true
 description: 2021 productivity data suggests hybrid models outperform full-time office.
 created: 2021-11-10
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # remote work productivity data shifts narrative
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Data from numerous surveys in late 2021 shows hybrid workers reporting higher productivity than full-office, reinforcing [[remote work normalizes across platforms]].
 

@@ -4,10 +4,14 @@ tags:
   - tech-journal
   - security
   - 2020
+  - infra
+  - platform
 keywords:
   - azure
   - confidential
   - compute
+  - div
+  - linkage
 draft: true
 description: Azure expanded confidential compute with attestation tools.
 created: 2020-09-22
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # azure confidential compute update
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Microsoft added attestation and multi-tenant features to Azure Confidential Compute, aligning with the identity trust story from [[okta breach fallout highlights identity fragility]].
 

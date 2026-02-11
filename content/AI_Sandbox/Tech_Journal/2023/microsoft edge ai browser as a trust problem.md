@@ -4,11 +4,14 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - microsoft
+  - edge
 keywords:
   - microsoft
   - edge
   - ai
   - browser
+  - span
 draft: true
 description: Microsoft Edge: AI Browser
 created: 2023-12-30

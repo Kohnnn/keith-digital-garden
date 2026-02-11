@@ -23,6 +23,8 @@ cssclasses:
 
 # tesla's bitcoin treasury
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">balance</span>
   <span class="inline-keyword">treasury</span>

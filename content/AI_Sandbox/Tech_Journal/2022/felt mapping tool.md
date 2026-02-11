@@ -23,6 +23,8 @@ cssclasses:
 
 # felt mapping tool
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 ## scene cut
 Felt launched as a collaborative mapping tool with a focus on simple visual workflows ([source](https://felt.com/)). It treated maps as a coordination surface rather than a static output.
 

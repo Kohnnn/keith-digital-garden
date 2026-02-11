@@ -23,6 +23,8 @@ cssclasses:
 
 # self hosting email ends
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">email</span>
   <span class="inline-keyword">ops</span>

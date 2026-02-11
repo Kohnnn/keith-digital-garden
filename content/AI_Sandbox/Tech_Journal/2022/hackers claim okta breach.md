@@ -23,6 +23,8 @@ cssclasses:
 
 # hackers claim okta breach
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 Identity providers are single points of failure; that’s the part that stuck with me. The claim itself mattered less than the systemic exposure it revealed.
 
 ## scene cut

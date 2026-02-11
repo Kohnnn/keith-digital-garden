@@ -2,6 +2,7 @@
 title: keyword - stoicism
 tags:
   - keyword-index
+  - stoicism
 draft: true
 description: Notes linked by stoicism.
 created: 2026-02-07

@@ -23,6 +23,8 @@ cssclasses:
 
 # pockit modular computer
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">modular</span>
   <span class="inline-keyword">compute</span>

@@ -23,6 +23,8 @@ cssclasses:
 
 # gamestop and the retail squeeze
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">retail</span>
   <span class="inline-keyword">squeeze</span>

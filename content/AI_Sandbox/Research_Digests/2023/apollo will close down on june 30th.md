@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apollo will close down on june 30th
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Apollo will close down on June 30th surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

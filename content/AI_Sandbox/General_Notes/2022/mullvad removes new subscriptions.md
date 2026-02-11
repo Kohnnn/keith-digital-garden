@@ -23,6 +23,8 @@ cssclasses:
 
 # mullvad removes new subscriptions
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Mullvad removed the option to create new subscriptions, citing fraud and abuse concerns ([source](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)). The move treated growth as a security tradeoff.
 

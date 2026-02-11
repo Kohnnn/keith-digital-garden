@@ -5,10 +5,13 @@ tags:
   - ai
   - finance
   - 2023
+  - market
 keywords:
   - narrative
   - ai
   - markets
+  - risk
+  - div
 draft: true
 description: AI scares and regulatory tales now move capital faster than earnings.
 created: 2023-09-12
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # ai risk stories drive market narratives
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Every tweet about GPT-4 hallucinations or a regulatory hearing now triggers capital flows, just like the way [[gpt-4 release recalibrates hallucination debate]] influenced policy expectations.
 

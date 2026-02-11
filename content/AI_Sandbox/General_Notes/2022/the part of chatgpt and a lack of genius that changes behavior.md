@@ -4,10 +4,13 @@ tags:
   - general-note
   - ai
   - 2022
+  - behavior
 keywords:
   - chatgpt
   - lack
   - genius
+  - span
+  - class
 draft: true
 description: ChatGPT and a Lack of Genius
 created: 2022-12-31

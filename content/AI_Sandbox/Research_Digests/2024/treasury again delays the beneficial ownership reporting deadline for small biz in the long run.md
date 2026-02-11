@@ -4,6 +4,7 @@ tags:
   - research-digest
   - ai
   - 2024
+  - treasury
 keywords:
   - treasury
   - again

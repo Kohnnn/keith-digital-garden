@@ -23,6 +23,8 @@ cssclasses:
 
 # essence desktop os
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 A from‑scratch desktop OS feels like a statement about control and coherence. My read is that it’s an attempt to make the stack legible again.
 
 ## scene cut

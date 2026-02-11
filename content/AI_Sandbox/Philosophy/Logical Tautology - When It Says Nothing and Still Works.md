@@ -1,13 +1,22 @@
 ---
 title: Logical Tautology - When It Says Nothing and Still Works
-tags: [philosophy, logic, language]
-keywords: [logic, language, truth, structure, reason]
+tags:
+  - philosophy
+  - logic
+  - language
+keywords:
+  - logic
+  - language
+  - truth
+  - structure
+  - reason
 draft: true
 description: The strange power of statements that cannot be false.
 created: 2024-06-09
 updated: 2025-10-07
 note_id: 240609LT01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Logical Tautology - When It Says Nothing and Still Works

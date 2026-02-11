@@ -5,10 +5,13 @@ tags:
   - policy
   - remote-work
   - 2021
+  - product
 keywords:
   - visas
   - remote
   - policy
+  - div
+  - linkage
 draft: true
 description: Remote work visas are now geopolitical bargaining chips.
 created: 2021-05-20
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # remote work visas become geopolitical tools
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Nations compete for remote workers by inventing long-stay visas, echoing the geopolitical toolkit seen in [[g7 price cap gambit targets russian revenue]] but with talent strategies.
 

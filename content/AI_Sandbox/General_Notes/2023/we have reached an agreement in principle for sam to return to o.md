@@ -4,6 +4,7 @@ tags:
   - general-note
   - ai
   - 2023
+  - behavior
 keywords:
   - signal
   - context
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # we have reached an agreement in principle for sam to return to openai as ceo
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://twitter.com/openai/status/1727206187077370115">twitter.com</a> <span class="ref-title">We have reached an agreement in principle for Sam to return to OpenAI as CEO</span> <span class="ref-meta">2023-11-22</span></p>

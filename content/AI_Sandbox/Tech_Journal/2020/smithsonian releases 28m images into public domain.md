@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - ai
   - 2020
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # smithsonian releases 2.8m images into public domain
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Smithsonian Releases 2.8M Images into Public Domain surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.smithsonianmag.com/smithsonian-institution/smithsonian-releases-28-million-images-public-domain-180974263/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

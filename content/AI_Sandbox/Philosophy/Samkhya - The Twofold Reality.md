@@ -1,13 +1,23 @@
 ---
 title: Samkhya - The Twofold Reality
-tags: [philosophy, samkhya, hinduism]
-keywords: [duality, consciousness, matter, witness, liberation]
+tags:
+  - philosophy
+  - samkhya
+  - hinduism
+  - reality
+keywords:
+  - duality
+  - consciousness
+  - matter
+  - witness
+  - liberation
 draft: true
 description: Samkhya splits reality into consciousness and matter to explain liberation.
 created: 2022-07-03
 updated: 2026-01-29
 note_id: 220703SA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Samkhya - The Twofold Reality

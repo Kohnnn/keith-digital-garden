@@ -4,11 +4,13 @@ tags:
   - general-note
   - ai
   - 2022
+  - edge
 keywords:
   - my
   - first
   - impressions
   - tailscale
+  - span
 draft: true
 description: My First Impressions of Tailscale
 created: 2022-12-31

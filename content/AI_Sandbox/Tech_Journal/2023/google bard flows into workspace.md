@@ -5,11 +5,13 @@ tags:
   - ai
   - productivity
   - 2023
+  - infra
 keywords:
   - bard
   - workspace
   - ai
   - google
+  - div
 draft: true
 description: Google wired Bard into Docs, Gmail, and Sheets, moving AI helpers into daily workflows.
 created: 2023-05-23
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google bard flows into workspace
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Google announced that Bard will power “Help Me Write” inside Gmail, Docs, and Sheets for Workspace subscribers, making its experimental model a first-class productivity layer ([Google](https://workspace.google.com/blog/product-announcements/help-me-write-gmail-docs/)).
 

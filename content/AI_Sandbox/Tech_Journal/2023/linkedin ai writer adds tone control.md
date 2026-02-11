@@ -5,10 +5,13 @@ tags:
   - ai
   - product
   - 2023
+  - control
 keywords:
   - linkedin
   - ai
   - writer
+  - tone
+  - div
 draft: true
 description: LinkedIn added tone/style controls to its AI writing assistant inside the platform.
 created: 2023-12-01
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # linkedin ai writer adds tone control
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 LinkedIn’s AI writer now lets users dial in tone (professional, friendly, concise) before drafting posts or article intros, making it more usable across roles ([LinkedIn](https://www.linkedin.com/help/linkedin/answer/a931760/ai-powered-writing?lang=en)).
 

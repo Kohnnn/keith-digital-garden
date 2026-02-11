@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - infra
   - 2023
+  - ai
+  - trust
 keywords:
   - how
   - does

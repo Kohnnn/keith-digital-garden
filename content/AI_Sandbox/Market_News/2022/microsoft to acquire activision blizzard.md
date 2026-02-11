@@ -5,6 +5,7 @@ tags:
   - finance
   - product
   - 2022
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # microsoft to acquire activision blizzard
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Microsoft to Acquire Activision Blizzard surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

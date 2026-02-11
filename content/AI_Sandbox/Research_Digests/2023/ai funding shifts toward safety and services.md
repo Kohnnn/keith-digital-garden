@@ -5,10 +5,13 @@ tags:
   - ai
   - finance
   - 2023
+  - safety
 keywords:
   - funding
   - ai
   - safety
+  - linkage
+  - services
 draft: true
 description: VC data shows 2023 venture capital favoring AI safety, security, and B2B services.
 created: 2023-09-27
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # ai funding shifts toward safety and services
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 PitchBook reported that the first three quarters of 2023 saw a 22% drop in pure-play large model rounds, while safety, fine-tuning, and services companies captured 45% of AI deal volume ([PitchBook AI Report](https://pitchbook.com/news/reports/ai-investment-2023)). Investors now favor lower-hype, higher-impact applications.
 

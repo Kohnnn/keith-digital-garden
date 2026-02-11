@@ -23,6 +23,8 @@ cssclasses:
 
 # 90 percent of nurses considering leaving
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A report claimed 90% of nurses were considering leaving the profession, framing burnout as a systemic risk ([source](https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year)). The signal is about capacity, not just morale.
 

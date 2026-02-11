@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2020
+  - apple
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple silicon m1 chip in macbook air outperforms high end 16 inch macbook pro
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

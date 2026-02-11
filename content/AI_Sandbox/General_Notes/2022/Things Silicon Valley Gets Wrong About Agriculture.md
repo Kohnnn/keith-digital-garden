@@ -23,6 +23,8 @@ cssclasses:
 
 # things silicon valley gets wrong about agriculture
 
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
+
 ## context shard
 The article argued that tech narratives often miss agriculture's constraints and incentives ([source](https://www.entrepreneur.com/science-technology/5-things-silicon-valley-gets-wrong-about-agriculture/439229)). It reframes ag-tech as a systems problem, not a gadget problem.
 

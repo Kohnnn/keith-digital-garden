@@ -6,24 +6,25 @@ tags:
   - finance
   - china
   - credit
-  - 2021
-draft: true
-description: A property giant exposed how thin the credit buffer really was.
 keywords:
   - credit
   - leverage
   - confidence
   - policy
   - contagion
+draft: true
+description: A property giant exposed how thin the credit buffer really was.
 created: 2021-09-23
 updated: 2025-10-02
 note_id: 210923GN01
 cssclasses:
   - general-note
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/C2B2/production/_120624894_evergrande_getty.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/C2B2/production/_120624894_evergrande_getty.jpg
 ---
 
 # evergrande and the credit tremor
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 <div class="keyword-row">
   <span class="inline-keyword">credit</span>

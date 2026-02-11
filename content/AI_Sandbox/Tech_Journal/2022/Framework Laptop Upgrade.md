@@ -23,6 +23,8 @@ cssclasses:
 
 # framework laptop upgrade
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 Framework announced an updated laptop with upgradeable components and a stronger repair story ([source](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)). The release framed modularity as a premium feature, not a compromise.
 

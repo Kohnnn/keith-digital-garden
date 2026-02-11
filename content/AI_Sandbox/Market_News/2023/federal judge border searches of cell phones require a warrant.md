@@ -4,6 +4,8 @@ tags:
   - market-news
   - finance
   - 2023
+  - economy
+  - ai
 keywords:
   - rates
   - market
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # federal judge: border searches of cell phones require a warrant
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

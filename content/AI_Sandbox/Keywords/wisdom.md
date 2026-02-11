@@ -2,6 +2,7 @@
 title: keyword - wisdom
 tags:
   - keyword-index
+  - socrates
 draft: true
 description: Notes linked by wisdom.
 created: 2026-02-07

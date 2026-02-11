@@ -5,10 +5,13 @@ tags:
   - logistics
   - 2021
   - shipping
+  - ai
 keywords:
   - suez
   - containers
   - supply
+  - div
+  - linkage
 draft: true
 description: The Suez blockage rippled through container scheduling into week-long delays.
 created: 2021-03-30
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # suez canal week aftermath drags containers
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 The Ever Given blockage turned a narrow canal into a headline about supply fragility, echoing the port pressure in [[Port Congestion Squeeze]] and the shutdown lessons in [[shanghai lockdown stalls ports and factory calendars]].
 

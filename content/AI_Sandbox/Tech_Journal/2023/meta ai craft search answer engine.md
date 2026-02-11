@@ -5,11 +5,13 @@ tags:
   - ai
   - search
   - 2023
+  - engine
 keywords:
   - meta
   - ai
   - search
   - generative
+  - gpt
 draft: true
 description: Meta announced AI-driven Search Generative Experience to compete with Google/Bard.
 created: 2023-05-10
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # meta ai craft search answer engine
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Meta introduced AI-generated answers inside Facebook/Instagram search via Quest Pro promotion and announced an SGE-style feature to keep users within their walled garden ([Meta AI Search](https://about.fb.com/news/2023/05/meta-ai/)). The move shows they believe generative search is a defensive moat.
 

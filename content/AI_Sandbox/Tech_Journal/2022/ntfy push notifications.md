@@ -23,6 +23,8 @@ cssclasses:
 
 # ntfy push notifications
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 I like tools that collapse a complex workflow into a single interface. Ntfy does that for notifications in a way that feels practical.
 
 ## scene cut

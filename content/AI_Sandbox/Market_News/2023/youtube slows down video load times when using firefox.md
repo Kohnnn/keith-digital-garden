@@ -5,6 +5,7 @@ tags:
   - finance
   - policy
   - 2023
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # youtube slows down video load times when using firefox
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/">old.reddit.com</a> <span class="ref-title">YouTube slows down video load times when using Firefox</span> <span class="ref-meta">2023-11-20</span></p>

@@ -23,6 +23,8 @@ cssclasses:
 
 # surviving disillusionment
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 The essay treated disillusionment as a normal phase after peak belief and promised a path to reconstruction ([source](https://www.spakhm.com/p/surviving-disillusionment)). It framed recovery as a rebuild of expectations rather than a failure.
 

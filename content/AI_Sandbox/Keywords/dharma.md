@@ -2,6 +2,7 @@
 title: keyword - dharma
 tags:
   - keyword-index
+  - hinduism
 draft: true
 description: Notes linked by dharma.
 created: 2026-02-07

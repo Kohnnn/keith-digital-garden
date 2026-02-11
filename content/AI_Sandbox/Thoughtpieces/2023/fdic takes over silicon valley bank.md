@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - chips
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # fdic takes over silicon valley bank
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 FDIC Takes over Silicon Valley Bank surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.fdic.gov/news/press-releases/2023/pr23016.html)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

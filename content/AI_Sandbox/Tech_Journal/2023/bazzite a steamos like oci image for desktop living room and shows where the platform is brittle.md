@@ -4,9 +4,11 @@ tags:
   - tech-journal
   - infra
   - 2023
+  - ai
+  - image
 keywords:
   - bazzite
-  - steamos-like
+  - steamoslike
   - oci
   - image
   - desktop

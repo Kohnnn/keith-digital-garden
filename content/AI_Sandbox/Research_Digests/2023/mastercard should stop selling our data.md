@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # mastercard should stop selling our data
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data">www.eff.org</a> <span class="ref-title">Mastercard Should Stop Selling Our Data</span> <span class="ref-meta">2023-10-15</span></p>

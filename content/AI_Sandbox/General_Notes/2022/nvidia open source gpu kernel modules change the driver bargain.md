@@ -23,6 +23,8 @@ cssclasses:
 
 # nvidia open source gpu kernel modules change the driver bargain
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 Nvidia released open-source GPU kernel modules for Linux, a major shift in its driver posture
 ([Nvidia](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)). The
 move reduces friction for kernel maintainers while keeping the core stack controlled. I read it as

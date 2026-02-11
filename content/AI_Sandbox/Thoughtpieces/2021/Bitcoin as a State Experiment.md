@@ -6,23 +6,25 @@ tags:
   - policy
   - economics
   - 2021
-draft: true
-description: A government-level adoption move changed the question from price to legitimacy.
 keywords:
   - legal
   - volatility
   - policy
   - inclusion
   - legitimacy
+draft: true
+description: A government-level adoption move changed the question from price to legitimacy.
 created: 2021-06-09
 updated: 2025-08-22
 note_id: 210609TP01
 cssclasses:
   - thoughtpiece
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/AB75/production/_118839834_bitcoinstorereuters.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/AB75/production/_118839834_bitcoinstorereuters.jpg
 ---
 
 # bitcoin as a state experiment
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">legal</span>

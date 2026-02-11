@@ -23,6 +23,8 @@ cssclasses:
 
 # sha 256 explained visually
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 I like explanations that turn abstract crypto into something you can see. My read is that visualization is still underused in security education.
 
 ## scene cut

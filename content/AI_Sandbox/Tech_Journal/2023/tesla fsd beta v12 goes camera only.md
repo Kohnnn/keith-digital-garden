@@ -5,11 +5,13 @@ tags:
   - autonomy
   - automotive
   - 2023
+  - infra
 keywords:
   - tesla
   - fsd
   - vision
   - beta
+  - v12
 draft: true
 description: Tesla widened the FSD Beta V12 program and doubled down on its camera-only stack.
 created: 2023-12-08
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # tesla fsd beta v12 goes camera only
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Tesla pushed FSD Beta V12 to a wider set of drivers, ditching radar entirely and promising that an end-to-end neural network can learn the whole driving policy ([Electrek](https://electrek.co/2023/12/08/tesla-fsd-beta-v12-release/)). The release reignites debate about whether cameras alone can deliver Level 4 behavior.
 

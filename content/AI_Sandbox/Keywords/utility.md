@@ -2,6 +2,7 @@
 title: keyword - utility
 tags:
   - keyword-index
+  - mohism
 draft: true
 description: Notes linked by utility.
 created: 2026-02-07

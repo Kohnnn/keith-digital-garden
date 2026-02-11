@@ -4,10 +4,14 @@ tags:
   - tech-journal
   - security
   - 2020
+  - ai
+  - behavior
 keywords:
   - magento
   - patch
   - ecom
+  - open
+  - source
 draft: true
 description: Magento’s critical patch cycle highlighted the risk of e-commerce platforms lagging behind security updates.
 created: 2020-09-02
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # magento becomes critical patch train
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Lagging patches in Magento stores made headlines, resembling the supply chain panic in [[supply chain issues killing synth companies]] where a single missing dependency caused widespread delays.
 

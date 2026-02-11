@@ -4,6 +4,8 @@ tags:
   - general-note
   - finance
   - 2023
+  - infra
+  - ai
 keywords:
   - svb
   - liquidity
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # svb collapse rewrites depositor trust
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 SVB failed in 48 hours after a run triggered by capital losses and noisy depositors, forcing FDIC intervention and a leap to guarantee all deposits without Senate approval ([Reuters](https://www.reuters.com/business/finance/svb-failure-what-happened-2023-03-12/)). Startup treasurers now question every promise made by prior relationship banks.
 

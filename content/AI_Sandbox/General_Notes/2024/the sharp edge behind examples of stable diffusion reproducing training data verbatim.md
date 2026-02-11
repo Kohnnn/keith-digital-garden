@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2024
+  - edge
+  - data
 keywords:
   - examples
   - stable

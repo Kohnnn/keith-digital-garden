@@ -4,6 +4,8 @@ tags:
   - market-news
   - economy
   - 2022
+  - ai
+  - edge
 keywords:
   - consumer
   - leases

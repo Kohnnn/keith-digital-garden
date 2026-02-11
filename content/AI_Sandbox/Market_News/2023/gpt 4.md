@@ -5,6 +5,7 @@ tags:
   - finance
   - ai
   - 2023
+  - behavior
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # gpt 4
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 GPT-4 surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://openai.com/research/gpt-4)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

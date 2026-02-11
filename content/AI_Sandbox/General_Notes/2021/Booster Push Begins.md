@@ -23,6 +23,8 @@ cssclasses:
 
 # booster push begins
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">booster</span>
   <span class="inline-keyword">policy</span>

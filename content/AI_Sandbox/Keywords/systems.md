@@ -2,6 +2,8 @@
 title: keyword - systems
 tags:
   - keyword-index
+  - systems
+  - collapse
 draft: true
 description: Notes linked by systems.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # “open source” seeds loosen big ag’s grip on farmers
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://worldsensorium.com/open-source-seeds-loosen-big-ags-grip-on-farmers/">worldsensorium.com</a> <span class="ref-title">“Open source” seeds loosen Big Ag’s grip on farmers</span> <span class="ref-meta">2023-02-10</span></p>

@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2020
+  - open
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # youtube dl's repository has been restored
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 YouTube-dl's repository has been restored surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

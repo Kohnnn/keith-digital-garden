@@ -2,6 +2,7 @@
 title: keyword - needs
 tags:
   - keyword-index
+  - needs
 draft: true
 description: Notes linked by needs.
 created: 2026-02-07

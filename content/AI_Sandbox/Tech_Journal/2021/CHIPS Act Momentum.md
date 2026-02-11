@@ -23,6 +23,8 @@ cssclasses:
 
 # chips act momentum
 
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
+
 <div class="keyword-row">
   <span class="inline-keyword">chips</span>
   <span class="inline-keyword">policy</span>

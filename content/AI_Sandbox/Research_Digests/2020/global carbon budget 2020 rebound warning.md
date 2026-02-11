@@ -5,11 +5,13 @@ tags:
   - climate
   - energy
   - 2020
+  - infra
 keywords:
   - carbon
   - emissions
   - budget
   - pandemic
+  - global
 draft: true
 description: The Global Carbon Project said 2020 emissions fell 7% but warned of a swift rebound.
 created: 2020-12-11
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # global carbon budget 2020 rebound warning
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 The Global Carbon Project reported that COVID-19 lockdowns cut global CO₂ emissions by ~7% in 2020, yet warned levels would surge back without structural shifts ([Global Carbon Project](https://www.globalcarbonproject.org/carbonbudget/index.htm)).
 

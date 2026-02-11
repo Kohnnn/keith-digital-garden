@@ -5,11 +5,13 @@ tags:
   - infrastructure
   - space
   - 2020
+  - infra
 keywords:
   - starlink
   - broadband
   - satellite
   - beta
+  - linkage
 draft: true
 description: SpaceX began selling Starlink kits for beta users, promising low-latency global internet.
 created: 2020-10-27
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # starlink public beta teases global broadband
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 SpaceX opened Starlink's early beta to select U.S. and Canadian customers, delivering low-latency satellite internet with kit shipments in weeks ([Starlink Beta](https://www.starlink.com/)). The milestone reframed how we think about last-mile infrastructure.
 

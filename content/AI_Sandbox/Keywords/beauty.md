@@ -2,6 +2,7 @@
 title: keyword - beauty
 tags:
   - keyword-index
+  - aesthetics
 draft: true
 description: Notes linked by beauty.
 created: 2026-02-07

@@ -1,13 +1,22 @@
 ---
 title: Islam - The Discipline of Mercy
-tags: [philosophy, islam, religion]
-keywords: [mercy, submission, prayer, justice, discipline]
+tags:
+  - philosophy
+  - islam
+  - religion
+keywords:
+  - mercy
+  - submission
+  - prayer
+  - justice
+  - discipline
 draft: true
 description: Islam trains the soul through submission, prayer, and justice.
 created: 2022-04-10
 updated: 2026-02-07
 note_id: 220410IS01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Islam - The Discipline of Mercy

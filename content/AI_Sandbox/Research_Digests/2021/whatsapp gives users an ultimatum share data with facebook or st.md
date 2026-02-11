@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - product
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # whatsapp gives users an ultimatum: share data with facebook or stop using app
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 whatsapp gives users an ultimatum: share data with facebook or stop using app is a pressure test for how this stack behaves in the real world ([source](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
 

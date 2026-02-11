@@ -23,6 +23,8 @@ cssclasses:
 
 # thailand reopens to tourists
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">tourism</span>
   <span class="inline-keyword">reopening</span>

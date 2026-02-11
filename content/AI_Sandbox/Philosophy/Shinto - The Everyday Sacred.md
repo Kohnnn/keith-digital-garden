@@ -1,13 +1,22 @@
 ---
 title: Shinto - The Everyday Sacred
-tags: [philosophy, shinto, spirituality]
-keywords: [sacred, ritual, nature, purity, community]
+tags:
+  - philosophy
+  - shinto
+  - spirituality
+keywords:
+  - sacred
+  - ritual
+  - nature
+  - purity
+  - community
 draft: true
 description: The sacred is not far away; it is woven into daily place.
 created: 2023-02-03
 updated: 2025-12-20
 note_id: 230203SH01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Shinto - The Everyday Sacred

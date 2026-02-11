@@ -23,6 +23,8 @@ cssclasses:
 
 # fastly and the edge outage
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">outage</span>
   <span class="inline-keyword">edge</span>

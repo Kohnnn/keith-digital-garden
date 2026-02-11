@@ -2,6 +2,7 @@
 title: keyword - authority
 tags:
   - keyword-index
+  - legalism
 draft: true
 description: Notes linked by authority.
 created: 2026-02-07

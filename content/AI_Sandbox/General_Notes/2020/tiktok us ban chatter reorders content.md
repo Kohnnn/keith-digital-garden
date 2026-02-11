@@ -5,11 +5,13 @@ tags:
   - policy
   - social-media
   - 2020
+  - infra
 keywords:
   - tiktok
   - ban
   - data
   - china
+  - linkage
 draft: true
 description: U.S. threats to ban TikTok turned platforms into geopolitical pawns.
 created: 2020-08-01
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # tiktok us ban chatter reorders content
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 President Trump signed orders threatening to ban TikTok and WeChat unless their Chinese owners divested, forcing ByteDance to talk to Oracle and Walmart ([Reuters](https://www.reuters.com/article/us-usa-tiktok-idUSKCN24S0DW)). Suddenly app moderation felt like geopolitics.
 

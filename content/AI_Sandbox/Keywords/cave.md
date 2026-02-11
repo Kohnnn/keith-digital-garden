@@ -2,6 +2,7 @@
 title: keyword - cave
 tags:
   - keyword-index
+  - plato
 draft: true
 description: Notes linked by cave.
 created: 2026-02-07

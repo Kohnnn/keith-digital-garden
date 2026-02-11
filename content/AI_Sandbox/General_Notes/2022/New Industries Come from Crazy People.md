@@ -23,6 +23,8 @@ cssclasses:
 
 # new industries come from crazy people
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 The essay argued that new industries are born from people willing to look unreasonable, because early belief is scarce ([source](https://www.palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/)). It treats innovation as a social and cultural process, not just technical progress.
 

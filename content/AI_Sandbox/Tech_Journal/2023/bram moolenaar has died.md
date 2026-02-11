@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # bram moolenaar has died
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Bram Moolenaar has died surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

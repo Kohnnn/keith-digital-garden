@@ -4,6 +4,8 @@ tags:
   - market-news
   - economy
   - 2024
+  - infra
+  - ai
 keywords:
   - earthremotejob
   - board

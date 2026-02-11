@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - open
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # the llama effect: leak sparked a series of open source alternatives to chatgpt
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

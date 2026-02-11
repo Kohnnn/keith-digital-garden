@@ -4,10 +4,12 @@ tags:
   - research-digest
   - open
   - 2023
+  - ai
+  - edge
 keywords:
   - reported
-  - ufo-sightings
-  - 1906-2014
+  - ufosightings
+  - 19062014
   - interactive
   - map
 draft: true

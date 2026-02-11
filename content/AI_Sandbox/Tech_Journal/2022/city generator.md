@@ -23,6 +23,8 @@ cssclasses:
 
 # city generator
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Procedural tools make cities feel like systems instead of artifacts. My read is that generators teach structure better than static maps.
 
 ## scene cut

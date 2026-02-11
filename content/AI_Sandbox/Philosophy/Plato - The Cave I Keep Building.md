@@ -1,13 +1,22 @@
 ---
 title: Plato - The Cave I Keep Building
-tags: [philosophy, plato, reality]
-keywords: [forms, truth, cave, knowledge, illusion]
+tags:
+  - philosophy
+  - plato
+  - reality
+keywords:
+  - forms
+  - truth
+  - cave
+  - knowledge
+  - illusion
 draft: true
 description: I mistake the wall for the world more often than I admit.
 created: 2022-04-03
 updated: 2025-12-15
 note_id: 220403PL01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Plato - The Cave I Keep Building

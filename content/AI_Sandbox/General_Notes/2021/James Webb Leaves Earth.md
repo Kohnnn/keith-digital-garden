@@ -6,23 +6,25 @@ tags:
   - space
   - astronomy
   - 2021
-draft: true
-description: A $10B telescope left Earth with no repair trip waiting.
 keywords:
   - horizon
   - deployment
   - precision
   - science
   - memory
+draft: true
+description: A $10B telescope left Earth with no repair trip waiting.
 created: 2021-12-25
 updated: 2025-08-03
 note_id: 211225GN01
 cssclasses:
   - general-note
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/17412/production/_122505259_072799675.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/17412/production/_122505259_072799675.jpg
 ---
 
 # james webb leaves earth
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">horizon</span>

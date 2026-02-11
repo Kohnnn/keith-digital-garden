@@ -2,6 +2,7 @@
 title: keyword - enough
 tags:
   - keyword-index
+  - epicureanism
 draft: true
 description: Notes linked by enough.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # aws forked my project and launched it as its own service
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 AWS forked my project and launched it as its own service surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/tim_nolet/status/1317061818574082050)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

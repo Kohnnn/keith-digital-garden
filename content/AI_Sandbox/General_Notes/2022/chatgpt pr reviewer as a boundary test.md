@@ -8,6 +8,8 @@ keywords:
   - chatgpt
   - pr
   - reviewer
+  - span
+  - class
 draft: true
 description: ChatGPT PR Reviewer
 created: 2022-12-31

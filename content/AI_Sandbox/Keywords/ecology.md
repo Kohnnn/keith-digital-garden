@@ -2,6 +2,10 @@
 title: keyword - ecology
 tags:
   - keyword-index
+  - collapse
+  - extractivism
+  - wildfire
+  - memory
 draft: true
 description: Notes linked by ecology.
 created: 2026-02-07

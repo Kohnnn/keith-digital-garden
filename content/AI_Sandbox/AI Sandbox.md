@@ -1,6 +1,8 @@
 ---
 title: AI Sandbox
-tags: [sandbox, ai]
+tags:
+  - sandbox
+  - ai
 draft: false
 description: Draft area for AI-assisted notes.
 created: 2026-01-30

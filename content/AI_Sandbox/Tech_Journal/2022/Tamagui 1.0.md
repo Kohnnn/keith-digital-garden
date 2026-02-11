@@ -23,6 +23,8 @@ cssclasses:
 
 # tamagui 1.0
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">react</span>
   <span class="inline-keyword">ui</span>

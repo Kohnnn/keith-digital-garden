@@ -1,6 +1,9 @@
 ---
 title: Philosophy Workflow - How I Write
-tags: [philosophy, workflow, writing]
+tags:
+  - philosophy
+  - workflow
+  - writing
 draft: true
 description: My step-by-step process for philo-dump notes.
 created: 2025-02-01

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - ai
   - 2023
+  - behavior
+  - research
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # gpt 4
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

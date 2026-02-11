@@ -5,11 +5,13 @@ tags:
   - hardware
   - ai
   - 2023
+  - chips
 keywords:
   - h100
   - nvidia
   - supply
   - datacenter
+  - compute
 draft: true
 description: Nvidia's H100 cards sold out again, forcing high-end HPC buyers to plan around quotas.
 created: 2023-05-22
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # h100 supply chase splits hpc buyers
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 The H100 launch supply shortage became official as orders exceeded the available TSMC wafer slots, and buyers now wait months for allocations ([Reuters](https://www.reuters.com/technology/nvidia-h100-gpu-price-2023-05-22/)). Cloud users tap tokenized commitments while research labs scramble to find retailers.
 

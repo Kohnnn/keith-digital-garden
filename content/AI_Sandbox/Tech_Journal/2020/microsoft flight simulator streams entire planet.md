@@ -5,11 +5,13 @@ tags:
   - cloud
   - gaming
   - 2020
+  - infra
 keywords:
-  - flight-sim
+  - flightsim
   - azure
   - streaming
   - bing
+  - microsoft
 draft: true
 description: Microsoft Flight Simulator 2020 fused Azure cloud streaming with Bing Maps to recreate the planet.
 created: 2020-08-18
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # microsoft flight simulator streams entire planet
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Microsoft Flight Simulator 2020 launched with a streamed Earth model built from 2 PB of Bing Maps data plus Azure AI for photogrammetry ([Microsoft](https://news.xbox.com/en-us/2020/08/17/microsoft-flight-simulator-launch/)).
 

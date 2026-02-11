@@ -23,6 +23,8 @@ cssclasses:
 
 # google shuts down stadia
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">stadia</span>
   <span class="inline-keyword">gaming</span>

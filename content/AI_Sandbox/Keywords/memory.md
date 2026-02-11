@@ -2,6 +2,9 @@
 title: keyword - memory
 tags:
   - keyword-index
+  - memory
+  - judaism
+  - river
 draft: true
 description: Notes linked by memory.
 created: 2026-02-07

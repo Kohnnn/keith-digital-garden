@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # they're deleting my channel, but they don't know why? [video]
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 They're deleting my channel, but they don't know why? [video] surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.youtube.com/watch?v=hAEdFRoOYs0)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

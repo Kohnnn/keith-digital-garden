@@ -5,10 +5,13 @@ tags:
   - ai
   - privacy
   - 2023
+  - behavior
 keywords:
   - privacy
   - oversight
   - law
+  - div
+  - every
 draft: true
 description: Surveillance demands from AI oversight risk chilling behavior and data sharing.
 created: 2023-08-30
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # privacy tradeoffs in ai oversight
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 When governments ask companies to log every prompt and response, we face a privacy paradox: oversight becomes surveillance, and that’s the same chilling effect that made [[social cooling]] so compelling.
 

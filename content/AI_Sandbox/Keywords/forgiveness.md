@@ -2,6 +2,7 @@
 title: keyword - forgiveness
 tags:
   - keyword-index
+  - justice
 draft: true
 description: Notes linked by forgiveness.
 created: 2026-02-07

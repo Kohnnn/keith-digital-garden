@@ -2,6 +2,7 @@
 title: keyword - ascent
 tags:
   - keyword-index
+  - neoplatonism
 draft: true
 description: Notes linked by ascent.
 created: 2026-02-07

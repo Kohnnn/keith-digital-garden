@@ -5,10 +5,13 @@ tags:
   - infrastructure
   - planning
   - 2023
+  - infra
 keywords:
   - infrastructure
   - planning
   - climate
+  - data
+  - div
 draft: true
 description: Complex risk (climate, supply, policy) demands multidisciplinary infrastructure desks combining data science, law, procurement.
 created: 2023-11-22
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # infra planning needs multidisciplinary desks
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Every infrastructure bet now reads like a multi-threat puzzle—energy, climate, geopolitics—so a single-silo operations team cannot cover it all.
 

@@ -2,6 +2,7 @@
 title: keyword - fairness
 tags:
   - keyword-index
+  - fairness
 draft: true
 description: Notes linked by fairness.
 created: 2026-02-07

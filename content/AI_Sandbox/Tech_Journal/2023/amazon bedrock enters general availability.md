@@ -5,11 +5,13 @@ tags:
   - cloud
   - ai
   - 2023
+  - behavior
 keywords:
   - bedrock
   - aws
   - llm
   - api
+  - model
 draft: true
 description: AWS made Bedrock generally available, bundling multiple foundation models behind a single managed API.
 created: 2023-09-28
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # amazon bedrock enters general availability
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 AWS announced GA for Bedrock, letting customers tap Anthropic, Cohere, Stability, and Amazon Titan models through one managed endpoint with IAM, private VPCs, and Guardrails tooling ([AWS](https://aws.amazon.com/bedrock/)).
 

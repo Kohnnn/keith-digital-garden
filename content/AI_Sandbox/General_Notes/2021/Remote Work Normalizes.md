@@ -23,6 +23,8 @@ cssclasses:
 
 # remote work normalizes
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">remote</span>
   <span class="inline-keyword">work</span>

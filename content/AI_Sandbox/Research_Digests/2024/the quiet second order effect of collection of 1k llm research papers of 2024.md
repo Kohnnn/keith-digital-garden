@@ -4,6 +4,7 @@ tags:
   - research-digest
   - ai
   - 2024
+  - research
 keywords:
   - collection
   - 1k

@@ -23,6 +23,8 @@ cssclasses:
 
 # contra wirecutter ikea air purifier
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 ## scene cut
 A detailed critique challenged Wirecutter’s recommendation of an IKEA air purifier, focusing on test rigor and claims ([source](https://dynomight.net/ikea-purifier/)). It reframed product reviews as methodological debates.
 

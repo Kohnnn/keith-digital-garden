@@ -1,13 +1,22 @@
 ---
 title: Madhyamaka - The Middle That Refuses
-tags: [philosophy, buddhism, metaphysics]
-keywords: [emptiness, middle, wisdom, compassion, impermanence]
+tags:
+  - philosophy
+  - buddhism
+  - metaphysics
+keywords:
+  - emptiness
+  - middle
+  - wisdom
+  - compassion
+  - impermanence
 draft: true
 description: Madhyamaka clears away extremes to reveal the openness of reality.
 created: 2022-02-14
 updated: 2026-01-24
 note_id: 220214MA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Madhyamaka - The Middle That Refuses

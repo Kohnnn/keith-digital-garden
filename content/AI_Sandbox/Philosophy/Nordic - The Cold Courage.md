@@ -1,13 +1,22 @@
 ---
 title: Nordic Religion - The Cold Courage
-tags: [philosophy, religion, nordic]
-keywords: [fate, honor, courage, doom, loyalty]
+tags:
+  - philosophy
+  - religion
+  - nordic
+keywords:
+  - fate
+  - honor
+  - courage
+  - doom
+  - loyalty
 draft: true
 description: Nordic religion faces fate with honor and a clear-eyed courage.
 created: 2023-05-28
 updated: 2026-02-07
 note_id: 230528NO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Nordic Religion - The Cold Courage

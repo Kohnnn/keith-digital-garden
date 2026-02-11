@@ -1,13 +1,22 @@
 ---
 title: Artificial Intelligence - The Mirror That Talks Back
-tags: [philosophy, mind, ai]
-keywords: [machine, mind, agency, ethics, mirror]
+tags:
+  - philosophy
+  - mind
+  - ai
+keywords:
+  - machine
+  - mind
+  - agency
+  - ethics
+  - mirror
 draft: true
 description: When a system speaks, I feel the urge to call it a self.
 created: 2024-01-14
 updated: 2025-12-02
 note_id: 240114AI01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Artificial Intelligence - The Mirror That Talks Back

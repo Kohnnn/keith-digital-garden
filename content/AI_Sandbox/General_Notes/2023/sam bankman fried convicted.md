@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2023
+  - economy
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # sam bankman fried convicted
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial">www.nytimes.com</a> <span class="ref-title">Sam Bankman-Fried Convicted</span> <span class="ref-meta">2023-11-02</span></p>

@@ -5,10 +5,13 @@ tags:
   - security
   - insurance
   - 2023
+  - ai
 keywords:
   - cyber
   - insurance
   - premiums
+  - 2023
+  - div
 draft: true
 description: Underwriter losses from ransomware keep cyber premiums elevated despite lower attack volumes.
 created: 2023-10-31
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # cyber insurance premiums stay sticky despite claims
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Despite a mild decline in ransomware payouts, underwriters report persistently high loss ratios, so premiums remain elevated and new entrants avoid the market ([Reuters](https://www.reuters.com/markets/rates-bonds/cyber-insurance-prices-range-high-demand-declines-2023-10-31/)).
 

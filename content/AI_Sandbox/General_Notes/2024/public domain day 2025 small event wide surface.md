@@ -4,11 +4,14 @@ tags:
   - general-note
   - ai
   - 2024
+  - web
+  - law
 keywords:
   - public
   - domain
   - day
   - 2025
+  - span
 draft: true
 description: Public Domain Day 2025
 created: 2024-12-31

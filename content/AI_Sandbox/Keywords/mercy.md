@@ -2,6 +2,8 @@
 title: keyword - mercy
 tags:
   - keyword-index
+  - justice
+  - islam
 draft: true
 description: Notes linked by mercy.
 created: 2026-02-07

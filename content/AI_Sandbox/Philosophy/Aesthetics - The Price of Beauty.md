@@ -1,13 +1,22 @@
 ---
 title: Aesthetics - The Price of Beauty
-tags: [philosophy, aesthetics, art]
-keywords: [beauty, art, desire, value, perception]
+tags:
+  - philosophy
+  - aesthetics
+  - art
+keywords:
+  - beauty
+  - art
+  - desire
+  - value
+  - perception
 draft: true
 description: Beauty is not just decoration; it reorganizes my attention.
 created: 2022-03-08
 updated: 2025-12-01
 note_id: 220308AE01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Aesthetics - The Price of Beauty

@@ -23,6 +23,8 @@ cssclasses:
 
 # hertzbleed attack
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Hertzbleed demonstrated a timing side-channel that can leak secrets from modern CPUs ([source](https://www.hertzbleed.com/)). It reinforced that performance features can create security tradeoffs.
 

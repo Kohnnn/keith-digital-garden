@@ -23,6 +23,8 @@ cssclasses:
 
 # afghanistan withdrawal
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">security</span>
   <span class="inline-keyword">policy</span>

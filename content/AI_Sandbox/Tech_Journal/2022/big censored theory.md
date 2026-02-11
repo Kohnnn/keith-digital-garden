@@ -23,6 +23,8 @@ cssclasses:
 
 # big censored theory
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A visual essay mapped patterns of censorship across media and time, using data art as analysis ([source](https://pudding.cool/2022/08/censorship/)). It made content moderation feel measurable.
 

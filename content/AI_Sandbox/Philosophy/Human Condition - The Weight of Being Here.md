@@ -1,13 +1,23 @@
 ---
 title: Human Condition - The Weight of Being Here
-tags: [philosophy, existentialism, human-condition]
-keywords: [existence, meaning, suffering, mortality, self]
+tags:
+  - philosophy
+  - existentialism
+  - human-condition
+  - meaning
+keywords:
+  - existence
+  - meaning
+  - suffering
+  - mortality
+  - self
 draft: true
 description: The pressure of being alive without a script.
 created: 2023-04-12
 updated: 2025-11-22
 note_id: 230412HC01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Human Condition - The Weight of Being Here

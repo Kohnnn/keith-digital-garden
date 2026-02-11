@@ -2,6 +2,8 @@
 title: keyword - humility
 tags:
   - keyword-index
+  - daoism
+  - sikhism
 draft: true
 description: Notes linked by humility.
 created: 2026-02-07

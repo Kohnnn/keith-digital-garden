@@ -2,6 +2,7 @@
 title: keyword - doom
 tags:
   - keyword-index
+  - nordic
 draft: true
 description: Notes linked by doom.
 created: 2026-02-07

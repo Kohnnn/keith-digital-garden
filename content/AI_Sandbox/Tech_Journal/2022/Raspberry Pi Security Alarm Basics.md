@@ -23,6 +23,8 @@ cssclasses:
 
 # raspberry pi security alarm basics
 
+*see also:* [[Security Posture]] · [[Trust in Platforms]]
+
 <div class="keyword-row">
   <span class="inline-keyword">raspberry</span>
   <span class="inline-keyword">alarm</span>

@@ -23,6 +23,8 @@ cssclasses:
 
 # kite open sources its code
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 Kite’s farewell felt like a reminder that tooling lifecycles are real. My read is that open-sourcing at the end is a trust repair move.
 
 ## scene cut

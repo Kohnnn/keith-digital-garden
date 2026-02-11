@@ -4,6 +4,8 @@ tags:
   - market-news
   - economy
   - 2024
+  - ai
+  - javascript
 keywords:
   - fireworks
   - new

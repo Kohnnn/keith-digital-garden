@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - microsoft
+  - trust
 keywords:
   - microsofts
   - copilot

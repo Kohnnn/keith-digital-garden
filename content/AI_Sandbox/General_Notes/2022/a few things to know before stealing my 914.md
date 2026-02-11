@@ -23,6 +23,8 @@ cssclasses:
 
 # a few things to know before stealing my 914
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A quirky essay explained why a specific Porsche is hard to steal, using humor to teach practical security ([source](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)). It makes threat modeling feel approachable.
 

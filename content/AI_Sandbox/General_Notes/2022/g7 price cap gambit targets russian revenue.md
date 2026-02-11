@@ -1,11 +1,11 @@
 ---
 title: g7 price cap gambit targets russian revenue
 tags:
+  - general-note
   - thoughtpiece
   - energy
   - policy
   - geopolitics
-  - 2022
 keywords:
   - pricecap
   - oil
@@ -19,9 +19,12 @@ updated: 2022-12-02
 note_id: 221202GN68
 cssclasses:
   - thoughtpiece
+  - general-note
 ---
 
 # g7 price cap gambit targets russian revenue
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 G7 nations and the EU finalized a $60 per barrel price cap on Russian seaborne oil, tying access to Western insurance and shipping to compliance ([Reuters](https://www.reuters.com/world/europe/g7-eu-agree-60-barrel-price-cap-russian-seaborne-oil-2022-12-02/)). The scheme tries to depress Kremlin revenue while keeping barrels on the market.
 

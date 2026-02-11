@@ -2,6 +2,7 @@
 title: keyword - poverty
 tags:
   - keyword-index
+  - cynicism
 draft: true
 description: Notes linked by poverty.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # replit used legal threats to kill my open source project
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 Replit used legal threats to kill my open-source project surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://intuitiveexplanations.com/tech/replit/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

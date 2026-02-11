@@ -2,6 +2,10 @@
 title: keyword - control
 tags:
   - keyword-index
+  - control
+  - legalism
+  - stoicism
+  - surrender
 draft: true
 description: Notes linked by control.
 created: 2026-02-07

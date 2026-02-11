@@ -4,6 +4,8 @@ tags:
   - research-digest
   - web
   - 2022
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # my first impressions of web3
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 My First Impressions of Web3 surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://moxie.org/2022/01/07/web3-first-impressions.html)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # write a wayland compositor
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">wayland</span>
   <span class="inline-keyword">compositor</span>

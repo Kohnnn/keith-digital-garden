@@ -1,13 +1,22 @@
 ---
 title: Neoplatonism - The Ascent of Light
-tags: [philosophy, neoplatonism, metaphysics]
-keywords: [ascent, unity, light, emanation, mysticism]
+tags:
+  - philosophy
+  - neoplatonism
+  - metaphysics
+keywords:
+  - ascent
+  - unity
+  - light
+  - emanation
+  - mysticism
 draft: true
 description: Neoplatonism imagines reality as a layered ascent toward the One.
 created: 2024-06-12
 updated: 2026-02-07
 note_id: 240612NE01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Neoplatonism - The Ascent of Light

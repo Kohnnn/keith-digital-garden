@@ -4,11 +4,14 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
+  - trust
 keywords:
   - incurable
   - disease
   - coming
   - deer
+  - span
 draft: true
 description: An Incurable Disease Is Coming for Deer
 created: 2023-12-31

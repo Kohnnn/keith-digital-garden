@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2022
+  - open
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # report: 90% of nurses considering leaving the profession in the next year
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 report: 90% of nurses considering leaving the profession in the next year lands as a clean signal for the current cycle ([source](https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # rss brain
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">rss</span>
   <span class="inline-keyword">reader</span>

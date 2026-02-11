@@ -5,11 +5,13 @@ tags:
   - security
   - remote-work
   - 2020
+  - ai
 keywords:
   - zoom
   - security
   - encryption
   - trust
+  - linkage
 draft: true
 description: Zoom's privacy missteps forced attention on how quickly enterprise collaboration can betray trust.
 created: 2020-04-03
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # zoom security meltdown exposes cryptography gaps
+
+*see also:* [[Security Posture]] · [[Trust in Platforms]]
 
 Zoom's massive user growth clashed with lax defaults, and a string of security vulnerabilities made headlines faster than patches could roll ([Zoom Security Update](https://blog.zoom.us/keeping-zoom-users-safe-and-connected/)). The spike in usage also made platforms like [[remote work normalizes]] look fragile.
 

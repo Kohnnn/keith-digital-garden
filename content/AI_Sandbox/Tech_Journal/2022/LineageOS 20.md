@@ -23,6 +23,8 @@ cssclasses:
 
 # lineageos 20
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">android</span>
   <span class="inline-keyword">os</span>

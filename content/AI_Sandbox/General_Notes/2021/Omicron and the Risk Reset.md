@@ -23,6 +23,8 @@ cssclasses:
 
 # omicron and the risk reset
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">volatility</span>
   <span class="inline-keyword">policy</span>

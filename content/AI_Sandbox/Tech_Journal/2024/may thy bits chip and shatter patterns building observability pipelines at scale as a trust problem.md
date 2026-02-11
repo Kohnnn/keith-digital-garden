@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - chips
   - 2024
+  - ai
+  - trust
 keywords:
   - may
   - thy

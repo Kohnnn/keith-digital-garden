@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2023
+  - 2024
+  - web
 keywords:
   - january
   - 1

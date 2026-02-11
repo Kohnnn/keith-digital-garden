@@ -23,6 +23,8 @@ cssclasses:
 
 # replit legal threats shake open source trust
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 A developer reported receiving legal threats from Replit after building an open-source project
 ([source](https://intuitiveexplanations.com/tech/replit/)). The story reads like a power mismatch
 where a platform can shut down an experiment without dialogue. My takeaway is that OSS ecosystems

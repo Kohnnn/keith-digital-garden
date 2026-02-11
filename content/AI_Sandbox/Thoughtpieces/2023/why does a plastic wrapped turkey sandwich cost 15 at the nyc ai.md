@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2023
+  - behavior
 keywords:
   - frame
   - culture
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # why does a plastic wrapped turkey sandwich cost $15 at the nyc airport?
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

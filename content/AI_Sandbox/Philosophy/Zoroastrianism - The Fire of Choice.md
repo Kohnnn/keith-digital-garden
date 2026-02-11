@@ -1,13 +1,22 @@
 ---
 title: Zoroastrianism - The Fire of Choice
-tags: [philosophy, zoroastrianism, religion]
-keywords: [truth, fire, choice, dualism, purity]
+tags:
+  - philosophy
+  - zoroastrianism
+  - religion
+keywords:
+  - truth
+  - fire
+  - choice
+  - dualism
+  - purity
 draft: true
 description: Zoroastrianism frames life as a moral choice between truth and the lie.
 created: 2022-02-21
 updated: 2026-02-07
 note_id: 220221ZO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Zoroastrianism - The Fire of Choice

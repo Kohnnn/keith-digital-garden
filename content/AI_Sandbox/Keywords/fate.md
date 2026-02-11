@@ -2,6 +2,7 @@
 title: keyword - fate
 tags:
   - keyword-index
+  - nordic
 draft: true
 description: Notes linked by fate.
 created: 2026-02-07

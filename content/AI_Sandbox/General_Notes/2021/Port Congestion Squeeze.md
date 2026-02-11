@@ -23,6 +23,8 @@ cssclasses:
 
 # port congestion squeeze
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">logistics</span>
   <span class="inline-keyword">supply</span>

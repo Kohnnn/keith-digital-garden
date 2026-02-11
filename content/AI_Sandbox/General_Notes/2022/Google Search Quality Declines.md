@@ -23,6 +23,8 @@ cssclasses:
 
 # google search quality declines
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">search</span>
   <span class="inline-keyword">quality</span>

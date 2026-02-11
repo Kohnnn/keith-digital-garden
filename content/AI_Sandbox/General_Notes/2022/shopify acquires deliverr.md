@@ -23,6 +23,8 @@ cssclasses:
 
 # shopify acquires deliverr
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The deal reads like Shopify admitting logistics is the product, not just the back end. My read is that fulfillment control is the next competitive moat.
 
 ## scene cut

@@ -5,6 +5,7 @@ tags:
   - finance
   - policy
   - 2022
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # twitter’s mass layoffs have begun
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Twitter’s mass layoffs have begun surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

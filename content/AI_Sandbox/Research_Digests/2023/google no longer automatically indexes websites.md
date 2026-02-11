@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google no longer automatically indexes websites?
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/">natehoffelder.com</a> <span class="ref-title">Google no longer automatically indexes websites?</span> <span class="ref-meta">2023-06-05</span></p>

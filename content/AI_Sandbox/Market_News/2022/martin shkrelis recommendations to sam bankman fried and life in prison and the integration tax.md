@@ -4,6 +4,7 @@ tags:
   - market-news
   - economy
   - 2022
+  - ai
 keywords:
   - martin
   - shkrelis

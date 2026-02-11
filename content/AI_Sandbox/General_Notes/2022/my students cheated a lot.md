@@ -23,6 +23,8 @@ cssclasses:
 
 # my students cheated a lot
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The essay hit me because it frames cheating as a systems outcome, not a character flaw. I read it as an incentive design failure more than a discipline problem.
 
 ## scene cut

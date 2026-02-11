@@ -1,13 +1,23 @@
 ---
 title: Aquinas - The Reason That Prays
-tags: [philosophy, christianity, scholasticism]
-keywords: [reason, faith, law, virtue, order]
+tags:
+  - philosophy
+  - christianity
+  - scholasticism
+  - law
+keywords:
+  - reason
+  - faith
+  - law
+  - virtue
+  - order
 draft: true
 description: Aquinas holds faith and reason as partners, not enemies.
 created: 2021-12-02
 updated: 2026-02-07
 note_id: 211202AQ01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Aquinas - The Reason That Prays

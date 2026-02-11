@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - hardware
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # framework laptop 16
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16">frame.work</a> <span class="ref-title">Framework Laptop 16</span> <span class="ref-meta">2023-03-24</span></p>

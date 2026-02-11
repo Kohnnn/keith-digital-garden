@@ -23,6 +23,8 @@ cssclasses:
 
 # obsidian canvas
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Obsidian announced Canvas as an infinite spatial workspace for ideas ([source](https://obsidian.md/canvas)). It framed note-taking as a visual coordination layer, not just text.
 

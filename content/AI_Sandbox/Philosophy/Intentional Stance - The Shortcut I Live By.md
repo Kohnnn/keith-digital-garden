@@ -1,13 +1,22 @@
 ---
 title: Intentional Stance - The Shortcut I Live By
-tags: [philosophy, mind, intentional-stance]
-keywords: [mind, inference, agency, interpretation, model]
+tags:
+  - philosophy
+  - mind
+  - intentional-stance
+keywords:
+  - mind
+  - inference
+  - agency
+  - interpretation
+  - model
 draft: true
 description: I treat minds like stories so I can move through the world.
 created: 2022-09-14
 updated: 2025-10-02
 note_id: 220914IS01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Intentional Stance - The Shortcut I Live By

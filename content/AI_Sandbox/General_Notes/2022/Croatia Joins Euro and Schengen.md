@@ -23,6 +23,8 @@ cssclasses:
 
 # croatia joins euro and schengen
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">euro</span>
   <span class="inline-keyword">schengen</span>

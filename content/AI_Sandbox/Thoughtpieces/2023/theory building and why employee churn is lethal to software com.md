@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - product
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # theory building and why employee churn is lethal to software companies
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.baldurbjarnason.com/2022/theory-building/">www.baldurbjarnason.com</a> <span class="ref-title">Theory-building and why employee churn is lethal to software companies</span> <span class="ref-meta">2023-01-10</span></p>

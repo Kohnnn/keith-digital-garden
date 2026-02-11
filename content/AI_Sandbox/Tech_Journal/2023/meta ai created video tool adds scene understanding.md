@@ -5,10 +5,13 @@ tags:
   - ai
   - media
   - 2023
+  - behavior
 keywords:
   - meta
   - video
   - ai
+  - scene
+  - div
 draft: true
 description: Meta’s new AI video tool analyzes scenes to auto-caption, summarize, and edit highlights.
 created: 2023-08-31
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # meta ai created video tool adds scene understanding
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Meta introduced an “AI Create” feature that analyzes video scenes to tag people, objects, and activities, enabling auto highlights and summaries inside Reels and Broadcast ([Meta](https://about.fb.com/news/2023/08/meta-ai-create-video/)).
 

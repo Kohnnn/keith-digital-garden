@@ -4,6 +4,8 @@ tags:
   - market-news
   - chips
   - 2024
+  - ai
+  - software
 keywords:
   - nvidias
   - new

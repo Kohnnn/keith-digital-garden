@@ -2,6 +2,8 @@
 title: keyword - sacrifice
 tags:
   - keyword-index
+  - christianity
+  - maya
 draft: true
 description: Notes linked by sacrifice.
 created: 2026-02-07

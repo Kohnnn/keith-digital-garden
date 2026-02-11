@@ -4,10 +4,14 @@ tags:
   - research-digest
   - logistics
   - 2020
+  - infra
+  - ai
 keywords:
   - covid
   - supply
   - data
+  - div
+  - linkage
 draft: true
 description: Simple data review showing how supply interruptions spiked through 2020.
 created: 2020-09-30
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # playbook covid supply shocks data review
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Data shows shipping delays jumped 40% and container rates tripled after the 2020 COVID shocks, reinforcing the narratives in [[Port Congestion Squeeze]] and [[shanghai lockdown stalls ports and factory calendars]].
 

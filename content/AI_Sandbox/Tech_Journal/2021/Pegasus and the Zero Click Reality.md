@@ -19,10 +19,12 @@ updated: 2025-09-11
 note_id: 210719TJ01
 cssclasses:
   - tech-journal
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/12C40/production/_119424933_gettyimages-1229291625.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/12C40/production/_119424933_gettyimages-1229291625.jpg
 ---
 
 # pegasus and the zero click reality
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">zeroclick</span>

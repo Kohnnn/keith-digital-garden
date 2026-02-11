@@ -2,6 +2,7 @@
 title: keyword - cross
 tags:
   - keyword-index
+  - christianity
 draft: true
 description: Notes linked by cross.
 created: 2026-02-07

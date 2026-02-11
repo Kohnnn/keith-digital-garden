@@ -23,6 +23,8 @@ cssclasses:
 
 # advent of code on a playstation
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">aoc</span>
   <span class="inline-keyword">console</span>

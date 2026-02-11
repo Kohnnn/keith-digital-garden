@@ -5,10 +5,13 @@ tags:
   - ai
   - policy
   - 2023
+  - data
 keywords:
   - data
   - rights
   - ai
+  - div
+  - infrastructure
 draft: true
 description: Data rights conversations now dictate where AI infrastructure gets built.
 created: 2023-11-09
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # data rights become ai infrastructure
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Whenever a country drafts AI data governance, I now treat it as infrastructure policy; the rules determine which clouds and chip vendors can operate there, as seen in [[google cloud sovereign ai regions]].
 

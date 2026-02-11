@@ -23,6 +23,8 @@ cssclasses:
 
 # things you notice when you quit the news
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The piece felt like a pressure release valve. My read is that the cost of constant updates is less about knowledge and more about nervous system load.
 
 ## scene cut

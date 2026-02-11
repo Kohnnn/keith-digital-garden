@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # wd my book users wake up to find their data deleted
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 WD My Book users wake up to find their data deleted surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -5,11 +5,13 @@ tags:
   - ai
   - policy
   - 2022
+  - art
 keywords:
   - watermark
   - ai
   - speech
   - policy
+  - linkage
 draft: true
 description: Watermark mandates sound sensible but create collateral damage for anonymous creators.
 created: 2022-12-20
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # watermarking ai art risks hurting anonymous speech
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 The EU AI Act draft and various DC hearings pitch watermarking AI outputs as a cure for misinformation, but I keep wondering: what happens to artists and activists who rely on anonymity?
 

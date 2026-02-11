@@ -5,10 +5,13 @@ tags:
   - product
   - design
   - 2023
+  - ai
 keywords:
   - ux
   - testing
   - timelines
+  - product
+  - div
 draft: true
 description: Panic usability tests during product launches reveal that fragmented timelines harm team coordination.
 created: 2023-11-08
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # ux panic tests prove fragmented timelines
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 When product teams scramble last-minute usability tests to prove readiness, I see the same fragmentation echoed in [[figma ai autopilot reshapes product rituals]]—bursts of panic rather than steady experimentation.
 

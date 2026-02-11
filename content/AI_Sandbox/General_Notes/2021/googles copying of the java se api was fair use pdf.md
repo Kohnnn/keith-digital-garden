@@ -4,6 +4,7 @@ tags:
   - general-note
   - ai
   - 2021
+  - behavior
 keywords:
   - signal
   - context
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # google’s copying of the java se api was fair use [pdf]
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 google’s copying of the java se api was fair use [pdf] frames a decision surface that keeps repeating across the stack ([source](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)). I see it as a reminder that incentives, not features, are doing the heavy lifting. The rest is noise.
 

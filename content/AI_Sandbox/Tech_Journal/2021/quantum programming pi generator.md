@@ -4,10 +4,14 @@ tags:
   - tech-journal
   - quantum
   - 2021
+  - infra
+  - ai
 keywords:
   - quantum
   - programming
   - pi
+  - div
+  - linkage
 draft: true
 description: A new quantum compiler showed why linear algebra still matters.
 created: 2021-07-25
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # quantum programming pi generator
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Researchers built a quantum pi generator demonstrating Python front-ends can compile down to Qiskit, similar to how [[pytorch 2.2 adds eager compilation]] bridges front-end experience.
 

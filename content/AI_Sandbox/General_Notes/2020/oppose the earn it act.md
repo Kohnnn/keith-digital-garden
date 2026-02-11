@@ -23,6 +23,8 @@ cssclasses:
 
 # oppose the earn it act
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Mozilla's campaign argued the EARN IT Act would undermine encryption and privacy protections ([source](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)). It positioned the bill as a policy lever on security tooling.
 

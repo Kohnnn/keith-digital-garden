@@ -2,6 +2,8 @@
 title: keyword - scarcity
 tags:
   - keyword-index
+  - scarcity
+  - control
 draft: true
 description: Notes linked by scarcity.
 created: 2026-02-07

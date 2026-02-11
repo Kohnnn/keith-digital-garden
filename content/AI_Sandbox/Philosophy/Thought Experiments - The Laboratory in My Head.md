@@ -1,13 +1,22 @@
 ---
 title: Thought Experiments - The Laboratory in My Head
-tags: [philosophy, thought-experiments, method]
-keywords: [thought, imagination, ethics, paradox, insight]
+tags:
+  - philosophy
+  - thought-experiments
+  - method
+keywords:
+  - thought
+  - imagination
+  - ethics
+  - paradox
+  - insight
 draft: true
 description: When I test reality by stressing my imagination.
 created: 2021-08-05
 updated: 2024-12-03
 note_id: 210805TE01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Thought Experiments - The Laboratory in My Head

@@ -2,6 +2,8 @@
 title: keyword - communication
 tags:
   - keyword-index
+  - communication
+  - ethics
 draft: true
 description: Notes linked by communication.
 created: 2026-02-07

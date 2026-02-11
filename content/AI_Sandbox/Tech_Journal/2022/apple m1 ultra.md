@@ -23,6 +23,8 @@ cssclasses:
 
 # apple m1 ultra
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 The M1 Ultra felt like a visibility event for Apple’s vertical stack. My read is that custom silicon is now the core product.
 
 ## scene cut

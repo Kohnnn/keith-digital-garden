@@ -5,11 +5,13 @@ tags:
   - energy
   - geopolitics
   - 2023
+  - infra
 keywords:
   - oil
   - truce
   - prices
   - energy
+  - div
 draft: true
 description: Crude eased after Israel and Hamas agreed to extend a temporary truce, lowering supply risk.
 created: 2023-11-27
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # mr oil slides as israel hamas truce extends
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Brent crude fell below $80 after Israel and Hamas extended their temporary truce, easing fears of a broader regional conflict that could have hit supply routes ([Reuters](https://www.reuters.com/business/energy/oil-dips-truce-extends-2023-11-27/)).
 

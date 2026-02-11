@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # data structures and algorithms i actually used while working at tech companies
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Data structures and algorithms I actually used while working at tech companies surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

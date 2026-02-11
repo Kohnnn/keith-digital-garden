@@ -5,11 +5,13 @@ tags:
   - finance
   - trust
   - 2023
+  - infra
 keywords:
   - diligence
   - founders
   - trust
   - ftx
+  - personal
 draft: true
 description: Post-FTX, investors and operators probe personal habits as hard as metrics.
 created: 2023-02-10
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # founder diligence after ftx feels personal
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Every conversation with a potential partner now includes questions about custody, commingled accounts, and tone from the top. FTX taught us that spreadsheets aren’t enough; we now evaluate character like it’s a KPI.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # mcmaster best ecommerce site
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 An essay praised McMaster-Carr as the best ecommerce site for its speed and clarity ([source](https://www.bedelstein.com/post/mcmaster-carr)). It reframed ecommerce UX as operational excellence.
 

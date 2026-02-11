@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # mechanical watch
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 mechanical watch is a pressure test for how this stack behaves in the real world ([source](https://ciechanow.ski/mechanical-watch/)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
 

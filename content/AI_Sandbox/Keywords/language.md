@@ -2,6 +2,9 @@
 title: keyword - language
 tags:
   - keyword-index
+  - language
+  - abstraction
+  - etymology
 draft: true
 description: Notes linked by language.
 created: 2026-02-07

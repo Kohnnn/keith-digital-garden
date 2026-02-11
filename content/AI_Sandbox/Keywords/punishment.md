@@ -2,6 +2,7 @@
 title: keyword - punishment
 tags:
   - keyword-index
+  - suffering
 draft: true
 description: Notes linked by punishment.
 created: 2026-02-07

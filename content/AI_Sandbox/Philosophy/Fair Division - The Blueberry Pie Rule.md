@@ -1,13 +1,22 @@
 ---
 title: Fair Division - The Blueberry Pie Rule
-tags: [philosophy, justice, fairness]
-keywords: [justice, fairness, equity, trust, community]
+tags:
+  - philosophy
+  - justice
+  - fairness
+keywords:
+  - justice
+  - fairness
+  - equity
+  - trust
+  - community
 draft: true
 description: A tiny rule that exposes how much I care about fairness.
 created: 2022-07-27
 updated: 2025-12-03
 note_id: 220727FD01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Fair Division - The Blueberry Pie Rule

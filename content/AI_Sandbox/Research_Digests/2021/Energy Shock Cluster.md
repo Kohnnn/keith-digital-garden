@@ -23,6 +23,8 @@ cssclasses:
 
 # energy shock cluster
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">energy</span>
   <span class="inline-keyword">prices</span>

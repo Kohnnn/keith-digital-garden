@@ -23,6 +23,8 @@ cssclasses:
 
 # vaccine inequality and the gap
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">vaccines</span>
   <span class="inline-keyword">equity</span>

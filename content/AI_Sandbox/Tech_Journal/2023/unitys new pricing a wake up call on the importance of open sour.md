@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - open
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # unity’s new pricing: a wake up call on the importance of open source
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2022
+  - energy
+  - food
 keywords:
   - consumption
   - viruses

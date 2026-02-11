@@ -2,6 +2,8 @@
 title: keyword - inquiry
 tags:
   - keyword-index
+  - inquiry
+  - socrates
 draft: true
 description: Notes linked by inquiry.
 created: 2026-02-07

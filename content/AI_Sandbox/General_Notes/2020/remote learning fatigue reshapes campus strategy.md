@@ -4,10 +4,14 @@ tags:
   - general-note
   - education
   - 2020
+  - infra
+  - ai
 keywords:
   - remote
   - learning
   - fatigue
+  - div
+  - linkage
 draft: true
 description: 2020 remote learning fatigue forced universities to rethink campus strategies.
 created: 2020-10-15
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # remote learning fatigue reshapes campus strategy
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Universities admitted that Zoom fatigue is real and started planning hybrid campus experiences, echoing the logistics resilience idea from [[slack is a luxury in supply chains]].
 

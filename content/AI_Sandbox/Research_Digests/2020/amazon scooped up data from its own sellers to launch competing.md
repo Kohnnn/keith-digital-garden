@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - product
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # amazon scooped up data from its own sellers to launch competing products
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Amazon scooped up data from its own sellers to launch competing products surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # work without a center
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">work</span>
   <span class="inline-keyword">labor</span>

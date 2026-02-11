@@ -23,6 +23,8 @@ cssclasses:
 
 # twitter suspends paul graham account
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">suspension</span>
   <span class="inline-keyword">policy</span>

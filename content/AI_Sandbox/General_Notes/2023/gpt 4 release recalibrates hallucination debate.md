@@ -5,6 +5,7 @@ tags:
   - ai
   - policy
   - 2023
+  - behavior
 keywords:
   - gpt4
   - hallucination
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 #gpt-4 release recalibrates hallucination debate
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 GPT-4 showed up with multimodal understanding, but the real headline was how much attention the team paid to guardrails and post-release red teaming ([OpenAI](https://openai.com/research/gpt-4)). The launch reads like a reminder that capability milestones reset the regulatory clock.
 

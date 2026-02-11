@@ -23,6 +23,8 @@ cssclasses:
 
 # adobe to acquire figma
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">acquisition</span>
   <span class="inline-keyword">design</span>

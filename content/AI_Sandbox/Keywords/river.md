@@ -2,6 +2,8 @@
 title: keyword - river
 tags:
   - keyword-index
+  - river
+  - egypt
 draft: true
 description: Notes linked by river.
 created: 2026-02-07

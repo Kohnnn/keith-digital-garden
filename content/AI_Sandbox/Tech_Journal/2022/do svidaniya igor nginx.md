@@ -23,6 +23,8 @@ cssclasses:
 
 # do svidaniya igor nginx
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Nginx announced Igor Sysoev’s departure, marking a leadership transition for a core web server project ([source](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)). It highlighted how stewardship changes can ripple through infrastructure trust.
 

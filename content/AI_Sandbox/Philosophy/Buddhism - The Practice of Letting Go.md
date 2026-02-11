@@ -1,13 +1,22 @@
 ---
 title: Buddhism - The Practice of Letting Go
-tags: [philosophy, buddhism, suffering]
-keywords: [suffering, impermanence, compassion, practice, self]
+tags:
+  - philosophy
+  - buddhism
+  - suffering
+keywords:
+  - suffering
+  - impermanence
+  - compassion
+  - practice
+  - self
 draft: true
 description: The end of suffering is not escape; it is attention.
 created: 2021-05-14
 updated: 2025-12-20
 note_id: 210514BU01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Buddhism - The Practice of Letting Go

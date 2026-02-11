@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - open
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # codespaces but open source, client only, and unopinionated
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

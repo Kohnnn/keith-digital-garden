@@ -2,6 +2,8 @@
 title: keyword - afterlife
 tags:
   - keyword-index
+  - egypt
+  - river
 draft: true
 description: Notes linked by afterlife.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why is oauth still hard in 2023?
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.nango.dev/blog/why-is-oauth-still-hard">www.nango.dev</a> <span class="ref-title">Why is OAuth still hard in 2023?</span> <span class="ref-meta">2023-04-26</span></p>

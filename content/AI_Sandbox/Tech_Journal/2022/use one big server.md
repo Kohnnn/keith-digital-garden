@@ -23,6 +23,8 @@ cssclasses:
 
 # use one big server
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 An essay argued that many systems should start with one big server rather than premature distributed complexity ([source](https://specbranch.com/posts/one-big-server/)). The piece reframed scale as a sequencing decision.
 

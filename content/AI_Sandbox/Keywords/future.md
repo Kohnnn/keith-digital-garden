@@ -2,6 +2,7 @@
 title: keyword - future
 tags:
   - keyword-index
+  - collapse
 draft: true
 description: Notes linked by future.
 created: 2026-02-07

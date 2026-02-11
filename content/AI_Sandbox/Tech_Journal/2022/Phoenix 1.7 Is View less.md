@@ -23,6 +23,8 @@ cssclasses:
 
 # phoenix 1.7 is view less
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">phoenix</span>
   <span class="inline-keyword">elixir</span>

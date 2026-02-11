@@ -5,6 +5,7 @@ tags:
   - finance
   - infra
   - 2021
+  - ai
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # mastercard to open up network to cryptocurrencies
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 MasterCard to open up network to cryptocurrencies surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

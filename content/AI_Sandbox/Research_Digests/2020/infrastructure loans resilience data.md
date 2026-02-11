@@ -4,10 +4,14 @@ tags:
   - research-digest
   - infrastructure
   - 2020
+  - infra
+  - ai
 keywords:
   - loans
   - resilience
   - data
+  - div
+  - infrastructure
 draft: true
 description: Loan data shows infrastructure projects with resilience clauses had lower defaults during 2020 disruptions.
 created: 2020-12-03
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # infrastructure loans resilience data
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Infrastructure loans with resilience covenants defaulted less amid the 2020 disruptions, reinforcing the risk planning themes in [[slack is a luxury in supply chains]] and [[playbook covid supply shocks data review]].
 

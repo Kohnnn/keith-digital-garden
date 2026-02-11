@@ -5,11 +5,13 @@ tags:
   - open-source
   - sustainability
   - 2021
+  - ai
 keywords:
   - maintainers
   - burnout
   - funding
   - security
+  - budgets
 draft: true
 description: The Log4Shell scramble proved we underfund supercritical open source maintainers.
 created: 2021-12-18
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # open source maintainers need crisis budgets
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Watching unpaid volunteers triage Log4Shell patches made me realize we keep gambling on goodwill in places where we’d never accept unpaid labor.
 

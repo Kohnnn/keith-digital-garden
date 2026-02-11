@@ -23,6 +23,8 @@ cssclasses:
 
 # us travel reopens
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">travel</span>
   <span class="inline-keyword">reopening</span>

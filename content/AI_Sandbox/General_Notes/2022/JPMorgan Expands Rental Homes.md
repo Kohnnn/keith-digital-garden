@@ -23,6 +23,8 @@ cssclasses:
 
 # jpmorgan expands rental homes
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">housing</span>
   <span class="inline-keyword">rentals</span>

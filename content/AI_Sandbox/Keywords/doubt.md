@@ -2,6 +2,10 @@
 title: keyword - doubt
 tags:
   - keyword-index
+  - epistemology
+  - thinking
+  - pyrrhonism
+  - socrates
 draft: true
 description: Notes linked by doubt.
 created: 2026-02-07

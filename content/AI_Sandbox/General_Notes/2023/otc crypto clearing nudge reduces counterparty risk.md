@@ -5,10 +5,13 @@ tags:
   - crypto
   - finance
   - 2023
+  - infra
 keywords:
   - otc
   - clearing
   - risk
+  - crypto
+  - div
 draft: true
 description: Clearing pressure on OTC desks aims to mimic traditional finance guardrails.
 created: 2023-12-12
@@ -16,10 +19,11 @@ updated: 2023-12-12
 note_id: 231212GN32
 cssclasses:
   - general-note
-draft: true
 ---
 
 # otc crypto clearing nudge reduces counterparty risk
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Regulators and exchanges are nudging large OTC desks to clear trades through CCP-like pools, echoing the trust scripts from [[svb collapse rewrites depositor trust]] and [[celsius freezes withdrawals and sparks retail panic]].
 

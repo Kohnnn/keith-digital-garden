@@ -23,6 +23,8 @@ cssclasses:
 
 # nightdrive
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A personal essay about a late-night drive used motion and quiet to anchor memory ([source](https://incoherency.co.uk/blog/stories/nightdrive.html)). It reads like a reminder that context shapes what we keep.
 

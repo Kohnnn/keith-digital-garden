@@ -2,6 +2,7 @@
 title: keyword - will
 tags:
   - keyword-index
+  - nietzsche
 draft: true
 description: Notes linked by will.
 created: 2026-02-07

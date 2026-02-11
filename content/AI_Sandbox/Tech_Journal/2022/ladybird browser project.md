@@ -23,6 +23,8 @@ cssclasses:
 
 # ladybird browser project
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 I see new browser engines as a signal of web-stack diversity pressure. It’s not just about features; it’s about control of the rendering layer.
 
 ## scene cut

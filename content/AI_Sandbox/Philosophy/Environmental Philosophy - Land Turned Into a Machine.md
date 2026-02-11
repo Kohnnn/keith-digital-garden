@@ -1,13 +1,23 @@
 ---
 title: Environmental Philosophy - Land Turned Into a Machine
-tags: [philosophy, environment, ethics]
-keywords: [nature, ethics, stewardship, extraction, responsibility]
+tags:
+  - philosophy
+  - environment
+  - ethics
+  - environmental
+keywords:
+  - nature
+  - ethics
+  - stewardship
+  - extraction
+  - responsibility
 draft: true
 description: When place becomes function, ethics gets thin.
 created: 2024-01-05
 updated: 2026-02-01
 note_id: 240105EN01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Environmental Philosophy - Land Turned Into a Machine

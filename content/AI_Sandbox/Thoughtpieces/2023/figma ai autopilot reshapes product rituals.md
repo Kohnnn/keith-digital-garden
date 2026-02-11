@@ -5,11 +5,13 @@ tags:
   - design
   - ai
   - 2023
+  - product
 keywords:
   - figma
   - autopilot
   - workflow
   - design
+  - rituals
 draft: true
 description: Figma’s AI Autopilot preview shows how design teams will work with copilots inside their canvas.
 created: 2023-09-05
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # figma ai autopilot reshapes product rituals
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Figma teased Autopilot at Config, letting designers whip up drafts and tweak layouts by typing natural language prompts ([Figma](https://www.figma.com/blog/ai-autopilot-preview/)). It felt like a lightbulb moment for product rituals.
 

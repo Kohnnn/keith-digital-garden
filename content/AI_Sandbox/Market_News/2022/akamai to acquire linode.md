@@ -5,6 +5,7 @@ tags:
   - finance
   - ai
   - 2022
+  - behavior
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # akamai to acquire linode
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Akamai to Acquire Linode surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

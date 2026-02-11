@@ -23,6 +23,8 @@ cssclasses:
 
 # i regret my website redesign reframes product aesthetics
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 A founder documented how a website redesign reduced conversions and clarity
 ([TinyPilot](https://mtlynch.io/tinypilot-redesign/)). The essay reframed design as a communication
 system, not just visual polish. I read it as a warning that aesthetic upgrades can erase product

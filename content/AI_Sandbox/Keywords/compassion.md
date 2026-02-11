@@ -2,6 +2,8 @@
 title: keyword - compassion
 tags:
   - keyword-index
+  - buddhism
+  - jainism
 draft: true
 description: Notes linked by compassion.
 created: 2026-02-07

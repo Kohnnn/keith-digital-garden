@@ -4,6 +4,8 @@ tags:
   - market-news
   - market
   - 2023
+  - infra
+  - ai
 keywords:
   - navajo
   - nation

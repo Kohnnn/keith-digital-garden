@@ -23,6 +23,8 @@ cssclasses:
 
 # riffusion turns diffusion into a music instrument
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Riffusion demonstrated a Stable Diffusion model fine-tuned to generate music via spectrograms
 ([Riffusion](https://www.riffusion.com/about)). The project shows how generative models can become
 real-time creative instruments instead of offline batch tools. I read it as a signal that AI music

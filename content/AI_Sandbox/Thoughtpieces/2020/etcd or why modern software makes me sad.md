@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # etcd, or, why modern software makes me sad
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Etcd, or, why modern software makes me sad surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

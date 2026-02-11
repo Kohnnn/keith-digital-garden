@@ -4,10 +4,14 @@ tags:
   - general-note
   - finance
   - 2021
+  - economy
+  - ai
 keywords:
   - openbanking
   - trust
   - regulation
+  - data
+  - open
 draft: true
 description: Europe escalates open banking oversight after trust complaints.
 created: 2021-02-22
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # open banking trust debates spurs regulation
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 Trust complaints over data sharing push regulators to clarify APIs, echoing identity risks from [[okta breach fallout highlights identity fragility]].
 

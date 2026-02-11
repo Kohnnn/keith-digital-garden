@@ -6,23 +6,25 @@ tags:
   - ransomware
   - infrastructure
   - 2021
-draft: true
-description: A single intrusion exposed how fragile critical infrastructure really is.
 keywords:
   - infrastructure
   - ransomware
   - shutdown
   - policy
   - debt
+draft: true
+description: A single intrusion exposed how fragile critical infrastructure really is.
 created: 2021-05-10
 updated: 2025-10-11
 note_id: 210510TJ01
 cssclasses:
   - tech-journal
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22505063/1317302232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22505063/1317302232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
 # colonial pipeline and the ransomware shock
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">infrastructure</span>

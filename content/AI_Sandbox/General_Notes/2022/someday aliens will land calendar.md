@@ -23,6 +23,8 @@ cssclasses:
 
 # someday aliens will land calendar
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A thread joked that any visitors would be confused by the patchwork logic of our calendar system ([source](https://twitter.com/foone/status/1572260363764400129)). It’s a playful reminder that standards can be irrational and sticky.
 

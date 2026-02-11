@@ -5,11 +5,13 @@ tags:
   - logistics
   - health
   - 2020
+  - ai
 keywords:
   - ppe
   - masks
   - supply
   - domestic
+  - linkage
 draft: true
 description: PPE shortages revealed how globalized medical supply chains collapse under pandemic demand.
 created: 2020-03-22
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # ppe supply chain scramble
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Hospitals begged for personal protective equipment, yet Global procurement channels were tied to single-source suppliers and Chinese exports, forcing FEMA to wrestle for inventory ([CNBC PPE Shortage](https://www.cnbc.com/2020/03/18/coronavirus-how-ppe-shortages-hurt-us-health-care-workers.html)). The lack of guardrails meant waves of hoarding and price gouging.
 

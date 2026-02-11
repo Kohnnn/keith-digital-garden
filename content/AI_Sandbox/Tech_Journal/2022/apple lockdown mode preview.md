@@ -23,6 +23,8 @@ cssclasses:
 
 # apple lockdown mode preview
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 ## scene cut
 Apple previewed Lockdown Mode as a high-risk security profile aimed at users targeted by mercenary spyware ([source](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)). It formalized a threat model into product.
 

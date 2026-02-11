@@ -23,6 +23,8 @@ cssclasses:
 
 # kazakhstan energy price protests internet disruption
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The story reads like a reminder that energy prices are political risk, not just economic data. My read is that social stability still ties directly to fuel cost.
 
 ## scene cut

@@ -23,6 +23,8 @@ cssclasses:
 
 # india oxygen crisis
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">oxygen</span>
   <span class="inline-keyword">health</span>

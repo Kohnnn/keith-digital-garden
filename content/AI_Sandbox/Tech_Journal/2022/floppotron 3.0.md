@@ -23,6 +23,8 @@ cssclasses:
 
 # floppotron 3.0
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Floppotron 3.0 used floppy drives and old hardware to perform music, blending engineering with performance ([source](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)). It is a reminder that constraints can be musical.
 

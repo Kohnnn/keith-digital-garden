@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - ai
   - 2024
+  - behavior
 keywords:
   - positive
   - emotions

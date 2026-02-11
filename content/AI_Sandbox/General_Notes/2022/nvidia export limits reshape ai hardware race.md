@@ -1,11 +1,11 @@
 ---
 title: nvidia export limits reshape ai hardware race
 tags:
+  - general-note
   - tech-journal
   - ai
   - hardware
   - geopolitics
-  - 2022
 keywords:
   - nvidia
   - export
@@ -19,9 +19,12 @@ updated: 2022-08-31
 note_id: 220831GN78
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # nvidia export limits reshape ai hardware race
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 The U.S. government ordered Nvidia and AMD to seek licenses before shipping their top data-center AI chips (A100, upcoming H100, MI250) to China and Russia, citing national security ([Reuters](https://www.reuters.com/technology/us-restricts-nvidia-exports-two-top-chips-china-2022-08-31/)). Compute became policy leverage.
 

@@ -5,11 +5,13 @@ tags:
   - devtools
   - cloud
   - 2020
+  - infra
 keywords:
   - github
   - codespaces
   - vscode
   - cloud
+  - dev
 draft: true
 description: GitHub previewed Codespaces, promising VS Code in the browser backed by cloud workspaces.
 created: 2020-05-06
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # github codespaces preview surfaces cloud dev loop
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 GitHub unveiled Codespaces, a cloud-hosted dev environment that spins up repositories with VS Code tooling inside the browser ([GitHub Codespaces](https://github.blog/2020-05-06-github-codespaces-beta/)). The demo showcased how the entire dev loop can move to the cloud.
 

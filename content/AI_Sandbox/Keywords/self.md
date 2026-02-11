@@ -2,6 +2,8 @@
 title: keyword - self
 tags:
   - keyword-index
+  - vedanta
+  - buddhism
 draft: true
 description: Notes linked by self.
 created: 2026-02-07

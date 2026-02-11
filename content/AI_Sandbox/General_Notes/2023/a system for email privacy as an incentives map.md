@@ -4,10 +4,14 @@ tags:
   - general-note
   - ai
   - 2023
+  - email
+  - privacy
 keywords:
   - system
   - email
   - privacy
+  - span
+  - class
 draft: true
 description: A System for Email Privacy
 created: 2023-12-31

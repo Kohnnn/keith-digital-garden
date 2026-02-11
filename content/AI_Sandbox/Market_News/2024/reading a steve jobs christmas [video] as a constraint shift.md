@@ -4,11 +4,13 @@ tags:
   - market-news
   - economy
   - 2024
+  - ai
 keywords:
   - steve
   - jobs
   - christmas
   - video
+  - span
 draft: true
 description: A Steve Jobs Christmas [video]
 created: 2024-12-31

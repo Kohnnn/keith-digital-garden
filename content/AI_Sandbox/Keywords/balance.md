@@ -2,6 +2,10 @@
 title: keyword - balance
 tags:
   - keyword-index
+  - egypt
+  - river
+  - aristotle
+  - daoism
 draft: true
 description: Notes linked by balance.
 created: 2026-02-07

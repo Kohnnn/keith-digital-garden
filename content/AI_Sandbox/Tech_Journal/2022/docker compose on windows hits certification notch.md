@@ -4,10 +4,14 @@ tags:
   - tech-journal
   - tooling
   - 2022
+  - infra
+  - ai
 keywords:
   - docker
   - windows
   - compose
+  - certification
+  - div
 draft: true
 description: New certification for Docker Compose on Windows stabilizes cross-platform deployments.
 created: 2022-06-16
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # docker compose on windows hits certification notch
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Docker announced Windows certification for Compose, promising consistent local dev with Linux server parity, linking to earlier cloud tooling transitions such as [[github codespaces preview surfaces cloud dev loop]].
 

@@ -4,10 +4,14 @@ tags:
   - general-note
   - logistics
   - 2021
+  - ai
+  - supply
 keywords:
   - supply
   - visibility
   - hubs
+  - div
+  - linkage
 draft: true
 description: Emerging logistics hubs used visibility platforms to shorten lead times.
 created: 2021-05-11
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # supply chain visibility hubs
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Logistics providers built visibility hubs that streamed PO, shipment, and weather data, echoing the pinch points described in [[Port Congestion Squeeze]] and [[shanghai lockdown stalls ports and factory calendars]].
 

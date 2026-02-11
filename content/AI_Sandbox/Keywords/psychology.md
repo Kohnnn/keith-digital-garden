@@ -2,6 +2,7 @@
 title: keyword - psychology
 tags:
   - keyword-index
+  - psychology
 draft: true
 description: Notes linked by psychology.
 created: 2026-02-07

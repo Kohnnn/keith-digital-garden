@@ -19,10 +19,12 @@ updated: 2025-10-06
 note_id: 211018TJ01
 cssclasses:
   - tech-journal
-image: "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-pro_10182021_big.jpg.large.jpg"
+image: https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-pro_10182021_big.jpg.large.jpg
 ---
 
 # m1 pro and the laptop reset
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">silicon</span>

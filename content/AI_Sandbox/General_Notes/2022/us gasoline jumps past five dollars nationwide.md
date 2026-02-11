@@ -1,11 +1,11 @@
 ---
 title: us gasoline jumps past five dollars nationwide
 tags:
+  - general-note
   - thoughtpiece
   - energy
   - inflation
   - consumer
-  - 2022
 keywords:
   - gasoline
   - aaa
@@ -19,9 +19,12 @@ updated: 2022-06-11
 note_id: 220611GN67
 cssclasses:
   - thoughtpiece
+  - general-note
 ---
 
 # us gasoline jumps past five dollars nationwide
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 AAA data showed the national average gasoline price crossing $5 for the first time, driven by tight refining capacity and crude supply paranoia ([CNN](https://www.cnn.com/2022/06/11/energy/us-gas-prices-5-dollars/index.html)). The psychological impact mattered as much as the pump price.
 

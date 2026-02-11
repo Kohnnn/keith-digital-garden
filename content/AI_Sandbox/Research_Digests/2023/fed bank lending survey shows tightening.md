@@ -4,11 +4,14 @@ tags:
   - research-digest
   - finance
   - 2023
+  - economy
+  - ai
 keywords:
   - fed
   - lending
   - banks
   - survey
+  - linkage
 draft: true
 description: The Fed's regional bank survey recorded the first widespread tightening since 2020.
 created: 2023-07-12
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # fed bank lending survey shows tightening
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 The Federal Reserve's July 2023 Senior Loan Officer Opinion Survey found widespread tightening of standards in commercial and industrial loans, a rare consensus view since 2020 ([Federal Reserve](https://www.federalreserve.gov/data/sloos/sloos-202307.htm)). The data hints at serious credit stress across regions.
 

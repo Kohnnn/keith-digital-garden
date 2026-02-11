@@ -23,6 +23,8 @@ cssclasses:
 
 # social cooling
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Social Cooling described how data scoring can subtly suppress behavior and autonomy ([source](https://www.socialcooling.com/)). The idea reframed surveillance as a behavioral incentive system.
 

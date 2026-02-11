@@ -1,13 +1,22 @@
 ---
 title: Daoism - The Strength of Softness
-tags: [philosophy, daoism, laozi]
-keywords: [flow, nature, balance, humility, simplicity]
+tags:
+  - philosophy
+  - daoism
+  - laozi
+keywords:
+  - flow
+  - nature
+  - balance
+  - humility
+  - simplicity
 draft: true
 description: The soft way is not weak; it is patient.
 created: 2021-07-22
 updated: 2025-12-20
 note_id: 210722DA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Daoism - The Strength of Softness

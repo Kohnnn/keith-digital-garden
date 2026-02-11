@@ -1,11 +1,11 @@
 ---
 title: stable diffusion release makes open source ai art mainstream
 tags:
+  - general-note
   - tech-journal
   - ai
   - open-source
   - creativity
-  - 2022
 keywords:
   - stability
   - diffusion
@@ -19,9 +19,12 @@ updated: 2022-08-22
 note_id: 220822GN74
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # stable diffusion release makes open source ai art mainstream
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Stability AI launched Stable Diffusion 1.4 under a permissive license, enabling anyone with a consumer GPU to run a state-of-the-art text-to-image model without API gating ([TechCrunch](https://techcrunch.com/2022/08/22/stability-ai-launches-stable-diffusion/)). The creative web lit up overnight.
 

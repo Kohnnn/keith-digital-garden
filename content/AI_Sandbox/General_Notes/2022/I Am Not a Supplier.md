@@ -23,6 +23,8 @@ cssclasses:
 
 # i am not a supplier
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">supplier</span>
   <span class="inline-keyword">contracts</span>

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - ai
   - 2023
+  - data
+  - microsoft
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # data accidentally exposed by microsoft ai researchers
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

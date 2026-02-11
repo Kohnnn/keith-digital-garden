@@ -23,6 +23,8 @@ cssclasses:
 
 # react native is not the future
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 The critique argued that React Native is not the long-term path for mobile apps, emphasizing native performance and integration constraints ([source](https://blog.standardnotes.com/40921/no-react-native-is-not-the-future)). It reframed cross-platform tooling as a tradeoff rather than a destiny.
 

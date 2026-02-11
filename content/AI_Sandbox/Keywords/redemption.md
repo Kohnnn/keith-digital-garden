@@ -2,6 +2,7 @@
 title: keyword - redemption
 tags:
   - keyword-index
+  - christianity
 draft: true
 description: Notes linked by redemption.
 created: 2026-02-07

@@ -1,11 +1,11 @@
 ---
 title: container rates collapse as demand evaporates
 tags:
+  - general-note
   - thoughtpiece
   - logistics
   - trade
   - demand
-  - 2022
 keywords:
   - freight
   - drury
@@ -19,9 +19,12 @@ updated: 2022-10-14
 note_id: 221014GN79
 cssclasses:
   - thoughtpiece
+  - general-note
 ---
 
 # container rates collapse as demand evaporates
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Freightos and Drewry indexes showed Transpacific container rates down more than 75% year-over-year, with Shanghai–Los Angeles dropping below $3,800 as retailers slashed orders ([CNBC](https://www.cnbc.com/2022/10/14/shipping-rates-drop-75percent-as-demand-sinks.html)). The freight bull market is officially over.
 

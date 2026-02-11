@@ -4,9 +4,14 @@ tags:
   - thoughtpiece
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - trust
   - platforms
+  - div
+  - linkage
+  - platform
 draft: true
 description: Platform trust rests on repeated regulatory dialogues; every outage resets negotiation.
 created: 2021-04-15
@@ -17,6 +22,8 @@ cssclasses:
 ---
 
 # governments and platform trust loops
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Every regulatory dialogue after outages (see [[Fastly and the Edge Outage]]) resets the trust contract between governments and platforms.
 

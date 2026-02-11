@@ -2,6 +2,7 @@
 title: keyword - emanation
 tags:
   - keyword-index
+  - neoplatonism
 draft: true
 description: Notes linked by emanation.
 created: 2026-02-07

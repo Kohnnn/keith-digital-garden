@@ -2,6 +2,7 @@
 title: keyword - impermanence
 tags:
   - keyword-index
+  - buddhism
 draft: true
 description: Notes linked by impermanence.
 created: 2026-02-07

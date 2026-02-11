@@ -2,6 +2,8 @@
 title: keyword - matter
 tags:
   - keyword-index
+  - samkhya
+  - reality
 draft: true
 description: Notes linked by matter.
 created: 2026-02-07

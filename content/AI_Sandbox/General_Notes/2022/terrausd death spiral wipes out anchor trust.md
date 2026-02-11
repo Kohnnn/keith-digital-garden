@@ -1,11 +1,11 @@
 ---
 title: terrausd death spiral wipes out anchor trust
 tags:
+  - general-note
   - tech-journal
   - crypto
   - liquidity
   - contagion
-  - 2022
 keywords:
   - terrausd
   - stablecoin
@@ -19,9 +19,12 @@ updated: 2022-05-12
 note_id: 220512GN61
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # terrausd death spiral wipes out anchor trust
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Terraform Labs lost control of a so-called stablecoin when TerraUSD slid below $0.30 and never recovered, vaporizing nearly $45B in notional wealth ([Reuters](https://www.reuters.com/markets/us/crypto-collapse-intensifies-stablecoin-tether-slides-below-dollar-peg-2022-05-12/)). Anchor's subsidized yield went from sticky to a force multiplier for outflows overnight.
 

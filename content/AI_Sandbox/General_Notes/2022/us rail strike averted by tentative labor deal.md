@@ -1,11 +1,11 @@
 ---
 title: us rail strike averted by tentative labor deal
 tags:
+  - general-note
   - research-digest
   - logistics
   - labor
   - policy
-  - 2022
 keywords:
   - rail
   - strike
@@ -19,9 +19,12 @@ updated: 2022-09-15
 note_id: 220915GN71
 cssclasses:
   - research-digest
+  - general-note
 ---
 
 # us rail strike averted by tentative labor deal
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 The White House brokered a tentative agreement between major freight railroads and unions just hours before a nationwide strike deadline, averting an estimated $2B per day economic hit ([Reuters](https://www.reuters.com/world/us/biden-says-tentative-labor-deal-reached-rail-workers-2022-09-15/)). Paid sick leave and scheduling relief became the focal concessions.
 

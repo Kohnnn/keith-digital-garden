@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - diy
+  - android
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # nokia launches diy repairable budget android phone
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

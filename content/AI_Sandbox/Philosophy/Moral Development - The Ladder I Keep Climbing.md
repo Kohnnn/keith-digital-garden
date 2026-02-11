@@ -1,13 +1,23 @@
 ---
 title: Moral Development - The Ladder I Keep Climbing
-tags: [philosophy, ethics, moral-development]
-keywords: [growth, stages, ethics, learning, character]
+tags:
+  - philosophy
+  - ethics
+  - moral-development
+  - growth
+keywords:
+  - growth
+  - stages
+  - ethics
+  - learning
+  - character
 draft: true
 description: How my sense of right and wrong grows in stages.
 created: 2022-11-03
 updated: 2025-06-18
 note_id: 221103MD01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Moral Development - The Ladder I Keep Climbing

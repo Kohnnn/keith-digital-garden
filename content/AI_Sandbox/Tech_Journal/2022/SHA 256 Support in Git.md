@@ -23,6 +23,8 @@ cssclasses:
 
 # sha 256 support in git
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A report examined why Git's move from SHA-1 to SHA-256 has been slow and complex ([source](https://lwn.net/Articles/898522/)). It highlighted how deep compatibility concerns shape migration speed.
 

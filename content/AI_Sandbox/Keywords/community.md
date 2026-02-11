@@ -2,6 +2,9 @@
 title: keyword - community
 tags:
   - keyword-index
+  - community
+  - confucianism
+  - shinto
 draft: true
 description: Notes linked by community.
 created: 2026-02-07

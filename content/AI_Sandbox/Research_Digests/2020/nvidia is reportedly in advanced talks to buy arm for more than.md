@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2020
+  - chips
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # nvidia is reportedly in ‘advanced talks’ to buy arm for more than $32b
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

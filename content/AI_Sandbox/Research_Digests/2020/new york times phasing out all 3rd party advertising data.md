@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # new york times phasing out all 3rd party advertising data
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 New York Times phasing out all 3rd-party advertising data surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.axios.com/new-york-times-advertising-792b3cd6-4bdb-47c3-9817-36601211a79d.html)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # twitter fined for 2fa phone numbers
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The FTC fined Twitter for using 2FA phone numbers for advertising, framing the practice as a privacy violation ([source](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)). The case spotlighted consent drift.
 

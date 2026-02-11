@@ -5,11 +5,13 @@ tags:
   - space
   - hardware
   - 2020
+  - infra
 keywords:
   - spacex
-  - crew-dragon
+  - crewdragon
   - nasa
   - launch
+  - crew
 draft: true
 description: NASA's Demo-2 mission marked the return of U.S. human spaceflight and private contractors.
 created: 2020-05-30
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # spacex demo 2 proves crew dragon viability
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Crew Dragon successfully launched astronauts Doug Hurley and Bob Behnken, becoming the first commercially built spacecraft to carry humans to orbit ([NASA Demo-2](https://www.nasa.gov/press-release/nasa-crew-2-launch)). The mission validated SpaceX's rapid iteration approach.
 

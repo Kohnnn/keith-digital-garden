@@ -1,13 +1,23 @@
 ---
 title: Wildfire - The Fast Memory
-tags: [philosophy, environment, wildfire]
-keywords: [fire, ecology, loss, renewal, risk]
+tags:
+  - philosophy
+  - environment
+  - wildfire
+  - memory
+keywords:
+  - fire
+  - ecology
+  - loss
+  - renewal
+  - risk
 draft: true
 description: Fire is a memory that returns faster than I am ready for.
 created: 2023-08-19
 updated: 2025-12-13
 note_id: 230819WF01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Wildfire - The Fast Memory

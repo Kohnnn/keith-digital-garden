@@ -2,6 +2,7 @@
 title: keyword - dualism
 tags:
   - keyword-index
+  - zoroastrianism
 draft: true
 description: Notes linked by dualism.
 created: 2026-02-07

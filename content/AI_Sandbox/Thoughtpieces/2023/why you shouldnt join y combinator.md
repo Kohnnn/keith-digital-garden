@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why you shouldn't join y combinator
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator">newsletter.smallbets.co</a> <span class="ref-title">Why you shouldn't join Y Combinator</span> <span class="ref-meta">2023-10-13</span></p>

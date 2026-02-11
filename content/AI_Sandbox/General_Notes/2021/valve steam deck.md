@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # valve steam deck
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Valve Steam Deck surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.steamdeck.com/en/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

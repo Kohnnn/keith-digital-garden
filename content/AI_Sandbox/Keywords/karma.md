@@ -2,6 +2,7 @@
 title: keyword - karma
 tags:
   - keyword-index
+  - hinduism
 draft: true
 description: Notes linked by karma.
 created: 2026-02-07

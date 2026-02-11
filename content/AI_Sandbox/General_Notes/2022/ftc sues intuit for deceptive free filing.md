@@ -23,6 +23,8 @@ cssclasses:
 
 # ftc sues intuit for deceptive free filing
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The FTC sued Intuit over claims about "free" TurboTax filing, arguing the marketing was deceptive ([source](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)). It positioned consumer trust as an enforcement issue.
 

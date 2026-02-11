@@ -5,11 +5,13 @@ tags:
   - ai
   - tooling
   - 2023
+  - infra
 keywords:
   - anthropic
   - claude
   - console
   - safety
+  - div
 draft: true
 description: Anthropic launched a dedicated console for Claude 2, blending safety tooling with developer UX.
 created: 2023-07-12
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # anthropic ships claude 2 console
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Anthropic rolled out a hosted console for Claude 2 that lets teams build prompts, monitor usage, and apply safety filters without living in curl commands ([Anthropic](https://www.anthropic.com/index/claude-2)). It turns the company’s safety-first positioning into an actual workflow.
 

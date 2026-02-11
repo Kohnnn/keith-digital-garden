@@ -5,11 +5,13 @@ tags:
   - health
   - open-source
   - 2020
+  - open
 keywords:
   - ventilator
-  - open-source
-  - rapid-manufacturing
+  - opensource
+  - rapidmanufacturing
   - covid
+  - open
 draft: true
 description: Engineer communities launched open-source ventilators to cope with hospital shortfalls.
 created: 2020-03-25
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # open source ventilator prototypes tackle shortages
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 As ventilator demand surged, makers and universities released open-source designs like MIT's E-Vent and the University of Minnesota's Coventor, hoping crowd manufacturing could help ([MIT E-Vent](https://emergency-vent.mit.edu/)). The designs highlighted how digital collaboration can jumpstart essential hardware.
 

@@ -23,6 +23,8 @@ cssclasses:
 
 # universities struggle to leverage data
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">data</span>
   <span class="inline-keyword">governance</span>

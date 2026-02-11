@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - economy
   - 2022
+  - ai
 keywords:
   - emacs
   - macro

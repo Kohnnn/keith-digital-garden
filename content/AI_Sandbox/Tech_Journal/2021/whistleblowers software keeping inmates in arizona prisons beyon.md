@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # whistleblowers: software keeping inmates in arizona prisons beyond release dates
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Whistleblowers: Software keeping inmates in Arizona prisons beyond release dates surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # bay 12 games has made $7m from the steam release of dwarf fortress
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

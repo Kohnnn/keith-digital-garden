@@ -5,11 +5,13 @@ tags:
   - mobile
   - infrastructure
   - 2022
+  - product
 keywords:
   - apple
   - satellite
   - emergency
   - iphone
+  - div
 draft: true
 description: Apple enabled satellite SOS messaging for iPhone 14, blending consumer hardware with specialized infrastructure.
 created: 2022-11-15
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple emergency sos via satellite launches
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Apple turned on Emergency SOS via satellite for iPhone 14 users in the US and Canada, letting phones link to Globalstar satellites for low-bandwidth distress texts ([Apple](https://www.apple.com/newsroom/2022/11/iphone-users-can-now-text-emergency-services-via-satellite/)). Consumer radios now talk to space without extra hardware.
 

@@ -4,6 +4,8 @@ tags:
   - general-note
   - ai
   - 2023
+  - performance
+  - engineering
 keywords:
   - llm
   - inference

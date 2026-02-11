@@ -23,6 +23,8 @@ cssclasses:
 
 # openbsd mastery not in kindle store
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A publisher explained why OpenBSD Mastery was excluded from Amazon's Kindle store, pointing to platform rules and gatekeeping ([source](https://mwl.io/archives/22466)). It surfaces a quiet tension between distribution reach and platform control.
 

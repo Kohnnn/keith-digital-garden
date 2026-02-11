@@ -23,6 +23,8 @@ cssclasses:
 
 # github codespaces
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 ## scene cut
 GitHub announced Codespaces, positioning dev environments as an on-demand cloud service ([source](https://github.com/features/codespaces)). It made environment setup a platform feature instead of a local chore.
 

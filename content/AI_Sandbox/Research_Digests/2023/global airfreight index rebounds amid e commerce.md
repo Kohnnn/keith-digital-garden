@@ -4,10 +4,14 @@ tags:
   - research-digest
   - logistics
   - 2023
+  - ai
+  - behavior
 keywords:
   - airfreight
   - index
-  - e-commerce
+  - ecommerce
+  - demand
+  - linkage
 draft: true
 description: The TAC Index showed airfreight rates spiking again after e-commerce demand rose.
 created: 2023-10-05
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # global airfreight index rebounds amid e commerce
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 The TAC Index climbed 12% in September as ecommerce retailers pulled forward inventory ahead of holiday season, reversing earlier softness ([TAC Index](https://www.tac-index.com/)). Air freight is now a leading indicator for whether physical demand is recovering.
 

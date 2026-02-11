@@ -23,6 +23,8 @@ cssclasses:
 
 # john carmack leaves meta
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">leadership</span>
   <span class="inline-keyword">strategy</span>

@@ -5,11 +5,13 @@ tags:
   - telecom
   - infrastructure
   - 2020
+  - infra
 keywords:
   - 5g
   - mmwave
   - coverage
   - trials
+  - linkage
 draft: true
 description: Trials of mmWave 5G revealed range and obstacle sensitivity even before mass rollout.
 created: 2020-07-20
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # 5g mmwave tests show coverage limits
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Carriers running limited mmWave trials reported steep signal drops behind walls and even foliage, showing that the super-fast spectrum lacks range ([Verizon 5G Trials](https://www.verizon.com/about/news/5g-mmwave-experiment-shows-limitations)). Deployment will require far more densification than originally promised.
 

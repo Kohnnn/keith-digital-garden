@@ -2,6 +2,7 @@
 title: keyword - nonduality
 tags:
   - keyword-index
+  - vedanta
 draft: true
 description: Notes linked by nonduality.
 created: 2026-02-07

@@ -4,14 +4,18 @@ tags:
   - market-news
   - finance
   - 2023
+  - treasury
+  - inflation
 keywords:
   - treasury
   - curve
   - 2023
+  - after
+  - inflation
 draft: true
-note_id: 231220MR11
 created: 2023-12-20
 updated: 2023-12-20
+note_id: 231220MR11
 cssclasses:
   - market-news
 ---

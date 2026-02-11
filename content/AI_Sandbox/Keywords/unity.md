@@ -2,6 +2,8 @@
 title: keyword - unity
 tags:
   - keyword-index
+  - vedanta
+  - neoplatonism
 draft: true
 description: Notes linked by unity.
 created: 2026-02-07

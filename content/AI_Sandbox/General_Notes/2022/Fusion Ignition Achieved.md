@@ -23,6 +23,8 @@ cssclasses:
 
 # fusion ignition achieved
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">fusion</span>
   <span class="inline-keyword">energy</span>

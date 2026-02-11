@@ -4,6 +4,8 @@ tags:
   - market-news
   - finance
   - 2020
+  - infra
+  - ai
 keywords:
   - rates
   - market
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # zoom meetings aren’t end to end encrypted, despite marketing
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Zoom meetings aren’t end-to-end encrypted, despite marketing surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

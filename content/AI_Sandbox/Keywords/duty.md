@@ -2,6 +2,8 @@
 title: keyword - duty
 tags:
   - keyword-index
+  - confucianism
+  - hinduism
 draft: true
 description: Notes linked by duty.
 created: 2026-02-07

@@ -2,6 +2,7 @@
 title: keyword - light
 tags:
   - keyword-index
+  - neoplatonism
 draft: true
 description: Notes linked by light.
 created: 2026-02-07

@@ -23,6 +23,8 @@ cssclasses:
 
 # google docs and and crash
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A Google Docs bug caused crashes when repeating "And" in a specific pattern, exposing fragile edge behavior ([source](https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en)). It turned a tiny input into a reliability story.
 

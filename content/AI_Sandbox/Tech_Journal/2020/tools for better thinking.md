@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2020
+  - product
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # tools for better thinking
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Tools for Better Thinking surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://untools.co)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -2,6 +2,8 @@
 title: keyword - skepticism
 tags:
   - keyword-index
+  - skepticism
+  - pyrrhonism
 draft: true
 description: Notes linked by skepticism.
 created: 2026-02-07

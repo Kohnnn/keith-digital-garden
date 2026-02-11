@@ -1,13 +1,22 @@
 ---
 title: Nietzsche - The Heaviest Question
-tags: [philosophy, nietzsche, meaning]
-keywords: [power, meaning, will, nihilism, courage]
+tags:
+  - philosophy
+  - nietzsche
+  - meaning
+keywords:
+  - power
+  - meaning
+  - will
+  - nihilism
+  - courage
 draft: true
 description: A decision test that forces me to own my life.
 created: 2022-05-18
 updated: 2025-09-03
 note_id: 220518NI01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Nietzsche - The Heaviest Question

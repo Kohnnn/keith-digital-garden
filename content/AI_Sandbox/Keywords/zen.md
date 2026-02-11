@@ -2,6 +2,8 @@
 title: keyword - zen
 tags:
   - keyword-index
+  - zen
+  - buddhism
 draft: true
 description: Notes linked by zen.
 created: 2026-02-07

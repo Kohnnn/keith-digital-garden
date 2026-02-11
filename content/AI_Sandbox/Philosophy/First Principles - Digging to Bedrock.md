@@ -1,13 +1,23 @@
 ---
 title: First Principles - Digging to Bedrock
-tags: [philosophy, epistemology, first-principles]
-keywords: [foundations, logic, reason, inquiry, truth]
+tags:
+  - philosophy
+  - epistemology
+  - first-principles
+  - logic
+keywords:
+  - foundations
+  - logic
+  - reason
+  - inquiry
+  - truth
 draft: true
 description: Refusing the borrowed answer until something solid appears.
 created: 2022-02-17
 updated: 2026-01-14
 note_id: 220217FP01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # First Principles - Digging to Bedrock

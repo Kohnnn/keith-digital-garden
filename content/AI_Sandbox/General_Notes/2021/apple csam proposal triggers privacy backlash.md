@@ -23,6 +23,8 @@ cssclasses:
 
 # apple csam proposal triggers privacy backlash
 
+*see also:* [[Security Posture]] · [[Trust in Platforms]]
+
 Apple proposed on-device CSAM scanning as a child safety feature, sparking backlash from privacy
 advocates ([EFF](https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life)).
 The controversy is about where the boundary sits between user privacy and platform enforcement. I

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - open
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # twitch source code and customer data has reportedly been leaked
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 Twitch source code and customer data has reportedly been leaked surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

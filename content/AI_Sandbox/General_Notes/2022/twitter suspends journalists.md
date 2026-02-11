@@ -23,6 +23,8 @@ cssclasses:
 
 # twitter suspends journalists
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The episode sharpened the feeling that platform rules were shifting in real time. I read it as a legitimacy test rather than a content dispute.
 
 ## scene cut

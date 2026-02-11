@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2020
+  - product
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why we won’t be supporting sign in with apple
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Why we won’t be supporting Sign in with Apple surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://blog.anylist.com/2020/06/sign-in-with-apple/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

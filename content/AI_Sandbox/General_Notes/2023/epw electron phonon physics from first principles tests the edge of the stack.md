@@ -4,9 +4,11 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
+  - physics
 keywords:
   - epw
-  - electron-phonon
+  - electronphonon
   - physics
   - first
   - principles

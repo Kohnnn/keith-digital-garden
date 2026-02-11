@@ -23,6 +23,8 @@ cssclasses:
 
 # raspberry pi 400
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Raspberry Pi introduced the 400, an all-in-one keyboard computer aimed at education and hobbyists ([source](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/)). It packaged learning hardware into a single accessible device.
 

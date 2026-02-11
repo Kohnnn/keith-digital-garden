@@ -1,13 +1,24 @@
 ---
 title: Stoicism - The Weather Inside
-tags: [philosophy, stoicism, ethics]
-keywords: [stoicism, virtue, resilience, control, reason]
+tags:
+  - philosophy
+  - stoicism
+  - ethics
+  - virtue
+  - resilience
+keywords:
+  - stoicism
+  - virtue
+  - resilience
+  - control
+  - reason
 draft: true
 description: Stoicism trains me to separate what I can guide from what I cannot.
 created: 2022-05-17
 updated: 2026-02-07
 note_id: 220517ST01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Stoicism - The Weather Inside

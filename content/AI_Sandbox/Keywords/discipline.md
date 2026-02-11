@@ -2,6 +2,9 @@
 title: keyword - discipline
 tags:
   - keyword-index
+  - scarcity
+  - islam
+  - jainism
 draft: true
 description: Notes linked by discipline.
 created: 2026-02-07

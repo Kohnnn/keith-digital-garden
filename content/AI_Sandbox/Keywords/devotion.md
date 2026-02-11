@@ -2,6 +2,8 @@
 title: keyword - devotion
 tags:
   - keyword-index
+  - hinduism
+  - sikhism
 draft: true
 description: Notes linked by devotion.
 created: 2026-02-07

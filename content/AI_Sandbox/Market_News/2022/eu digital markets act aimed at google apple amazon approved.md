@@ -5,6 +5,7 @@ tags:
   - finance
   - ai
   - 2022
+  - markets
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # eu digital markets act, aimed at google, apple, amazon, approved
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 EU Digital Markets Act, aimed at Google, Apple, Amazon, approved surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.consilium.europa.eu/en/press/press-releases/2022/07/18/dma-council-gives-final-approval-to-new-rules-for-fair-competition-online/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

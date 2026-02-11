@@ -23,6 +23,8 @@ cssclasses:
 
 # but life had other plans
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A short essay described how plans collapse and re-form over time, anchoring the story in lived experience ([source](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)). It reads like a reminder that trajectories are rarely linear.
 

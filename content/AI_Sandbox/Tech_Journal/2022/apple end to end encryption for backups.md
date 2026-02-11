@@ -23,6 +23,8 @@ cssclasses:
 
 # apple end to end encryption for backups
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 ## scene cut
 Apple introduced end-to-end encryption for backups and additional iCloud data categories ([source](https://support.apple.com/en-us/HT202303#advanced)). The shift raised the baseline for consumer privacy expectations.
 

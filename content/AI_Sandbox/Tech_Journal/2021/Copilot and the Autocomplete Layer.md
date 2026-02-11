@@ -6,23 +6,25 @@ tags:
   - developer-tools
   - productivity
   - 2021
-draft: true
-description: Autocomplete shifted from syntax to intent and rewired how code is produced.
 keywords:
   - suggestion
   - editor
   - skill
   - licensing
   - productivity
+draft: true
+description: Autocomplete shifted from syntax to intent and rewired how code is produced.
 created: 2021-06-29
 updated: 2025-09-27
 note_id: 210629TJ01
 cssclasses:
   - tech-journal
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19897329/GitHub___Day_1_Keynote_NatFriedman_1_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+image: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19897329/GitHub___Day_1_Keynote_NatFriedman_1_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
 # copilot and the autocomplete layer
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">suggestion</span>

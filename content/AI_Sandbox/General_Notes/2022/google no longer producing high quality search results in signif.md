@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2022
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google no longer producing high quality search results in significant categories
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Google no longer producing high quality search results in significant categories surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/mwseibel/status/1477701120319361026)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

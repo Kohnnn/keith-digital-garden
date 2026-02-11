@@ -23,6 +23,8 @@ cssclasses:
 
 # fred brooks has died
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 The news felt like the end of a foundational era in software thinking. I keep his influence in mind whenever complexity outpaces coordination.
 
 ## scene cut

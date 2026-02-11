@@ -2,6 +2,7 @@
 title: keyword - learning
 tags:
   - keyword-index
+  - learning
 draft: true
 description: Notes linked by learning.
 created: 2026-02-07

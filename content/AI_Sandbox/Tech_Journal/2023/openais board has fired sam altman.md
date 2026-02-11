@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - ai
   - 2023
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # openai's board has fired sam altman
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 OpenAI's board has fired Sam Altman surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://openai.com/blog/openai-announces-leadership-transition)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

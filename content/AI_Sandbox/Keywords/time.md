@@ -2,6 +2,9 @@
 title: keyword - time
 tags:
   - keyword-index
+  - time
+  - maya
+  - river
 draft: true
 description: Notes linked by time.
 created: 2026-02-07

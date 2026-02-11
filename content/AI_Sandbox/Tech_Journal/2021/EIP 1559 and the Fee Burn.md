@@ -6,23 +6,25 @@ tags:
   - ethereum
   - fees
   - 2021
-draft: true
-description: The fee market shifted from chaos to policy, with a burn at the center.
 keywords:
   - fees
   - burn
   - protocol
   - usability
   - governance
+draft: true
+description: The fee market shifted from chaos to policy, with a burn at the center.
 created: 2021-08-05
 updated: 2025-09-21
 note_id: 210805TJ01
 cssclasses:
   - tech-journal
-image: "https://image.cnbcfm.com/api/v1/image/106885738-1621490902783-gettyimages-1317812942-dsc01436.jpeg?v=1681415489&w=1920&h=1080"
+image: https://image.cnbcfm.com/api/v1/image/106885738-1621490902783-gettyimages-1317812942-dsc01436.jpeg?v=1681415489&w=1920&h=1080
 ---
 
 # eip 1559 and the fee burn
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">fees</span>

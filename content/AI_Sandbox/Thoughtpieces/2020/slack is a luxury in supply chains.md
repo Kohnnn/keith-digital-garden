@@ -5,10 +5,13 @@ tags:
   - logistics
   - strategy
   - 2020
+  - ai
 keywords:
   - slack
   - logistics
   - buffers
+  - div
+  - linkage
 draft: true
 description: The 2020 port mess convinced me slack is the most precious logistics asset.
 created: 2020-11-02
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # slack is a luxury in supply chains
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Port backlogs in 2020 made me realize we built logistics systems that assume zero buffer. Every ship that waited off LA was a reminder that slack equals survival.
 

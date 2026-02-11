@@ -5,8 +5,9 @@ tags:
   - policy
   - ai
   - 2023
+  - behavior
 keywords:
-  - ai-act
+  - aiact
   - regulation
   - compliance
   - watermark
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # eu ai act finalizes compliance timeline
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Brussels signaled final approval of the AI Act and published the compliance calendar that mandates transparency, watermarking, and risk assessments for high-risk models ([European Commission](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)). The move makes Europe the strictest regulatory terrain for AI deployments.
 

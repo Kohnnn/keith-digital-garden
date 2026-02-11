@@ -2,6 +2,9 @@
 title: keyword - resilience
 tags:
   - keyword-index
+  - resilience
+  - scarcity
+  - stoicism
 draft: true
 description: Notes linked by resilience.
 created: 2026-02-07

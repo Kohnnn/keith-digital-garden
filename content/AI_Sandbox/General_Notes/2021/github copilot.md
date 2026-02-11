@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2021
+  - open
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # github copilot
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 GitHub Copilot surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://copilot.github.com/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

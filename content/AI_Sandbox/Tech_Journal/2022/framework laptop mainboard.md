@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2022
+  - framework
+  - behavior
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # framework laptop mainboard
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Framework Laptop Mainboard surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://github.com/FrameworkComputer/Mainboard)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -8,6 +8,8 @@ keywords:
   - ais
   - year
   - texttoeverything
+  - everything
+  - span
 draft: true
 description: AI's Year of Text-to-Everything
 created: 2022-12-30

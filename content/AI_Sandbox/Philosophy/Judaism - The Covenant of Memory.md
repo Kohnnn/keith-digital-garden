@@ -1,13 +1,24 @@
 ---
 title: Judaism - The Covenant of Memory
-tags: [philosophy, judaism, religion]
-keywords: [covenant, memory, law, justice, exile]
+tags:
+  - philosophy
+  - judaism
+  - religion
+  - memory
+  - law
+keywords:
+  - covenant
+  - memory
+  - law
+  - justice
+  - exile
 draft: true
 description: Judaism is a faith of memory, law, and stubborn hope.
 created: 2021-10-14
 updated: 2026-02-07
 note_id: 211014JU01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Judaism - The Covenant of Memory

@@ -23,6 +23,8 @@ cssclasses:
 
 # turkey's lira slide
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">inflation</span>
   <span class="inline-keyword">policy</span>

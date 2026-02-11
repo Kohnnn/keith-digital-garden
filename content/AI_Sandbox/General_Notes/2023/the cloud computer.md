@@ -4,6 +4,8 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
+  - cloud
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # the cloud computer
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://oxide.computer/blog/the-cloud-computer">oxide.computer</a> <span class="ref-title">The Cloud Computer</span> <span class="ref-meta">2023-10-26</span></p>

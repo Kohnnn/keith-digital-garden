@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - market
   - 2023
+  - infra
+  - ai
 keywords:
   - systems
   - thinking

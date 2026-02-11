@@ -5,6 +5,7 @@ tags:
   - finance
   - policy
   - 2020
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # youtube dl has received a dmca takedown from riaa
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 YouTube-dl has received a DMCA takedown from RIAA surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

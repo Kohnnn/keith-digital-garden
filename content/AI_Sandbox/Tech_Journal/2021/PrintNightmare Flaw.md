@@ -23,6 +23,8 @@ cssclasses:
 
 # printnightmare flaw
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">breach</span>
   <span class="inline-keyword">patch</span>

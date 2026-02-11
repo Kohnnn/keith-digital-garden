@@ -23,6 +23,8 @@ cssclasses:
 
 # i want an iphone mini sized android phone
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">phone</span>
   <span class="inline-keyword">size</span>

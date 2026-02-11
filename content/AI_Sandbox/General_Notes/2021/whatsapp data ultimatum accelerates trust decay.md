@@ -23,6 +23,8 @@ cssclasses:
 
 # whatsapp data ultimatum accelerates trust decay
 
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
+
 WhatsApp told users they must share data with Facebook or stop using the app
 ([Ars Technica](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/)).
 The announcement turned privacy into a front-line product decision instead of a settings detail. I

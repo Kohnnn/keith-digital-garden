@@ -4,9 +4,10 @@ tags:
   - general-note
   - ai
   - 2023
+  - behavior
 keywords:
   - first
-  - fully-polynomial
+  - fullypolynomial
   - transformer
   - distributed
   - algorithms

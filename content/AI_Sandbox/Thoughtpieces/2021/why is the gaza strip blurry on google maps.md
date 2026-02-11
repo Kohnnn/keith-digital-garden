@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why is the gaza strip blurry on google maps?
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Why is the Gaza Strip blurry on Google Maps? surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.bbc.com/news/57102499)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

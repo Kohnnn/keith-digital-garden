@@ -5,11 +5,13 @@ tags:
   - mobile
   - ai
   - 2021
+  - chips
 keywords:
   - tensor
   - pixel6
   - google
   - silicon
+  - chip
 draft: true
 description: Google launched its Tensor SoC in the Pixel 6, signaling a shift to custom silicon for AI-first phones.
 created: 2021-10-19
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # google tensor chip debuts in pixel 6
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Google’s Pixel 6 introduced the Tensor SoC, mixing Cortex cores with custom TPU blocks so on-device AI features (Magic Eraser, Live Translate) don’t rely on the cloud ([Google](https://blog.google/products/pixel/pixel-6/)).
 

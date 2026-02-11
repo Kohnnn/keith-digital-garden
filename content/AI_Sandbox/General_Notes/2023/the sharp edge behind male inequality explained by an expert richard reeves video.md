@@ -4,6 +4,7 @@ tags:
   - general-note
   - ai
   - 2023
+  - edge
 keywords:
   - male
   - inequality

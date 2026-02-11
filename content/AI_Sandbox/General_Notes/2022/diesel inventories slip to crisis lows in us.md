@@ -1,11 +1,11 @@
 ---
 title: diesel inventories slip to crisis lows in us
 tags:
+  - general-note
   - thoughtpiece
   - energy
   - logistics
   - inflation
-  - 2022
 keywords:
   - diesel
   - inventory
@@ -19,9 +19,12 @@ updated: 2022-10-24
 note_id: 221024GN69
 cssclasses:
   - thoughtpiece
+  - general-note
 ---
 
 # diesel inventories slip to crisis lows in us
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 The U.S. entered late October with only 25 days of diesel supply on hand, the lowest seasonal level since 2008, as refiners struggled to juggle domestic demand, exports, and maintenance ([CNBC](https://www.cnbc.com/2022/10/24/us-diesel-supply-is-low-winter-shortage-possible.html)). Freight carriers started planning for allocations.
 

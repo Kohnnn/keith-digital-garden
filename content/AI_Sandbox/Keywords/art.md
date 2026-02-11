@@ -2,6 +2,8 @@
 title: keyword - art
 tags:
   - keyword-index
+  - art
+  - aesthetics
 draft: true
 description: Notes linked by art.
 created: 2026-02-07

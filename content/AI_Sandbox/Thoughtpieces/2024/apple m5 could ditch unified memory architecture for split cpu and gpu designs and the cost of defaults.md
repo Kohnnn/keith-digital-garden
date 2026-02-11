@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - chips
   - 2024
+  - ai
+  - apple
 keywords:
   - apple
   - m5

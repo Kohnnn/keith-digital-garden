@@ -1,13 +1,22 @@
 ---
 title: Evolutionary Theory - The Long Pressure
-tags: [philosophy, evolution, science]
-keywords: [evolution, adaptation, survival, time, change]
+tags:
+  - philosophy
+  - evolution
+  - science
+keywords:
+  - evolution
+  - adaptation
+  - survival
+  - time
+  - change
 draft: true
 description: The slow logic that shapes life without asking permission.
 created: 2021-04-27
 updated: 2025-07-15
 note_id: 210427ET01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Evolutionary Theory - The Long Pressure

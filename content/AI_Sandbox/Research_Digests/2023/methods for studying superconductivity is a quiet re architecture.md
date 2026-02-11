@@ -4,10 +4,13 @@ tags:
   - research-digest
   - infra
   - 2023
+  - ai
 keywords:
   - methods
   - studying
   - superconductivity
+  - span
+  - class
 draft: true
 description: Methods for Studying Superconductivity?
 created: 2023-12-31

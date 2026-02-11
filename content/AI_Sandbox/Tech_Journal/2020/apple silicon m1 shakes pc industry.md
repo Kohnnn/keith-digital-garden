@@ -5,11 +5,13 @@ tags:
   - hardware
   - ai
   - 2020
+  - chips
 keywords:
   - m1
   - apple
   - silicon
   - arm
+  - industry
 draft: true
 description: Apple announced the M1 chip, signaling a major transition to in-house silicon for laptops.
 created: 2020-11-10
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple silicon m1 shakes pc industry
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Apple unveiled the M1 chip with 5nm process, unified memory, and eight cores, promising battery life and performance leaps over Intel-based Macs ([Apple M1](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/)). The move rewrote how the PC industry thinks about vertical integration.
 

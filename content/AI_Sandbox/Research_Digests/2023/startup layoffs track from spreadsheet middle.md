@@ -4,10 +4,14 @@ tags:
   - research-digest
   - markets
   - 2023
+  - infra
+  - ai
 keywords:
   - layoffs
   - startups
   - data
+  - div
+  - linkage
 draft: true
 description: Crunchbase data reveals 25% of AI startups cut headcount in 2023 as funding cools.
 created: 2023-11-10
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # startup layoffs track from spreadsheet middle
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Crunchbase recorded roughly 432 startup layoffs across AI, FinTech, and crypto in 2023, with AI accounting for 28% of the total despite being the hottest sector ([Crunchbase](https://news.crunchbase.com/ai-startup-layoffs-2023/)).
 

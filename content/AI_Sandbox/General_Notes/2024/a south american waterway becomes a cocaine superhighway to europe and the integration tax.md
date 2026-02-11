@@ -4,6 +4,7 @@ tags:
   - general-note
   - ai
   - 2024
+  - europe
 keywords:
   - south
   - american

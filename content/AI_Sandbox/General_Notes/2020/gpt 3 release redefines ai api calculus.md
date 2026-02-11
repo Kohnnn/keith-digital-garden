@@ -5,11 +5,13 @@ tags:
   - ai
   - developer
   - 2020
+  - behavior
 keywords:
-  - gpt-3
+  - gpt3
   - api
   - language
   - openai
+  - gpt
 draft: true
 description: OpenAI's GPT-3 release turned few-shot prompts into a general platform story.
 created: 2020-06-11
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # gpt 3 release redefines ai api calculus
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 OpenAI released GPT-3 with a simple API and 175B parameters, showing how powerful language models behave when the prompt becomes the interface ([OpenAI Blog](https://openai.com/blog/gpt-3-apps/)). Suddenly developers asked whether the inference cost or the dataset mattered more.
 

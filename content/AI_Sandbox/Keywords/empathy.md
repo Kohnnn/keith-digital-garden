@@ -2,6 +2,7 @@
 title: keyword - empathy
 tags:
   - keyword-index
+  - ethics
 draft: true
 description: Notes linked by empathy.
 created: 2026-02-07

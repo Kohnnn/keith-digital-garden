@@ -2,6 +2,9 @@
 title: keyword - mind
 tags:
   - keyword-index
+  - mind
+  - abstraction
+  - memetics
 draft: true
 description: Notes linked by mind.
 created: 2026-02-07

@@ -4,6 +4,7 @@ tags:
   - tech-journal
   - product
   - 2020
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # amazon met with startups about investing, then launched competing products
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Amazon met with startups about investing, then launched competing products surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.wsj.com/articles/amazon-tech-startup-echo-bezos-alexa-investment-fund-11595520249)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

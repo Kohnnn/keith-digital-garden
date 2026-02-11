@@ -23,6 +23,8 @@ cssclasses:
 
 # charm cli tools
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 I like when terminal tooling treats UX as serious design. It changes the feel of daily work.
 
 ## scene cut

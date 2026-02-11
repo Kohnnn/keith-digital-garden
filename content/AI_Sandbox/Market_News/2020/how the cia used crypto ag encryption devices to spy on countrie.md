@@ -5,6 +5,7 @@ tags:
   - finance
   - hardware
   - 2020
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # how the cia used crypto ag encryption devices to spy on countries for decades
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 How the CIA used Crypto AG encryption devices to spy on countries for decades surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2023
+  - behavior
 keywords:
   - frame
   - culture
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # what is chatgpt doing and why does it work?
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

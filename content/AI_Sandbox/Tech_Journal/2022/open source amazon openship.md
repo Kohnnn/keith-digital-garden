@@ -23,6 +23,8 @@ cssclasses:
 
 # open source amazon openship
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 Open commerce stacks are a pressure valve on marketplace dominance. My read is that open infrastructure is a bargaining chip, not just ideology.
 
 ## scene cut

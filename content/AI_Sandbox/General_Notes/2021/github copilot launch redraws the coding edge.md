@@ -23,6 +23,8 @@ cssclasses:
 
 # github copilot launch redraws the coding edge
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 GitHub launched Copilot as an AI pair programmer trained on public code
 ([GitHub](https://copilot.github.com/)). The release matters because it shifts the boundary between
 writing code and reviewing code. I read it as a workflow change more than a novelty feature.

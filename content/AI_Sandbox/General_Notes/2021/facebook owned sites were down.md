@@ -4,6 +4,8 @@ tags:
   - general-note
   - web
   - 2021
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # facebook owned sites were down
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Facebook-owned sites were down surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.facebook.com/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # tech sector job interviews assess anxiety, not software skills: study
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Tech sector job interviews assess anxiety, not software skills: study surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

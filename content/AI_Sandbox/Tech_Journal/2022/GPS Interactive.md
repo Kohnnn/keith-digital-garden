@@ -23,6 +23,8 @@ cssclasses:
 
 # gps interactive
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">gps</span>
   <span class="inline-keyword">timing</span>

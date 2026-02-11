@@ -23,6 +23,8 @@ cssclasses:
 
 # infrastructure bill passage
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">policy</span>
   <span class="inline-keyword">economy</span>

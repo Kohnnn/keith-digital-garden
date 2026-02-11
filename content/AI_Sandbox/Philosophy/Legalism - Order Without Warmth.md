@@ -1,13 +1,23 @@
 ---
 title: Legalism - Order Without Warmth
-tags: [philosophy, legalism, politics]
-keywords: [order, authority, law, control, power]
+tags:
+  - philosophy
+  - legalism
+  - politics
+  - law
+keywords:
+  - order
+  - authority
+  - law
+  - control
+  - power
 draft: true
 description: Order can be clean and still be cruel.
 created: 2022-08-12
 updated: 2025-12-20
 note_id: 220812LE01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Legalism - Order Without Warmth

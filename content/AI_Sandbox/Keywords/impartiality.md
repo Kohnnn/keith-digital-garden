@@ -2,6 +2,7 @@
 title: keyword - impartiality
 tags:
   - keyword-index
+  - mohism
 draft: true
 description: Notes linked by impartiality.
 created: 2026-02-07

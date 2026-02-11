@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # spacex starship rocket explodes minutes after launch from texas
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 SpaceX Starship rocket explodes minutes after launch from Texas surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

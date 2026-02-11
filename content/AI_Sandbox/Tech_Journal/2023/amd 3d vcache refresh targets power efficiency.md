@@ -4,10 +4,14 @@ tags:
   - tech-journal
   - hardware
   - 2023
+  - chips
+  - ai
 keywords:
   - amd
-  - 3dv-cache
+  - 3dvcache
   - efficiency
+  - power
+  - div
 draft: true
 description: AMD refreshed its 3D V-Cache lineup focusing on lower power usage for data centers.
 created: 2023-09-07
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # amd 3d vcache refresh targets power efficiency
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 AMD’s 2023 refresh of Epyc 3D V-Cache chips focuses on reducing power draw per core while keeping cache-dense designs for generative workloads ([AMD](https://www.amd.com/en/products/cpu/epyc-9004-series)).
 

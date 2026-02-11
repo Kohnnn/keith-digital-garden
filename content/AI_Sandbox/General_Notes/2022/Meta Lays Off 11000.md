@@ -23,6 +23,8 @@ cssclasses:
 
 # meta lays off 11000
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 Meta announced layoffs affecting 11,000 employees, framing the move as a reset toward efficiency ([source](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)). The message repositioned scale as cost discipline rather than expansion.
 

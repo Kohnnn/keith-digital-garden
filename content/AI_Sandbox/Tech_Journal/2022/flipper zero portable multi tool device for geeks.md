@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - hardware
   - 2022
+  - product
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # flipper zero portable multi tool device for geeks
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Flipper Zero – Portable Multi-Tool Device for Geeks surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://flipperzero.one)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

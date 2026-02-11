@@ -5,11 +5,13 @@ tags:
   - ai
   - biotech
   - 2020
+  - infra
 keywords:
   - alphafold
   - deepmind
   - proteins
   - science
+  - can
 draft: true
 description: DeepMind's AlphaFold 2 delivered near-experimental accuracy for protein structures.
 created: 2020-12-01
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # alphafold 2 breaks protein folding logjam
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 DeepMind published AlphaFold 2 results that matched experimental protein folding accuracy, turning a 50-year biology problem into an AI benchmark ([DeepMind AlphaFold](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)). The breakthrough proves neural nets can capture complex physics.
 

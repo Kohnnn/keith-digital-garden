@@ -9,6 +9,7 @@ keywords:
   - little
   - disagreement
   - gpt3
+  - span
 draft: true
 description: Had a little disagreement with GPT-3
 created: 2022-12-30

@@ -5,11 +5,13 @@ tags:
   - hardware
   - ai
   - 2023
+  - chips
 keywords:
   - gracehopper
   - gh200
   - supply
   - hpc
+  - grace
 draft: true
 description: Nvidia started delivering Grace Hopper superchips, fusing Arm CPUs with Hopper GPUs for memory-heavy AI work.
 created: 2023-09-19
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # nvidia grace hopper systems begin shipping
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia confirmed GH200 systems are shipping to early customers, finally putting the Grace CPU + Hopper GPU combo into racks for mixture-of-expert workloads and giant vector databases ([Nvidia](https://blogs.nvidia.com/blog/2023/09/19/grace-hopper-announcement/)). The launch shows that memory bandwidth, not just FLOPS, drives AI differentiation.
 

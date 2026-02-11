@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2022
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # use of google analytics declared illegal by french data protection authority
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Use of Google Analytics declared illegal by French data protection authority surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.cnil.fr/en/use-google-analytics-and-data-transfers-united-states-cnil-orders-website-manageroperator-comply)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

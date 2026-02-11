@@ -1,11 +1,11 @@
 ---
 title: ftx bankruptcy reveals multibillion balance hole
 tags:
+  - general-note
   - tech-journal
   - crypto
   - fraud
   - governance
-  - 2022
 keywords:
   - ftx
   - bankruptcy
@@ -19,9 +19,12 @@ updated: 2022-11-11
 note_id: 221111GN65
 cssclasses:
   - tech-journal
+  - general-note
 ---
 
 # ftx bankruptcy reveals multibillion balance hole
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 FTX filed for Chapter 11 protection alongside Alameda and 130 affiliates, and Sam Bankman-Fried resigned as CEO after an $8B liquidity hole surfaced ([Reuters](https://www.reuters.com/technology/ftx-starts-us-bankruptcy-proceedings-founder-resigns-2022-11-11/)). The supposed lender of last resort became the largest liability on everyone's balance sheet.
 

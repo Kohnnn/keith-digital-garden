@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # “click to subscribe, call to cancel” is illegal, ftc says
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 “Click to subscribe, call to cancel” is illegal, FTC says surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

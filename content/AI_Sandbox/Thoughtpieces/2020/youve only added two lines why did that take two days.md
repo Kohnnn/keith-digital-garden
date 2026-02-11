@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # you've only added two lines why did that take two days?
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 You've only added two lines – why did that take two days? surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

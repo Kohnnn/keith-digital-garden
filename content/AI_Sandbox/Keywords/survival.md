@@ -2,6 +2,7 @@
 title: keyword - survival
 tags:
   - keyword-index
+  - scarcity
 draft: true
 description: Notes linked by survival.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - research-digest
   - ai
   - 2024
+  - europe
+  - trust
 keywords:
   - cocacola
   - paper

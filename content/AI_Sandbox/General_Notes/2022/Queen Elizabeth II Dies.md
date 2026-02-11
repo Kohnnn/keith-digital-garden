@@ -23,6 +23,8 @@ cssclasses:
 
 # queen elizabeth ii dies
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">monarchy</span>
   <span class="inline-keyword">succession</span>

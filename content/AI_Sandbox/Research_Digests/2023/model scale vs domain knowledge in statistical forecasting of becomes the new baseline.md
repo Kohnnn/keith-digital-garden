@@ -4,6 +4,8 @@ tags:
   - research-digest
   - ai
   - 2023
+  - knowledge
+  - systems
 keywords:
   - model
   - scale

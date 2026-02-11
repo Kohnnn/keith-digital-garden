@@ -5,6 +5,7 @@ tags:
   - finance
   - policy
   - 2021
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # a foreign seller has hijacked my amazon klein bottle listing
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 A foreign seller has hijacked my Amazon Klein bottle listing surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

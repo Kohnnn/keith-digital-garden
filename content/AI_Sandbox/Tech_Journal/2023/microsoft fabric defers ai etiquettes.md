@@ -5,10 +5,13 @@ tags:
   - ai
   - microsoft
   - 2023
+  - behavior
 keywords:
   - fabric
   - etiquette
   - ai
+  - div
+  - etiquettes
 draft: true
 description: Microsoft Fabric introduces guidelines for AI content in enterprise dashboards.
 created: 2023-12-18
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # microsoft fabric defers ai etiquettes
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Fabric now auto-labels AI-generated insights and provides default explanations honoring the tone controls similar to [[linkedin ai writer adds tone control]].
 

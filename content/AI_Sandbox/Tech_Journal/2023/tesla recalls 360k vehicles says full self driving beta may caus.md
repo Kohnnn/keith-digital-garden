@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # tesla recalls 360k vehicles, says full self driving beta may cause crashes
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html">www.cnbc.com</a> <span class="ref-title">Tesla recalls 360k vehicles, says full self-driving beta may cause crashes</span> <span class="ref-meta">2023-02-16</span></p>

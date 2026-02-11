@@ -4,11 +4,14 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
+  - trust
 keywords:
   - thinkpad
   - x2100
   - review
   - 2021
+  - span
 draft: true
 description: ThinkPad X2100 Review (2021)
 created: 2023-12-31

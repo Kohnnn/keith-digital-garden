@@ -23,6 +23,8 @@ cssclasses:
 
 # james webb fully deployed
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 NASA confirmed the James Webb Space Telescope fully deployed its mirrors and structures ([source](https://www.nasa.gov/press-release/nasa-s-webb-telescope-reaches-major-milestone-as-mirror-unfolds)). The milestone moved the mission from risk to calibration.
 

@@ -4,6 +4,7 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
 keywords:
   - when
   - our

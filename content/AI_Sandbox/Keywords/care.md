@@ -2,6 +2,8 @@
 title: keyword - care
 tags:
   - keyword-index
+  - confucianism
+  - mohism
 draft: true
 description: Notes linked by care.
 created: 2026-02-07

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2024
+  - web
+  - language
 keywords:
   - tsserver
   - web

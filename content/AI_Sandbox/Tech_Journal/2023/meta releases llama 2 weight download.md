@@ -5,11 +5,13 @@ tags:
   - ai
   - open-source
   - 2023
+  - infra
 keywords:
   - llama2
   - meta
   - weights
   - open
+  - llama
 draft: true
 description: Meta published Llama 2 weights under a permissive license, inviting commercial fine-tuning.
 created: 2023-07-18
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # meta releases llama 2 weight download
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Meta and Microsoft unveiled Llama 2, offering 7B/13B/70B parameter models for download with a commercial-friendly license ([Meta](https://ai.meta.com/llama/)). The release cements open weights as a counterweight to API-only giants.
 

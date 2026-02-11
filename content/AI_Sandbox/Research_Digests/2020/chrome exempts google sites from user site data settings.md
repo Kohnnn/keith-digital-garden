@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2020
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # chrome exempts google sites from user site data settings
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Chrome exempts Google sites from user site data settings surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://lapcatsoftware.com/articles/chrome-google.html)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

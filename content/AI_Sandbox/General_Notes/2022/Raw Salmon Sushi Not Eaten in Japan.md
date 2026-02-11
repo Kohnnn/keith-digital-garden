@@ -23,6 +23,8 @@ cssclasses:
 
 # raw salmon sushi not eaten in japan
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A thread noted that raw salmon sushi was not common in Japan until relatively recently, tied to trade and marketing history ([source](https://twitter.com/trungtphan/status/1608176899804782592)). It reframed a cultural assumption as a distribution story.
 

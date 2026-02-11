@@ -4,10 +4,14 @@ tags:
   - market-news
   - energy
   - 2023
+  - infra
+  - ai
 keywords:
   - oil
-  - red sea
+  - redsea
   - brent
+  - red
+  - sea
 draft: true
 description: Brent crude climbed near $95 as Red Sea attacks raised shipping risk premiums.
 created: 2023-07-13
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # brent rebounds on red sea attacks
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Brent crude rallied toward $95 per barrel after Houthi attacks disrupted tankers near the Red Sea, lifting risk premiums for seaborne oil ([Reuters](https://www.reuters.com/business/energy/red-sea-attacks-push-oil-prices-higher-2023-07-13/)). The bump shows geopolitics remains a primary driver of energy costs.
 

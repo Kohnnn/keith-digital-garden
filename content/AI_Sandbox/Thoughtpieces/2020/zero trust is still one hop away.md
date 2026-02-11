@@ -4,10 +4,14 @@ tags:
   - thoughtpiece
   - security
   - 2020
+  - infra
+  - ai
 keywords:
-  - zero-trust
+  - zerotrust
   - security
   - trust
+  - hop
+  - identity
 draft: true
 description: Zero trust frameworks still rely on single hop decision points.
 created: 2020-10-07
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # zero trust is still one hop away
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Despite frameworks, most deployments rely on a single identity decision, meaning the risk persists as seen in [[zoom security meltdown exposes cryptography gaps]].
 

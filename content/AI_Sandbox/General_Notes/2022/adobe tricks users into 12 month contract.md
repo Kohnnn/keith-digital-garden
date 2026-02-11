@@ -23,6 +23,8 @@ cssclasses:
 
 # adobe tricks users into 12 month contract
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 A dark patterns report claimed Adobe steered users into a 12-month contract through confusing flows ([source](https://twitter.com/darkpatterns/status/1489901640777973768)). The episode framed pricing as a trust problem.
 

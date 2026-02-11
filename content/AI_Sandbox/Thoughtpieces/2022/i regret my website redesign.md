@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - web
   - 2022
+  - product
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # i regret my website redesign
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 i regret my website redesign lands as a clean signal for the current cycle ([source](https://mtlynch.io/tinypilot-redesign/)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 

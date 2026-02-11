@@ -2,6 +2,7 @@
 title: keyword - hunger
 tags:
   - keyword-index
+  - extractivism
 draft: true
 description: Notes linked by hunger.
 created: 2026-02-07

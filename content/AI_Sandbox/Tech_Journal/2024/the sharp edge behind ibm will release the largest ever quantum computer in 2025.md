@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - ai
   - 2024
+  - infra
+  - edge
 keywords:
   - ibm
   - will

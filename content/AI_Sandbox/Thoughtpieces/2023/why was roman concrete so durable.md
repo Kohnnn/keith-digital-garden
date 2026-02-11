@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why was roman concrete so durable?
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106">news.mit.edu</a> <span class="ref-title">Why was Roman concrete so durable?</span> <span class="ref-meta">2023-01-06</span></p>

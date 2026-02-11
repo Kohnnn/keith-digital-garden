@@ -2,6 +2,9 @@
 title: keyword - liberation
 tags:
   - keyword-index
+  - hinduism
+  - samkhya
+  - reality
 draft: true
 description: Notes linked by liberation.
 created: 2026-02-07

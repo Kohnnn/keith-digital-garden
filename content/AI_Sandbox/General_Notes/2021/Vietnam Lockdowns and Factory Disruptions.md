@@ -23,6 +23,8 @@ cssclasses:
 
 # vietnam lockdowns and factory disruptions
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">vietnam</span>
   <span class="inline-keyword">lockdown</span>

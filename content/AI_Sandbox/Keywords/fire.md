@@ -2,6 +2,9 @@
 title: keyword - fire
 tags:
   - keyword-index
+  - wildfire
+  - memory
+  - zoroastrianism
 draft: true
 description: Notes linked by fire.
 created: 2026-02-07

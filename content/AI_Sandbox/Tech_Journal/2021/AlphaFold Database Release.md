@@ -23,6 +23,8 @@ cssclasses:
 
 # alphafold database release
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">ai</span>
   <span class="inline-keyword">biology</span>

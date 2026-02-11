@@ -1,11 +1,11 @@
 ---
 title: rhine drought grounds barges and factories
 tags:
+  - general-note
   - thoughtpiece
   - logistics
   - climate
   - europe
-  - 2022
 keywords:
   - rhine
   - drought
@@ -19,9 +19,12 @@ updated: 2022-08-12
 note_id: 220812GN80
 cssclasses:
   - thoughtpiece
+  - general-note
 ---
 
 # rhine drought grounds barges and factories
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Germany warned that the Rhine could hit critical low levels near Kaub, preventing barges from carrying coal, chemicals, and components just as factories face an energy crunch ([Reuters](https://www.reuters.com/world/europe/rhine-river-germany-may-hit-critical-low-water-levels-2022-08-12/)). Nature is now a supply chain actor.
 

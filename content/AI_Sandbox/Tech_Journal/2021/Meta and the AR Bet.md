@@ -6,23 +6,25 @@ tags:
   - metaverse
   - platform
   - 2021
-draft: true
-description: The rebrand signaled a long horizon compute and platform bet.
 keywords:
   - interface
   - compute
   - trust
   - developer
   - hardware
+draft: true
+description: The rebrand signaled a long horizon compute and platform bet.
 created: 2021-10-28
 updated: 2025-11-03
 note_id: 211028TJ01
 cssclasses:
   - tech-journal
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/12C4B/production/_121257867_gettyimages-1349793492.jpg"
+image: https://ichef.bbci.co.uk/news/1024/branded_news/12C4B/production/_121257867_gettyimages-1349793492.jpg
 ---
 
 # meta and the ar bet
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="keyword-row">
   <span class="inline-keyword">interface</span>

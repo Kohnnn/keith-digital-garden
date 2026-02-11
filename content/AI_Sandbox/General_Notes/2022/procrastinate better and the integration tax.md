@@ -4,9 +4,14 @@ tags:
   - general-note
   - ai
   - 2022
+  - infra
+  - science
 keywords:
   - procrastinate
   - better
+  - span
+  - class
+  - div
 draft: true
 description: Procrastinate Better
 created: 2022-12-31

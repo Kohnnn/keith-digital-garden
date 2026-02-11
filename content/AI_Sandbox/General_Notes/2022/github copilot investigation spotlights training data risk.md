@@ -23,6 +23,8 @@ cssclasses:
 
 # github copilot investigation spotlights training data risk
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 The Copilot investigation cataloged cases where AI suggestions appeared to mirror open-source code
 ([Copilot Investigation](https://githubcopilotinvestigation.com/)). The report reframed the product
 as a compliance and provenance problem, not just a productivity boost. I read it as the moment

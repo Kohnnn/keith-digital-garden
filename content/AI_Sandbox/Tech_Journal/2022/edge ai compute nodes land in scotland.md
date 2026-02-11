@@ -5,10 +5,13 @@ tags:
   - ai
   - infra
   - 2022
+  - edge
 keywords:
   - edge
   - ai
   - scotland
+  - compute
+  - div
 draft: true
 description: Scotland hosts new edge AI nodes to keep latency low for European clients.
 created: 2022-11-12
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # edge ai compute nodes land in scotland
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 A consortium built modular AI pods near Glasgow to serve UK/Europe on-prem workloads, reminiscent of how Sovereign AI Regions responded to compliance needs as reported in [[google cloud sovereign ai regions]].
 

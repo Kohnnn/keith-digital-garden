@@ -5,11 +5,13 @@ tags:
   - health
   - telehealth
   - 2020
+  - infra
 keywords:
   - telehealth
   - regulations
   - reimbursement
   - pandemic
+  - linkage
 draft: true
 description: Regulatory waivers let telehealth usage spike, forcing hospitals to retool intake virtually.
 created: 2020-04-15
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # telehealth surge rewrites medical delivery
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 CMS relaxed HIPAA enforcement and allowed audio-only visits, and telehealth claims spiked 154% in March over the previous year ([CMS Telehealth Data](https://www.cms.gov/newsroom/press-releases/cms-expands-telehealth-services-coverage-and-payments-during-coronavirus-public-health-emergency)). Clinicians and patients both discovered that digital visits work.
 

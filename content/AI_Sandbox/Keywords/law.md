@@ -2,6 +2,10 @@
 title: keyword - law
 tags:
   - keyword-index
+  - law
+  - judaism
+  - memory
+  - legalism
 draft: true
 description: Notes linked by law.
 created: 2026-02-07

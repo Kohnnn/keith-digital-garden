@@ -4,6 +4,8 @@ tags:
   - market-news
   - economy
   - 2023
+  - ai
+  - edge
 keywords:
   - steve
   - jobs

@@ -5,11 +5,13 @@ tags:
   - ai
   - cloud
   - 2023
+  - behavior
 keywords:
   - bedrock
   - ai
   - compliance
   - guardrails
+  - aws
 draft: true
 description: Bedrock’s guardrail suite now enforces explainability logs and policy checks for regulated industries.
 created: 2023-12-05
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # aws bedrock guardrails move toward compliance
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 AWS added mandatory explainability logs and policy validation hooks to Bedrock, letting regulated enterprises enforce pre-release checks before any model is invoked ([AWS](https://aws.amazon.com/blogs/machine-learning/announcing-bedrock-guardrails/)).
 

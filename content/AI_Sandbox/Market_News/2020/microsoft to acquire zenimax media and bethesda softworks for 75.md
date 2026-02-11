@@ -5,6 +5,7 @@ tags:
   - finance
   - product
   - 2020
+  - infra
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # microsoft to acquire zenimax media and bethesda softworks for $7.5b
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Microsoft to acquire ZeniMax Media and Bethesda Softworks for $7.5B surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://bethesda.net/en/article/1iLtcvwY6Nb1GeKADyDUEX/why-microsoft-is-the-perfect-fit)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

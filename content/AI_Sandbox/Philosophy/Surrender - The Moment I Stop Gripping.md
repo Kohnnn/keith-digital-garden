@@ -1,13 +1,23 @@
 ---
 title: Surrender - The Moment I Stop Gripping
-tags: [philosophy, spirituality, surrender]
-keywords: [surrender, release, trust, control, freedom]
+tags:
+  - philosophy
+  - spirituality
+  - surrender
+  - trust
+keywords:
+  - surrender
+  - release
+  - trust
+  - control
+  - freedom
 draft: true
 description: Letting go as a way to see what is actually here.
 created: 2021-06-30
 updated: 2025-12-10
 note_id: 210630SU01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Surrender - The Moment I Stop Gripping

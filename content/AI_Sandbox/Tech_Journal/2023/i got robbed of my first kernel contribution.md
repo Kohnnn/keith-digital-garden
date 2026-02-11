@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # i got robbed of my first kernel contribution
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/">ariel-miculas.github.io</a> <span class="ref-title">I got robbed of my first kernel contribution</span> <span class="ref-meta">2023-09-27</span></p>

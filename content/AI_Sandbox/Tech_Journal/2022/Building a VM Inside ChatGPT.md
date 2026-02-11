@@ -23,6 +23,8 @@ cssclasses:
 
 # building a vm inside chatgpt
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">vm</span>
   <span class="inline-keyword">prompt</span>

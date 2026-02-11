@@ -4,6 +4,8 @@ tags:
   - market-news
   - finance
   - 2023
+  - infra
+  - ai
 keywords:
   - rates
   - market
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # linux has achieved a 3% desktop market share
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

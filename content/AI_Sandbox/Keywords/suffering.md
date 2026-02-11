@@ -2,6 +2,8 @@
 title: keyword - suffering
 tags:
   - keyword-index
+  - suffering
+  - buddhism
 draft: true
 description: Notes linked by suffering.
 created: 2026-02-07

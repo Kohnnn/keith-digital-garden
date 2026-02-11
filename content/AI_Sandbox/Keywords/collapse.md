@@ -2,6 +2,7 @@
 title: keyword - collapse
 tags:
   - keyword-index
+  - collapse
 draft: true
 description: Notes linked by collapse.
 created: 2026-02-07

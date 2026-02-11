@@ -23,6 +23,8 @@ cssclasses:
 
 # unreal engine 5 first look
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Epic's first look at Unreal Engine 5 showcased real-time rendering advances and new tooling for creators ([source](https://www.unrealengine.com/en-US/blog/a-first-look-at-unreal-engine-5)). The demo moved graphics expectations forward.
 

@@ -2,6 +2,7 @@
 title: keyword - mysticism
 tags:
   - keyword-index
+  - neoplatonism
 draft: true
 description: Notes linked by mysticism.
 created: 2026-02-07

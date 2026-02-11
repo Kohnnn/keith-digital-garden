@@ -23,6 +23,8 @@ cssclasses:
 
 # us senate votes daylight saving permanent
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">time</span>
   <span class="inline-keyword">policy</span>

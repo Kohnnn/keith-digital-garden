@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2022
+  - china
 keywords:
   - how
   - china

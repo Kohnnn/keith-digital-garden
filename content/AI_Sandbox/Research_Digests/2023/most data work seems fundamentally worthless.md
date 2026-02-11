@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2023
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # most data work seems fundamentally worthless
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/">ludic.mataroa.blog</a> <span class="ref-title">Most data work seems fundamentally worthless</span> <span class="ref-meta">2023-02-27</span></p>

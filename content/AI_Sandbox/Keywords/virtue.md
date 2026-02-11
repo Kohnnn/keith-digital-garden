@@ -2,6 +2,10 @@
 title: keyword - virtue
 tags:
   - keyword-index
+  - virtue
+  - aristotle
+  - confucianism
+  - ethics
 draft: true
 description: Notes linked by virtue.
 created: 2026-02-07

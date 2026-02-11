@@ -5,6 +5,7 @@ tags:
   - finance
   - product
   - 2023
+  - ai
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # visual design rules you can safely follow
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://anthonyhobday.com/sideprojects/saferules/">anthonyhobday.com</a> <span class="ref-title">Visual design rules you can safely follow</span> <span class="ref-meta">2023-02-06</span></p>

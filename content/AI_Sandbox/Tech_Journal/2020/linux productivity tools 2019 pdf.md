@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - product
   - 2020
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # linux productivity tools (2019) [pdf]
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Linux Productivity Tools (2019) [pdf] surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

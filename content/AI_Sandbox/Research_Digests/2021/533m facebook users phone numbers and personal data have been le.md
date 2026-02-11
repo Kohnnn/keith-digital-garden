@@ -4,6 +4,8 @@ tags:
   - research-digest
   - data
   - 2021
+  - infra
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # 533m facebook users' phone numbers and personal data have been leaked online
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 533M Facebook users' phone numbers and personal data have been leaked online surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

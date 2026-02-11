@@ -2,6 +2,8 @@
 title: keyword - history
 tags:
   - keyword-index
+  - history
+  - etymology
 draft: true
 description: Notes linked by history.
 created: 2026-02-07

@@ -1,13 +1,22 @@
 ---
 title: Taoist Practice - The Way in the Body
-tags: [philosophy, taoism, religion]
-keywords: [dao, breath, balance, practice, ritual]
+tags:
+  - philosophy
+  - taoism
+  - religion
+keywords:
+  - dao
+  - breath
+  - balance
+  - practice
+  - ritual
 draft: true
 description: Taoist practice trains the body to follow the way with softness and breath.
 created: 2021-12-18
 updated: 2026-02-07
 note_id: 211218TA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Taoist Practice - The Way in the Body

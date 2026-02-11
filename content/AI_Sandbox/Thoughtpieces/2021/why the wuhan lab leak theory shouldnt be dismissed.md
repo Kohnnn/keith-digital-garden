@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why the wuhan lab leak theory shouldn't be dismissed
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Why the Wuhan lab leak theory shouldn't be dismissed surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

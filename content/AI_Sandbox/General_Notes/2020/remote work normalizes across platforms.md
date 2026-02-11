@@ -5,11 +5,13 @@ tags:
   - remote-work
   - culture
   - 2020
+  - infra
 keywords:
   - remote
   - work
   - culture
   - slack
+  - linkage
 draft: true
 description: Tech companies telling employees to stay home made remote work feel permanent.
 created: 2020-03-30
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # remote work normalizes across platforms
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Twitter, Square, and Shopify told their workforces to work from home permanently, and that narrative shifted the conversation toward computing-as-a-service ([Twitter Work From Home](https://blog.twitter.com/en_us/topics/company/2020/updates-on-covid19.html)). The sudden mass adoption highlighted how little slack existed in collaboration infrastructure.
 

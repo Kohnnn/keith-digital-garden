@@ -5,6 +5,7 @@ tags:
   - finance
   - ai
   - 2022
+  - quantum
 keywords:
   - rates
   - market
@@ -21,6 +22,8 @@ cssclasses:
 ---
 
 # nsa, nist, and post quantum crypto: my second lawsuit against the us government
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 NSA, NIST, and post-quantum crypto: my second lawsuit against the US government surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](http://blog.cr.yp.to/20220805-nsa.html)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

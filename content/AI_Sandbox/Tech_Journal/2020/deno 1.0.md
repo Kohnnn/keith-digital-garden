@@ -23,6 +23,8 @@ cssclasses:
 
 # deno 1.0
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Deno 1.0 shipped as a secure-by-default JavaScript runtime with built-in tooling ([source](https://deno.land/v1)). The release reopened the conversation about runtime defaults and developer ergonomics.
 

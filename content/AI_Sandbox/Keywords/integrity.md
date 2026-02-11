@@ -2,6 +2,7 @@
 title: keyword - integrity
 tags:
   - keyword-index
+  - cynicism
 draft: true
 description: Notes linked by integrity.
 created: 2026-02-07

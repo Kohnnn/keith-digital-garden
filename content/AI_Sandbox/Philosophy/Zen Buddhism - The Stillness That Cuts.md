@@ -1,13 +1,23 @@
 ---
 title: Zen Buddhism - The Stillness That Cuts
-tags: [philosophy, buddhism, zen]
-keywords: [zen, attention, stillness, practice, presence]
+tags:
+  - philosophy
+  - buddhism
+  - zen
+  - attention
+keywords:
+  - zen
+  - attention
+  - stillness
+  - practice
+  - presence
 draft: true
 description: Zen asks for a direct contact with life before explanations arrive.
 created: 2023-08-04
 updated: 2026-01-18
 note_id: 230804ZE01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Zen Buddhism - The Stillness That Cuts

@@ -23,6 +23,8 @@ cssclasses:
 
 # standard ebooks
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Standard Ebooks provides carefully formatted public-domain books, emphasizing typography and consistency ([source](https://standardebooks.org/)). It turns open access into a quality craft project.
 

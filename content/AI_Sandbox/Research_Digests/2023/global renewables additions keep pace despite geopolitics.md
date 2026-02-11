@@ -4,10 +4,14 @@ tags:
   - research-digest
   - energy
   - 2023
+  - infra
+  - ai
 keywords:
   - renewables
   - additions
   - energy
+  - linkage
+  - diesel
 draft: true
 description: Despite sanctions, global renewable capacity additions matched 2022 levels in 2023.
 created: 2023-10-30
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # global renewables additions keep pace despite geopolitics
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 IEA data shows 220 GW of solar and wind were added worldwide through September 2023, roughly matching last year despite supply-chain challenges from sanctions on Russia and China ([IEA Renewables](https://www.iea.org/reports/renewables-2023)). The resilience feeds energy security narratives.
 

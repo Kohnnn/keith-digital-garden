@@ -2,6 +2,9 @@
 title: keyword - habit
 tags:
   - keyword-index
+  - aristotle
+  - ethics
+  - mind
 draft: true
 description: Notes linked by habit.
 created: 2026-02-07

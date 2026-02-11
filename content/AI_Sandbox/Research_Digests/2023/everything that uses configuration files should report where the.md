@@ -4,6 +4,8 @@ tags:
   - research-digest
   - policy
   - 2023
+  - open
+  - ai
 keywords:
   - data
   - trend
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # everything that uses configuration files should report where they're located
+
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

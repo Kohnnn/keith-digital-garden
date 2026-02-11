@@ -23,6 +23,8 @@ cssclasses:
 
 # tech execs raise kids tech free
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">screens</span>
   <span class="inline-keyword">parenting</span>

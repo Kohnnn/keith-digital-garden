@@ -23,6 +23,8 @@ cssclasses:
 
 # npm joins github
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 ## scene cut
 GitHub announced it was acquiring npm, placing a core package registry under a larger platform umbrella ([source](https://github.blog/2020-03-16-npm-is-joining-github/)). The move reframed stewardship and ecosystem governance.
 

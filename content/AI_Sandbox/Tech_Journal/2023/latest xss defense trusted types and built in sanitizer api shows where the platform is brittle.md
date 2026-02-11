@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - infra
   - 2023
+  - ai
+  - defense
 keywords:
   - latest
   - xss

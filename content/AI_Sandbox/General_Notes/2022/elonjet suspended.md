@@ -23,6 +23,8 @@ cssclasses:
 
 # elonjet suspended
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The ElonJet account was suspended after tracking public jet data, reopening questions about platform policy and privacy ([source](https://twitter.com/jxcksweeney/status/1603028610209779712)). The case sits between transparency and safety.
 

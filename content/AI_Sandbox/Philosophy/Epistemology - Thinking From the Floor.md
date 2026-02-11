@@ -1,13 +1,23 @@
 ---
 title: Epistemology - Thinking From the Floor
-tags: [philosophy, epistemology, thinking]
-keywords: [knowledge, doubt, reason, evidence, truth]
+tags:
+  - philosophy
+  - epistemology
+  - thinking
+  - knowledge
+keywords:
+  - knowledge
+  - doubt
+  - reason
+  - evidence
+  - truth
 draft: true
 description: Break a belief down and rebuild it on solid ground.
 created: 2022-10-09
 updated: 2024-12-17
 note_id: 221009EP01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Epistemology - Thinking From the Floor

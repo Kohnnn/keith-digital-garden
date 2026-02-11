@@ -23,6 +23,8 @@ cssclasses:
 
 # storj removes warrant canary
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">canary</span>
   <span class="inline-keyword">privacy</span>

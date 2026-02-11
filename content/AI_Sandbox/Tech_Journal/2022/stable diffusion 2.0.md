@@ -23,6 +23,8 @@ cssclasses:
 
 # stable diffusion 2.0
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Stability AI released Stable Diffusion 2.0, updating the open image generation baseline ([source](https://stability.ai/blog/stable-diffusion-v2-release)). The release highlighted rapid iteration in public models.
 

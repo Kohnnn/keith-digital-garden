@@ -23,6 +23,8 @@ cssclasses:
 
 # github copilot investigation
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 <div class="keyword-row">
   <span class="inline-keyword">license</span>
   <span class="inline-keyword">training</span>

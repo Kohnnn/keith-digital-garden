@@ -1,13 +1,22 @@
 ---
 title: Cynicism - The Bare Truth
-tags: [philosophy, cynicism, ethics]
-keywords: [cynicism, freedom, truth, poverty, integrity]
+tags:
+  - philosophy
+  - cynicism
+  - ethics
+keywords:
+  - cynicism
+  - freedom
+  - truth
+  - poverty
+  - integrity
 draft: true
 description: Cynicism strips away status and asks me to live with less performance.
 created: 2023-02-03
 updated: 2026-02-07
 note_id: 230203CY01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Cynicism - The Bare Truth

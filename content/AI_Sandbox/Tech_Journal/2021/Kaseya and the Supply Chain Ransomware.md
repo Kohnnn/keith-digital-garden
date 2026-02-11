@@ -23,6 +23,8 @@ cssclasses:
 
 # kaseya and the supply chain ransomware
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 <div class="keyword-row">
   <span class="inline-keyword">supply</span>
   <span class="inline-keyword">managed</span>

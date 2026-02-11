@@ -2,6 +2,8 @@
 title: keyword - practice
 tags:
   - keyword-index
+  - buddhism
+  - zen
 draft: true
 description: Notes linked by practice.
 created: 2026-02-07

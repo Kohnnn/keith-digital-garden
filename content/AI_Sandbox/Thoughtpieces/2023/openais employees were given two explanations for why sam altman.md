@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2023
+  - behavior
 keywords:
   - frame
   - culture
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # openai's employees were given two explanations for why sam altman was fired
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11">www.businessinsider.com</a> <span class="ref-title">OpenAI's employees were given two explanations for why Sam Altman was fired</span> <span class="ref-meta">2023-11-20</span></p>

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2020
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # spacex successfully launches two humans into orbit
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 SpaceX successfully launches two humans into orbit surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

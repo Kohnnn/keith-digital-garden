@@ -23,6 +23,8 @@ cssclasses:
 
 # nso and the entity list
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">blacklist</span>
   <span class="inline-keyword">spyware</span>

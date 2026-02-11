@@ -2,6 +2,9 @@
 title: keyword - extraction
 tags:
   - keyword-index
+  - environmental
+  - philosophy
+  - extractivism
 draft: true
 description: Notes linked by extraction.
 created: 2026-02-07

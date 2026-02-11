@@ -23,6 +23,8 @@ cssclasses:
 
 # virgin galactic flight
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">space</span>
   <span class="inline-keyword">launch</span>

@@ -4,10 +4,14 @@ tags:
   - research-digest
   - energy
   - 2023
+  - infra
+  - ai
 keywords:
   - batteries
   - renewables
   - cost
+  - battery
+  - costs
 draft: true
 description: BloombergNEF data shows battery pack costs dropped 8% YoY, improving storage economics for renewables.
 created: 2023-10-09
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # renewable battery costs fall sharply
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 BloombergNEF reports a YoY 8% decline in average lithium-ion battery pack costs, easing one of the last barriers for variable renewables to pair with storage ([BNEF](https://about.bnef.com/blog/lithium-ion-battery-pack-prices-fall/)).
 

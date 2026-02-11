@@ -4,10 +4,14 @@ tags:
   - market-news
   - finance
   - 2023
+  - infra
+  - ai
 keywords:
   - forecast
   - goldman
   - growth
+  - fed
+  - div
 draft: true
 description: Goldman Sachs shaved its GDP forecast for 2023 amid lingering inflation.
 created: 2023-09-14
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # goldman sachs trims growth outlook
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 Goldman Sachs cut its U.S. growth forecast to 0.6% for 2023 due to sticky inflation and consumer caution, warning that corporate margins will come under pressure ([Reuters](https://www.reuters.com/markets/us/goldman-sachs-cuts-us-growth-forecast-2023-09-14/)).
 

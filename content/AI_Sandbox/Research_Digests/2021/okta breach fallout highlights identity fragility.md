@@ -5,11 +5,13 @@ tags:
   - security
   - identity
   - 2021
+  - ai
 keywords:
   - okta
   - breach
   - identity
   - supplychain
+  - customers
 draft: true
 description: Okta’s 2021 report quantified the impact of the Lapsus$ intrusion and identity supply chain risk.
 created: 2021-12-30
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # okta breach fallout highlights identity fragility
+
+*see also:* [[Security Posture]] · [[Trust in Platforms]]
 
 Okta’s post-mortem revealed that Lapsus$ accessed a third-party support engineer’s laptop for five days in January 2022, affecting roughly 366 customers—a reminder that identity providers concentrate risk ([Okta](https://www.okta.com/blog/2022/03/updated-okta-security-incident/)).
 

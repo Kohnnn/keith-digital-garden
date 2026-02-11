@@ -5,10 +5,13 @@ tags:
   - crypto
   - energy
   - 2023
+  - infra
 keywords:
   - web3
   - energy
   - ethics
+  - div
+  - linkage
 draft: true
 description: Web3 builders revisit their energy promises as proof-of-stake prevails yet new chains emerge.
 created: 2023-10-12
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # web3 energy ethics return
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 With Ethereum fully proof-of-stake and new chains touting minimal consumption, I notice the narrative loop back to ethics—the same concerns that fueled [[global carbon budget 2020 rebound warning]].
 

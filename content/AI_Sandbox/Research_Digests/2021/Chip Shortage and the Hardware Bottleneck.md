@@ -6,23 +6,25 @@ tags:
   - supply-chain
   - economy
   - 2021
-draft: true
-description: A 2021 cluster on the chip shortage, from autos to compute.
 keywords:
   - capacity
   - legacy
   - supply
   - subsidy
   - materials
+draft: true
+description: A 2021 cluster on the chip shortage, from autos to compute.
 created: 2021-08-19
 updated: 2025-09-14
 note_id: 210819RD01
 cssclasses:
   - research-digest
-image: "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1732626619&w=1920&h=1080"
+image: https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1732626619&w=1920&h=1080
 ---
 
 # chip shortage and the hardware bottleneck
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 <div class="keyword-row">
   <span class="inline-keyword">capacity</span>

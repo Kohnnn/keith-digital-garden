@@ -5,11 +5,13 @@ tags:
   - cloud
   - hardware
   - 2022
+  - ai
 keywords:
   - graviton3
   - aws
   - arm
   - ec2
+  - div
 draft: true
 description: AWS opened Graviton3 instances to all customers, promising 25% better perf-per-watt than Graviton2.
 created: 2022-05-23
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # aws graviton3 hits general availability
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Amazon announced that C7g and other Graviton3-powered instances are generally available, extending its homegrown Arm CPU strategy and widening customer adoption ([AWS News](https://aws.amazon.com/blogs/aws/new-c7g-graviton3-instances/)).
 

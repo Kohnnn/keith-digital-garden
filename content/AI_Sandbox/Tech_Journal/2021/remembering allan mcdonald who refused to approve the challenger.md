@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - product
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # remembering allan mcdonald, who refused to approve the challenger launch
+
+*see also:* [[Product Positioning]] · [[Default Settings]]
 
 Remembering Allan McDonald, who refused to approve the Challenger launch surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://text.npr.org/974534021)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

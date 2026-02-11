@@ -2,6 +2,8 @@
 title: keyword - identity
 tags:
   - keyword-index
+  - identity
+  - etymology
 draft: true
 description: Notes linked by identity.
 created: 2026-02-07

@@ -23,6 +23,8 @@ cssclasses:
 
 # httpie lost 54k stars shows repo signals fragility
 
+*see also:* [[Open Source Supply Chain]] · [[Governance Drift]]
+
 HTTPie reported losing tens of thousands of GitHub stars due to policy enforcement and cleanup
 ([HTTPie](https://httpie.io/blog/stardust)). The incident highlighted how much credibility in open
 source is tied to platform metrics. I read it as a warning that reputation can be algorithmic

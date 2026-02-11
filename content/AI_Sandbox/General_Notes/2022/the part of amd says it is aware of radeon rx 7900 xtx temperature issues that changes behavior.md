@@ -4,6 +4,8 @@ tags:
   - general-note
   - chips
   - 2022
+  - ai
+  - behavior
 keywords:
   - amd
   - says

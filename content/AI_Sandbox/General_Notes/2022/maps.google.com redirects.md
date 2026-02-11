@@ -23,6 +23,8 @@ cssclasses:
 
 # redirects are soft power on the web
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="inline-ref">
   <span class="inline-note">ref</span> <a href="https://garrit.xyz/posts/2022-11-24-smart-move-google">https://garrit.xyz/posts/2022-11-24-smart-move-google</a>
 </div>

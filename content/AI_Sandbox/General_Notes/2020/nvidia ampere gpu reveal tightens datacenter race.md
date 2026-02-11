@@ -5,11 +5,13 @@ tags:
   - hardware
   - ai
   - 2020
+  - chips
 keywords:
   - ampere
   - nvidia
   - gpu
   - ai
+  - compute
 draft: true
 description: Nvidia unveiled Ampere architecture, doubling down on AI datacenter dominance.
 created: 2020-05-14
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # nvidia ampere gpu reveal tightens datacenter race
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Nvidia announced its Ampere architecture, promising over double the FP32 performance of Turing and shipping data-center cards (A100) built for AI and HPC ([Nvidia Ampere](https://www.nvidia.com/en-us/data-center/a100/)). The reveal turned compute scarcity into a strategic fight.
 

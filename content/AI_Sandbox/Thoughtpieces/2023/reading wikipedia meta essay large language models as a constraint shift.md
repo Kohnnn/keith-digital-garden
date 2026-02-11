@@ -4,6 +4,7 @@ tags:
   - thoughtpiece
   - ai
   - 2023
+  - language
 keywords:
   - wikipedia
   - meta

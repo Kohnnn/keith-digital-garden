@@ -23,6 +23,8 @@ cssclasses:
 
 # inflation hits 9.1 percent
 
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
+
 This print felt like a ceiling test for both policy patience and consumer resilience. My read is that it locked in the rate path narrative.
 
 ## scene cut

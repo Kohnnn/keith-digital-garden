@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - hardware
   - 2022
+  - chips
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # nvidia releases open source gpu kernel modules
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 nvidia releases open-source gpu kernel modules frames a decision surface that keeps repeating across the stack ([source](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)). I see it as a reminder that incentives, not features, are doing the heavy lifting. The rest is noise.
 

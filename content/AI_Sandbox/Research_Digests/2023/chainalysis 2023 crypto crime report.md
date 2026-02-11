@@ -5,11 +5,13 @@ tags:
   - crypto
   - security
   - 2023
+  - ai
 keywords:
   - chainalysis
   - crime
   - defi
   - laundering
+  - crypto
 draft: true
 description: Chainalysis reported crypto crime volumes falling overall but DeFi hacks rising sharply in 2023.
 created: 2023-01-12
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # chainalysis 2023 crypto crime report
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Chainalysis’ 2023 Crypto Crime Report estimated illicit addresses received $20.1B in 2022, down from 2021, but DeFi hacks doubled and North Korea-linked actors grabbed the largest share ([Chainalysis](https://blog.chainalysis.com/reports/crypto-crime-report-2023/)).
 

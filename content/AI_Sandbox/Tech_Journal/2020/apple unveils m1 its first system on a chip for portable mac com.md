@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - hardware
   - 2020
+  - chips
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # apple unveils m1, its first system on a chip for portable mac computers
+
+*see also:* [[Compute Bottlenecks]] · [[Latency Budget]]
 
 Apple unveils M1, its first system-on-a-chip for portable Mac computers surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

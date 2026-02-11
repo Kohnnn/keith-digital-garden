@@ -4,9 +4,13 @@ tags:
   - tech-journal
   - chips
   - 2024
+  - ai
 keywords:
   - gpu
   - glossary
+  - span
+  - class
+  - div
 draft: true
 description: GPU Glossary
 created: 2024-12-30

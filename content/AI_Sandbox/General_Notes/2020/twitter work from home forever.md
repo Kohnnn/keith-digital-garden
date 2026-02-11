@@ -23,6 +23,8 @@ cssclasses:
 
 # twitter work from home forever
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 Twitter announced employees could work from home indefinitely, turning a crisis policy into a permanent option ([source](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever)). The move defined early norms for remote-first tech.
 

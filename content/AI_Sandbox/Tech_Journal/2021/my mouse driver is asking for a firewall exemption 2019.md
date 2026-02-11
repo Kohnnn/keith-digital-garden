@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # my mouse driver is asking for a firewall exemption (2019)
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 My mouse driver is asking for a firewall exemption (2019) surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://twitter.com/Foone/status/1146135405793669121)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 

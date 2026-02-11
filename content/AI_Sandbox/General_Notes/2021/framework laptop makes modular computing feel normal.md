@@ -23,6 +23,8 @@ cssclasses:
 
 # framework laptop makes modular computing feel normal
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 Framework introduced a modular laptop built around replaceable parts and repairability
 ([Framework](https://frame.work/blog/introducing-the-framework-laptop)). The launch repositions
 longevity as a product feature, not a hobbyist preference. I read it as a bet that repairability can

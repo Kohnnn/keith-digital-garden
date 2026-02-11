@@ -23,6 +23,8 @@ cssclasses:
 
 # google v oracle fair use resets api boundaries
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 The Supreme Court ruled that Google's reuse of Java API declarations qualifies as fair use, ending a
 long-running legal cloud over compatibility work ([Supreme Court](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)).
 The win is less about Google and more about whether builders can rely on shared interfaces without

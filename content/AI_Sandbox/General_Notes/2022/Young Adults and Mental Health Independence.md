@@ -23,6 +23,8 @@ cssclasses:
 
 # young adults and mental health independence
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">mental</span>
   <span class="inline-keyword">independence</span>

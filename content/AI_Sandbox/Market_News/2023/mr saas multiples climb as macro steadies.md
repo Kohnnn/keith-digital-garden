@@ -4,10 +4,14 @@ tags:
   - market-news
   - markets
   - 2023
+  - economy
+  - ai
 keywords:
   - saas
   - multiples
   - macro
+  - div
+  - fed
 draft: true
 description: SaaS valuations ticked up 5% after macro data suggested a slower pace of hikes.
 created: 2023-12-08
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # mr saas multiples climb as macro steadies
+
+*see also:* [[Capital Cycles]] · [[Risk Appetite]]
 
 SaaS public comps jumped ~5% after soft labor data and cooler CPI expectations signaled rate stability, leading investors to re-rate recurring revenue stocks ([FT](https://www.ft.com/content/saas-multiples-2023)).
 

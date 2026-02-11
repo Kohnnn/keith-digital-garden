@@ -1,13 +1,23 @@
 ---
 title: Abstraction - The Idea That Floats
-tags: [philosophy, metaphysics, abstraction]
-keywords: [abstraction, concept, language, mind, knowledge]
+tags:
+  - philosophy
+  - metaphysics
+  - abstraction
+  - language
+keywords:
+  - abstraction
+  - concept
+  - language
+  - mind
+  - knowledge
 draft: true
 description: How my mind turns lived mess into clean shapes.
 created: 2021-11-21
 updated: 2025-08-12
 note_id: 211121AB01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Abstraction - The Idea That Floats

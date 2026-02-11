@@ -23,6 +23,8 @@ cssclasses:
 
 # google search is dying
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 The essay argued that search feels less useful and more gamed, pointing to a steady decline in relevance and trust ([source](https://dkb.io/post/google-search-is-dying)). The takeaway is not a single bug, but a long erosion of confidence in discovery.
 

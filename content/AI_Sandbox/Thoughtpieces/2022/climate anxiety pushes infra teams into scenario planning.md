@@ -5,11 +5,13 @@ tags:
   - climate
   - infrastructure
   - 2022
+  - infra
 keywords:
   - climate
   - scenario
   - planning
   - anxiety
+  - div
 draft: true
 description: Every climate headline now drives infrastructure teams to run scenario drills, not just spreadsheets.
 created: 2022-08-05
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # climate anxiety pushes infra teams into scenario planning
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 When Europe’s rivers fell and the US grid strained last summer, operations teams I work with started running tabletop exercises about heat, drought, and floods. Anxiety flipped into scenario planning.
 

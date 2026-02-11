@@ -2,6 +2,8 @@
 title: keyword - clarity
 tags:
   - keyword-index
+  - nyaya
+  - pyrrhonism
 draft: true
 description: Notes linked by clarity.
 created: 2026-02-07

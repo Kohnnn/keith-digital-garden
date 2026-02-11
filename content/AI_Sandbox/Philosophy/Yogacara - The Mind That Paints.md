@@ -1,13 +1,22 @@
 ---
 title: Yogacara - The Mind That Paints
-tags: [philosophy, buddhism, mind]
-keywords: [mind, perception, habit, consciousness, compassion]
+tags:
+  - philosophy
+  - buddhism
+  - mind
+keywords:
+  - mind
+  - perception
+  - habit
+  - consciousness
+  - compassion
 draft: true
 description: Yogacara claims experience is structured by mind and habit.
 created: 2022-09-30
 updated: 2026-01-25
 note_id: 220930YO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Yogacara - The Mind That Paints

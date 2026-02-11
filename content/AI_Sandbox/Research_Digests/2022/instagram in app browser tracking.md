@@ -23,6 +23,8 @@ cssclasses:
 
 # instagram in app browser tracking
 
+*see also:* [[Product Positioning]] · [[Default Settings]]
+
 This teardown reads like a quiet warning about how much control in-app browsers hold. My read is that visibility still lags behavior.
 
 ## scene cut

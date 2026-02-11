@@ -23,6 +23,8 @@ cssclasses:
 
 # aukus and the alliance reset
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">alliance</span>
   <span class="inline-keyword">geopolitics</span>

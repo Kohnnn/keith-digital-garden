@@ -2,6 +2,8 @@
 title: keyword - repair
 tags:
   - keyword-index
+  - repair
+  - justice
 draft: true
 description: Notes linked by repair.
 created: 2026-02-07

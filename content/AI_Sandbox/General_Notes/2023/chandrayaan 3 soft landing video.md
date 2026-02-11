@@ -4,6 +4,8 @@ tags:
   - general-note
   - policy
   - 2023
+  - infra
+  - ai
 keywords:
   - signal
   - context
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # chandrayaan 3 soft landing [video]
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 <blockquote class="quotes inline-ref">
   <p><span class="inline-note">ref</span> <a class="ref-link" href="https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html">www.isro.gov.in</a> <span class="ref-title">Chandrayaan-3 Soft-landing [video]</span> <span class="ref-meta">2023-08-23</span></p>

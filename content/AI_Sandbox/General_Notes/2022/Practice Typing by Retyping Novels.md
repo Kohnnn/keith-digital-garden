@@ -23,6 +23,8 @@ cssclasses:
 
 # practice typing by retyping novels
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 TypeLit turns classic novels into typing practice, emphasizing long-form repetition over drills ([source](https://www.typelit.io/)). It reframes skill building as immersion rather than metrics.
 

@@ -4,6 +4,8 @@ tags:
   - tech-journal
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - release
   - tooling
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # “they introduce kernel bugs on purpose”
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 “they introduce kernel bugs on purpose” frames a decision surface that keeps repeating across the stack ([source](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)). I see it as a reminder that incentives, not features, are doing the heavy lifting. The rest is noise.
 

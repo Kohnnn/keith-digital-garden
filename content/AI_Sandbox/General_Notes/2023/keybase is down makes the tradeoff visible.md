@@ -4,9 +4,13 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
 keywords:
   - keybase
   - down
+  - span
+  - class
+  - div
 draft: true
 description: Keybase Is Down
 created: 2023-12-31

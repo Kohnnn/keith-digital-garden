@@ -4,10 +4,14 @@ tags:
   - market-news
   - logistics
   - 2023
+  - ai
+  - demand
 keywords:
   - airfreight
   - demand
   - prices
+  - linkage
+  - div
 draft: true
 description: Airline cargo rates jumped again as retailers accelerate holiday shipping.
 created: 2023-11-21
@@ -18,6 +22,8 @@ cssclasses:
 ---
 
 # mr airfreight prices confirm demand bump
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 The TAC airfreight index climbed 9% week-over-week as retailers pulled forward holiday inventory, confirming the rebound flagged earlier in [[global airfreight index rebounds amid e-commerce]].
 

@@ -2,6 +2,8 @@
 title: keyword - choice
 tags:
   - keyword-index
+  - ethics
+  - zoroastrianism
 draft: true
 description: Notes linked by choice.
 created: 2026-02-07

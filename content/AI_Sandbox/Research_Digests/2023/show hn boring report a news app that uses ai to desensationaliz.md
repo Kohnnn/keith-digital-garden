@@ -4,6 +4,7 @@ tags:
   - research-digest
   - ai
   - 2023
+  - behavior
 keywords:
   - data
   - trend
@@ -20,6 +21,8 @@ cssclasses:
 ---
 
 # show hn: boring report, a news app that uses ai to desensationalize the news
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>

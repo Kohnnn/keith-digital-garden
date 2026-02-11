@@ -2,6 +2,7 @@
 title: keyword - value
 tags:
   - keyword-index
+  - aesthetics
 draft: true
 description: Notes linked by value.
 created: 2026-02-07

@@ -23,6 +23,8 @@ cssclasses:
 
 # brute force colors
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## context shard
 A demo explored the Amiga HAM color mode by brute-forcing palette combinations ([source](https://arnaud-carre.github.io/2022-12-30-amiga-ham/)). It turned constraint into a visual experiment.
 

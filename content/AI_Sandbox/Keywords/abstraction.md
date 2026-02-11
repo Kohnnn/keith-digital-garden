@@ -2,6 +2,7 @@
 title: keyword - abstraction
 tags:
   - keyword-index
+  - abstraction
 draft: true
 description: Notes linked by abstraction.
 created: 2026-02-07

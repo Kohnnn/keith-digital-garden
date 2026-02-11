@@ -23,6 +23,8 @@ cssclasses:
 
 # self hosting email surrender reveals infrastructure gravity
 
+*see also:* [[LLMs]] · [[Model Behavior]]
+
 After self-hosting email for decades, a developer shut it down and moved to a provider
 ([source](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)).
 The post captures how deliverability and abuse controls have become a permanent ops tax. I read it as

@@ -1,13 +1,23 @@
 ---
 title: Memetics - The Idea That Eats Me
-tags: [philosophy, memetics, culture]
-keywords: [ideas, contagion, culture, evolution, mind]
+tags:
+  - philosophy
+  - memetics
+  - culture
+  - contagion
+keywords:
+  - ideas
+  - contagion
+  - culture
+  - evolution
+  - mind
 draft: true
 description: I am not just thinking ideas; ideas are also thinking me.
 created: 2023-01-19
 updated: 2025-09-21
 note_id: 230119ME01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Memetics - The Idea That Eats Me

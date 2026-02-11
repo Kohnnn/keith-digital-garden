@@ -1,13 +1,22 @@
 ---
 title: Ethics - Prudence is a Muscle
-tags: [philosophy, ethics, virtue]
-keywords: [ethics, virtue, choice, responsibility, habit]
+tags:
+  - philosophy
+  - ethics
+  - virtue
+keywords:
+  - ethics
+  - virtue
+  - choice
+  - responsibility
+  - habit
 draft: true
 description: Practical wisdom is slow, but it keeps my life honest.
 created: 2023-03-16
 updated: 2025-07-08
 note_id: 230316ET01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Ethics - Prudence is a Muscle

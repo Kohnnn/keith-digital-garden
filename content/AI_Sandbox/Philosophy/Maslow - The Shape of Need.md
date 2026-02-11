@@ -1,13 +1,23 @@
 ---
 title: Maslow - The Shape of Need
-tags: [philosophy, psychology, needs]
-keywords: [needs, motivation, growth, psychology, self]
+tags:
+  - philosophy
+  - psychology
+  - needs
+  - growth
+keywords:
+  - needs
+  - motivation
+  - growth
+  - psychology
+  - self
 draft: true
 description: The order of my needs shapes the order of my life.
 created: 2021-10-14
 updated: 2025-12-12
 note_id: 211014MA01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Maslow - The Shape of Need

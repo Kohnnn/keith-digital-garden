@@ -4,9 +4,13 @@ tags:
   - general-note
   - infra
   - 2023
+  - ai
 keywords:
   - brillouin
   - zone
+  - span
+  - class
+  - div
 draft: true
 description: Brillouin Zone
 created: 2023-12-31

@@ -23,6 +23,8 @@ cssclasses:
 
 # elizabeth holmes found guilty
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">fraud</span>
   <span class="inline-keyword">trial</span>

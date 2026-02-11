@@ -4,6 +4,8 @@ tags:
   - thoughtpiece
   - policy
   - 2021
+  - infra
+  - ai
 keywords:
   - frame
   - culture
@@ -20,6 +22,8 @@ cssclasses:
 ---
 
 # why lichess will always be free
+
+*see also:* [[Latency Budget]] · [[Platform Risk]]
 
 why lichess will always be free lands as a clean signal for the current cycle ([source](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free)). The point is not the news itself but the behavioral drift it exposes. I care about what becomes default after the dust settles.
 

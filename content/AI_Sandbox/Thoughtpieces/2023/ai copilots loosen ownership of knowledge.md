@@ -5,10 +5,13 @@ tags:
   - ai
   - knowledge
   - 2023
+  - behavior
 keywords:
   - copilots
   - knowledge
   - sovereignty
+  - ownership
+  - div
 draft: true
 description: Copilots are making knowledge feel communal rather than owned by experts.
 created: 2023-07-18
@@ -19,6 +22,8 @@ cssclasses:
 ---
 
 # ai copilots loosen ownership of knowledge
+
+*see also:* [[LLMs]] · [[Model Behavior]]
 
 Every AI assistant that can read a stack overflow thread and answer a question is shifting how I think about belief ownership; the models blend my context with public texts, diffusing the sense that knowledge belongs to one person.
 

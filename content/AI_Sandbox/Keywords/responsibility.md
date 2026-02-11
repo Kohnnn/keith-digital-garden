@@ -2,6 +2,9 @@
 title: keyword - responsibility
 tags:
   - keyword-index
+  - environmental
+  - philosophy
+  - ethics
 draft: true
 description: Notes linked by responsibility.
 created: 2026-02-07

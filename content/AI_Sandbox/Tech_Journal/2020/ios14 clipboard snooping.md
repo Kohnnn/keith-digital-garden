@@ -23,6 +23,8 @@ cssclasses:
 
 # ios14 clipboard snooping
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 iOS14 exposed that TikTok and other apps were reading clipboard data, a behavior revealed through system notifications ([source](https://twitter.com/jeremyburge/status/1275896482433040386)). The moment turned a hidden behavior into a public privacy signal.
 

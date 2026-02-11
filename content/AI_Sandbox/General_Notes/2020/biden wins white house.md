@@ -23,6 +23,8 @@ cssclasses:
 
 # biden wins white house
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 ## scene cut
 The Associated Press called the election for Joe Biden, marking a shift in U.S. leadership and policy direction ([source](https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9)). The moment tested institutional legitimacy and transition stability.
 

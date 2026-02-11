@@ -23,6 +23,8 @@ cssclasses:
 
 # sunsetting atom
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 I read the Atom sunset as a reminder that tooling lifecycles are real even for beloved products. It felt like a governance choice more than a purely technical one.
 
 ## scene cut

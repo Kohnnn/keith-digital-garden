@@ -2,6 +2,7 @@
 title: keyword - voice
 tags:
   - keyword-index
+  - ethics
 draft: true
 description: Notes linked by voice.
 created: 2026-02-07

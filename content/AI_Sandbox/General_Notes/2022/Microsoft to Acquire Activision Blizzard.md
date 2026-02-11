@@ -23,6 +23,8 @@ cssclasses:
 
 # microsoft to acquire activision blizzard
 
+*see also:* [[Latency Budget]] · [[Platform Risk]]
+
 <div class="keyword-row">
   <span class="inline-keyword">acquisition</span>
   <span class="inline-keyword">gaming</span>

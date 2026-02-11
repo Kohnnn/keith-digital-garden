@@ -4,10 +4,13 @@ tags:
   - general-note
   - ai
   - 2022
+  - politics
 keywords:
   - criminal
   - politics
   - pain
+  - span
+  - class
 draft: true
 description: The Criminal Politics of Pain
 created: 2022-12-31

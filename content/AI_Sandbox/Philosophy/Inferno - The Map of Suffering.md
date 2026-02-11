@@ -1,13 +1,22 @@
 ---
 title: Inferno - The Map of Suffering
-tags: [philosophy, ethics, suffering]
-keywords: [suffering, morality, punishment, fear, descent]
+tags:
+  - philosophy
+  - ethics
+  - suffering
+keywords:
+  - suffering
+  - morality
+  - punishment
+  - fear
+  - descent
 draft: true
 description: Hell is a mirror for the choices I keep making.
 created: 2021-12-19
 updated: 2025-12-10
 note_id: 211219IN01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Inferno - The Map of Suffering

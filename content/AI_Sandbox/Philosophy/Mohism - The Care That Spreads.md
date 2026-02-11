@@ -1,13 +1,22 @@
 ---
 title: Mohism - The Care That Spreads
-tags: [philosophy, mohism, ethics]
-keywords: [care, impartiality, ethics, utility, peace]
+tags:
+  - philosophy
+  - mohism
+  - ethics
+keywords:
+  - care
+  - impartiality
+  - ethics
+  - utility
+  - peace
 draft: true
 description: Mohism argues that care should be impartial, practical, and public.
 created: 2021-11-22
 updated: 2026-01-20
 note_id: 211122MO01
-cssclasses: [philo-dump]
+cssclasses:
+  - philo-dump
 ---
 
 # Mohism - The Care That Spreads

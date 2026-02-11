@@ -4,11 +4,13 @@ tags:
   - thoughtpiece
   - infra
   - 2023
+  - ai
 keywords:
   - how
   - drop
   - out
   - 2004
+  - span
 draft: true
 description: How to Drop Out (2004)
 created: 2023-12-31

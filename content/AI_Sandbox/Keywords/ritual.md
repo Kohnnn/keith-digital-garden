@@ -2,6 +2,10 @@
 title: keyword - ritual
 tags:
   - keyword-index
+  - egypt
+  - river
+  - confucianism
+  - maya
 draft: true
 description: Notes linked by ritual.
 created: 2026-02-07

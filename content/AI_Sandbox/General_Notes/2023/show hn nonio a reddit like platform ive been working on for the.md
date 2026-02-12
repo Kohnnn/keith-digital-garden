@@ -1,5 +1,5 @@
 ---
-title: show hn: non.io, a reddit like platform ive been working on for the last 4 years
+title: "show hn: non.io, a reddit like platform ive been working on for the last 4 years"
 tags:
   - general-note
   - policy
@@ -13,7 +13,7 @@ keywords:
   - trust
   - risk
 draft: true
-description: Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years as a signal about broader shifts.
+description: "Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years as a signal about broader shifts."
 created: 2023-06-12
 updated: 2023-06-12
 note_id: 230612GN01

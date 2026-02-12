@@ -1,5 +1,5 @@
 ---
-title: climate change: ipcc report is 'code red for humanity
+title: "climate change: ipcc report is 'code red for humanity"
 tags:
   - research-digest
   - policy
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Climate change: IPCC report is 'code red for humanity' as a signal about broader shifts.
+description: "Climate change: IPCC report is 'code red for humanity' as a signal about broader shifts."
 created: 2021-08-09
 updated: 2021-08-09
 note_id: 210809RD02

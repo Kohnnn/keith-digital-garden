@@ -12,5 +12,7 @@ note_id: 260207KW71
 # keyword - inference
 
 - [[Intentional Stance - The Shortcut I Live By]]
+- [[weekly-market-report-2021-W06]]
+- [[weekly-market-report-2021-W18]]
 
 #

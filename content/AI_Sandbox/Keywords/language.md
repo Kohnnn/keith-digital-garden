@@ -17,5 +17,6 @@ note_id: 260207KW78
 - [[Abstraction - The Idea That Floats]]
 - [[Etymology - The Trail Inside Words]]
 - [[Logical Tautology - When It Says Nothing and Still Works]]
+- [[weekly-market-report-2021-W34]]
 
 #

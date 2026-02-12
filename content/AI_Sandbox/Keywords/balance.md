@@ -19,5 +19,15 @@ note_id: 260207KW09
 - [[Aristotle - The Mean I Miss]]
 - [[Daoism - The Strength of Softness]]
 - [[Taoist Practice - The Way in the Body]]
+- [[weekly-market-report-2021-W04]]
+- [[weekly-market-report-2021-W08]]
+- [[weekly-market-report-2021-W12]]
+- [[weekly-market-report-2021-W17]]
+- [[weekly-market-report-2021-W22]]
+- [[weekly-market-report-2021-W27]]
+- [[weekly-market-report-2021-W32]]
+- [[weekly-market-report-2021-W41]]
+- [[weekly-market-report-2021-W47]]
+- [[weekly-market-report-2021-W52]]
 
 #

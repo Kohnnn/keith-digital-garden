@@ -1,5 +1,5 @@
 ---
-title: nsa, nist, and post quantum crypto: my second lawsuit against the us government
+title: "nsa, nist, and post quantum crypto: my second lawsuit against the us government"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: NSA, NIST, and post-quantum crypto: my second lawsuit against the US government as a signal about broader shifts.
+description: "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government as a signal about broader shifts."
 created: 2022-08-05
 updated: 2022-08-05
 note_id: 220805MR02

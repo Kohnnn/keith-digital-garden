@@ -14,5 +14,6 @@ note_id: 260207KW129
 # keyword - skepticism
 
 - [[Pyrrhonism - The Peace of Suspension]]
+- [[weekly-market-report-2021-W35]]
 
 #

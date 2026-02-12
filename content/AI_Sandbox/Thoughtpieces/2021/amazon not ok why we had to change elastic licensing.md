@@ -1,5 +1,5 @@
 ---
-title: amazon: not ok why we had to change elastic licensing
+title: "amazon: not ok why we had to change elastic licensing"
 tags:
   - thoughtpiece
   - policy
@@ -13,7 +13,7 @@ keywords:
   - power
   - choice
 draft: true
-description: Amazon: Not OK – Why we had to change Elastic licensing as a signal about broader shifts.
+description: "Amazon: Not OK – Why we had to change Elastic licensing as a signal about broader shifts."
 created: 2021-01-19
 updated: 2021-01-19
 note_id: 210119TP02

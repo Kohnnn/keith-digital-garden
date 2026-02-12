@@ -12,7 +12,7 @@ keywords:
   - jobs
   - apply
 draft: true
-description: Show HN: Obsess Jobs – Apply to jobs in your sleep
+description: "Show HN: Obsess Jobs – Apply to jobs in your sleep"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231MR03

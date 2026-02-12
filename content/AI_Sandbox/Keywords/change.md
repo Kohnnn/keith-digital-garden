@@ -14,5 +14,11 @@ note_id: 260207KW13
 
 - [[Evolutionary Theory - The Long Pressure]]
 - [[River - The Long Witness]]
+- [[weekly-market-report-2021-W18]]
+- [[weekly-market-report-2021-W29]]
+- [[weekly-market-report-2021-W38]]
+- [[weekly-market-report-2021-W40]]
+- [[weekly-market-report-2021-W44]]
+- [[weekly-market-report-2021-W48]]
 
 #

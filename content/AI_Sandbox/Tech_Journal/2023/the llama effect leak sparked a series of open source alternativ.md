@@ -1,5 +1,5 @@
 ---
-title: the llama effect: leak sparked a series of open source alternatives to chatgpt
+title: "the llama effect: leak sparked a series of open source alternatives to chatgpt"
 tags:
   - tech-journal
   - ai
@@ -13,7 +13,7 @@ keywords:
   - latency
   - workflow
 draft: true
-description: The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT as a signal about broader shifts.
+description: "The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT as a signal about broader shifts."
 created: 2023-04-09
 updated: 2023-04-09
 note_id: 230409TJ01

@@ -1,5 +1,5 @@
 ---
-title: apple vision pro: apple’s first spatial computer
+title: "apple vision pro: apple’s first spatial computer"
 tags:
   - general-note
   - policy
@@ -13,7 +13,7 @@ keywords:
   - trust
   - risk
 draft: true
-description: Apple Vision Pro: Apple’s first spatial computer as a signal about broader shifts.
+description: "Apple Vision Pro: Apple’s first spatial computer as a signal about broader shifts."
 created: 2023-06-05
 updated: 2023-06-05
 note_id: 230605GN02

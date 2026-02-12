@@ -1,5 +1,5 @@
 ---
-title: i destroyed the company's db by anton zaides: small event, wide surface
+title: "i destroyed the company's db by anton zaides: small event, wide surface"
 tags:
   - general-note
   - ai

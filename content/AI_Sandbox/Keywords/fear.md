@@ -15,5 +15,10 @@ note_id: 260207KW49
 
 - [[Epicureanism - The Garden of Enough]]
 - [[Inferno - The Map of Suffering]]
+- [[weekly-market-report-2021-W02]]
+- [[weekly-market-report-2021-W11]]
+- [[weekly-market-report-2021-W15]]
+- [[weekly-market-report-2021-W19]]
+- [[weekly-market-report-2021-W28]]
 
 #

@@ -11,7 +11,7 @@ keywords:
   - ai
   - transcription
 draft: true
-description: UniScribe: Fast, Accurate AI Transcription
+description: "UniScribe: Fast, Accurate AI Transcription"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231GN13

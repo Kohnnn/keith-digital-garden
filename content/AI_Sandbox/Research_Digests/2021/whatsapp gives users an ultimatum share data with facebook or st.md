@@ -1,5 +1,5 @@
 ---
-title: whatsapp gives users an ultimatum: share data with facebook or stop using app
+title: "whatsapp gives users an ultimatum: share data with facebook or stop using app"
 tags:
   - research-digest
   - data
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: WhatsApp gives users an ultimatum: Share data with Facebook or stop using app as a signal about broader shifts.
+description: "WhatsApp gives users an ultimatum: Share data with Facebook or stop using app as a signal about broader shifts."
 created: 2021-01-06
 updated: 2021-01-06
 note_id: 210106RD03

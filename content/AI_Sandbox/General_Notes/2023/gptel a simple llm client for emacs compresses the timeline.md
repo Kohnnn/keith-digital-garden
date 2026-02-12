@@ -1,5 +1,5 @@
 ---
-title: reading gptel: a simple llm client for emacs as a constraint shift
+title: "reading gptel: a simple llm client for emacs as a constraint shift"
 tags:
   - general-note
   - ai
@@ -11,7 +11,7 @@ keywords:
   - client
   - emacs
 draft: true
-description: Gptel: A simple LLM client for Emacs
+description: "Gptel: A simple LLM client for Emacs"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231GN15

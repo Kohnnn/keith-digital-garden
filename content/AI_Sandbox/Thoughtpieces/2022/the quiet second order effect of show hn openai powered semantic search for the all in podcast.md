@@ -12,7 +12,7 @@ keywords:
   - semantic
   - search
 draft: true
-description: Show HN: OpenAI-powered semantic search for the All-In Podcast
+description: "Show HN: OpenAI-powered semantic search for the All-In Podcast"
 created: 2022-12-30
 updated: 2022-12-30
 note_id: 221230TP02

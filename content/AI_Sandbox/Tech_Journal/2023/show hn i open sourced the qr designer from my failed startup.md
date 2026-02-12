@@ -1,5 +1,5 @@
 ---
-title: show hn: i open sourced the qr designer from my failed startup
+title: "show hn: i open sourced the qr designer from my failed startup"
 tags:
   - tech-journal
   - ai
@@ -13,7 +13,7 @@ keywords:
   - latency
   - workflow
 draft: true
-description: Show HN: I open sourced the QR designer from my failed startup as a signal about broader shifts.
+description: "Show HN: I open sourced the QR designer from my failed startup as a signal about broader shifts."
 created: 2023-05-30
 updated: 2023-05-30
 note_id: 230530TJ01

@@ -19,5 +19,7 @@ note_id: 260207KW24
 - [[Legalism - Order Without Warmth]]
 - [[Stoicism - The Weather Inside]]
 - [[Surrender - The Moment I Stop Gripping]]
+- [[weekly-market-report-2021-W03]]
+- [[weekly-market-report-2021-W13]]
 
 #

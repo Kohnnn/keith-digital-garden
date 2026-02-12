@@ -12,7 +12,7 @@ keywords:
   - large
   - language
 draft: true
-description: Wikipedia [meta essay]: Large language models
+description: "Wikipedia [meta essay]: Large language models"
 created: 2023-12-30
 updated: 2023-12-30
 note_id: 231230TP03

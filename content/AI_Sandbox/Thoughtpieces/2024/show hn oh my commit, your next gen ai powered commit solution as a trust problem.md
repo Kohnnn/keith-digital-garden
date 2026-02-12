@@ -12,7 +12,7 @@ keywords:
   - my
   - commit
 draft: true
-description: Show HN: Oh My Commit, Your Next-Gen AI-Powered Commit Solution
+description: "Show HN: Oh My Commit, Your Next-Gen AI-Powered Commit Solution"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231TP07

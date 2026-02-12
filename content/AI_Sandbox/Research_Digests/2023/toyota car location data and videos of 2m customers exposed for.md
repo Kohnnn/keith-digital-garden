@@ -1,5 +1,5 @@
 ---
-title: toyota: car location data and videos of 2m customers exposed for ten years
+title: "toyota: car location data and videos of 2m customers exposed for ten years"
 tags:
   - research-digest
   - data
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Toyota: Car location data and videos of 2M customers exposed for ten years as a signal about broader shifts.
+description: "Toyota: Car location data and videos of 2M customers exposed for ten years as a signal about broader shifts."
 created: 2023-05-12
 updated: 2023-05-12
 note_id: 230512RD01

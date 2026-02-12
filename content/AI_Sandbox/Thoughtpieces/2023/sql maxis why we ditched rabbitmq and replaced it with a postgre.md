@@ -1,5 +1,5 @@
 ---
-title: sql maxis: why we ditched rabbitmq and replaced it with a postgres queue
+title: "sql maxis: why we ditched rabbitmq and replaced it with a postgres queue"
 tags:
   - thoughtpiece
   - policy
@@ -13,7 +13,7 @@ keywords:
   - power
   - choice
 draft: true
-description: SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue as a signal about broader shifts.
+description: "SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue as a signal about broader shifts."
 created: 2023-04-11
 updated: 2023-04-11
 note_id: 230411TP01

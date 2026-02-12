@@ -1,5 +1,5 @@
 ---
-title: uk: food inflation rises to 18.2% as it hits highest rate in over 45 years
+title: "uk: food inflation rises to 18.2% as it hits highest rate in over 45 years"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years as a signal about broader shifts.
+description: "UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years as a signal about broader shifts."
 created: 2023-03-24
 updated: 2023-03-24
 note_id: 230324MR01

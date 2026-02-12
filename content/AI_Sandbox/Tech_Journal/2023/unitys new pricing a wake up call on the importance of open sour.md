@@ -1,5 +1,5 @@
 ---
-title: unity’s new pricing: a wake up call on the importance of open source
+title: "unity’s new pricing: a wake up call on the importance of open source"
 tags:
   - tech-journal
   - policy
@@ -13,7 +13,7 @@ keywords:
   - latency
   - workflow
 draft: true
-description: Unity’s new pricing: A wake-up call on the importance of open source as a signal about broader shifts.
+description: "Unity’s new pricing: A wake-up call on the importance of open source as a signal about broader shifts."
 created: 2023-09-15
 updated: 2023-09-15
 note_id: 230915TJ01

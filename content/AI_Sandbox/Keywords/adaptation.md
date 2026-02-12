@@ -12,5 +12,8 @@ note_id: 260207KW02
 # keyword - adaptation
 
 - [[Evolutionary Theory - The Long Pressure]]
+- [[weekly-market-report-2021-W04]]
+- [[weekly-market-report-2021-W22]]
+- [[weekly-market-report-2021-W26]]
 
 #

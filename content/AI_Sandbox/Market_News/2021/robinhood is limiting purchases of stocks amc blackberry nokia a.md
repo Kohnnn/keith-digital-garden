@@ -1,5 +1,5 @@
 ---
-title: robinhood is limiting purchases of stocks: amc, blackberry, nokia, and gamestop
+title: "robinhood is limiting purchases of stocks: amc, blackberry, nokia, and gamestop"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: Robinhood is limiting purchases of stocks: AMC, Blackberry, Nokia, and GameStop as a signal about broader shifts.
+description: "Robinhood is limiting purchases of stocks: AMC, Blackberry, Nokia, and GameStop as a signal about broader shifts."
 created: 2021-01-28
 updated: 2021-01-28
 note_id: 210128MR02

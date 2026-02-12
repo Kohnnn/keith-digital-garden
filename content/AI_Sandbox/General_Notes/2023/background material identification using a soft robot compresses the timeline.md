@@ -1,5 +1,5 @@
 ---
-title: background material identification using a soft robot: small event, wide surface
+title: "background material identification using a soft robot: small event, wide surface"
 tags:
   - general-note
   - infra

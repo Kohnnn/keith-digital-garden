@@ -1,5 +1,5 @@
 ---
-title: make a video: ai system that generates videos from text
+title: "make a video: ai system that generates videos from text"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: Make-A-Video: AI system that generates videos from text as a signal about broader shifts.
+description: "Make-A-Video: AI system that generates videos from text as a signal about broader shifts."
 created: 2022-09-29
 updated: 2022-09-29
 note_id: 220929MR02

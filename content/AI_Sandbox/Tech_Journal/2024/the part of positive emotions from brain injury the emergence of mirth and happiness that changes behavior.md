@@ -12,7 +12,7 @@ keywords:
   - injury
   - emergence
 draft: true
-description: Positive Emotions from Brain Injury: The Emergence of Mirth and Happiness (2020)
+description: "Positive Emotions from Brain Injury: The Emergence of Mirth and Happiness (2020)"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231TJ07

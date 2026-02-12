@@ -11,7 +11,7 @@ keywords:
   - back
   - up
 draft: true
-description: Show HN: Automatically back up ChatGPT fine tune datasets
+description: "Show HN: Automatically back up ChatGPT fine tune datasets"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231RD04

@@ -11,7 +11,7 @@ keywords:
   - chatgpt
   - app
 draft: true
-description: Show HN: Building a ChatGPT App with the Help of ChatGPT
+description: "Show HN: Building a ChatGPT App with the Help of ChatGPT"
 created: 2022-12-30
 updated: 2022-12-30
 note_id: 221230TP01

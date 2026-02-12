@@ -12,7 +12,7 @@ keywords:
   - opensourced
   - my
 draft: true
-description: Show HN: I Open-sourced my SaaS that translates and visualizes menus with AI
+description: "Show HN: I Open-sourced my SaaS that translates and visualizes menus with AI"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231TP08

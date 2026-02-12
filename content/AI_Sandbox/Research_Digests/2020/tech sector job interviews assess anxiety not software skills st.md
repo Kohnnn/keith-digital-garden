@@ -1,5 +1,5 @@
 ---
-title: tech sector job interviews assess anxiety, not software skills: study
+title: "tech sector job interviews assess anxiety, not software skills: study"
 tags:
   - research-digest
   - policy
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Tech sector job interviews assess anxiety, not software skills: study as a signal about broader shifts.
+description: "Tech sector job interviews assess anxiety, not software skills: study as a signal about broader shifts."
 created: 2020-07-15
 updated: 2020-07-15
 note_id: 200715RD03

@@ -11,7 +11,7 @@ keywords:
   - how
   - we
 draft: true
-description: Explaining It All: How We Became the Center of the Universe
+description: "Explaining It All: How We Became the Center of the Universe"
 created: 2023-12-30
 updated: 2023-12-30
 note_id: 231230TP02

@@ -12,7 +12,7 @@ keywords:
   - some
   - sf
 draft: true
-description: Emacs: Macro me some SF Symbols (macOS/SwiftUI)
+description: "Emacs: Macro me some SF Symbols (macOS/SwiftUI)"
 created: 2022-12-31
 updated: 2022-12-31
 note_id: 221231TJ20

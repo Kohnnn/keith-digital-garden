@@ -1,5 +1,5 @@
 ---
-title: show hn: cassette, a personal programming language in the long run
+title: "show hn: cassette, a personal programming language in the long run"
 tags:
   - thoughtpiece
   - infra
@@ -13,7 +13,7 @@ keywords:
   - personal
   - programming
 draft: true
-description: Show HN: Cassette, a Personal Programming Language
+description: "Show HN: Cassette, a Personal Programming Language"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231TP03

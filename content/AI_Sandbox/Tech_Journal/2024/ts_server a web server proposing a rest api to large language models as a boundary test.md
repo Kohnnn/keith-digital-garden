@@ -13,7 +13,7 @@ keywords:
   - proposing
   - rest
 draft: true
-description: Ts_server: A web server proposing a REST API to large language models
+description: "Ts_server: A web server proposing a REST API to large language models"
 created: 2024-12-30
 updated: 2024-12-30
 note_id: 241230TJ01

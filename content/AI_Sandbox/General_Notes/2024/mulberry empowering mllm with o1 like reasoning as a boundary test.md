@@ -11,7 +11,7 @@ keywords:
   - o1like
   - reasoning
 draft: true
-description: Mulberry: Empowering MLLM with o1-like Reasoning
+description: "Mulberry: Empowering MLLM with o1-like Reasoning"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231GN23

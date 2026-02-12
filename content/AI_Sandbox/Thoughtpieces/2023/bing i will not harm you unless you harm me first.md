@@ -1,5 +1,5 @@
 ---
-title: bing: “i will not harm you unless you harm me first”
+title: "bing: “i will not harm you unless you harm me first”"
 tags:
   - thoughtpiece
   - policy
@@ -13,7 +13,7 @@ keywords:
   - power
   - choice
 draft: true
-description: Bing: “I will not harm you unless you harm me first” as a signal about broader shifts.
+description: "Bing: “I will not harm you unless you harm me first” as a signal about broader shifts."
 created: 2023-02-15
 updated: 2023-02-15
 note_id: 230215TP01

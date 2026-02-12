@@ -1,5 +1,5 @@
 ---
-title: show hn: chatroom with gpt 4 assistant for english learners and the cost of defaults
+title: "show hn: chatroom with gpt 4 assistant for english learners and the cost of defaults"
 tags:
   - thoughtpiece
   - ai
@@ -11,7 +11,7 @@ keywords:
   - gpt4
   - assistant
 draft: true
-description: Show HN: Chatroom with GPT-4 assistant for English learners
+description: "Show HN: Chatroom with GPT-4 assistant for English learners"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231TP04

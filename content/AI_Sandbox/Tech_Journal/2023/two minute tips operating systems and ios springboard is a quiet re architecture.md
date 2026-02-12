@@ -1,5 +1,5 @@
 ---
-title: the sharp edge behind two minute tips: operating systems and ios springboard
+title: "the sharp edge behind two minute tips: operating systems and ios springboard"
 tags:
   - tech-journal
   - infra
@@ -13,7 +13,7 @@ keywords:
   - operating
   - systems
 draft: true
-description: Two Minute Tips: Operating Systems and iOS Springboard
+description: "Two Minute Tips: Operating Systems and iOS Springboard"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231TJ05

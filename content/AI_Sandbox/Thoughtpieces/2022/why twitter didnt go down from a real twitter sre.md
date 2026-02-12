@@ -1,5 +1,5 @@
 ---
-title: why twitter didn’t go down: from a real twitter sre
+title: "why twitter didn’t go down: from a real twitter sre"
 tags:
   - thoughtpiece
   - policy
@@ -13,7 +13,7 @@ keywords:
   - power
   - choice
 draft: true
-description: Why Twitter didn’t go down: From a real Twitter SRE as a signal about broader shifts.
+description: "Why Twitter didn’t go down: From a real Twitter SRE as a signal about broader shifts."
 created: 2022-11-22
 updated: 2022-11-22
 note_id: 221122TP02

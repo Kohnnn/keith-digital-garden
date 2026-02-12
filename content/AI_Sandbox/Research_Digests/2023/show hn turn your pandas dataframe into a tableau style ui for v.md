@@ -1,5 +1,5 @@
 ---
-title: show hn: turn your pandas dataframe into a tableau style ui for visual analysis
+title: "show hn: turn your pandas dataframe into a tableau style ui for visual analysis"
 tags:
   - research-digest
   - data
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Show HN: Turn your Pandas dataframe into a Tableau-style UI for visual analysis as a signal about broader shifts.
+description: "Show HN: Turn your Pandas dataframe into a Tableau-style UI for visual analysis as a signal about broader shifts."
 created: 2023-02-20
 updated: 2023-02-20
 note_id: 230220RD01

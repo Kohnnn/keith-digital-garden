@@ -1,5 +1,5 @@
 ---
-title: replit's new code llm: open source, 77% smaller than codex, trained in 1 week
+title: "replit's new code llm: open source, 77% smaller than codex, trained in 1 week"
 tags:
   - tech-journal
   - ai
@@ -13,7 +13,7 @@ keywords:
   - latency
   - workflow
 draft: true
-description: Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week as a signal about broader shifts.
+description: "Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week as a signal about broader shifts."
 created: 2023-05-03
 updated: 2023-05-03
 note_id: 230503TJ01

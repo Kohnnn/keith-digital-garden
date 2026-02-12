@@ -1,5 +1,5 @@
 ---
-title: why cities: skylines 2 performs poorly
+title: "why cities: skylines 2 performs poorly"
 tags:
   - thoughtpiece
   - policy
@@ -13,7 +13,7 @@ keywords:
   - power
   - choice
 draft: true
-description: Why Cities: Skylines 2 performs poorly as a signal about broader shifts.
+description: "Why Cities: Skylines 2 performs poorly as a signal about broader shifts."
 created: 2023-11-05
 updated: 2023-11-05
 note_id: 231105TP01

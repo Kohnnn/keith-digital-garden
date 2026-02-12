@@ -14,5 +14,7 @@ note_id: 260207KW137
 
 - [[Drought - The Discipline of Scarcity]]
 - [[Evolutionary Theory - The Long Pressure]]
+- [[weekly-market-report-2021-W16]]
+- [[weekly-market-report-2021-W20]]
 
 #

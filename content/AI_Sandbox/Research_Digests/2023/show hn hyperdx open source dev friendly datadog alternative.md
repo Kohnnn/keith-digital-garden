@@ -1,5 +1,5 @@
 ---
-title: show hn: hyperdx open source dev friendly datadog alternative
+title: "show hn: hyperdx open source dev friendly datadog alternative"
 tags:
   - research-digest
   - data
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Show HN: HyperDX – open-source dev-friendly Datadog alternative as a signal about broader shifts.
+description: "Show HN: HyperDX – open-source dev-friendly Datadog alternative as a signal about broader shifts."
 created: 2023-09-18
 updated: 2023-09-18
 note_id: 230918RD01

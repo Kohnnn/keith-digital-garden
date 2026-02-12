@@ -14,5 +14,7 @@ note_id: 260207KW30
 
 - [[Aesthetics - The Price of Beauty]]
 - [[Augustine - The Restless Heart]]
+- [[weekly-market-report-2021-W14]]
+- [[weekly-market-report-2021-W15]]
 
 #

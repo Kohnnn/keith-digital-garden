@@ -16,5 +16,9 @@ note_id: 260207KW43
 
 - [[Epistemology - Thinking From the Floor]]
 - [[Nyaya - The Rules of Knowing]]
+- [[weekly-market-report-2021-W02]]
+- [[weekly-market-report-2021-W09]]
+- [[weekly-market-report-2021-W23]]
+- [[weekly-market-report-2021-W24]]
 
 #

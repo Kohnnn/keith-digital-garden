@@ -1,5 +1,5 @@
 ---
-title: federal judge: border searches of cell phones require a warrant
+title: "federal judge: border searches of cell phones require a warrant"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: Federal judge: Border searches of cell phones require a warrant as a signal about broader shifts.
+description: "Federal judge: Border searches of cell phones require a warrant as a signal about broader shifts."
 created: 2023-05-30
 updated: 2023-05-30
 note_id: 230530MR02

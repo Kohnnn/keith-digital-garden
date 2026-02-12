@@ -1,5 +1,5 @@
 ---
-title: queen margrethe ii of denmark announces surprise abdication: small event, wide surface
+title: "queen margrethe ii of denmark announces surprise abdication: small event, wide surface"
 tags:
   - tech-journal
   - infra

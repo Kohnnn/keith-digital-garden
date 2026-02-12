@@ -1,5 +1,5 @@
 ---
-title: blazingmq: high performance open source message queuing system
+title: "blazingmq: high performance open source message queuing system"
 tags:
   - tech-journal
   - product
@@ -13,7 +13,7 @@ keywords:
   - latency
   - workflow
 draft: true
-description: BlazingMQ: High-performance open source message queuing system as a signal about broader shifts.
+description: "BlazingMQ: High-performance open source message queuing system as a signal about broader shifts."
 created: 2023-07-27
 updated: 2023-07-27
 note_id: 230727TJ01

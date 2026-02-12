@@ -11,7 +11,7 @@ keywords:
   - agents
   - against
 draft: true
-description: Re-Bench: Evaluating ML agents against human ML experts
+description: "Re-Bench: Evaluating ML agents against human ML experts"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231GN10

@@ -1,5 +1,5 @@
 ---
-title: us department of energy: fusion ignition achieved
+title: "us department of energy: fusion ignition achieved"
 tags:
   - general-note
   - policy
@@ -13,7 +13,7 @@ keywords:
   - trust
   - risk
 draft: true
-description: US Department of Energy: Fusion Ignition Achieved as a signal about broader shifts.
+description: "US Department of Energy: Fusion Ignition Achieved as a signal about broader shifts."
 created: 2022-12-13
 updated: 2022-12-13
 note_id: 221213GN03

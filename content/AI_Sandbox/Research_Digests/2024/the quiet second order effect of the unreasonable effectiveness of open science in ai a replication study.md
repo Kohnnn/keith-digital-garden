@@ -13,7 +13,7 @@ keywords:
   - science
   - ai
 draft: true
-description: The Unreasonable Effectiveness of Open Science in AI: A Replication Study
+description: "The Unreasonable Effectiveness of Open Science in AI: A Replication Study"
 created: 2024-12-30
 updated: 2024-12-30
 note_id: 241230RD07

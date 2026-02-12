@@ -13,5 +13,11 @@ note_id: 260207KW121
 
 - [[Bushido - The Steel of Restraint]]
 - [[Mercy - The Weight of Compassion]]
+- [[weekly-market-report-2021-W07]]
+- [[weekly-market-report-2021-W09]]
+- [[weekly-market-report-2021-W12]]
+- [[weekly-market-report-2021-W14]]
+- [[weekly-market-report-2021-W28]]
+- [[weekly-market-report-2021-W36]]
 
 #

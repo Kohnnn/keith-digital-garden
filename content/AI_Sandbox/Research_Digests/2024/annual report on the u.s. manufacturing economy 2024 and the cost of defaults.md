@@ -13,7 +13,7 @@ keywords:
   - manufacturing
   - economy
 draft: true
-description: Annual Report on the U.S. Manufacturing Economy: 2024
+description: "Annual Report on the U.S. Manufacturing Economy: 2024"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231RD02

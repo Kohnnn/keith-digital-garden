@@ -11,7 +11,7 @@ keywords:
   - study
   - brittleness
 draft: true
-description: Southwest Airlines: a case study in brittleness
+description: "Southwest Airlines: a case study in brittleness"
 created: 2022-12-31
 updated: 2022-12-31
 note_id: 221231RD01

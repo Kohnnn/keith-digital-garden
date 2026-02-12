@@ -11,7 +11,7 @@ keywords:
   - airlines
   - flight
 draft: true
-description: Mentour Pilot: Ethiopian Airlines Flight 302 (crash caused by Boeing/MCAS) [video]
+description: "Mentour Pilot: Ethiopian Airlines Flight 302 (crash caused by Boeing/MCAS) [video]"
 created: 2024-12-30
 updated: 2024-12-30
 note_id: 241230GN01

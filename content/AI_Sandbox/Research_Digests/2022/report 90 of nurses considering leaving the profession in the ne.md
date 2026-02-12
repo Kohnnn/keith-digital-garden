@@ -1,5 +1,5 @@
 ---
-title: report: 90% of nurses considering leaving the profession in the next year
+title: "report: 90% of nurses considering leaving the profession in the next year"
 tags:
   - research-digest
   - policy
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Report: 90% of nurses considering leaving the profession in the next year as a signal about broader shifts.
+description: "Report: 90% of nurses considering leaving the profession in the next year as a signal about broader shifts."
 created: 2022-04-27
 updated: 2022-04-27
 note_id: 220427RD01

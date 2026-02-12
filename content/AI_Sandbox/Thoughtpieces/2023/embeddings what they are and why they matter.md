@@ -1,5 +1,5 @@
 ---
-title: embeddings: what they are and why they matter
+title: "embeddings: what they are and why they matter"
 tags:
   - thoughtpiece
   - policy
@@ -13,7 +13,7 @@ keywords:
   - power
   - choice
 draft: true
-description: Embeddings: What they are and why they matter as a signal about broader shifts.
+description: "Embeddings: What they are and why they matter as a signal about broader shifts."
 created: 2023-10-23
 updated: 2023-10-23
 note_id: 231023TP01

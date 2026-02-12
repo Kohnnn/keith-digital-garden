@@ -13,7 +13,7 @@ keywords:
   - browser
   - span
 draft: true
-description: Microsoft Edge: AI Browser
+description: "Microsoft Edge: AI Browser"
 created: 2023-12-30
 updated: 2023-12-30
 note_id: 231230TJ02

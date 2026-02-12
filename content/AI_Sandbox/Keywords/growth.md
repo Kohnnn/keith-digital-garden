@@ -14,5 +14,13 @@ note_id: 260207KW58
 
 - [[Maslow - The Shape of Need]]
 - [[Moral Development - The Ladder I Keep Climbing]]
+- [[weekly-market-report-2021-W02]]
+- [[weekly-market-report-2021-W18]]
+- [[weekly-market-report-2021-W26]]
+- [[weekly-market-report-2021-W27]]
+- [[weekly-market-report-2021-W30]]
+- [[weekly-market-report-2021-W35]]
+- [[weekly-market-report-2021-W43]]
+- [[weekly-market-report-2021-W49]]
 
 #

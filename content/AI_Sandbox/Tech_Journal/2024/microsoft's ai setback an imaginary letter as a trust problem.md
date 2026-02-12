@@ -13,7 +13,7 @@ keywords:
   - imaginary
   - letter
 draft: true
-description: Microsoft's AI setback: an imaginary letter
+description: "Microsoft's AI setback: an imaginary letter"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231TJ02

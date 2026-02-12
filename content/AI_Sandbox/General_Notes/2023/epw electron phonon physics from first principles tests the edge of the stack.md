@@ -1,5 +1,5 @@
 ---
-title: the quiet second order effect of epw: electron phonon physics from first principles
+title: "the quiet second order effect of epw: electron phonon physics from first principles"
 tags:
   - general-note
   - infra
@@ -13,7 +13,7 @@ keywords:
   - first
   - principles
 draft: true
-description: EPW: Electron-phonon physics from first principles
+description: "EPW: Electron-phonon physics from first principles"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231GN11

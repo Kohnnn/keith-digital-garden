@@ -16,5 +16,6 @@ note_id: 260207KW110
 - [[Buddhism - The Practice of Letting Go]]
 - [[Taoist Practice - The Way in the Body]]
 - [[Zen Buddhism - The Stillness That Cuts]]
+- [[weekly-market-report-2021-W07]]
 
 #

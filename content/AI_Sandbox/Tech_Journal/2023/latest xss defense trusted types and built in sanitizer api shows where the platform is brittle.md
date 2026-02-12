@@ -1,5 +1,5 @@
 ---
-title: latest xss defense: trusted types and built in sanitizer api and the cost of defaults
+title: "latest xss defense: trusted types and built in sanitizer api and the cost of defaults"
 tags:
   - tech-journal
   - infra
@@ -13,7 +13,7 @@ keywords:
   - trusted
   - types
 draft: true
-description: Latest XSS Defense: Trusted Types and Built-In Sanitizer API
+description: "Latest XSS Defense: Trusted Types and Built-In Sanitizer API"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231TJ01

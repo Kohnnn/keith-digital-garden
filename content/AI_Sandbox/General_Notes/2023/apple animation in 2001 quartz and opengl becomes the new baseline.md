@@ -1,5 +1,5 @@
 ---
-title: apple animation in 2001: quartz and opengl as a boundary test
+title: "apple animation in 2001: quartz and opengl as a boundary test"
 tags:
   - general-note
   - product
@@ -13,7 +13,7 @@ keywords:
   - quartz
   - opengl
 draft: true
-description: Apple Animation in 2001: Quartz and OpenGL
+description: "Apple Animation in 2001: Quartz and OpenGL"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231GN18

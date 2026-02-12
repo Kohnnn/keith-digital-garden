@@ -12,7 +12,7 @@ keywords:
   - report
   - what
 draft: true
-description: Zhengdong Wang 2024 Report: What Does It Mean to Give an AI Model a Capability?
+description: "Zhengdong Wang 2024 Report: What Does It Mean to Give an AI Model a Capability?"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231RD04

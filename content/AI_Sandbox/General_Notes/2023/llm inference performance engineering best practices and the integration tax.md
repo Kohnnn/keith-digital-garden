@@ -13,7 +13,7 @@ keywords:
   - engineering
   - best
 draft: true
-description: LLM Inference Performance Engineering: Best Practices
+description: "LLM Inference Performance Engineering: Best Practices"
 created: 2023-12-31
 updated: 2023-12-31
 note_id: 231231GN26

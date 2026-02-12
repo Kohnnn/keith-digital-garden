@@ -12,7 +12,7 @@ keywords:
   - child
   - processes
 draft: true
-description: Bash: Creating and Managing Child Processes
+description: "Bash: Creating and Managing Child Processes"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231GN14

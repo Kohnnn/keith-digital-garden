@@ -12,7 +12,7 @@ keywords:
   - c
   - rust
 draft: true
-description: Syzygy: Dual Code-Test C to Rust Translation Using LLMs and Dynamic Analysis
+description: "Syzygy: Dual Code-Test C to Rust Translation Using LLMs and Dynamic Analysis"
 created: 2024-12-30
 updated: 2024-12-30
 note_id: 241230RD08

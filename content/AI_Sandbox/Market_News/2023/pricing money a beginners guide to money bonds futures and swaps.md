@@ -1,5 +1,5 @@
 ---
-title: pricing money: a beginner's guide to money, bonds, futures and swaps
+title: "pricing money: a beginner's guide to money, bonds, futures and swaps"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: Pricing Money: A beginner's guide to money, bonds, futures and swaps as a signal about broader shifts.
+description: "Pricing Money: A beginner's guide to money, bonds, futures and swaps as a signal about broader shifts."
 created: 2023-06-16
 updated: 2023-06-16
 note_id: 230616MR01

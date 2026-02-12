@@ -1,5 +1,5 @@
 ---
-title: pandora papers: biggest leak of offshore data exposes financial secrets of rich
+title: "pandora papers: biggest leak of offshore data exposes financial secrets of rich"
 tags:
   - research-digest
   - data
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: Pandora papers: biggest leak of offshore data exposes financial secrets of rich as a signal about broader shifts.
+description: "Pandora papers: biggest leak of offshore data exposes financial secrets of rich as a signal about broader shifts."
 created: 2021-10-03
 updated: 2021-10-03
 note_id: 211003RD02

@@ -1,5 +1,5 @@
 ---
-title: whistleblowers: software keeping inmates in arizona prisons beyond release dates
+title: "whistleblowers: software keeping inmates in arizona prisons beyond release dates"
 tags:
   - tech-journal
   - policy
@@ -13,7 +13,7 @@ keywords:
   - latency
   - workflow
 draft: true
-description: Whistleblowers: Software keeping inmates in Arizona prisons beyond release dates as a signal about broader shifts.
+description: "Whistleblowers: Software keeping inmates in Arizona prisons beyond release dates as a signal about broader shifts."
 created: 2021-02-22
 updated: 2021-02-22
 note_id: 210222TJ01

@@ -11,7 +11,7 @@ keywords:
   - acquisition
   - run
 draft: true
-description: Nvidia Completes Run:AI Acquisition
+description: "Nvidia Completes Run:AI Acquisition"
 created: 2024-12-30
 updated: 2024-12-30
 note_id: 241230MR01

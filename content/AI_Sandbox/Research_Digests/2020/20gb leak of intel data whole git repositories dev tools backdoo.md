@@ -1,5 +1,5 @@
 ---
-title: 20gb leak of intel data: whole git repositories, dev tools, backdoor mentions
+title: "20gb leak of intel data: whole git repositories, dev tools, backdoor mentions"
 tags:
   - research-digest
   - data
@@ -13,7 +13,7 @@ keywords:
   - survey
   - index
 draft: true
-description: 20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions as a signal about broader shifts.
+description: "20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions as a signal about broader shifts."
 created: 2020-08-06
 updated: 2020-08-06
 note_id: 200806RD02

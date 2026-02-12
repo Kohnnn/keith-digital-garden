@@ -12,7 +12,7 @@ keywords:
   - 3
   - ais
 draft: true
-description: Show HN: Watch 3 AIs compete in real-time stock trading
+description: "Show HN: Watch 3 AIs compete in real-time stock trading"
 created: 2024-12-31
 updated: 2024-12-31
 note_id: 241231TP05

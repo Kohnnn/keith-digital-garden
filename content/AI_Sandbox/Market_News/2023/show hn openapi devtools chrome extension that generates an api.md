@@ -1,5 +1,5 @@
 ---
-title: show hn: openapi devtools chrome extension that generates an api spec
+title: "show hn: openapi devtools chrome extension that generates an api spec"
 tags:
   - market-news
   - finance
@@ -13,7 +13,7 @@ keywords:
   - risk
   - pricing
 draft: true
-description: Show HN: OpenAPI DevTools – Chrome extension that generates an API spec as a signal about broader shifts.
+description: "Show HN: OpenAPI DevTools – Chrome extension that generates an API spec as a signal about broader shifts."
 created: 2023-10-25
 updated: 2023-10-25
 note_id: 231025MR01

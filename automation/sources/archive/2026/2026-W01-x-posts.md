@@ -1,0 +1,10 @@
+- https://x.com/KobeissiLetter/status/2023084893169975534 | @KobeissiLetter | 2026-02-15 | near45
+- https://x.com/KobeissiLetter/status/2022671418761318466 | @KobeissiLetter | 2026-02-14 | near45
+- https://x.com/biancoresearch/status/2022101789374574613 | @biancoresearch | 2026-02-13 | near45
+- https://x.com/LizAnnSonders/status/2022259831168487878 | @LizAnnSonders | 2026-02-13 | near45
+- https://x.com/LizAnnSonders/status/2021563081957003774 | @LizAnnSonders | 2026-02-11 | near45
+- https://x.com/topdowncharts/status/2022100468013400355 | @topdowncharts | 2026-02-13 | near45
+- https://x.com/JustinWolfers/status/2021590515934695494 | @JustinWolfers | 2026-02-11 | near45
+- https://x.com/themarketear/status/2022254848788316219 | @themarketear | 2026-02-13 | near45
+- https://x.com/bravosresearch/status/2021959810946830584 | @bravosresearch | 2026-02-12 | near45
+- https://x.com/100trillionUSD/status/1886141787565117919 | @100trillionUSD | 2025-02-02 | global

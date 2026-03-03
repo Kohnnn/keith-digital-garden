@@ -38,6 +38,7 @@ Financial analyst and portfolio operator working at the edge of market research,
 - [[Portfolio/Resume|Experience log]]
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio/Blog|Market log]]
+- [[Arena|Arena atlas]]
 - [[Portfolio/Skills|Skill matrix]]
 - [[Portfolio/Contact|Signal ports]]
 

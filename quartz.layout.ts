@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.DappledLight(),
     Component.StackedNotesContainer(),
+    Component.InteractiveSim(),
     Component.RelatedNotes({ tagFilter: "philosophy" }),
     Component.BacklinksGrid({ tagFilter: "philosophy" }),
   ],

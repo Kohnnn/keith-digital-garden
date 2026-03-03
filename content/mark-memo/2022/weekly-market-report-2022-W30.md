@@ -134,6 +134,9 @@ Data quality: mixed - official releases, market news tape, and report-style rese
 ### Counter-thesis
 This view breaks if inflation decelerates quickly while breadth broadens and funding stress fades.
 
+## Cross Review
+- Linked from: [[weekly-market-report-2022-W31]] - Follow-up week re-tested this regime transition.
+
 ## linkage
 <div class="linkage-tree">
   <div class="linkage-tree-title">linkage tree</div>

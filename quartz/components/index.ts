@@ -30,6 +30,7 @@ import ConditionalRender from "./ConditionalRender"
 import DappledLight from "./DappledLight"
 import GridMap from "./GridMap"
 import RelatedNotes from "./RelatedNotes"
+import InteractiveSim from "./InteractiveSim"
 
 export {
   ArticleTitle,
@@ -64,4 +65,5 @@ export {
   DappledLight,
   GridMap,
   RelatedNotes,
+  InteractiveSim,
 }

@@ -1,0 +1,130 @@
+.interactive-sim-runtime {
+  display: none;
+}
+
+article.external-canvas-note,
+.external-canvas-note article {
+  .interactive-sim {
+    margin: 1rem 0 1.35rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray) 72%);
+    border-radius: 12px;
+    padding: 0.6rem;
+    background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+  }
+
+  .interactive-sim-stage {
+    position: relative;
+    width: 100%;
+    min-height: 64vh;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #06090f;
+    border: 1px solid color-mix(in srgb, var(--lightgray) 80%, transparent 20%);
+  }
+
+  .interactive-sim-stage.stage-medium {
+    min-height: 54vh;
+  }
+
+  .interactive-sim-stage.stage-short {
+    min-height: 44vh;
+  }
+
+  .interactive-sim-stage canvas {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+  .interactive-sim[data-sim-scene="gps"] .interactive-sim-stage canvas,
+  .interactive-sim[data-sim-scene="curves-and-surfaces"] .interactive-sim-stage canvas,
+  .interactive-sim[data-sim-scene="drawing-bezier-curves"] .interactive-sim-stage canvas {
+    cursor: grab;
+  }
+
+  .interactive-sim[data-sim-scene="gps"] .interactive-sim-stage canvas:active,
+  .interactive-sim[data-sim-scene="curves-and-surfaces"] .interactive-sim-stage canvas:active,
+  .interactive-sim[data-sim-scene="drawing-bezier-curves"] .interactive-sim-stage canvas:active {
+    cursor: grabbing;
+  }
+
+  .interactive-sim-controls {
+    margin-top: 0.65rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.55rem;
+  }
+
+  .interactive-sim-control {
+    display: grid;
+    gap: 0.35rem;
+    padding: 0.55rem;
+    border-radius: 8px;
+    border: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray) 76%);
+    background: color-mix(in srgb, var(--light) 93%, var(--secondary) 7%);
+  }
+
+  .interactive-sim-control label {
+    font-family: var(--codeFont);
+    font-size: 0.74rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  .interactive-sim-control input[type="range"] {
+    width: 100%;
+    accent-color: #b08f1d;
+  }
+
+  .interactive-sim-control .sim-range-output {
+    justify-self: end;
+    min-width: 4ch;
+    font-family: var(--codeFont);
+    font-size: 0.72rem;
+    color: var(--darkgray);
+    opacity: 0.9;
+  }
+
+  .interactive-sim-stage canvas:focus-visible {
+    outline: 2px solid color-mix(in srgb, var(--secondary) 70%, #fff 30%);
+    outline-offset: -2px;
+  }
+
+  .interactive-sim-controls button {
+    border: 1px solid color-mix(in srgb, var(--secondary) 40%, var(--lightgray) 60%);
+    border-radius: 8px;
+    background: color-mix(in srgb, var(--light) 90%, var(--secondary) 10%);
+    color: var(--dark);
+    font-family: var(--codeFont);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.55rem 0.75rem;
+    cursor: pointer;
+  }
+
+  .interactive-sim[data-fallback] .interactive-sim-stage::before {
+    content: attr(data-fallback);
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding: 1rem;
+    color: #eae0cf;
+    background: rgba(8, 12, 18, 0.86);
+    font-family: var(--codeFont);
+    font-size: 0.78rem;
+    letter-spacing: 0.02em;
+  }
+
+  @media all and (max-width: 800px) {
+    .interactive-sim-stage {
+      min-height: 54vh;
+    }
+  }
+}

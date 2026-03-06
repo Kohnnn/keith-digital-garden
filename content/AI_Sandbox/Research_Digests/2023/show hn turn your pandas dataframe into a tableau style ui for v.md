@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Show HN: Turn your Pandas dataframe into a Tableau-style UI for visual analysis as a signal about broader shifts."
 created: 2023-02-20
 updated: 2023-02-20

@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Hosting SQLite databases on GitHub Pages or any static file hoster as a signal about broader shifts.
 created: 2021-05-02
 updated: 2021-05-02

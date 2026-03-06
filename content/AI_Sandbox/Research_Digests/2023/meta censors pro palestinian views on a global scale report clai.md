@@ -11,7 +11,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Meta censors pro-Palestinian views on a global scale, report claims as a signal about broader shifts.
 created: 2023-12-23
 updated: 2023-12-23

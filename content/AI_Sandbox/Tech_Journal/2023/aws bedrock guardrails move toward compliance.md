@@ -12,7 +12,7 @@ keywords:
   - compliance
   - guardrails
   - aws
-draft: true
+draft: false
 description: Bedrock’s guardrail suite now enforces explainability logs and policy checks for regulated industries.
 created: 2023-12-05
 updated: 2023-12-05

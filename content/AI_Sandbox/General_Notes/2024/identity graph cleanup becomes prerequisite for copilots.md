@@ -11,7 +11,7 @@ keywords:
   - copilot
   - access
   - governance
-draft: true
+draft: false
 description: enterprise copilots are forcing identity graph cleanup because legacy permission sprawl causes unsafe data exposure.
 created: 2024-12-20
 updated: 2024-12-20

@@ -11,7 +11,7 @@ keywords:
   - novelty
   - strategy
   - execution
-draft: true
+draft: false
 description: teams are gaining more durable advantage from operational tooling quality than from chasing each new model release.
 created: 2024-11-22
 updated: 2024-11-22

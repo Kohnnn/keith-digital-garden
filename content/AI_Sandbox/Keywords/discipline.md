@@ -5,7 +5,7 @@ tags:
   - scarcity
   - islam
   - jainism
-draft: true
+draft: false
 description: Notes linked by discipline.
 created: 2026-02-07
 updated: 2026-02-07

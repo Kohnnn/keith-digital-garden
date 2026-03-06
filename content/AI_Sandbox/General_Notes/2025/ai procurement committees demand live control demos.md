@@ -11,7 +11,7 @@ keywords:
   - demos
   - governance
   - enterprise
-draft: true
+draft: false
 description: enterprise procurement groups are requiring live demonstrations of guardrails and rollback controls before approval.
 created: 2025-03-21
 updated: 2025-03-21

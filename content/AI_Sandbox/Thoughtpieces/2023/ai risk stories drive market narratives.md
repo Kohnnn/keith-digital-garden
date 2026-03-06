@@ -12,7 +12,7 @@ keywords:
   - markets
   - risk
   - div
-draft: true
+draft: false
 description: AI scares and regulatory tales now move capital faster than earnings.
 created: 2023-09-12
 updated: 2023-09-12

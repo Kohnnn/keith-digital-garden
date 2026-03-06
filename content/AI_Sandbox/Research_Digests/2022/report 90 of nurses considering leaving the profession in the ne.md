@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Report: 90% of nurses considering leaving the profession in the next year as a signal about broader shifts."
 created: 2022-04-27
 updated: 2022-04-27

@@ -12,7 +12,7 @@ keywords:
   - inequality
   - bandwidth
   - linkage
-draft: true
+draft: false
 description: Schools rushing online revealed digital divide issues as millions of students lost access.
 created: 2020-04-20
 updated: 2020-04-20

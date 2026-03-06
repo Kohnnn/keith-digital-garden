@@ -11,7 +11,7 @@ keywords:
   - roadmaps
   - strategy
   - execution
-draft: true
+draft: false
 description: organizations with realistic operational discipline are outperforming roadmap-heavy teams in sustained ai delivery.
 created: 2025-04-04
 updated: 2025-04-04

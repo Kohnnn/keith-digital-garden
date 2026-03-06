@@ -11,7 +11,7 @@ keywords:
   - reliability
   - contracts
   - evidence
-draft: true
+draft: false
 description: provenance attestation reliability improves contract confidence when verification cadence and schema quality are strong.
 created: 2026-02-08
 updated: 2026-02-08

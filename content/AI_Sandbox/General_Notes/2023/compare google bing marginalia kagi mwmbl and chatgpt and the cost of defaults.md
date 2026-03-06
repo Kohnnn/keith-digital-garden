@@ -10,7 +10,7 @@ keywords:
   - bing
   - marginalia
   - kagi
-draft: true
+draft: false
 description: Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT
 created: 2023-12-31
 updated: 2023-12-31

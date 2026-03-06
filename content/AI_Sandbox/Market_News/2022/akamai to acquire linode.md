@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Akamai to Acquire Linode as a signal about broader shifts.
 created: 2022-02-15
 updated: 2022-02-15

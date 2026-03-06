@@ -3,7 +3,7 @@ title: keyword - growth
 tags:
   - keyword-index
   - growth
-draft: true
+draft: false
 description: Notes linked by growth.
 created: 2026-02-07
 updated: 2026-02-07

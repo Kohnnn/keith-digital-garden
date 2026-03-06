@@ -12,7 +12,7 @@ keywords:
   - trust
   - hop
   - identity
-draft: true
+draft: false
 description: Zero trust frameworks still rely on single hop decision points.
 created: 2020-10-07
 updated: 2020-10-07

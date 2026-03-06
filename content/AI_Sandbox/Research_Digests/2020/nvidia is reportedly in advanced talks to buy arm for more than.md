@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B as a signal about broader shifts.
 created: 2020-07-31
 updated: 2020-07-31

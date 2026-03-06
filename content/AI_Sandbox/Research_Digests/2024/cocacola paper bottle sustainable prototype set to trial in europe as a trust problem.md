@@ -12,7 +12,7 @@ keywords:
   - bottle
   - sustainable
   - prototype
-draft: true
+draft: false
 description: "Coca‑Cola Paper Bottle: Sustainable Prototype Set to Trial in Europe"
 created: 2024-12-30
 updated: 2024-12-30

@@ -12,7 +12,7 @@ keywords:
   - logistics
   - postal
   - mail
-draft: true
+draft: false
 description: The U.S. election's reliance on mail alerted everyone to how fragile ballot logistics really are.
 created: 2020-08-02
 updated: 2020-08-02

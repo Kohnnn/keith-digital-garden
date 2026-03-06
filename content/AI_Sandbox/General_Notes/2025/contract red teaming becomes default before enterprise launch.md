@@ -11,7 +11,7 @@ keywords:
   - launch
   - enterprise
   - controls
-draft: true
+draft: false
 description: enterprise launch contracts increasingly include adversarial governance drills before production approval.
 created: 2025-04-28
 updated: 2025-04-28

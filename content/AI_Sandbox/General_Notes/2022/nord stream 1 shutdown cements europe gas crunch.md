@@ -12,7 +12,7 @@ keywords:
   - europe
   - gazprom
   - energy
-draft: true
+draft: false
 description: Gazprom keeping Nord Stream 1 offline locked Europe into rationing math.
 created: 2022-09-05
 updated: 2022-09-05

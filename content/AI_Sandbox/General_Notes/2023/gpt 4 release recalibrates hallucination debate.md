@@ -12,7 +12,7 @@ keywords:
   - guardrails
   - compliance
   - trust
-draft: true
+draft: false
 description: GPT-4's entrance shifted the conversation from capability to control.
 created: 2023-03-14
 updated: 2023-03-14

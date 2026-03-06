@@ -10,7 +10,7 @@ keywords:
   - courage
   - doom
   - loyalty
-draft: true
+draft: false
 description: Nordic religion faces fate with honor and a clear-eyed courage.
 created: 2023-05-28
 updated: 2026-02-07
@@ -87,6 +87,8 @@ The rhythm of labor also matters. Planting, hunting, building, and enduring are 
 
 There is also a deep respect for truth-telling, even when truth costs. That is a quiet form of bravery. It keeps the community from drifting into fantasy. In a world that loves easy myths, this insistence on truth feels like a moral anchor. It also links back to [[Socrates - The Question That Bites]] because both traditions believe the price of truth is worth paying. The story is a warning against self-deception. Truth becomes a shelter when storms arrive. It is a kind of fire in the cold. It keeps the clan from drifting apart. It is a bond stronger than weather. It keeps fear from ruling the story. Courage always has a cost. It never comes free. Always. It keeps courage honest when the night gets long. No exceptions.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: Honor can be used to excuse violence when it is severed from compassion.
 
 Micro-ritual: Choose one hard task today and do it with steady attention.
@@ -123,6 +125,16 @@ I keep this next to [[Stoicism - The Weather Inside]] and it leans toward [[Shin
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Nordic - The Cold Courage]] vs [[Christianity - The Wound That Heals]]: honor-fate endurance versus mercy-redemption horizon.
+- [[Nordic - The Cold Courage]] vs [[Buddhism - The Practice of Letting Go]]: identity-anchored courage versus identity-light compassion.
+- [[Nordic - The Cold Courage]] vs [[Epicureanism - The Garden of Enough]]: tragic valor under doom versus calm sufficiency.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] The Poetic Edda (text)

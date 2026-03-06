@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Framework Laptop Mainboard as a signal about broader shifts.
 created: 2022-04-19
 updated: 2022-04-19

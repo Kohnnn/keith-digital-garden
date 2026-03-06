@@ -12,7 +12,7 @@ keywords:
   - prices
   - inflation
   - economy
-draft: true
+draft: false
 description: A backlog at ports revealed how thin global slack had become.
 created: 2021-10-13
 updated: 2025-09-05

@@ -12,7 +12,7 @@ keywords:
   - leverage
   - contagion
   - hedgefund
-draft: true
+draft: false
 description: Three Arrows Capital's court-ordered liquidation showed how fragile offshore leverage had become.
 created: 2022-06-29
 updated: 2022-06-29

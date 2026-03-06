@@ -12,7 +12,7 @@ keywords:
   - server
   - proposing
   - rest
-draft: true
+draft: false
 description: "Ts_server: A web server proposing a REST API to large language models"
 created: 2024-12-30
 updated: 2024-12-30

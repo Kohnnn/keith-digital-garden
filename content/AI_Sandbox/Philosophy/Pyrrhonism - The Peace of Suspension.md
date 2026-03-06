@@ -10,7 +10,7 @@ keywords:
   - suspension
   - peace
   - clarity
-draft: true
+draft: false
 description: Pyrrhonism invites me to pause judgment to reduce inner turbulence.
 created: 2022-11-11
 updated: 2026-02-07
@@ -67,6 +67,8 @@ It also reshapes how I deal with anxiety. When I do not need to close every loop
 
 Pyrrhonism also gives me a humility practice in daily conversation. It reminds me to ask, "what would change my mind?" That single question softens the edge of debate. It keeps the door open. It also keeps me from confusing identity with opinion, which is a western habit that turns disagreement into threat.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Suspension can become avoidance if I use it to escape responsibility.
 
 Micro-ritual: When a hot opinion rises, wait one hour before locking it in.
@@ -102,6 +104,16 @@ I keep this next to [[Epistemology - Thinking From the Floor]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Pyrrhonism - The Peace of Suspension]] vs [[Nyaya - The Rules of Knowing]]: tranquility through withholding versus commitment to pramana confidence.
+- [[Pyrrhonism - The Peace of Suspension]] vs [[Aquinas - The Reason That Prays]]: anti-dogmatic suspension versus reason-faith synthesis.
+- [[Pyrrhonism - The Peace of Suspension]] vs [[Machiavelli - The Price of Control]]: epistemic hesitancy versus decision urgency under crisis.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Skepticism (Stanford Encyclopedia of Philosophy)

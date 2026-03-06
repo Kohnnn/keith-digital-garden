@@ -12,7 +12,7 @@ keywords:
   - security
   - trust
   - platform
-draft: true
+draft: false
 description: A safety proposal sparked a privacy and platform boundary debate.
 created: 2021-08-05
 updated: 2025-07-13

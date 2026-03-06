@@ -11,7 +11,7 @@ keywords:
   - pilots
   - trust
   - procurement
-draft: true
+draft: false
 description: prebuilt compliance evidence packs are reducing time to pilot approval in enterprise ai buying cycles.
 created: 2024-12-04
 updated: 2024-12-04

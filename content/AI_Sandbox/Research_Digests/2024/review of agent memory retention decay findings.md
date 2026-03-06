@@ -11,7 +11,7 @@ keywords:
   - decay
   - agents
   - context
-draft: true
+draft: false
 description: studies and field reports show long running agents lose useful context fidelity without explicit memory maintenance policies.
 created: 2024-12-30
 updated: 2024-12-30

@@ -11,7 +11,7 @@ keywords:
   - policy
   - controls
   - reuse
-draft: true
+draft: false
 description: prompt libraries are shifting from ad hoc snippets to governed assets with review and version controls.
 created: 2024-12-02
 updated: 2024-12-02

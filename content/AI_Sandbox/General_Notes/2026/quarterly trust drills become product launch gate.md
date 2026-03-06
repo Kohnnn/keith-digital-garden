@@ -11,7 +11,7 @@ keywords:
   - launches
   - gates
   - resilience
-draft: true
+draft: false
 description: product organizations are requiring quarterly trust drills before approving major ai feature launches.
 created: 2026-01-14
 updated: 2026-01-14

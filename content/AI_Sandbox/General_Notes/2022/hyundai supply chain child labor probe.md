@@ -12,7 +12,7 @@ keywords:
   - supply
   - autos
   - risk
-draft: true
+draft: false
 description: A probe raised questions about compliance in auto supply chains.
 created: 2022-10-19
 updated: 2025-03-02

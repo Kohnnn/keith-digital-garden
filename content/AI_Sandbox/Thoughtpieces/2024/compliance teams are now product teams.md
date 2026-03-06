@@ -11,7 +11,7 @@ keywords:
   - governance
   - ai
   - workflow
-draft: true
+draft: false
 description: compliance responsibilities in ai organizations now directly shape product architecture and release velocity.
 created: 2024-10-09
 updated: 2024-10-09

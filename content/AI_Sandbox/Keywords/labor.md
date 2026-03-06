@@ -2,7 +2,7 @@
 title: keyword - labor
 tags:
   - keyword-index
-draft: true
+draft: false
 description: Notes linked by labor.
 created: 2026-02-12
 updated: 2026-02-12

@@ -11,7 +11,7 @@ keywords:
   - i
   - opensourced
   - my
-draft: true
+draft: false
 description: "Show HN: I Open-sourced my SaaS that translates and visualizes menus with AI"
 created: 2024-12-31
 updated: 2024-12-31

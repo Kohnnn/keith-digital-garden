@@ -12,7 +12,7 @@ keywords:
   - design
   - ux
   - terminal
-draft: true
+draft: false
 description: Charm reframed terminal UX as a first-class product.
 created: 2022-01-23
 updated: 2025-04-06

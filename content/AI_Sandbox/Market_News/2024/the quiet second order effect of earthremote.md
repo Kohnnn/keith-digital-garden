@@ -12,7 +12,7 @@ keywords:
   - where
   - there
   - only
-draft: true
+draft: false
 description: Earthremote(job board where there are only globally remote and tech based jobs)
 created: 2024-12-31
 updated: 2024-12-31

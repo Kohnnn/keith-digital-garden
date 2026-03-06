@@ -12,7 +12,7 @@ keywords:
   - policy
   - trust
   - supply
-draft: true
+draft: false
 description: Vaccine access gaps became a global policy constraint.
 created: 2021-09-15
 updated: 2025-05-02

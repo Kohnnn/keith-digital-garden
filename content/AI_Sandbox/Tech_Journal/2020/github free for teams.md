@@ -12,7 +12,7 @@ keywords:
   - teams
   - access
   - workflow
-draft: true
+draft: false
 description: The pricing shift repositioned collaboration as a baseline.
 created: 2020-04-14
 updated: 2025-01-29

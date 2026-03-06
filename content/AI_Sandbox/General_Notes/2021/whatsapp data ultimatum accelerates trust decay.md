@@ -12,7 +12,7 @@ keywords:
   - policy
   - trust
   - data
-draft: true
+draft: false
 description: A forced policy update made privacy a competitive differentiator.
 created: 2021-01-06
 updated: 2021-01-06

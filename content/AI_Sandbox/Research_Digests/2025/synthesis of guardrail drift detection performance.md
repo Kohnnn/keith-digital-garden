@@ -11,7 +11,7 @@ keywords:
   - detection
   - safety
   - performance
-draft: true
+draft: false
 description: drift detection for safety guardrails is improving but remains sensitive to dataset and policy-version quality.
 created: 2025-06-09
 updated: 2025-06-09

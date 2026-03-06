@@ -12,7 +12,7 @@ keywords:
   - integration
   - mobility
   - policy
-draft: true
+draft: false
 description: The move signaled deeper EU integration at the edges.
 created: 2022-12-31
 updated: 2025-02-26

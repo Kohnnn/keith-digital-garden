@@ -2,7 +2,7 @@
 title: keyword - adaptation
 tags:
   - keyword-index
-draft: true
+draft: false
 description: Notes linked by adaptation.
 created: 2026-02-07
 updated: 2026-02-07

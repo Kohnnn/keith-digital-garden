@@ -2,7 +2,7 @@
 title: keyword - inference
 tags:
   - keyword-index
-draft: true
+draft: false
 description: Notes linked by inference.
 created: 2026-02-07
 updated: 2026-02-07

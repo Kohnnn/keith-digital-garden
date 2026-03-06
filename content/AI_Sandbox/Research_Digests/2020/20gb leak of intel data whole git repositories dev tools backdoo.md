@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions as a signal about broader shifts."
 created: 2020-08-06
 updated: 2020-08-06

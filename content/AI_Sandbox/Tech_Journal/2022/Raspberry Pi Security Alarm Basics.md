@@ -12,7 +12,7 @@ keywords:
   - sensors
   - security
   - diy
-draft: true
+draft: false
 description: A simple guide showed security as a DIY system.
 created: 2022-12-31
 updated: 2025-05-12

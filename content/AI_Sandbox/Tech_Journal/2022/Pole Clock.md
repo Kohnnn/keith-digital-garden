@@ -12,7 +12,7 @@ keywords:
   - ui
   - design
   - utility
-draft: true
+draft: false
 description: A minimal time tool showed clarity through constraint.
 created: 2022-12-31
 updated: 2025-01-19

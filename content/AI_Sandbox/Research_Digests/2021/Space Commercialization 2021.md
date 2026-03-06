@@ -12,7 +12,7 @@ keywords:
   - launch
   - markets
   - trust
-draft: true
+draft: false
 description: A year where private missions became the dominant narrative.
 created: 2021-11-05
 updated: 2025-06-10

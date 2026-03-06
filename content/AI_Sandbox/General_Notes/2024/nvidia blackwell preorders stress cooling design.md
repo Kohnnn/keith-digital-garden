@@ -11,7 +11,7 @@ keywords:
   - datacenter
   - rack
   - capex
-draft: true
+draft: false
 description: blackwell demand is now constrained as much by thermal engineering as by chip allocation.
 created: 2024-04-02
 updated: 2024-04-02

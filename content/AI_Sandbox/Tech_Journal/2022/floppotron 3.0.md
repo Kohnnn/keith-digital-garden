@@ -12,7 +12,7 @@ keywords:
   - hardware
   - diy
   - craft
-draft: true
+draft: false
 description: A new build showed playful hardware as music instrument.
 created: 2022-06-13
 updated: 2025-02-27

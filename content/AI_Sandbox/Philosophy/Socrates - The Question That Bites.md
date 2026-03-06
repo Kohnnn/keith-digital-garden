@@ -11,7 +11,7 @@ keywords:
   - virtue
   - dialogue
   - wisdom
-draft: true
+draft: false
 description: A way of questioning that refuses to let me hide.
 created: 2021-11-02
 updated: 2024-04-22
@@ -56,6 +56,8 @@ This keeps echoing [[First Principles - Digging to Bedrock]] when I try to live 
 </ul>
 
 I see this in a meeting when a big word floats by and everyone nods.
+
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: The questions can become a weapon if I use them to win.
 
@@ -102,6 +104,16 @@ I also keep this question next to [[Nietzsche - The Heaviest Question]]. If I wo
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Socrates - The Question That Bites]] vs [[Machiavelli - The Price of Control]]: truth-first inquiry versus efficacy-first strategy.
+- [[Socrates - The Question That Bites]] vs [[Bushido - The Steel of Restraint]]: dialogic doubt versus code-grounded certainty.
+- [[Socrates - The Question That Bites]] vs [[Legalism - Order Without Warmth]]: examined conscience versus external compliance.
+
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- which claim here survives contact with [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Plato, Apology

@@ -12,7 +12,7 @@ keywords:
   - gdpr
   - policy
   - data
-draft: true
+draft: false
 description: A regulator decision challenged default analytics practices.
 created: 2022-02-10
 updated: 2025-02-18

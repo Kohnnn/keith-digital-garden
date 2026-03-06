@@ -12,7 +12,7 @@ keywords:
   - distribution
   - messaging
   - risk
-draft: true
+draft: false
 description: A temporary suspension highlighted the fragility of app store dependence.
 created: 2021-01-29
 updated: 2021-01-29

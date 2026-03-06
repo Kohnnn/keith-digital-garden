@@ -10,7 +10,7 @@ keywords:
   - balance
   - practice
   - ritual
-draft: true
+draft: false
 description: Taoist practice trains the body to follow the way with softness and breath.
 created: 2021-12-18
 updated: 2026-02-07
@@ -59,6 +59,8 @@ Taoist practice also changes how I handle power. The best power is quiet. The be
 
 There is also a health philosophy here. The body is not a machine to be optimized. It is a system to be cared for. That makes Taoist practice feel like a critique of western productivity and the modern habit of pushing past limits. It insists that my limits are part of the way. This is where I keep it near [[Surrender - The Moment I Stop Gripping]] because both teach me to soften rather than strain. Rest becomes a moral decision, not a reward. Slowness is a kind of respect.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Softness can become avoidance if I use it to escape action.
 
 Micro-ritual: Breathe for three minutes today with no goal except to feel the breath.
@@ -95,6 +97,16 @@ I keep this next to [[Daoism - The Strength of Softness]] and it leans toward [[
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Taoist Practice - The Way in the Body]] vs [[Legalism - Order Without Warmth]]: embodied non-forcing discipline versus top-down compliance discipline.
+- [[Taoist Practice - The Way in the Body]] vs [[Machiavelli - The Price of Control]]: rhythm and attunement versus tactical intervention.
+- [[Taoist Practice - The Way in the Body]] vs [[Bushido - The Steel of Restraint]]: softness as method versus steel as method.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Daoism (Stanford Encyclopedia of Philosophy)

@@ -12,7 +12,7 @@ keywords:
   - credit
   - watch
   - after
-draft: true
+draft: false
 created: 2023-12-22
 updated: 2023-12-22
 note_id: 231222MR12

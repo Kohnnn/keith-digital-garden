@@ -12,7 +12,7 @@ keywords:
   - capital
   - prices
   - scale
-draft: true
+draft: false
 description: A large capital push signaled institutional housing demand.
 created: 2022-11-01
 updated: 2025-04-23

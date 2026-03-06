@@ -10,7 +10,7 @@ keywords:
   - agency
   - ethics
   - mirror
-draft: true
+draft: false
 description: When a system speaks, I feel the urge to call it a self.
 created: 2024-01-14
 updated: 2025-12-02
@@ -56,6 +56,8 @@ I keep this close to [[Abstraction - The Idea That Floats]] because the tension 
 </ul>
 
 I see this when a tool finishes my sentence and I feel relieved.
+
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: I can demonize tech and ignore human responsibility.
 
@@ -105,6 +107,16 @@ And the question is moral too. If I treat AI as a tool, I may treat people like 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Artificial Intelligence - The Mirror That Talks Back]] vs [[Human Condition - The Weight of Being Here]]: optimization logic versus irreducible human burden.
+- [[Artificial Intelligence - The Mirror That Talks Back]] vs [[Intentional Stance - The Shortcut I Live By]]: tool prediction versus person-level ascription.
+- [[Artificial Intelligence - The Mirror That Talks Back]] vs [[Ethics - Prudence is a Muscle]]: scale automation versus situated judgment.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Computing Machinery and Intelligence

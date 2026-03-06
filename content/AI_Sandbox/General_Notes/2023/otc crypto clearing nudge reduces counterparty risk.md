@@ -12,7 +12,7 @@ keywords:
   - risk
   - crypto
   - div
-draft: true
+draft: false
 description: Clearing pressure on OTC desks aims to mimic traditional finance guardrails.
 created: 2023-12-12
 updated: 2023-12-12

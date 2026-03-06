@@ -11,7 +11,7 @@ keywords:
   - christmas
   - video
   - span
-draft: true
+draft: false
 description: A Steve Jobs Christmas [video]
 created: 2024-12-31
 updated: 2024-12-31

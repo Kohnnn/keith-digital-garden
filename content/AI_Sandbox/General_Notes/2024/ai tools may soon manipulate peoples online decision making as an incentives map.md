@@ -11,7 +11,7 @@ keywords:
   - may
   - soon
   - manipulate
-draft: true
+draft: false
 description: AI tools may soon manipulate people's online decision-making
 created: 2024-12-31
 updated: 2024-12-31

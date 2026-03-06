@@ -12,7 +12,7 @@ keywords:
   - policy
   - regulation
   - surveillance
-draft: true
+draft: false
 description: A reporting push turned crypto policy into a tooling problem.
 created: 2021-08-10
 updated: 2025-10-08

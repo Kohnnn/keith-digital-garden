@@ -5,7 +5,7 @@ tags:
   - mind
   - abstraction
   - memetics
-draft: true
+draft: false
 description: Notes linked by mind.
 created: 2026-02-07
 updated: 2026-02-07

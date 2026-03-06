@@ -3,7 +3,7 @@ title: keyword - impartiality
 tags:
   - keyword-index
   - mohism
-draft: true
+draft: false
 description: Notes linked by impartiality.
 created: 2026-02-07
 updated: 2026-02-07

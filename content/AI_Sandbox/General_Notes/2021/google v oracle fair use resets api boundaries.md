@@ -12,7 +12,7 @@ keywords:
   - law
   - interoperability
   - platform
-draft: true
+draft: false
 description: The Supreme Court decision made API reuse a safer default for builders.
 created: 2021-04-05
 updated: 2021-04-05

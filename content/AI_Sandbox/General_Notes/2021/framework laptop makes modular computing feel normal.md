@@ -12,7 +12,7 @@ keywords:
   - laptop
   - lifecycle
   - supply
-draft: true
+draft: false
 description: Framework framed repairability as a mainstream product strategy.
 created: 2021-02-25
 updated: 2021-02-25

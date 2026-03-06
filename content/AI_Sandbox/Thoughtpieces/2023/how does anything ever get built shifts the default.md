@@ -12,7 +12,7 @@ keywords:
   - anything
   - ever
   - get
-draft: true
+draft: false
 description: How does anything ever get built?
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - science
   - data
   - access
-draft: true
+draft: false
 description: A model release opened protein structures at scale.
 created: 2021-07-22
 updated: 2025-06-02

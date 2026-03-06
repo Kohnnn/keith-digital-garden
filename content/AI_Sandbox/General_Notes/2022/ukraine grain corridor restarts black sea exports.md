@@ -11,7 +11,7 @@ keywords:
   - shipping
   - corridor
   - exports
-draft: true
+draft: false
 description: the corridor restart reduced immediate food freight stress but left pricing vulnerable to recurring security shocks.
 created: 2022-11-01
 updated: 2022-11-01

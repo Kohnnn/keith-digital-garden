@@ -12,7 +12,7 @@ keywords:
   - crypto
   - compliance
   - trust
-draft: true
+draft: false
 description: A year where regulation began to shape crypto product design.
 created: 2021-09-20
 updated: 2024-12-22

@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: How I cut GTA Online loading times by 70% as a signal about broader shifts.
 created: 2021-02-28
 updated: 2021-02-28

@@ -12,7 +12,7 @@ keywords:
   - defense
   - trusted
   - types
-draft: true
+draft: false
 description: "Latest XSS Defense: Trusted Types and Built-In Sanitizer API"
 created: 2023-12-31
 updated: 2023-12-31

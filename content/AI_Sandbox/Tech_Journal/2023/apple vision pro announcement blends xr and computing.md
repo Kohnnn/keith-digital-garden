@@ -12,7 +12,7 @@ keywords:
   - apple
   - headset
   - pro
-draft: true
+draft: false
 description: Apple unveiled Vision Pro, mixing micro-OLED displays, eye tracking, and spatial computing hype.
 created: 2023-06-05
 updated: 2023-06-05

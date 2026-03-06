@@ -11,7 +11,7 @@ keywords:
   - openaipowered
   - semantic
   - search
-draft: true
+draft: false
 description: "Show HN: OpenAI-powered semantic search for the All-In Podcast"
 created: 2022-12-30
 updated: 2022-12-30

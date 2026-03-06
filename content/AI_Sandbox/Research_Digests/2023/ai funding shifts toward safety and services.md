@@ -12,7 +12,7 @@ keywords:
   - safety
   - linkage
   - services
-draft: true
+draft: false
 description: VC data shows 2023 venture capital favoring AI safety, security, and B2B services.
 created: 2023-09-27
 updated: 2023-09-27

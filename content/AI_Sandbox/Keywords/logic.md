@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - logic
   - nyaya
-draft: true
+draft: false
 description: Notes linked by logic.
 created: 2026-02-07
 updated: 2026-02-07

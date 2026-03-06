@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: EU Digital Markets Act, aimed at Google, Apple, Amazon, approved as a signal about broader shifts.
 created: 2022-07-20
 updated: 2022-07-20

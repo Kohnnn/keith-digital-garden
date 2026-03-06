@@ -12,7 +12,7 @@ keywords:
   - policy
   - recovery
   - risk
-draft: true
+draft: false
 description: A cluster of attacks made ransomware a systemic risk story.
 created: 2021-07-15
 updated: 2025-04-08

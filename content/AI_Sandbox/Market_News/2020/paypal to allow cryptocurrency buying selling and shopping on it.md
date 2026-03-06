@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: PayPal to allow cryptocurrency buying, selling and shopping on its network as a signal about broader shifts.
 created: 2020-10-21
 updated: 2020-10-21

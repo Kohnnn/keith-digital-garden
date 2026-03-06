@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Smartphones with Qualcomm chip secretly send personal data to Qualcomm as a signal about broader shifts.
 created: 2023-04-25
 updated: 2023-04-25

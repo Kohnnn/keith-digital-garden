@@ -11,7 +11,7 @@ keywords:
   - trust
   - control
   - freedom
-draft: true
+draft: false
 description: Letting go as a way to see what is actually here.
 created: 2021-06-30
 updated: 2025-12-10
@@ -57,6 +57,8 @@ I feel the hinge with [[Legalism - Order Without Warmth]] most when the stakes a
 </ul>
 
 I see this when traffic slows and I clench the wheel.
+
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Surrender can become avoidance if I refuse action.
 
@@ -105,6 +107,16 @@ And it challenges my story about meaning. If I only accept what I can control, I
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Surrender - The Moment I Stop Gripping]] vs [[Nietzsche - The Heaviest Question]]: relinquishment of control versus intensified self-authorship.
+- [[Surrender - The Moment I Stop Gripping]] vs [[Machiavelli - The Price of Control]]: trustful release versus strategic grip.
+- [[Surrender - The Moment I Stop Gripping]] vs [[Bushido - The Steel of Restraint]]: soft yielding versus duty-tight discipline.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Tao Te Ching

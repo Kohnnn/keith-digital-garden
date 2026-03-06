@@ -12,7 +12,7 @@ keywords:
   - consensus
   - energy
   - risk
-draft: true
+draft: false
 description: The merge completed a long technical transition in crypto.
 created: 2022-09-15
 updated: 2025-05-13

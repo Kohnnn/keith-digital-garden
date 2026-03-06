@@ -12,7 +12,7 @@ keywords:
   - iteration
   - failure
   - flight
-draft: true
+draft: false
 description: Starship Flight 3 ended with another premature shutdown, yet SpaceX took key lessons.
 created: 2023-03-03
 updated: 2023-03-03

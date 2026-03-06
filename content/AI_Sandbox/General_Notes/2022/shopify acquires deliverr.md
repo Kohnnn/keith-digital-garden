@@ -12,7 +12,7 @@ keywords:
   - acquisition
   - supply
   - ecommerce
-draft: true
+draft: false
 description: Shopify’s deal signaled a push into logistics control.
 created: 2022-05-05
 updated: 2025-02-14

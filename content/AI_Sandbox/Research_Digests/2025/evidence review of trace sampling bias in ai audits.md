@@ -11,7 +11,7 @@ keywords:
   - bias
   - audits
   - evidence
-draft: true
+draft: false
 description: trace sampling strategies can introduce audit bias if risk classes are miscalibrated.
 created: 2025-07-17
 updated: 2025-07-17

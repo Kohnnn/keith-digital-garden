@@ -12,7 +12,7 @@ keywords:
   - regulation
   - markets
   - china
-draft: true
+draft: false
 description: A sudden policy shift rewired the private education market.
 created: 2021-07-24
 updated: 2025-09-14

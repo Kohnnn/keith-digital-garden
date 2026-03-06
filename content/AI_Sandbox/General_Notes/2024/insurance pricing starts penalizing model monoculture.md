@@ -11,7 +11,7 @@ keywords:
   - exposure
   - resilience
   - premiums
-draft: true
+draft: false
 description: insurers are beginning to price concentration risk when many systems depend on a single ai or software vendor path.
 created: 2024-11-19
 updated: 2024-11-19

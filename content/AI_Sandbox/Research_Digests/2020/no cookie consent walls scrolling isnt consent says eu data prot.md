@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: No cookie consent walls, scrolling isn’t consent, says EU data protection body as a signal about broader shifts.
 created: 2020-05-06
 updated: 2020-05-06

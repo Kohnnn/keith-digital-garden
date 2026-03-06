@@ -3,7 +3,7 @@ title: keyword - wisdom
 tags:
   - keyword-index
   - socrates
-draft: true
+draft: false
 description: Notes linked by wisdom.
 created: 2026-02-07
 updated: 2026-02-07

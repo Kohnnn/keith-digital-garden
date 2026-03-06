@@ -11,7 +11,7 @@ keywords:
   - architecture
   - safety
   - reliability
-draft: true
+draft: false
 description: boundary design around context tools and permissions now drives more outcomes than small differences in model benchmarks.
 created: 2024-12-27
 updated: 2024-12-27

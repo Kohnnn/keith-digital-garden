@@ -12,7 +12,7 @@ keywords:
   - constraints
   - diy
   - learning
-draft: true
+draft: false
 description: A creative build explored programming under constraints.
 created: 2022-12-31
 updated: 2025-02-20

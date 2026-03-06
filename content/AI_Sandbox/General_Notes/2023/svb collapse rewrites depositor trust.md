@@ -12,7 +12,7 @@ keywords:
   - regulation
   - contagion
   - gdpr
-draft: true
+draft: false
 description: Silicon Valley Bank's failure rewired expectations for depositor protections.
 created: 2023-03-10
 updated: 2023-03-10

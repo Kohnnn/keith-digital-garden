@@ -12,7 +12,7 @@ keywords:
   - youth
   - resilience
   - policy
-draft: true
+draft: false
 description: A report linked mental health to the decline of independence.
 created: 2022-12-30
 updated: 2025-05-27

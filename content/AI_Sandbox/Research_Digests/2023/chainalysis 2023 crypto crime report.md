@@ -12,7 +12,7 @@ keywords:
   - defi
   - laundering
   - crypto
-draft: true
+draft: false
 description: Chainalysis reported crypto crime volumes falling overall but DeFi hacks rising sharply in 2023.
 created: 2023-01-12
 updated: 2023-01-12

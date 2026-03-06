@@ -11,7 +11,7 @@ keywords:
   - controls
   - risk
   - policy
-draft: true
+draft: false
 description: enterprise buying teams are turning safety evaluation evidence into mandatory procurement gate criteria.
 created: 2024-11-18
 updated: 2024-11-18

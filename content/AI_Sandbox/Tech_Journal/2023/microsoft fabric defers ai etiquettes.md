@@ -12,7 +12,7 @@ keywords:
   - ai
   - div
   - etiquettes
-draft: true
+draft: false
 description: Microsoft Fabric introduces guidelines for AI content in enterprise dashboards.
 created: 2023-12-18
 updated: 2023-12-18

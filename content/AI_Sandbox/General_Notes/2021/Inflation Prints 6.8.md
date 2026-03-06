@@ -12,7 +12,7 @@ keywords:
   - rates
   - income
   - policy
-draft: true
+draft: false
 description: Inflation hit a multi-decade high and forced a policy rethink.
 created: 2021-12-10
 updated: 2025-10-04

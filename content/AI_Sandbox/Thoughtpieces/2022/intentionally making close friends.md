@@ -12,7 +12,7 @@ keywords:
   - trust
   - time
   - community
-draft: true
+draft: false
 description: A long essay framed friendship as an intentional system.
 created: 2022-11-28
 updated: 2025-03-07

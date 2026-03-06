@@ -11,7 +11,7 @@ keywords:
   - deletion
   - latency
   - vendors
-draft: true
+draft: false
 description: enterprise scorecards now track how quickly vendors can remove retained memory artifacts across systems.
 created: 2025-05-14
 updated: 2025-05-14

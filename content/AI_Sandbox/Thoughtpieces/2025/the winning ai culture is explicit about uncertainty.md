@@ -11,7 +11,7 @@ keywords:
   - trust
   - decisions
   - governance
-draft: true
+draft: false
 description: teams that communicate uncertainty clearly are outperforming overconfident cultures in long-term ai execution.
 created: 2025-08-17
 updated: 2025-08-17

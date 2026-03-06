@@ -11,7 +11,7 @@ keywords:
   - monoculture
   - resilience
   - risk
-draft: true
+draft: false
 description: a single faulty security update showed how software monoculture can halt global operations.
 created: 2024-07-19
 updated: 2024-07-19

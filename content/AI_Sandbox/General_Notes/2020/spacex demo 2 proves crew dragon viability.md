@@ -12,7 +12,7 @@ keywords:
   - nasa
   - launch
   - crew
-draft: true
+draft: false
 description: NASA's Demo-2 mission marked the return of U.S. human spaceflight and private contractors.
 created: 2020-05-30
 updated: 2020-05-30

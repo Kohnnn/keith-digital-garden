@@ -11,7 +11,7 @@ keywords:
   - workloads
   - energy
   - datacenters
-draft: true
+draft: false
 description: carbon aware scheduling studies show meaningful emissions reduction when ai jobs can shift across time and regions.
 created: 2024-11-24
 updated: 2024-11-24

@@ -12,7 +12,7 @@ keywords:
   - search
   - generative
   - gpt
-draft: true
+draft: false
 description: Meta announced AI-driven Search Generative Experience to compete with Google/Bard.
 created: 2023-05-10
 updated: 2023-05-10

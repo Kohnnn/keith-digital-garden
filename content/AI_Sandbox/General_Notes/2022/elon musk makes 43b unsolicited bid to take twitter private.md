@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Elon Musk makes $43B unsolicited bid to take Twitter private as a signal about broader shifts.
 created: 2022-04-14
 updated: 2022-04-14

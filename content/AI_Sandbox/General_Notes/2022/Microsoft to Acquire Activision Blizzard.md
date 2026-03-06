@@ -12,7 +12,7 @@ keywords:
   - antitrust
   - scale
   - consolidation
-draft: true
+draft: false
 description: The deal pushed gaming into a new scale and antitrust frame.
 created: 2022-01-18
 updated: 2025-02-22

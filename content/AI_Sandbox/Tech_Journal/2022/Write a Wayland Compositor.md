@@ -12,7 +12,7 @@ keywords:
   - graphics
   - systems
   - tutorial
-draft: true
+draft: false
 description: A talk demystified the compositor stack for Linux.
 created: 2022-12-30
 updated: 2025-03-29

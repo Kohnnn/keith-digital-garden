@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: New York Times phasing out all 3rd-party advertising data as a signal about broader shifts.
 created: 2020-05-19
 updated: 2020-05-19

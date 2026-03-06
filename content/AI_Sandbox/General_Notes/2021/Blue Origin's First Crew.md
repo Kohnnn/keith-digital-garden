@@ -12,7 +12,7 @@ keywords:
   - commercial
   - milestone
   - competition
-draft: true
+draft: false
 description: A billionaire-led flight signaled a new phase of space tourism.
 created: 2021-07-20
 updated: 2025-06-03

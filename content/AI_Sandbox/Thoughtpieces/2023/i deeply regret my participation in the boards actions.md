@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: I deeply regret my participation in the board's actions as a signal about broader shifts.
 created: 2023-11-20
 updated: 2023-11-20

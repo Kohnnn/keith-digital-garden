@@ -10,7 +10,7 @@ keywords:
   - operators
   - demand
   - volatility
-draft: true
+draft: false
 description: model operators are increasing power hedging activity as energy volatility becomes a core variable in inference economics.
 created: 2024-11-19
 updated: 2024-11-19

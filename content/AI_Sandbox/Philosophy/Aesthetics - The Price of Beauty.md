@@ -10,7 +10,7 @@ keywords:
   - desire
   - value
   - perception
-draft: true
+draft: false
 description: Beauty is not just decoration; it reorganizes my attention.
 created: 2022-03-08
 updated: 2025-12-01
@@ -56,6 +56,8 @@ This is the angle where [[Yogacara - The Mind That Paints]] starts to make more 
 </ul>
 
 I see this when I rearrange a desk and suddenly breathe easier.
+
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: Beauty can distract me from truth.
 
@@ -103,6 +105,16 @@ In the end, I want beauty to be a bridge. I want it to help me pay attention to 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Aesthetics - The Price of Beauty]] vs [[Mohism - The Care That Spreads]]: beauty as intrinsic value versus anti-waste public utility.
+- [[Aesthetics - The Price of Beauty]] vs [[Legalism - Order Without Warmth]]: sensibility and meaning versus compliance and deterrence.
+- [[Aesthetics - The Price of Beauty]] vs [[Extractivism - The Hunger That Eats the Ground]]: beauty-making versus beauty-consuming systems.
+
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 
 ## references
 > [!ref] Critique of Judgment

@@ -10,7 +10,7 @@ keywords:
   - stupid
   - about
   - ai
-draft: true
+draft: false
 description: How Not to Be Stupid About AI, with Yann LeCun
 created: 2023-12-31
 updated: 2023-12-31

@@ -11,7 +11,7 @@ keywords:
   - speculators
   - cryptocurrencies
   - span
-draft: true
+draft: false
 description: Protecting Investors AND Speculators in Cryptocurrencies
 created: 2023-12-31
 updated: 2023-12-31

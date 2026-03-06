@@ -11,7 +11,7 @@ keywords:
   - contracts
   - risk
   - indicators
-draft: true
+draft: false
 description: governance dashboards are adding contract-risk indicators to link runtime behavior with commercial exposure.
 created: 2026-01-08
 updated: 2026-01-08

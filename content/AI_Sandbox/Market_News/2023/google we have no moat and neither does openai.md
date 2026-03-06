@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Google “We have no moat, and neither does OpenAI” as a signal about broader shifts.
 created: 2023-05-04
 updated: 2023-05-04

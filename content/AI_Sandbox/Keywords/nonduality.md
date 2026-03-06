@@ -3,7 +3,7 @@ title: keyword - nonduality
 tags:
   - keyword-index
   - vedanta
-draft: true
+draft: false
 description: Notes linked by nonduality.
 created: 2026-02-07
 updated: 2026-02-07

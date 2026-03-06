@@ -12,7 +12,7 @@ keywords:
   - security
   - ios
   - policy
-draft: true
+draft: false
 description: Apple introduced a high-risk security mode for targeted users.
 created: 2022-07-06
 updated: 2025-02-17

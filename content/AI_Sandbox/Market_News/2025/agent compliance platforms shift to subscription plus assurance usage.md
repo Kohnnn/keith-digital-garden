@@ -10,7 +10,7 @@ keywords:
   - subscription
   - assurance
   - pricing
-draft: true
+draft: false
 description: compliance platform pricing is shifting toward hybrid subscription and assurance-volume models.
 created: 2025-06-15
 updated: 2025-06-15

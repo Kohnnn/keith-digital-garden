@@ -11,7 +11,7 @@ keywords:
   - could
   - sign
   - water
-draft: true
+draft: false
 description: A carbon-lite air could be a sign of water, life on other terrestrial planets
 created: 2023-12-30
 updated: 2023-12-30

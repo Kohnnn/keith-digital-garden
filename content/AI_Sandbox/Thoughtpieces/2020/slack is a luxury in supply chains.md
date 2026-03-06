@@ -12,7 +12,7 @@ keywords:
   - buffers
   - div
   - linkage
-draft: true
+draft: false
 description: The 2020 port mess convinced me slack is the most precious logistics asset.
 created: 2020-11-02
 updated: 2020-11-02

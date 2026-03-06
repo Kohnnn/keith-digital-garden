@@ -12,7 +12,7 @@ keywords:
   - labor
   - logistics
   - supplychain
-draft: true
+draft: false
 description: A last-minute rail labor deal prevented a shutdown that would have frozen freight corridors.
 created: 2022-09-15
 updated: 2022-09-15

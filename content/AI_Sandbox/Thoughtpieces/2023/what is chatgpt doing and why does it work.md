@@ -11,7 +11,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: What is ChatGPT doing and why does it work? as a signal about broader shifts.
 created: 2023-02-14
 updated: 2023-02-14

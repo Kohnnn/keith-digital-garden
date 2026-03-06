@@ -10,7 +10,7 @@ keywords:
   - dairy
   - cowassociated
   - h5n1
-draft: true
+draft: false
 description: Single mutation in dairy cow-associated H5N1 increases receptor binding breadth
 created: 2024-12-31
 updated: 2024-12-31

@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: The first conformant M1 GPU driver as a signal about broader shifts.
 created: 2023-08-22
 updated: 2023-08-22

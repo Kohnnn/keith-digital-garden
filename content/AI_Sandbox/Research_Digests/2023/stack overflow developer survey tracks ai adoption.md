@@ -12,7 +12,7 @@ keywords:
   - ai
   - usage
   - div
-draft: true
+draft: false
 description: Stack Overflow’s 2023 Developer Survey shows two thirds of developers already using AI tools on the job.
 created: 2023-07-12
 updated: 2023-07-12

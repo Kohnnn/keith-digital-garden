@@ -11,7 +11,7 @@ keywords:
   - upgrades
   - validation
   - safety
-draft: true
+draft: false
 description: shadow traffic harnesses are helping teams evaluate upgrades against real workloads before full rollout.
 created: 2025-03-29
 updated: 2025-03-29

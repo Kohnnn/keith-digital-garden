@@ -11,7 +11,7 @@ keywords:
   - fallback
   - latency
   - envelopes
-draft: true
+draft: false
 description: deterministic downgrade tests are validating fallback latency envelopes before production rollout.
 created: 2025-09-18
 updated: 2025-09-18

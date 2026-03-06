@@ -11,7 +11,7 @@ keywords:
   - middleware
   - funding
   - valuation
-draft: true
+draft: false
 description: 2024 venture data shows down rounds concentrated in ai middleware firms with unclear differentiation.
 created: 2024-10-05
 updated: 2024-10-05

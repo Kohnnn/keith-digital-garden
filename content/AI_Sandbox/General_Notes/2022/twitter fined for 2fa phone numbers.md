@@ -12,7 +12,7 @@ keywords:
   - consent
   - data
   - trust
-draft: true
+draft: false
 description: The fine highlighted consequences of data misuse.
 created: 2022-05-25
 updated: 2025-03-18

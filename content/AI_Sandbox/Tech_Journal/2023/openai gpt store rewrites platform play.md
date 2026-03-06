@@ -12,7 +12,7 @@ keywords:
   - monetization
   - api
   - gpt
-draft: true
+draft: false
 description: OpenAI unveiled the GPT Store to sell third-party and first-party copilots.
 created: 2023-11-06
 updated: 2023-11-06

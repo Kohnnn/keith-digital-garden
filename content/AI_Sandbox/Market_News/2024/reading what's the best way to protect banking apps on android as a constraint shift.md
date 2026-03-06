@@ -12,7 +12,7 @@ keywords:
   - way
   - protect
   - banking
-draft: true
+draft: false
 description: What's the best way to protect banking apps on Android?
 created: 2024-12-30
 updated: 2024-12-30

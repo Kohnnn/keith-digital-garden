@@ -11,7 +11,7 @@ keywords:
   - ondevice
   - neural
   - efficiency
-draft: true
+draft: false
 description: apple’s m4 launch strengthened the case for ondevice ai by improving local inference efficiency.
 created: 2024-05-07
 updated: 2024-05-07

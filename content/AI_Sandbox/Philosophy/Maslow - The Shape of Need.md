@@ -11,7 +11,7 @@ keywords:
   - growth
   - psychology
   - self
-draft: true
+draft: false
 description: The order of my needs shapes the order of my life.
 created: 2021-10-14
 updated: 2025-12-12
@@ -58,6 +58,8 @@ I keep this close to [[Advaita Vedanta - The One Without Edges]] because the ten
 
 I see this when I try to think deeply while hungry and fail.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: The ladder can become an excuse to delay meaning.
 
 Micro-ritual: Eat, sleep, and breathe before making a big choice.
@@ -101,6 +103,16 @@ I also think about how the ladder intersects with fairness. If my basic needs ar
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Maslow - The Shape of Need]] vs [[Stoicism - The Weather Inside]]: need-layer progression versus virtue independent of externals.
+- [[Maslow - The Shape of Need]] vs [[Buddhism - The Practice of Letting Go]]: motivational fulfillment versus craving deconstruction.
+- [[Maslow - The Shape of Need]] vs [[Drought - The Discipline of Scarcity]]: growth psychology versus structural deprivation.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] A Theory of Human Motivation

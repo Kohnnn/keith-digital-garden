@@ -12,7 +12,7 @@ keywords:
   - virtual
   - black
   - holes
-draft: true
+draft: false
 description: Understanding metals with virtual black holes (2019) [video]
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - security
   - identity
   - risk
-draft: true
+draft: false
 description: A breach claim highlighted risk in identity providers.
 created: 2022-03-22
 updated: 2025-02-16

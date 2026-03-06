@@ -11,7 +11,7 @@ keywords:
   - justice
   - restraint
   - humility
-draft: true
+draft: false
 description: Mercy is not softness; it is the weight that keeps power human.
 created: 2024-03-03
 updated: 2026-02-07
@@ -90,6 +90,8 @@ Mercy also has an economic edge. Debt, prisons, and penalties can become machine
 
 Finally, mercy is a critique of my own self-righteousness. It tells me I am not exempt from failure. It tells me I will need mercy too. That is humbling. It makes me less eager to throw stones. It makes me more eager to repair. That is a different kind of life. It is slower, softer, and more durable. I want that durability. I want a mercy that does not fold under pressure.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Mercy can be mistaken for weakness and used to avoid accountability.
 
 Micro-ritual: When anger spikes today, pause and name one humane action you can still take.
@@ -126,6 +128,16 @@ I keep this next to [[Islam - The Discipline of Mercy]] and it leans toward [[Fo
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Mercy - The Weight of Compassion]] vs [[Legalism - Order Without Warmth]]: restorative restraint versus deterrent enforcement.
+- [[Mercy - The Weight of Compassion]] vs [[Machiavelli - The Price of Control]]: dignity-preserving accountability versus stability-preserving harshness.
+- [[Mercy - The Weight of Compassion]] vs [[Nietzsche - The Heaviest Question]]: compassion as moral center versus suspicion of pity politics.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] The Quran (text)

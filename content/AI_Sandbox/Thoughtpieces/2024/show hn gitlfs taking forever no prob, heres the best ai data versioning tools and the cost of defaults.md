@@ -12,7 +12,7 @@ keywords:
   - gitlfs
   - taking
   - forever
-draft: true
+draft: false
 description: "Show HN: GitLFS taking forever? No prob, heres the best AI data versioning tools"
 created: 2024-12-30
 updated: 2024-12-30

@@ -12,7 +12,7 @@ keywords:
   - ops
   - reliability
   - platform
-draft: true
+draft: false
 description: Two decades of self-hosting ended under the weight of operational overhead.
 created: 2022-09-04
 updated: 2022-09-04

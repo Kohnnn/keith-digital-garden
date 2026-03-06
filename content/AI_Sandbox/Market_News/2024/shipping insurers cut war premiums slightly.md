@@ -10,7 +10,7 @@ keywords:
   - premiums
   - routes
   - risk
-draft: true
+draft: false
 description: marine insurers trimmed select war risk premiums as routing stability improved modestly.
 created: 2024-10-06
 updated: 2024-10-06

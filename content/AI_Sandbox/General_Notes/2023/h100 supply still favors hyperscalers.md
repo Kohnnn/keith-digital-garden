@@ -12,7 +12,7 @@ keywords:
   - gpu
   - supply
   - nvidia
-draft: true
+draft: false
 description: H100 shipments remain concentrated at hyperscalers while startups wait for allocations.
 created: 2023-11-30
 updated: 2023-11-30

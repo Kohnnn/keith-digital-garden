@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Biden wins White House, vowing new direction for divided U.S. as a signal about broader shifts.
 created: 2020-11-07
 updated: 2020-11-07

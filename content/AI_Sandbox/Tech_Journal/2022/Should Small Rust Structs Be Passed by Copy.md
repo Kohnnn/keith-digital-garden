@@ -12,7 +12,7 @@ keywords:
   - borrow
   - perf
   - structs
-draft: true
+draft: false
 description: A post clarified when copy beats borrow in Rust.
 created: 2022-12-31
 updated: 2025-04-25

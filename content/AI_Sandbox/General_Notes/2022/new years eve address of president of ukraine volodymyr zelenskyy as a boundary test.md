@@ -10,7 +10,7 @@ keywords:
   - eve
   - address
   - president
-draft: true
+draft: false
 description: New Years Eve Address of President of Ukraine Volodymyr Zelenskyy
 created: 2022-12-31
 updated: 2022-12-31

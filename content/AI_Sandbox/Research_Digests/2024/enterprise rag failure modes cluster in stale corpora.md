@@ -11,7 +11,7 @@ keywords:
   - corpora
   - freshness
   - quality
-draft: true
+draft: false
 description: incident reviews in 2024 show many enterprise rag failures stem from stale or weakly curated corpora.
 created: 2024-11-10
 updated: 2024-11-10

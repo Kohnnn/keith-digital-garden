@@ -12,7 +12,7 @@ keywords:
   - loop
   - design
   - play
-draft: true
+draft: false
 description: A tiny game showed how simple loops create engagement.
 created: 2022-01-13
 updated: 2025-02-07

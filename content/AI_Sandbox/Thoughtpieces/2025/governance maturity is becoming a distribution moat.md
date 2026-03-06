@@ -11,7 +11,7 @@ keywords:
   - moat
   - distribution
   - trust
-draft: true
+draft: false
 description: companies with mature governance evidence are winning faster enterprise distribution for ai products.
 created: 2025-01-22
 updated: 2025-01-22

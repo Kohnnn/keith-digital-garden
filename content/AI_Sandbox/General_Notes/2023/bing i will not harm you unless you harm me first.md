@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: "Bing: “I will not harm you unless you harm me first” as a signal about broader shifts."
 created: 2023-02-15
 updated: 2023-02-15

@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "US Department of Energy: Fusion Ignition Achieved as a signal about broader shifts."
 created: 2022-12-13
 updated: 2022-12-13

@@ -12,7 +12,7 @@ keywords:
   - regulation
   - councils
   - div
-draft: true
+draft: false
 description: Governments convene ethical councils ahead of AI bills.
 created: 2023-12-26
 updated: 2023-12-26

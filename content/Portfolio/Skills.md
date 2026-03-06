@@ -2,40 +2,53 @@
 title: Skill Matrix
 tags: [portfolio, skills]
 draft: false
-description: Core competencies across finance, data, and research.
+description: Competencies mapped by domain and practical usage level.
 created: 2026-01-30
-updated: 2026-01-30
+updated: 2026-03-06
 aliases: [Skills]
 ---
 
 # Skill Matrix
 
-## finance core
-- DCF modeling, comparative analysis, financial statements, valuation metrics
-- Portfolio construction, asset allocation, risk optimization, performance analysis
+## finance core (advanced)
 
-## market research
-- Sector analysis, competitive intelligence, trend forecasting, industry reports
+- DCF modeling, comparable valuation, financial statement analysis
+- Portfolio construction, allocation design, drawdown-aware risk framing
 
-## quant and crypto
-- Tokenomics, stablecoin monitoring, RWA modeling, tokenization valuation
-- Black Scholes and derivatives basics
-- Statistical arbitrage and algorithmic trading patterns
+## market research (advanced)
 
-## toolchain
-- R (intermediate), Stata (intermediate)
-- SQL, Tableau, Power BI
-- Advanced MS Office
+- Sector analysis, competitive intelligence, earnings-call synthesis
+- Thesis design, catalyst tracking, scenario framing
+
+## quant and crypto (working)
+
+- Tokenomics review, stablecoin monitoring, crypto cycle diagnostics
+- Black-Scholes fundamentals, option sensitivity interpretation
+- Systematic pattern discovery for strategy prototyping
+
+## tooling
+
+- Data and analysis: R (working), SQL, Stata (working)
+- Visualization: Tableau, Power BI, Looker Studio
+- Productivity and modeling: Advanced Excel, VBA, structured templates
+- Automation: AI-agent-assisted monitoring and workflow acceleration
 
 ## credentials
+
 - CFA Level I candidate
 
 ## language
+
 - Vietnamese (native)
 - English (fluent)
 
+## capability map (skill to outcome)
+
+- Financial modeling -> faster valuation updates and cleaner sensitivity checks
+- Data workflows -> lower research latency and fewer manual handoff errors
+- Dashboarding -> faster signal triage and better communication of market state
+
 ## see also
+
 - [[Portfolio/Resume|Experience log]]
 - [[Portfolio/Projects|Casefiles]]
-
-#

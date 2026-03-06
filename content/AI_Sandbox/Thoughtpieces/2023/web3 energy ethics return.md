@@ -12,7 +12,7 @@ keywords:
   - ethics
   - div
   - linkage
-draft: true
+draft: false
 description: Web3 builders revisit their energy promises as proof-of-stake prevails yet new chains emerge.
 created: 2023-10-12
 updated: 2023-10-12

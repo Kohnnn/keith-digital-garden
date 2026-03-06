@@ -12,7 +12,7 @@ keywords:
   - macro
   - div
   - fed
-draft: true
+draft: false
 description: SaaS valuations ticked up 5% after macro data suggested a slower pace of hikes.
 created: 2023-12-08
 updated: 2023-12-08

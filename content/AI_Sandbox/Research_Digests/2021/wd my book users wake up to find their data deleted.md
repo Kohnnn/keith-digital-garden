@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: WD My Book users wake up to find their data deleted as a signal about broader shifts.
 created: 2021-06-24
 updated: 2021-06-24

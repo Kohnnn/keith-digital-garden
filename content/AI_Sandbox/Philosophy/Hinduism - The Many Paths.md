@@ -10,7 +10,7 @@ keywords:
   - devotion
   - liberation
   - duty
-draft: true
+draft: false
 description: Hinduism holds many paths to truth without erasing discipline.
 created: 2022-12-12
 updated: 2026-02-07
@@ -59,6 +59,8 @@ The concept of dharma also challenges me. Duty is not the same for everyone. Tha
 
 Hinduism also holds tension between unity and multiplicity. There is a single reality and many faces of it. That resonates with [[Advaita Vedanta - The One Without Edges]] but also with the devotional paths that keep relationship central. The result is a faith that can be both mystical and practical. It does not force me to choose between head and heart. It invites both. That breadth humbles my certainty.
 There is also a strong ritual life. Ritual is not empty repetition; it is how the sacred becomes daily. This is where Hinduism touches [[Shinto - The Everyday Sacred]] and [[Confucianism - The Shape of Duty]] because all three treat daily practice as the real spiritual work. The difference is in tone: Hindu ritual is often expansive, colorful, and layered. It says the sacred is not just quiet; it is abundant. The practice survives because teachers and families keep passing it down.
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: The many paths can become an excuse to avoid commitment.
 
 Micro-ritual: Choose one duty today and perform it with full attention, then let it go.
@@ -95,6 +97,16 @@ I keep this next to [[Advaita Vedanta - The One Without Edges]] and it leans tow
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Hinduism - The Many Paths]] vs [[Legalism - Order Without Warmth]]: plural path discipline versus singular compliance architecture.
+- [[Hinduism - The Many Paths]] vs [[Nietzsche - The Heaviest Question]]: dharma-anchored obligation versus self-authored value horizon.
+- [[Hinduism - The Many Paths]] vs [[Pyrrhonism - The Peace of Suspension]]: soteriological commitment versus tranquility through withholding.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] The Bhagavad Gita (text)

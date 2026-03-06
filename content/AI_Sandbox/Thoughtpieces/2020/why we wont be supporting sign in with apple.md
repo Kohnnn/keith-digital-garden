@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why we won’t be supporting Sign in with Apple as a signal about broader shifts.
 created: 2020-06-29
 updated: 2020-06-29

@@ -12,7 +12,7 @@ keywords:
   - encryption
   - trust
   - linkage
-draft: true
+draft: false
 description: Zoom's privacy missteps forced attention on how quickly enterprise collaboration can betray trust.
 created: 2020-04-03
 updated: 2020-04-03

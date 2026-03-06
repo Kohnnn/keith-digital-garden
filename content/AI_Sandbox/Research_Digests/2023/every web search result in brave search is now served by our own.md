@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Every web search result in Brave Search is now served by our own index as a signal about broader shifts.
 created: 2023-04-27
 updated: 2023-04-27

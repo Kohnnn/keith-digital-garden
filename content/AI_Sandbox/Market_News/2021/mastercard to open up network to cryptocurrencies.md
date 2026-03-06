@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: MasterCard to open up network to cryptocurrencies as a signal about broader shifts.
 created: 2021-02-11
 updated: 2021-02-11

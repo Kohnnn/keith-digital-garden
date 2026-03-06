@@ -12,7 +12,7 @@ keywords:
   - tooling
   - community
   - transition
-draft: true
+draft: false
 description: GitHub ended Atom, shifting users to other editors.
 created: 2022-06-08
 updated: 2025-02-28

@@ -12,7 +12,7 @@ keywords:
   - review
   - 2021
   - span
-draft: true
+draft: false
 description: ThinkPad X2100 Review (2021)
 created: 2023-12-31
 updated: 2023-12-31

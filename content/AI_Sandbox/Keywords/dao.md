@@ -2,7 +2,7 @@
 title: keyword - dao
 tags:
   - keyword-index
-draft: true
+draft: false
 description: Notes linked by dao.
 created: 2026-02-07
 updated: 2026-02-07

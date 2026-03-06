@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: When an app asks for permissions, it should have a “feed fake data” option as a signal about broader shifts.
 created: 2023-07-08
 updated: 2023-07-08

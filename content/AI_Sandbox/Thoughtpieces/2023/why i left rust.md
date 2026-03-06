@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why I Left Rust as a signal about broader shifts.
 created: 2023-05-28
 updated: 2023-05-28

@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Moderna mRNA sequence released to GitHub [pdf] as a signal about broader shifts.
 created: 2021-03-29
 updated: 2021-03-29

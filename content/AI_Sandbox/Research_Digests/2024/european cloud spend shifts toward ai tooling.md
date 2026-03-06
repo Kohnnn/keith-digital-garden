@@ -11,7 +11,7 @@ keywords:
   - europe
   - ai
   - tooling
-draft: true
+draft: false
 description: 2024 cloud budget surveys show european enterprises reallocating spend toward ai tooling and governance.
 created: 2024-10-27
 updated: 2024-10-27

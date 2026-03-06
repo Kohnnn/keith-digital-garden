@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why the Wuhan lab leak theory shouldn't be dismissed as a signal about broader shifts.
 created: 2021-03-22
 updated: 2021-03-22

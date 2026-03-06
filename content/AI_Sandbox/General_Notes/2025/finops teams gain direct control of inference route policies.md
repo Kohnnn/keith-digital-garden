@@ -11,7 +11,7 @@ keywords:
   - policies
   - costs
   - controls
-draft: true
+draft: false
 description: finops groups are increasingly co-owning model routing rules to control spend volatility.
 created: 2025-02-12
 updated: 2025-02-12

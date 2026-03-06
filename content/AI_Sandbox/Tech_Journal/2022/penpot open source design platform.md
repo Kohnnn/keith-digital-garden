@@ -12,7 +12,7 @@ keywords:
   - open
   - workflow
   - tooling
-draft: true
+draft: false
 description: Penpot framed design tooling as an open, collaborative stack.
 created: 2022-09-15
 updated: 2025-02-26

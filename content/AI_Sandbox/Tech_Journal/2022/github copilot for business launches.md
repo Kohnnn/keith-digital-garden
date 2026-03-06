@@ -12,7 +12,7 @@ keywords:
   - devtools
   - business
   - div
-draft: true
+draft: false
 description: GitHub shipped Copilot for Business so entire orgs can integrate AI pair programming with policy controls.
 created: 2022-12-07
 updated: 2022-12-07

@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why you shouldn't join Y Combinator as a signal about broader shifts.
 created: 2023-10-13
 updated: 2023-10-13

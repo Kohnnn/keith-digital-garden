@@ -10,7 +10,7 @@ keywords:
   - punishment
   - fear
   - descent
-draft: true
+draft: false
 description: Hell is a mirror for the choices I keep making.
 created: 2021-12-19
 updated: 2025-12-10
@@ -56,6 +56,8 @@ This is the angle where [[Buddhism - The Practice of Letting Go]] starts to make
 </ul>
 
 I see this when a bad habit repeats and feels normal.
+
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: The map can become judgment instead of repair.
 
@@ -104,6 +106,16 @@ The old stories often include a guide. I need that too. Sometimes the guide is a
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Inferno - The Map of Suffering]] vs [[Buddhism - The Practice of Letting Go]]: moralized punishment map versus compassion-centered suffering reduction.
+- [[Inferno - The Map of Suffering]] vs [[Epicureanism - The Garden of Enough]]: terror pedagogy versus anxiety-minimizing sufficiency.
+- [[Inferno - The Map of Suffering]] vs [[Madhyamaka - The Middle That Refuses]]: fixed moral topography versus anti-essential deconstruction.
+
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 
 ## references
 > [!ref] Inferno

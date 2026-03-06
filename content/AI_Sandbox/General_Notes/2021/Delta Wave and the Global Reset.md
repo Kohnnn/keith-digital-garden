@@ -12,7 +12,7 @@ keywords:
   - policy
   - markets
   - health
-draft: true
+draft: false
 description: The Delta surge reset reopening timelines across economies.
 created: 2021-07-01
 updated: 2025-05-11

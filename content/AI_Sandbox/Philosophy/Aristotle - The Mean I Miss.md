@@ -10,7 +10,7 @@ keywords:
   - character
   - ethics
   - habit
-draft: true
+draft: false
 description: Balance is not average; it is a practiced target.
 created: 2021-12-07
 updated: 2025-12-14
@@ -67,6 +67,10 @@ The mean also protects me from the status game. It is easy to perform virtue for
 
 I see this when I am about to send a sharp message and I pause. 
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
+*tempo note:* the mean is dynamic, not bland middle-management.
+
 Counter-pressure: The mean can become an excuse to avoid taking a real stand when a stand is needed.
 
 Micro-ritual: Before a hard choice, name the two extremes and the one small action that sits between them.
@@ -100,6 +104,21 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Mora
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Aristotle - The Mean I Miss]] vs [[Nietzsche - The Heaviest Question]]: teleological flourishing versus anti-teleological revaluation.
+- [[Aristotle - The Mean I Miss]] vs [[Pyrrhonism - The Peace of Suspension]]: practical wisdom and character aims versus suspension for tranquility.
+- [[Aristotle - The Mean I Miss]] vs [[Madhyamaka - The Middle That Refuses]]: substance-form ontology versus emptiness of fixed essence.
+- [[Aristotle - The Mean I Miss]] vs [[Daoism - The Strength of Softness]]: habituated virtue versus non-forcing flow.
+
+
+## conflict triad
+- [[Aristotle - The Mean I Miss]] / [[Madhyamaka - The Middle That Refuses]] / [[Pyrrhonism - The Peace of Suspension]]: virtue teleology, emptiness dialectics, and suspension therapy disagree about what can be stably known and lived.
+- The test question: do I build character from stable forms, relational emptiness, or strategic non-commitment?
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Nicomachean Ethics

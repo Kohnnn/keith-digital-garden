@@ -5,7 +5,7 @@ tags:
   - hinduism
   - samkhya
   - reality
-draft: true
+draft: false
 description: Notes linked by liberation.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - power
   - risk
   - pricing
-draft: true
+draft: false
 description: A short essay reframed vendor relationships and leverage.
 created: 2022-12-31
 updated: 2025-04-15

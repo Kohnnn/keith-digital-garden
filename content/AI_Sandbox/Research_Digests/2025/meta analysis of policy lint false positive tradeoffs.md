@@ -11,7 +11,7 @@ keywords:
   - falsepositive
   - tradeoffs
   - quality
-draft: true
+draft: false
 description: policy linting reduces risky merges but false positives can create review fatigue without rule tuning.
 created: 2025-08-23
 updated: 2025-08-23

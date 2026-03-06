@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: FDIC Takes over Silicon Valley Bank as a signal about broader shifts.
 created: 2023-03-10
 updated: 2023-03-10

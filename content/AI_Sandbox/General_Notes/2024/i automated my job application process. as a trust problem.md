@@ -12,7 +12,7 @@ keywords:
   - my
   - job
   - application
-draft: true
+draft: false
 description: I Automated My Job Application Process. (Part 2)
 created: 2024-12-31
 updated: 2024-12-31

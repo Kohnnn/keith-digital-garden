@@ -12,7 +12,7 @@ keywords:
   - workflow
   - design
   - rituals
-draft: true
+draft: false
 description: Figma’s AI Autopilot preview shows how design teams will work with copilots inside their canvas.
 created: 2023-09-05
 updated: 2023-09-05

@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Mastercard Should Stop Selling Our Data as a signal about broader shifts.
 created: 2023-10-15
 updated: 2023-10-15

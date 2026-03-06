@@ -12,7 +12,7 @@ keywords:
   - narrative
   - capital
   - belief
-draft: true
+draft: false
 description: An essay argued that new industries require social permission.
 created: 2022-12-31
 updated: 2025-05-18

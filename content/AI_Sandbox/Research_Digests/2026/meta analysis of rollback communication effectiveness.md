@@ -11,7 +11,7 @@ keywords:
   - effectiveness
   - incidents
   - trust
-draft: true
+draft: false
 description: rollback communication quality strongly influences trust retention and incident containment outcomes.
 created: 2026-02-06
 updated: 2026-02-06

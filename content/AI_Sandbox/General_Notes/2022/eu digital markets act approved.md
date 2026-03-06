@@ -12,7 +12,7 @@ keywords:
   - regulation
   - platforms
   - competition
-draft: true
+draft: false
 description: The DMA codified new rules for platform competition.
 created: 2022-07-20
 updated: 2025-04-08

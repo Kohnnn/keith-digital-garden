@@ -12,7 +12,7 @@ keywords:
   - governance
   - trust
   - biotech
-draft: true
+draft: false
 description: The verdict closed a high-profile trust collapse.
 created: 2022-01-04
 updated: 2025-03-19

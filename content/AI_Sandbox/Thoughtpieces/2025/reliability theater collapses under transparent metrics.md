@@ -11,7 +11,7 @@ keywords:
   - metrics
   - transparency
   - trust
-draft: true
+draft: false
 description: superficial reliability narratives are losing power as transparent operational metrics become standard.
 created: 2025-04-06
 updated: 2025-04-06

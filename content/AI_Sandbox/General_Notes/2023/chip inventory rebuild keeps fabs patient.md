@@ -12,7 +12,7 @@ keywords:
   - fabs
   - demand
   - linkage
-draft: true
+draft: false
 description: Elevated inventories from 2022 forced fabs to slow new capacity despite long-term AI demand.
 created: 2023-08-15
 updated: 2023-08-15

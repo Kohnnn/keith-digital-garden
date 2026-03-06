@@ -11,7 +11,7 @@ keywords:
   - rollback
   - safety
   - controls
-draft: true
+draft: false
 description: stateful agent frameworks in 2024 introduced stronger rollback and checkpoint semantics for safer operations.
 created: 2024-11-11
 updated: 2024-11-11

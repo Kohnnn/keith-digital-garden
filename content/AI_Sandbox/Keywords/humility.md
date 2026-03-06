@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - daoism
   - sikhism
-draft: true
+draft: false
 description: Notes linked by humility.
 created: 2026-02-07
 updated: 2026-02-07

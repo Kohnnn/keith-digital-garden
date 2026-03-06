@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Despite having just 5.8% sales, over 38% of bug reports come from Linux as a signal about broader shifts.
 created: 2021-10-24
 updated: 2021-10-24

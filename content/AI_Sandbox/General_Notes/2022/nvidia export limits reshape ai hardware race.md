@@ -12,7 +12,7 @@ keywords:
   - chips
   - china
   - controls
-draft: true
+draft: false
 description: The U.S. restricted exports of Nvidia's A100 and H100 chips to China, signaling a new compute battleground.
 created: 2022-08-31
 updated: 2022-08-31

@@ -11,7 +11,7 @@ keywords:
   - soup
   - joumou
   - span
-draft: true
+draft: false
 description: Haiti's Cherished Soup Joumou
 created: 2022-12-31
 updated: 2022-12-31

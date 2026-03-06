@@ -12,7 +12,7 @@ keywords:
   - labor
   - history
   - careers
-draft: true
+draft: false
 description: A 1980 resume surfaced how skill language changes over time.
 created: 2022-10-25
 updated: 2025-02-26

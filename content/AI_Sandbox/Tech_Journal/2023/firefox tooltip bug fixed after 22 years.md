@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Firefox tooltip bug fixed after 22 years as a signal about broader shifts.
 created: 2023-10-10
 updated: 2023-10-10

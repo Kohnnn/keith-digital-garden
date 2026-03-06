@@ -12,7 +12,7 @@ keywords:
   - off
   - new
   - fastest
-draft: true
+draft: false
 description: China Shows Off New Fastest Bullet Train
 created: 2024-12-30
 updated: 2024-12-30

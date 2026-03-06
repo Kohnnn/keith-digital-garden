@@ -10,7 +10,7 @@ keywords:
   - truth
   - structure
   - reason
-draft: true
+draft: false
 description: The strange power of statements that cannot be false.
 created: 2024-06-09
 updated: 2025-10-07
@@ -57,6 +57,8 @@ This keeps echoing [[First Principles - Digging to Bedrock]] when I try to live 
 
 I see this when a slogan sounds true but teaches nothing.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: I can confuse clean logic with real understanding.
 
 Micro-ritual: Replace one slogan with a specific example.
@@ -102,6 +104,16 @@ So I keep tautologies in their place. I use them to check that my concepts are n
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Logical Tautology - When It Says Nothing and Still Works]] vs [[Etymology - The Trail Inside Words]]: formal necessity versus historical semantic drift.
+- [[Logical Tautology - When It Says Nothing and Still Works]] vs [[Machiavelli - The Price of Control]]: truth-form certainty versus tactical ambiguity.
+- [[Logical Tautology - When It Says Nothing and Still Works]] vs [[Communicant - The Ethics of Being Heard]]: validity without content versus meaning through relation.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Tractatus Logico-Philosophicus

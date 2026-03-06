@@ -11,7 +11,7 @@ keywords:
   - breach
   - drills
   - procurement
-draft: true
+draft: false
 description: vendors that rehearse data-contract breach response are gaining trust in enterprise procurement reviews.
 created: 2025-08-05
 updated: 2025-08-05

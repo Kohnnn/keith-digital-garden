@@ -12,7 +12,7 @@ keywords:
   - economy
   - policy
   - mobility
-draft: true
+draft: false
 description: A phased reopening tried to balance health and production.
 created: 2021-09-30
 updated: 2025-02-11

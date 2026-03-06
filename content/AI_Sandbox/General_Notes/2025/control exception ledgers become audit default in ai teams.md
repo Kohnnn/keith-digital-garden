@@ -11,7 +11,7 @@ keywords:
   - ledgers
   - audits
   - compliance
-draft: true
+draft: false
 description: teams are maintaining exception ledgers as standard audit artifacts to track temporary control deviations.
 created: 2025-09-06
 updated: 2025-09-06

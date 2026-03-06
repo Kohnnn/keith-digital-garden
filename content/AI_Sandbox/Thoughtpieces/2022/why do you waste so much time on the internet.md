@@ -12,7 +12,7 @@ keywords:
   - time
   - focus
   - media
-draft: true
+draft: false
 description: A short essay reframed attention loss as a design outcome.
 created: 2022-05-06
 updated: 2025-02-12

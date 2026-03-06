@@ -12,7 +12,7 @@ keywords:
   - pause
   - linkage
   - data
-draft: true
+draft: false
 description: The Fed held rates steady but signaled future hikes depend on incoming data.
 created: 2023-07-26
 updated: 2023-07-26

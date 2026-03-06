@@ -10,7 +10,7 @@ keywords:
   - truth
   - poverty
   - integrity
-draft: true
+draft: false
 description: Cynicism strips away status and asks me to live with less performance.
 created: 2023-02-03
 updated: 2026-02-07
@@ -65,6 +65,8 @@ Cynicism also forces me to rethink wealth. It does not treat poverty as an ideal
 
 It also challenges my idea of community. If I refuse status games, I might lose a kind of belonging. Cynicism says that is a fair trade, but I am not sure. The discipline is to build community on honesty instead of performance. That is harder, but it is also deeper. I want that kind of room, even if it is smaller.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Cynicism can become contempt if I use it to attack instead of clarify.
 
 Micro-ritual: Remove one performative habit today and feel what is underneath.
@@ -100,6 +102,16 @@ I keep this next to [[Stoicism - The Weather Inside]] and it leans toward [[Daoi
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Cynicism - The Bare Truth]] vs [[Confucianism - The Shape of Duty]]: anti-role stripping versus role-based ethical formation.
+- [[Cynicism - The Bare Truth]] vs [[Epicureanism - The Garden of Enough]]: abrasive exposure versus gentle sufficiency.
+- [[Cynicism - The Bare Truth]] vs [[Machiavelli - The Price of Control]]: anti-institutional austerity versus strategic institutioncraft.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Cynics (Stanford Encyclopedia of Philosophy)

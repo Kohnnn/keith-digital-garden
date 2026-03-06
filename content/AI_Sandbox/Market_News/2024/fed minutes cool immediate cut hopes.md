@@ -10,7 +10,7 @@ keywords:
   - rates
   - cuts
   - inflation
-draft: true
+draft: false
 description: latest fed minutes tempered expectations for immediate rate cuts and lifted policy uncertainty.
 created: 2024-10-24
 updated: 2024-10-24

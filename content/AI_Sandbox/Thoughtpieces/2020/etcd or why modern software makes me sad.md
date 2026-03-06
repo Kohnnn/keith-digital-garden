@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Etcd, or, why modern software makes me sad as a signal about broader shifts.
 created: 2020-07-14
 updated: 2020-07-14

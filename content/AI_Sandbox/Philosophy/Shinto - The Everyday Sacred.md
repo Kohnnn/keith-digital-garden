@@ -10,7 +10,7 @@ keywords:
   - nature
   - purity
   - community
-draft: true
+draft: false
 description: The sacred is not far away; it is woven into daily place.
 created: 2023-02-03
 updated: 2025-12-20
@@ -61,6 +61,8 @@ And it shifts how I see identity. If the sacred is woven into place, then who I 
 
 I see this when I slow down at a doorway and remember to bow my head. 
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: The everyday sacred can become superstition if I skip the meaning.
 
 Micro-ritual: Pick one place you pass daily and offer a small moment of respect.
@@ -94,6 +96,16 @@ I keep this next to [[Environmental Philosophy - Land Turned Into a Machine]] an
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Shinto - The Everyday Sacred]] vs [[Christianity - The Wound That Heals]]: localized immanent sacredness versus universal redemptive narrative.
+- [[Shinto - The Everyday Sacred]] vs [[Legalism - Order Without Warmth]]: ritual purification culture versus deterrence compliance culture.
+- [[Shinto - The Everyday Sacred]] vs [[Machiavelli - The Price of Control]]: communal continuity rites versus strategic consolidation.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Kojiki

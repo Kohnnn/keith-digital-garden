@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Whisper – open source speech recognition by OpenAI as a signal about broader shifts.
 created: 2022-09-21
 updated: 2022-09-21

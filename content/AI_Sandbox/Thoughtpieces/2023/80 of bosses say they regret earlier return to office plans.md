@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: 80% of bosses say they regret earlier return-to-office plans as a signal about broader shifts.
 created: 2023-08-11
 updated: 2023-08-11

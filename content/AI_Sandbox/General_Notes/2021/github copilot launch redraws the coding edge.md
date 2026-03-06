@@ -12,7 +12,7 @@ keywords:
   - workflow
   - code
   - policy
-draft: true
+draft: false
 description: Copilot shifted the coding boundary from typing to reviewing.
 created: 2021-06-29
 updated: 2021-06-29

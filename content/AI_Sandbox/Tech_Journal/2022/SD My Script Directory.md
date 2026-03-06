@@ -12,7 +12,7 @@ keywords:
   - shell
   - workflow
   - reuse
-draft: true
+draft: false
 description: A tool surfaced how personal scripts become a workflow layer.
 created: 2022-12-31
 updated: 2025-05-01

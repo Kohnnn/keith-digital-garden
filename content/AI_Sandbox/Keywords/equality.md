@@ -3,7 +3,7 @@ title: keyword - equality
 tags:
   - keyword-index
   - sikhism
-draft: true
+draft: false
 description: Notes linked by equality.
 created: 2026-02-07
 updated: 2026-02-07

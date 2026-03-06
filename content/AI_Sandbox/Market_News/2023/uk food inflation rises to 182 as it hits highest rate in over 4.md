@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: "UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years as a signal about broader shifts."
 created: 2023-03-24
 updated: 2023-03-24

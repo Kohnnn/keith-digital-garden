@@ -12,7 +12,7 @@ keywords:
   - research
   - policy
   - value
-draft: true
+draft: false
 description: A study showed institutions are rich in data but poor in leverage.
 created: 2022-12-31
 updated: 2025-06-01

@@ -11,7 +11,7 @@ keywords:
   - watermark
   - moderation
   - llm
-draft: true
+draft: false
 description: 2024 election integrity tooling improved, but watermarking still underdelivered in real-world moderation.
 created: 2024-05-14
 updated: 2024-05-14

@@ -11,7 +11,7 @@ keywords:
   - identification
   - using
   - soft
-draft: true
+draft: false
 description: Background Material Identification Using a Soft Robot
 created: 2023-12-31
 updated: 2023-12-31

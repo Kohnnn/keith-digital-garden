@@ -12,7 +12,7 @@ keywords:
   - crisis
   - policy
   - supply
-draft: true
+draft: false
 description: Hospital oxygen shortages revealed system stress at scale.
 created: 2021-04-22
 updated: 2025-01-14

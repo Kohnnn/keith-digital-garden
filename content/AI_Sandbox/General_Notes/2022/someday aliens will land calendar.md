@@ -12,7 +12,7 @@ keywords:
   - design
   - time
   - quirks
-draft: true
+draft: false
 description: A thread highlighted how strange our calendar logic looks.
 created: 2022-09-25
 updated: 2025-02-09

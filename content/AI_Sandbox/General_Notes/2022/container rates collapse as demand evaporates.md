@@ -12,7 +12,7 @@ keywords:
   - rates
   - shipping
   - demand
-draft: true
+draft: false
 description: Ocean spot rates fell more than 70% from pandemic highs as retailers canceled orders heading into peak season.
 created: 2022-10-14
 updated: 2022-10-14

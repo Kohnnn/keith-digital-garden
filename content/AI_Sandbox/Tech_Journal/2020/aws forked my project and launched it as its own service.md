@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: AWS forked my project and launched it as its own service as a signal about broader shifts.
 created: 2020-10-16
 updated: 2020-10-16

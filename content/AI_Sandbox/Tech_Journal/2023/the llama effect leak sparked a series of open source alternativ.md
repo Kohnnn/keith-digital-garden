@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: "The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT as a signal about broader shifts."
 created: 2023-04-09
 updated: 2023-04-09

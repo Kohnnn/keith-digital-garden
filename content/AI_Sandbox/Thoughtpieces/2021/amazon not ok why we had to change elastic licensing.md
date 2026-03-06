@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: "Amazon: Not OK – Why we had to change Elastic licensing as a signal about broader shifts."
 created: 2021-01-19
 updated: 2021-01-19

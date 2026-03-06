@@ -12,7 +12,7 @@ keywords:
   - make
   - resolutions
   - they
-draft: true
+draft: false
 description: Why We Make Resolutions (and Why They Fail) (2013)
 created: 2024-12-30
 updated: 2024-12-30

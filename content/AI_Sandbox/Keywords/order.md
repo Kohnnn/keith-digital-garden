@@ -6,7 +6,7 @@ tags:
   - river
   - legalism
   - confucianism
-draft: true
+draft: false
 description: Notes linked by order.
 created: 2026-02-07
 updated: 2026-02-07

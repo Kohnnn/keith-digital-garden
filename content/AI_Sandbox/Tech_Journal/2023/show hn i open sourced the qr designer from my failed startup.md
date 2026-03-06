@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: "Show HN: I open sourced the QR designer from my failed startup as a signal about broader shifts."
 created: 2023-05-30
 updated: 2023-05-30

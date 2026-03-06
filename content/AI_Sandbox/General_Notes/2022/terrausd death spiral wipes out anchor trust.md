@@ -12,7 +12,7 @@ keywords:
   - anchor
   - contagion
   - unwind
-draft: true
+draft: false
 description: TerraUSD's depeg exposed how fragile Anchor incentives really were.
 created: 2022-05-12
 updated: 2022-05-12

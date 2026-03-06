@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Microsoft to Acquire Activision Blizzard as a signal about broader shifts.
 created: 2022-01-18
 updated: 2022-01-18

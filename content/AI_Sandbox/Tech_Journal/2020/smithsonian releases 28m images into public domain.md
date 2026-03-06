@@ -11,7 +11,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Smithsonian Releases 2.8M Images into Public Domain as a signal about broader shifts.
 created: 2020-02-25
 updated: 2020-02-25

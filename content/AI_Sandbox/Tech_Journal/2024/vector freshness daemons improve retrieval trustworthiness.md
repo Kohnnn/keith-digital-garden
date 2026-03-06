@@ -11,7 +11,7 @@ keywords:
   - retrieval
   - daemons
   - trust
-draft: true
+draft: false
 description: continuous freshness daemons are reducing stale retrieval incidents in enterprise knowledge systems.
 created: 2024-12-08
 updated: 2024-12-08

@@ -12,7 +12,7 @@ keywords:
   - mvc
   - server
   - design
-draft: true
+draft: false
 description: Phoenix 1.7 pushed a simpler server-rendered model.
 created: 2022-12-30
 updated: 2025-03-16

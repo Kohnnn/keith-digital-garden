@@ -10,7 +10,7 @@ keywords:
   - models
   - released
   - 2024
-draft: true
+draft: false
 description: Timeline of AI models released in 2024
 created: 2024-12-31
 updated: 2024-12-31

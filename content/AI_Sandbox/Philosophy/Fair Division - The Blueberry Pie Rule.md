@@ -10,7 +10,7 @@ keywords:
   - equity
   - trust
   - community
-draft: true
+draft: false
 description: A tiny rule that exposes how much I care about fairness.
 created: 2022-07-27
 updated: 2025-12-03
@@ -56,6 +56,8 @@ This sits in the same neighborhood as [[Surrender - The Moment I Stop Gripping]]
 </ul>
 
 I see this when I split a bill and feel the tension.
+
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: Fairness can become rigid if I ignore context.
 
@@ -109,6 +111,16 @@ I also think about accountability. A fair system needs a way to correct itself w
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Fair Division - The Blueberry Pie Rule]] vs [[Machiavelli - The Price of Control]]: legitimacy through fairness versus legitimacy through stability tactics.
+- [[Fair Division - The Blueberry Pie Rule]] vs [[Nietzsche - The Heaviest Question]]: procedural equity versus rank-sensitive value creation.
+- [[Fair Division - The Blueberry Pie Rule]] vs [[Legalism - Order Without Warmth]]: negotiated justice versus enforced order.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Nicomachean Ethics

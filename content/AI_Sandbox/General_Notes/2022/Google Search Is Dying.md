@@ -12,7 +12,7 @@ keywords:
   - platform
   - trust
   - attention
-draft: true
+draft: false
 description: A viral essay framed search as a decaying product layer.
 created: 2022-02-15
 updated: 2025-05-14

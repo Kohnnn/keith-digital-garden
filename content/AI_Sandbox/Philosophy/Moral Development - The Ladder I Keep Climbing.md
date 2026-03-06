@@ -11,7 +11,7 @@ keywords:
   - ethics
   - learning
   - character
-draft: true
+draft: false
 description: How my sense of right and wrong grows in stages.
 created: 2022-11-03
 updated: 2025-06-18
@@ -57,6 +57,8 @@ I feel the hinge with [[Maslow - The Shape of Need]] most when the stakes are re
 </ul>
 
 I see this when I want credit for doing the right thing.
+
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Growth talk can become another status game.
 
@@ -109,6 +111,16 @@ Finally, the ladder affects how I see my own identity. I am not the same moral p
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Moral Development - The Ladder I Keep Climbing]] vs [[Nietzsche - The Heaviest Question]]: staged normative maturation versus value revaluation beyond stages.
+- [[Moral Development - The Ladder I Keep Climbing]] vs [[Confucianism - The Shape of Duty]]: psychological stage model versus role-ritual cultivation.
+- [[Moral Development - The Ladder I Keep Climbing]] vs [[Machiavelli - The Price of Control]]: growth priorities versus crisis pragmatics.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Essays on Moral Development, Volume I: The Philosophy of Moral Development

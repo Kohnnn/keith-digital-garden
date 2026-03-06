@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: "Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years as a signal about broader shifts."
 created: 2023-06-12
 updated: 2023-06-12

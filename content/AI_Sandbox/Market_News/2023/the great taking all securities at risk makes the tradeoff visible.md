@@ -12,7 +12,7 @@ keywords:
   - all
   - securities
   - risk
-draft: true
+draft: false
 description: The Great Taking – all securities at risk?
 created: 2023-12-31
 updated: 2023-12-31

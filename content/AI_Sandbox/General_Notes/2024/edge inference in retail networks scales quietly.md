@@ -11,7 +11,7 @@ keywords:
   - retail
   - latency
   - ops
-draft: true
+draft: false
 description: retail operators expanded edge inference in 2024 to reduce cloud latency and keep data local.
 created: 2024-11-02
 updated: 2024-11-02

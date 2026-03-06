@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - ethics
   - zoroastrianism
-draft: true
+draft: false
 description: Notes linked by choice.
 created: 2026-02-07
 updated: 2026-02-07

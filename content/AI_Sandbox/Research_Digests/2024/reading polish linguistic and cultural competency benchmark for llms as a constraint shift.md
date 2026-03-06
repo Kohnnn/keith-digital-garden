@@ -10,7 +10,7 @@ keywords:
   - cultural
   - competency
   - benchmark
-draft: true
+draft: false
 description: Polish linguistic and cultural competency benchmark for LLMs
 created: 2024-12-31
 updated: 2024-12-31

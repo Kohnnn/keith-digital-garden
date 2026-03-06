@@ -10,7 +10,7 @@ keywords:
   - conspiracy
   - beliefs
   - through
-draft: true
+draft: false
 description: Durably reducing conspiracy beliefs through dialogues with AI
 created: 2024-12-31
 updated: 2024-12-31

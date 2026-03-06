@@ -11,7 +11,7 @@ keywords:
   - pipeline
   - prompts
   - editing
-draft: true
+draft: false
 description: openai’s sora preview shifted video production planning from capture-first to simulation-first.
 created: 2024-02-16
 updated: 2024-02-16

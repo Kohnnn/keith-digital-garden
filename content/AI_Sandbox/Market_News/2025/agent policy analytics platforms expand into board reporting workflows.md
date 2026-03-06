@@ -10,7 +10,7 @@ keywords:
   - board
   - reporting
   - enterprise
-draft: true
+draft: false
 description: policy analytics platforms are expanding features to support board-level governance reporting requirements.
 created: 2025-07-27
 updated: 2025-07-27

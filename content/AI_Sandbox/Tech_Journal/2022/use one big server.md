@@ -12,7 +12,7 @@ keywords:
   - ops
   - scale
   - cost
-draft: true
+draft: false
 description: An essay argued for scaling up before scaling out.
 created: 2022-08-02
 updated: 2025-03-08

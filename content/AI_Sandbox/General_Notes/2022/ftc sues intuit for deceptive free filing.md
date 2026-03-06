@@ -12,7 +12,7 @@ keywords:
   - deception
   - policy
   - trust
-draft: true
+draft: false
 description: The lawsuit framed marketing claims as enforcement targets.
 created: 2022-03-29
 updated: 2025-02-10

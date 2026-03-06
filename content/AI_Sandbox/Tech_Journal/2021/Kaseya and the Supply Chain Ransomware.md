@@ -12,7 +12,7 @@ keywords:
   - ransomware
   - patch
   - downstream
-draft: true
+draft: false
 description: A managed services breach turned one vendor into many victims.
 created: 2021-07-04
 updated: 2025-10-08

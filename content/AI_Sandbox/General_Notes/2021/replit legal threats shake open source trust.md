@@ -12,7 +12,7 @@ keywords:
   - platform
   - licensing
   - community
-draft: true
+draft: false
 description: A legal threat against a hobby project shows how fragile platform trust is.
 created: 2021-06-07
 updated: 2021-06-07

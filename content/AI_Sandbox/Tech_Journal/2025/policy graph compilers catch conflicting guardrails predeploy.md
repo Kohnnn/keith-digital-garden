@@ -11,7 +11,7 @@ keywords:
   - compilers
   - guardrails
   - conflicts
-draft: true
+draft: false
 description: policy graph compilation is helping teams detect conflicting guardrail logic before deployment.
 created: 2025-09-14
 updated: 2025-09-14

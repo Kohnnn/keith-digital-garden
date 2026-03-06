@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Figma and Adobe abandon proposed merger as a signal about broader shifts.
 created: 2023-12-18
 updated: 2023-12-18

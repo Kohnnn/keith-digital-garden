@@ -12,7 +12,7 @@ keywords:
   - policy
   - trust
   - storage
-draft: true
+draft: false
 description: The removal signaled a shift in transparency posture.
 created: 2022-12-31
 updated: 2025-01-29

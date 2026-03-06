@@ -12,7 +12,7 @@ keywords:
   - coal
   - prices
   - curtailment
-draft: true
+draft: false
 description: Power rationing revealed how tight the energy system really was.
 created: 2021-09-27
 updated: 2025-10-08

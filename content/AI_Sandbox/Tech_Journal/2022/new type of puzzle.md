@@ -12,7 +12,7 @@ keywords:
   - constraints
   - play
   - patterns
-draft: true
+draft: false
 description: A show-and-tell introduced a new puzzle format.
 created: 2022-09-18
 updated: 2025-02-23

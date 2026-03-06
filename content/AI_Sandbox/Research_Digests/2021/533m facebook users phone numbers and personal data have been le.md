@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: 533M Facebook users' phone numbers and personal data have been leaked online as a signal about broader shifts.
 created: 2021-04-03
 updated: 2021-04-03

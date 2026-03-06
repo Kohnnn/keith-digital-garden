@@ -12,7 +12,7 @@ keywords:
   - regulation
   - platform
   - power
-draft: true
+draft: false
 description: The lawsuit framed platform scale as a legal risk.
 created: 2020-12-09
 updated: 2025-05-04

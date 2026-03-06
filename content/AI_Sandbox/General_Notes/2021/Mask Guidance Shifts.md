@@ -12,7 +12,7 @@ keywords:
   - trust
   - health
   - fatigue
-draft: true
+draft: false
 description: Changing guidance tested public trust and compliance.
 created: 2021-05-13
 updated: 2025-02-19

@@ -11,7 +11,7 @@ keywords:
   - enterprise
   - serving
   - models
-draft: true
+draft: false
 description: mistral refreshed its flagship model with a latency first serving profile aimed at enterprise workloads.
 created: 2024-10-03
 updated: 2024-10-03

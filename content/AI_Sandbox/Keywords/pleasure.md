@@ -3,7 +3,7 @@ title: keyword - pleasure
 tags:
   - keyword-index
   - epicureanism
-draft: true
+draft: false
 description: Notes linked by pleasure.
 created: 2026-02-07
 updated: 2026-02-07

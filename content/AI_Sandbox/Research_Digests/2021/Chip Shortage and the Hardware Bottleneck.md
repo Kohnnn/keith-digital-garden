@@ -12,7 +12,7 @@ keywords:
   - supply
   - subsidy
   - materials
-draft: true
+draft: false
 description: A 2021 cluster on the chip shortage, from autos to compute.
 created: 2021-08-19
 updated: 2025-09-14

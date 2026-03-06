@@ -12,7 +12,7 @@ keywords:
   - ios
   - tracking
   - apps
-draft: true
+draft: false
 description: iOS14 surfaced clipboard access as a privacy issue.
 created: 2020-06-24
 updated: 2025-01-27

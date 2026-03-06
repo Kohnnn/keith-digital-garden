@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Chandrayaan-3 Soft-landing [video] as a signal about broader shifts.
 created: 2023-08-23
 updated: 2023-08-23

@@ -11,7 +11,7 @@ keywords:
   - fabs
   - supply
   - equipment
-draft: true
+draft: false
 description: semiconductor equipment lead times eased in 2024, improving planning confidence for fab projects.
 created: 2024-10-10
 updated: 2024-10-10

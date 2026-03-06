@@ -11,7 +11,7 @@ keywords:
   - communication
   - quality
   - reviews
-draft: true
+draft: false
 description: buyer reviews increasingly score how clearly vendors communicate rollback decisions during incidents.
 created: 2025-09-08
 updated: 2025-09-08

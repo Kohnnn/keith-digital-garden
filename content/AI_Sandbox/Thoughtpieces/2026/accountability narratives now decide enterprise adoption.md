@@ -11,7 +11,7 @@ keywords:
   - adoption
   - trust
   - governance
-draft: true
+draft: false
 description: adoption decisions are increasingly shaped by accountability narratives grounded in operational evidence.
 created: 2026-01-27
 updated: 2026-01-27

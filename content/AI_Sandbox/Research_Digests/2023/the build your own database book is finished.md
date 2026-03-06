@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: The “Build Your Own Database” book is finished as a signal about broader shifts.
 created: 2023-04-22
 updated: 2023-04-22

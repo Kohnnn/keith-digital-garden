@@ -5,7 +5,7 @@ tags:
   - justice
   - extractivism
   - islam
-draft: true
+draft: false
 description: Notes linked by justice.
 created: 2026-02-07
 updated: 2026-02-07

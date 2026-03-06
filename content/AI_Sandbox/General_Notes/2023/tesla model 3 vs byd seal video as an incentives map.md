@@ -10,7 +10,7 @@ keywords:
   - 3
   - vs
   - byd
-draft: true
+draft: false
 description: Tesla Model 3 vs. BYD Seal [video]
 created: 2023-12-30
 updated: 2023-12-30

@@ -12,7 +12,7 @@ keywords:
   - could
   - ditch
   - unified
-draft: true
+draft: false
 description: Apple M5 could ditch unified memory architecture for split CPU and GPU designs
 created: 2024-12-30
 updated: 2024-12-30

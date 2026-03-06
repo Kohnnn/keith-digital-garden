@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why do you waste so much time on the internet? as a signal about broader shifts.
 created: 2022-05-06
 updated: 2022-05-06

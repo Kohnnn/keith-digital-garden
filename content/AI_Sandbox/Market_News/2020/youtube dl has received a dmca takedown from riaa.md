@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: YouTube-dl has received a DMCA takedown from RIAA as a signal about broader shifts.
 created: 2020-10-23
 updated: 2020-10-23

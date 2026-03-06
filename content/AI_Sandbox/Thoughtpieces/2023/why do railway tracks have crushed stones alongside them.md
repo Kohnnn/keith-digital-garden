@@ -11,7 +11,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why do railway tracks have crushed stones alongside them? as a signal about broader shifts.
 created: 2023-06-04
 updated: 2023-06-04

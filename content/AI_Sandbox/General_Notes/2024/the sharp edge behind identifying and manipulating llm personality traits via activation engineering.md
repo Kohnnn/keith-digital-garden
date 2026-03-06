@@ -12,7 +12,7 @@ keywords:
   - llm
   - personality
   - traits
-draft: true
+draft: false
 description: Identifying and Manipulating LLM Personality Traits via Activation Engineering
 created: 2024-12-31
 updated: 2024-12-31

@@ -12,7 +12,7 @@ keywords:
   - shutdown
   - policy
   - debt
-draft: true
+draft: false
 description: A single intrusion exposed how fragile critical infrastructure really is.
 created: 2021-05-10
 updated: 2025-10-11

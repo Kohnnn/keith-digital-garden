@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: "SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue as a signal about broader shifts."
 created: 2023-04-11
 updated: 2023-04-11

@@ -11,7 +11,7 @@ keywords:
   - vendors
   - context
   - interfaces
-draft: true
+draft: false
 description: standardized context interfaces are reducing integration lock-in and changing how ai vendors compete.
 created: 2024-11-27
 updated: 2024-11-27

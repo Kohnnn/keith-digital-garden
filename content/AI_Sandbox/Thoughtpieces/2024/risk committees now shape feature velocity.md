@@ -11,7 +11,7 @@ keywords:
   - velocity
   - features
   - governance
-draft: true
+draft: false
 description: ai risk committees now influence roadmap pacing as directly as engineering capacity.
 created: 2024-11-09
 updated: 2024-11-09

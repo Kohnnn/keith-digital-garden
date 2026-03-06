@@ -11,7 +11,7 @@ keywords:
   - contracts
   - disputes
   - governance
-draft: true
+draft: false
 description: recurring provenance attestations are lowering dispute frequency in enterprise data contracts.
 created: 2025-09-10
 updated: 2025-09-10

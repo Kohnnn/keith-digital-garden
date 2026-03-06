@@ -12,7 +12,7 @@ keywords:
   - privacy
   - security
   - apple
-draft: true
+draft: false
 description: Apple expanded end-to-end encryption to more iCloud data.
 created: 2022-12-07
 updated: 2025-05-09

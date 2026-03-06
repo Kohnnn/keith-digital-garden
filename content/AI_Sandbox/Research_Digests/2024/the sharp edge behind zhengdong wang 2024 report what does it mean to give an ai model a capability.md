@@ -11,7 +11,7 @@ keywords:
   - 2024
   - report
   - what
-draft: true
+draft: false
 description: "Zhengdong Wang 2024 Report: What Does It Mean to Give an AI Model a Capability?"
 created: 2024-12-31
 updated: 2024-12-31

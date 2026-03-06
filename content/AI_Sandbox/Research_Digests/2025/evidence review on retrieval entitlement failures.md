@@ -11,7 +11,7 @@ keywords:
   - failures
   - security
   - access
-draft: true
+draft: false
 description: entitlement failures remain a leading root cause in enterprise retrieval incidents despite stronger model controls.
 created: 2025-04-14
 updated: 2025-04-14

@@ -11,7 +11,7 @@ keywords:
   - legal
   - policy
   - compliance
-draft: true
+draft: false
 description: memory retention settings in ai systems are becoming explicit legal policy topics rather than engineering defaults.
 created: 2025-05-04
 updated: 2025-05-04

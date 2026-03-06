@@ -12,7 +12,7 @@ keywords:
   - markets
   - adoption
   - capital
-draft: true
+draft: false
 description: A massive debut tested how far the EV premium could stretch.
 created: 2021-11-10
 updated: 2025-03-07

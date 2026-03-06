@@ -11,7 +11,7 @@ keywords:
   - breach
   - containment
   - runtime
-draft: true
+draft: false
 description: entitlement snapshots captured at runtime are improving containment speed during access incidents.
 created: 2026-01-19
 updated: 2026-01-19

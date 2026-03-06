@@ -12,7 +12,7 @@ keywords:
   - metrics
   - div
   - linkage
-draft: true
+draft: false
 description: Survey adds metrics showing enterprise AI adoption has a two-speed pattern.
 created: 2023-12-14
 updated: 2023-12-14

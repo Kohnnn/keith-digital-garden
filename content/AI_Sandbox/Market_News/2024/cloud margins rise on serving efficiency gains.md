@@ -10,7 +10,7 @@ keywords:
   - serving
   - efficiency
   - guidance
-draft: true
+draft: false
 description: major cloud providers lifted margin guidance after serving efficiency gains offset ai demand costs.
 created: 2024-11-05
 updated: 2024-11-05

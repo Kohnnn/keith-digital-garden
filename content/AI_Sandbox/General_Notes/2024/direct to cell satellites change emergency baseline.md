@@ -11,7 +11,7 @@ keywords:
   - emergency
   - coverage
   - telecom
-draft: true
+draft: false
 description: direct to cell satellite rollouts are making baseline connectivity assumptions more resilient.
 created: 2024-08-14
 updated: 2024-08-14

@@ -11,7 +11,7 @@ keywords:
   - validity
   - rollout
   - metrics
-draft: true
+draft: false
 description: trust telemetry methods are improving, but metric validity still varies widely across deployment contexts.
 created: 2025-06-07
 updated: 2025-06-07

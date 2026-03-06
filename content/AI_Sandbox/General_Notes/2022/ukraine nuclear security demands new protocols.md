@@ -12,7 +12,7 @@ keywords:
   - security
   - chain
   - div
-draft: true
+draft: false
 description: Threats near Ukrainian nuclear sites forced new global nuclear protection protocols.
 created: 2022-03-20
 updated: 2022-03-20

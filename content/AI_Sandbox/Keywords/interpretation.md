@@ -2,7 +2,7 @@
 title: keyword - interpretation
 tags:
   - keyword-index
-draft: true
+draft: false
 description: Notes linked by interpretation.
 created: 2026-02-07
 updated: 2026-02-07

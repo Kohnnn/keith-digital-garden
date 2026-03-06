@@ -10,7 +10,7 @@ keywords:
   - consolidation
   - audit
   - apis
-draft: true
+draft: false
 description: provenance compliance vendors are consolidating around shared audit api patterns to reduce integration friction.
 created: 2026-02-18
 updated: 2026-02-18

@@ -12,7 +12,7 @@ keywords:
   - compose
   - certification
   - div
-draft: true
+draft: false
 description: New certification for Docker Compose on Windows stabilizes cross-platform deployments.
 created: 2022-06-16
 updated: 2022-06-16

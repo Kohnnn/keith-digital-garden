@@ -12,7 +12,7 @@ keywords:
   - arm
   - ec2
   - div
-draft: true
+draft: false
 description: AWS opened Graviton3 instances to all customers, promising 25% better perf-per-watt than Graviton2.
 created: 2022-05-23
 updated: 2022-05-23

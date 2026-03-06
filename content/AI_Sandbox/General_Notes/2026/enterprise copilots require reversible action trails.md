@@ -11,7 +11,7 @@ keywords:
   - actions
   - trails
   - controls
-draft: true
+draft: false
 description: enterprise copilot rollouts increasingly require reversible action trails for high-impact workflows.
 created: 2026-01-11
 updated: 2026-01-11

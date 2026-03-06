@@ -11,7 +11,7 @@ keywords:
   - risk
   - audits
   - telemetry
-draft: true
+draft: false
 description: risk-tiered trace sampling is improving audit usefulness while controlling observability costs.
 created: 2025-07-01
 updated: 2025-07-01

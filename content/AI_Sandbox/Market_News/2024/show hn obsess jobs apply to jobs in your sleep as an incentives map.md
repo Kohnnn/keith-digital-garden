@@ -11,7 +11,7 @@ keywords:
   - obsess
   - jobs
   - apply
-draft: true
+draft: false
 description: "Show HN: Obsess Jobs – Apply to jobs in your sleep"
 created: 2024-12-31
 updated: 2024-12-31

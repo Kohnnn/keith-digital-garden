@@ -11,7 +11,7 @@ keywords:
   - contracts
   - models
   - procurement
-draft: true
+draft: false
 description: ai spending is moving toward governed data access and contract quality rather than pure model endpoint access.
 created: 2025-01-11
 updated: 2025-01-11

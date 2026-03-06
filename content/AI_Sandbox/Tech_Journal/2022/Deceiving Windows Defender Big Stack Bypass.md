@@ -12,7 +12,7 @@ keywords:
   - exploit
   - mitigation
   - stack
-draft: true
+draft: false
 description: A research writeup showed a novel bypass path.
 created: 2022-12-31
 updated: 2025-02-21

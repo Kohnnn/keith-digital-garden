@@ -11,7 +11,7 @@ keywords:
   - 1993
   - span
   - class
-draft: true
+draft: false
 description: A Cypherpunk's Manifesto (1993)
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - regulation
   - trust
   - volatility
-draft: true
+draft: false
 description: A trading app IPO tested trust after a volatile year.
 created: 2021-07-29
 updated: 2025-06-07

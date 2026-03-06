@@ -12,7 +12,7 @@ keywords:
   - finance
   - risk
   - games
-draft: true
+draft: false
 description: A framework reframed cash flow as strategic behavior.
 created: 2022-12-30
 updated: 2025-01-24

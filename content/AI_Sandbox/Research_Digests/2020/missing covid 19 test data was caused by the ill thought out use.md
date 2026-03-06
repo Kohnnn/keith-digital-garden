@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Missing Covid-19 test data was caused by the ill-thought-out use of Excel as a signal about broader shifts.
 created: 2020-10-05
 updated: 2020-10-05

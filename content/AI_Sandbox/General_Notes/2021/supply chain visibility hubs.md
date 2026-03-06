@@ -12,7 +12,7 @@ keywords:
   - hubs
   - div
   - linkage
-draft: true
+draft: false
 description: Emerging logistics hubs used visibility platforms to shorten lead times.
 created: 2021-05-11
 updated: 2021-05-11

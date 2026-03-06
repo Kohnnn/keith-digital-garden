@@ -12,7 +12,7 @@ keywords:
   - logistics
   - prices
   - economy
-draft: true
+draft: false
 description: Bottlenecks and delays fed directly into price pressure.
 created: 2021-10-20
 updated: 2025-02-28

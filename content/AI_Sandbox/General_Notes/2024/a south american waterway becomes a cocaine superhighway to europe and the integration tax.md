@@ -11,7 +11,7 @@ keywords:
   - waterway
   - becomes
   - cocaine
-draft: true
+draft: false
 description: A South American waterway becomes a cocaine superhighway – to Europe
 created: 2024-12-31
 updated: 2024-12-31

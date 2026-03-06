@@ -12,7 +12,7 @@ keywords:
   - protocol
   - usability
   - governance
-draft: true
+draft: false
 description: The fee market shifted from chaos to policy, with a burn at the center.
 created: 2021-08-05
 updated: 2025-09-21

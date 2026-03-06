@@ -11,7 +11,7 @@ keywords:
   - gaze
   - physical
   - force
-draft: true
+draft: false
 description: When Our Gaze Is a Physical Force
 created: 2023-12-31
 updated: 2023-12-31

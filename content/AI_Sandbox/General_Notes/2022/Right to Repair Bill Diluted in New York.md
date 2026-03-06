@@ -12,7 +12,7 @@ keywords:
   - rights
   - hardware
   - lobbying
-draft: true
+draft: false
 description: The final bill signaled how policy can be hollowed out in process.
 created: 2022-12-31
 updated: 2025-05-07

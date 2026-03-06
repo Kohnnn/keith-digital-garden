@@ -10,7 +10,7 @@ keywords:
   - vendors
   - contracts
   - enterprise
-draft: true
+draft: false
 description: vendors focused on incident rehearsal are winning larger contracts as enterprises prioritize recovery confidence.
 created: 2026-02-14
 updated: 2026-02-14

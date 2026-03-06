@@ -12,7 +12,7 @@ keywords:
   - google
   - silicon
   - chip
-draft: true
+draft: false
 description: Google launched its Tensor SoC in the Pixel 6, signaling a shift to custom silicon for AI-first phones.
 created: 2021-10-19
 updated: 2021-10-19

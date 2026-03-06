@@ -10,7 +10,7 @@ keywords:
   - alarming
   - picture
   - typical
-draft: true
+draft: false
 description: Phrasebook paints an alarming picture of a typical visit to France
 created: 2024-12-31
 updated: 2024-12-31

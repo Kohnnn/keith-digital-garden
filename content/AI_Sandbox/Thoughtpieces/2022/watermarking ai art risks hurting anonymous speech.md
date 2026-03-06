@@ -12,7 +12,7 @@ keywords:
   - speech
   - policy
   - linkage
-draft: true
+draft: false
 description: Watermark mandates sound sensible but create collateral damage for anonymous creators.
 created: 2022-12-20
 updated: 2022-12-20

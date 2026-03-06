@@ -12,7 +12,7 @@ keywords:
   - budget
   - pandemic
   - global
-draft: true
+draft: false
 description: The Global Carbon Project said 2020 emissions fell 7% but warned of a swift rebound.
 created: 2020-12-11
 updated: 2020-12-11

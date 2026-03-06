@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Sam Bankman-Fried Convicted as a signal about broader shifts.
 created: 2023-11-02
 updated: 2023-11-02

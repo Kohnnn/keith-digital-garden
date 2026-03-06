@@ -11,7 +11,7 @@ keywords:
   - p95
   - latency
   - kernels
-draft: true
+draft: false
 description: compiler level optimizations in 2024 narrowed p95 latency variance for production inference services.
 created: 2024-10-21
 updated: 2024-10-21

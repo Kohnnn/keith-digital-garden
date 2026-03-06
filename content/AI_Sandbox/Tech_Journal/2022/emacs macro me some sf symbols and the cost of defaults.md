@@ -11,7 +11,7 @@ keywords:
   - me
   - some
   - sf
-draft: true
+draft: false
 description: "Emacs: Macro me some SF Symbols (macOS/SwiftUI)"
 created: 2022-12-31
 updated: 2022-12-31

@@ -11,7 +11,7 @@ keywords:
   - onboarding
   - maps
   - access
-draft: true
+draft: false
 description: onboarding workflows now include context permission maps to prevent unsafe access expansion in agent systems.
 created: 2025-03-23
 updated: 2025-03-23

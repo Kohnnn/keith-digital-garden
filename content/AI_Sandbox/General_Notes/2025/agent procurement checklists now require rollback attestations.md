@@ -11,7 +11,7 @@ keywords:
   - attestations
   - controls
   - risk
-draft: true
+draft: false
 description: enterprise buyers increasingly require documented rollback controls before approving agent contracts.
 created: 2025-02-10
 updated: 2025-02-10

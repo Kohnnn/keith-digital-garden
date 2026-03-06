@@ -11,7 +11,7 @@ keywords:
   - design
   - kronos
   - submarine
-draft: true
+draft: false
 description: Ukrainian Engineers Design 'Kronos' Submarine That Fires Torpedoes
 created: 2024-12-31
 updated: 2024-12-31

@@ -10,7 +10,7 @@ keywords:
   - debt
   - pricing
   - risk
-draft: true
+draft: false
 description: lenders are beginning to reference ai reliability metrics when evaluating financing terms for automation-heavy firms.
 created: 2025-06-21
 updated: 2025-06-21

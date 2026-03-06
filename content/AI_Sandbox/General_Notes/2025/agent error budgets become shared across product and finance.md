@@ -11,7 +11,7 @@ keywords:
   - finance
   - reliability
   - governance
-draft: true
+draft: false
 description: error budgets for agent systems are increasingly co-owned by product and finance teams.
 created: 2025-04-30
 updated: 2025-04-30

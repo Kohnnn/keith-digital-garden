@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: What's SAP, and why's it worth $163B? (2020) as a signal about broader shifts.
 created: 2022-09-09
 updated: 2022-09-09

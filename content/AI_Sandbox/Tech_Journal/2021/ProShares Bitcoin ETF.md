@@ -12,7 +12,7 @@ keywords:
   - adoption
   - regulation
   - liquidity
-draft: true
+draft: false
 description: The first U.S. Bitcoin ETF reframed access and legitimacy.
 created: 2021-10-19
 updated: 2025-09-02

@@ -11,7 +11,7 @@ keywords:
   - dependencies
   - reliability
   - cloud
-draft: true
+draft: false
 description: 2024 postmortems increasingly point to hidden dependencies rather than isolated service failures.
 created: 2024-06-03
 updated: 2024-06-03

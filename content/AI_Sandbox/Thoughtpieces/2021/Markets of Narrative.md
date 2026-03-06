@@ -12,7 +12,7 @@ keywords:
   - trust
   - volatility
   - capital
-draft: true
+draft: false
 description: In 2021, stories moved prices as much as fundamentals.
 created: 2021-12-01
 updated: 2025-01-30

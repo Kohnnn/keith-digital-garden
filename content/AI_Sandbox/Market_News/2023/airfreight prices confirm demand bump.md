@@ -12,7 +12,7 @@ keywords:
   - prices
   - linkage
   - div
-draft: true
+draft: false
 description: Airline cargo rates jumped again as retailers accelerate holiday shipping.
 created: 2023-11-21
 updated: 2023-11-21

@@ -10,7 +10,7 @@ keywords:
   - exports
   - supply
   - pricing
-draft: true
+draft: false
 description: secondary gpu inventories tightened after policy shifts changed cross-border supply expectations.
 created: 2024-12-15
 updated: 2024-12-15

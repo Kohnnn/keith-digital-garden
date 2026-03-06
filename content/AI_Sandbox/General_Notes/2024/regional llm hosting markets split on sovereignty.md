@@ -11,7 +11,7 @@ keywords:
   - sovereignty
   - llm
   - compliance
-draft: true
+draft: false
 description: llm hosting demand in 2024 split sharply between cost-first and sovereignty-first regions.
 created: 2024-11-07
 updated: 2024-11-07

@@ -12,7 +12,7 @@ keywords:
   - graphics
   - learning
   - video
-draft: true
+draft: false
 description: A video tutorial made tile maps and constraints concrete.
 created: 2022-12-30
 updated: 2025-02-13

@@ -12,7 +12,7 @@ keywords:
   - demand
   - design
   - market
-draft: true
+draft: false
 description: A small-phone request highlighted unmet hardware demand.
 created: 2022-05-17
 updated: 2025-05-19

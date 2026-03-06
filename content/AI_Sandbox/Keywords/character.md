@@ -3,7 +3,7 @@ title: keyword - character
 tags:
   - keyword-index
   - aristotle
-draft: true
+draft: false
 description: Notes linked by character.
 created: 2026-02-07
 updated: 2026-02-07

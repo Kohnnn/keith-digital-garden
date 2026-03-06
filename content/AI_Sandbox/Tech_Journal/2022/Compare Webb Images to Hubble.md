@@ -12,7 +12,7 @@ keywords:
   - imagery
   - scale
   - science
-draft: true
+draft: false
 description: Side-by-side comparisons made telescope advances tangible.
 created: 2022-07-12
 updated: 2025-03-31

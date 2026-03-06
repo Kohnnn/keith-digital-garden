@@ -12,7 +12,7 @@ keywords:
   - vscode
   - cloud
   - dev
-draft: true
+draft: false
 description: GitHub previewed Codespaces, promising VS Code in the browser backed by cloud workspaces.
 created: 2020-05-06
 updated: 2020-05-06

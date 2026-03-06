@@ -12,7 +12,7 @@ keywords:
   - data
   - div
   - linkage
-draft: true
+draft: false
 description: IoT exposures surged 62% in 2021, adding to security debt.
 created: 2021-11-01
 updated: 2021-11-01

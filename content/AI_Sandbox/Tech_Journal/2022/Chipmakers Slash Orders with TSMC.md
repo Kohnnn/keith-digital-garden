@@ -12,7 +12,7 @@ keywords:
   - chips
   - inventory
   - cycle
-draft: true
+draft: false
 description: Reported order cuts signaled a demand cycle shift.
 created: 2022-12-30
 updated: 2025-05-16

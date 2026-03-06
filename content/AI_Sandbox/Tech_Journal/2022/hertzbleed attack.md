@@ -12,7 +12,7 @@ keywords:
   - security
   - research
   - timing
-draft: true
+draft: false
 description: Hertzbleed showed timing attacks still matter in modern CPUs.
 created: 2022-06-14
 updated: 2025-02-06

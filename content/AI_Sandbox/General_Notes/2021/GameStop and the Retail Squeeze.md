@@ -12,7 +12,7 @@ keywords:
   - plumbing
   - orderflow
   - volatility
-draft: true
+draft: false
 description: A meme stock moment exposed how market plumbing really works.
 created: 2021-01-28
 updated: 2025-10-08

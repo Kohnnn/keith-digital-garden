@@ -12,7 +12,7 @@ keywords:
   - policy
   - equity
   - health
-draft: true
+draft: false
 description: Prolonged closures left lasting gaps in education outcomes.
 created: 2021-06-21
 updated: 2025-03-09

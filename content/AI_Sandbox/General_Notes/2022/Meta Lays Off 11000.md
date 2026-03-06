@@ -12,7 +12,7 @@ keywords:
   - meta
   - labor
   - slowdown
-draft: true
+draft: false
 description: The layoffs marked a shift from growth to efficiency.
 created: 2022-11-09
 updated: 2025-01-18

@@ -11,7 +11,7 @@ keywords:
   - stillness
   - practice
   - presence
-draft: true
+draft: false
 description: Zen asks for a direct contact with life before explanations arrive.
 created: 2023-08-04
 updated: 2026-01-18
@@ -60,6 +60,8 @@ I also notice how Zen handles suffering. It does not promise to erase pain. It p
 
 Zen does not reject ethics, but it refuses to make ethics only a list. The question becomes: what does a clean heart look like in action, right now? I see this when I pause before speaking and choose a softer tone. It is not a rule; it is a moment of attention. That is why I keep Zen near [[Ethics - Prudence is a Muscle]]. Both are about trained responsiveness. Western moral debates sometimes feel like courtrooms. Zen feels like a kitchen. The right act is the one that does not add extra suffering.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Zen can be used to avoid hard social questions by hiding in personal stillness.
 
 Micro-ritual: Before I answer a message today, take one full breath and notice my body.
@@ -94,6 +96,16 @@ I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Zen Buddhism - The Stillness That Cuts]] vs [[Logical Tautology - When It Says Nothing and Still Works]]: direct practice contact versus formal truth structure.
+- [[Zen Buddhism - The Stillness That Cuts]] vs [[Machiavelli - The Price of Control]]: de-grasping presence versus strategic anticipation.
+- [[Zen Buddhism - The Stillness That Cuts]] vs [[Nietzsche - The Heaviest Question]]: ego-light immediacy versus intensified self-creation.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] The Gateless Gate

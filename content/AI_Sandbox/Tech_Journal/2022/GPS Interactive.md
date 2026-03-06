@@ -12,7 +12,7 @@ keywords:
   - satellites
   - physics
   - signals
-draft: true
+draft: false
 description: A clear explainer made GPS timing and relativity usable.
 created: 2022-01-18
 updated: 2025-02-17

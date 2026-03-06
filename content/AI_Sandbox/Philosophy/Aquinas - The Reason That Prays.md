@@ -11,7 +11,7 @@ keywords:
   - law
   - virtue
   - order
-draft: true
+draft: false
 description: Aquinas holds faith and reason as partners, not enemies.
 created: 2021-12-02
 updated: 2026-02-07
@@ -66,6 +66,8 @@ Aquinas also builds a bridge to justice. Natural law is his way of saying the wo
 
 He also helps me with pride in the intellect. When I am tempted to use cleverness to win, Aquinas reminds me that reason is meant to serve the good, not my ego. That check feels close to [[Stoicism - The Weather Inside]] because both ask for inner discipline. It makes my thinking more careful and my tone less sharp.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Aquinas can be used to justify rigid authority if I forget humility.
 
 Micro-ritual: Take one question today and treat it as prayer, not debate.
@@ -101,6 +103,17 @@ I keep this next to [[Aristotle - The Mean I Miss]] and it leans toward [[Confuc
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Aquinas - The Reason That Prays]] vs [[Nietzsche - The Heaviest Question]]: natural-law order versus critique of metaphysical morality.
+- [[Aquinas - The Reason That Prays]] vs [[Pyrrhonism - The Peace of Suspension]]: reason-faith synthesis versus anti-dogmatic suspension.
+- [[Aquinas - The Reason That Prays]] vs [[Madhyamaka - The Middle That Refuses]]: stable hierarchy of being versus emptiness of fixed essence.
+- [[Aquinas - The Reason That Prays]] vs [[Machiavelli - The Price of Control]]: moral teleology of rule versus strategic necessity of rule.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Aquinas (Stanford Encyclopedia of Philosophy)

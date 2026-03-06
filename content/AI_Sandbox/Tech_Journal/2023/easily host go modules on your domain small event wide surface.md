@@ -10,7 +10,7 @@ keywords:
   - go
   - modules
   - your
-draft: true
+draft: false
 description: Easily host Go modules on your domain
 created: 2023-12-31
 updated: 2023-12-31

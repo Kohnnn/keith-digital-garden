@@ -12,7 +12,7 @@ keywords:
   - law
   - div
   - every
-draft: true
+draft: false
 description: Surveillance demands from AI oversight risk chilling behavior and data sharing.
 created: 2023-08-30
 updated: 2023-08-30

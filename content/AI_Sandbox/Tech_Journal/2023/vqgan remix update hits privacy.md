@@ -12,7 +12,7 @@ keywords:
   - privacy
   - div
   - linkage
-draft: true
+draft: false
 description: VQGAN-based remix tools add safeguards against private content.
 created: 2023-12-10
 updated: 2023-12-10

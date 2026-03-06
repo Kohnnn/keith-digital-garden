@@ -11,7 +11,7 @@ keywords:
   - effectiveness
   - recovery
   - metrics
-draft: true
+draft: false
 description: rollback snapshot techniques improve recovery quality, but effectiveness depends on scope and restore rehearsal quality.
 created: 2025-08-21
 updated: 2025-08-21

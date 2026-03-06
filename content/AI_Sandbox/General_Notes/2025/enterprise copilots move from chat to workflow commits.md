@@ -11,7 +11,7 @@ keywords:
   - commits
   - automation
   - outcomes
-draft: true
+draft: false
 description: enterprise copilots are shifting from conversational usage toward committed workflow actions.
 created: 2025-02-14
 updated: 2025-02-14

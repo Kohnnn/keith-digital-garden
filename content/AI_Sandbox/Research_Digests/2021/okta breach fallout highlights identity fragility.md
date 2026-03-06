@@ -12,7 +12,7 @@ keywords:
   - identity
   - supplychain
   - customers
-draft: true
+draft: false
 description: Okta’s 2021 report quantified the impact of the Lapsus$ intrusion and identity supply chain risk.
 created: 2021-12-30
 updated: 2021-12-30

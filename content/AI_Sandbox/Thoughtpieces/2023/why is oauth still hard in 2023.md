@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why is OAuth still hard in 2023? as a signal about broader shifts.
 created: 2023-04-26
 updated: 2023-04-26

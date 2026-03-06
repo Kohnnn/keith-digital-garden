@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: EU data regulator bans personalised advertising on Facebook and Instagram as a signal about broader shifts.
 created: 2023-11-02
 updated: 2023-11-02

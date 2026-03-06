@@ -12,7 +12,7 @@ keywords:
   - russia
   - sanctions
   - shipping
-draft: true
+draft: false
 description: G7 and EU agreed to cap Russian seaborne crude at $60 per barrel to squeeze war funding without killing supply.
 created: 2022-12-02
 updated: 2022-12-02

@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: No Cookie for You as a signal about broader shifts.
 created: 2020-12-17
 updated: 2020-12-17

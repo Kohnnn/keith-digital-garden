@@ -11,7 +11,7 @@ keywords:
   - exceptions
   - merge
   - safety
-draft: true
+draft: false
 description: policy linting in ci is reducing risky exception patterns before they reach production.
 created: 2025-08-11
 updated: 2025-08-11

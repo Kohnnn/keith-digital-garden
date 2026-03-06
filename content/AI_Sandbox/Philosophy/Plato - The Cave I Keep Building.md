@@ -10,7 +10,7 @@ keywords:
   - cave
   - knowledge
   - illusion
-draft: true
+draft: false
 description: I mistake the wall for the world more often than I admit.
 created: 2022-04-03
 updated: 2025-12-15
@@ -65,6 +65,10 @@ I see this in my own life choices too. If I keep picking the familiar path becau
 
 I see this when I catch myself saying, "I already know how this ends" before I have actually looked. 
 
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
+
+*field note:* every certainty here deserves one more turn of the head.
+
 Counter-pressure: The cave story can become a smug badge if I use it to feel superior instead of to learn.
 
 Micro-ritual: Once a day, read one idea from someone you disagree with and summarize it fairly.
@@ -103,6 +107,21 @@ I keep this next to [[Socrates - The Question That Bites]] and it leans toward [
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Plato - The Cave I Keep Building]] vs [[Yogacara - The Mind That Paints]]: stable forms versus mind-mediated appearances.
+- [[Plato - The Cave I Keep Building]] vs [[Madhyamaka - The Middle That Refuses]]: metaphysical grounding versus anti-essential middle practice.
+- [[Plato - The Cave I Keep Building]] vs [[Cynicism - The Bare Truth]]: ascent and ideal order versus anti-theoretical lived bluntness.
+- [[Plato - The Cave I Keep Building]] vs [[Machiavelli - The Price of Control]]: philosopher-king normativity versus crisis-era strategic realism.
+
+
+## conflict triad
+- [[Plato - The Cave I Keep Building]] / [[Yogacara - The Mind That Paints]] / [[Cynicism - The Bare Truth]]: ascent to forms, mind-shaped appearance, and anti-theoretical bluntness challenge each other.
+- The test question: is clarity found by rising above appearances, examining perception, or stripping social costume?
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Republic

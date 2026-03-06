@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why is desalination so difficult? as a signal about broader shifts.
 created: 2023-07-05
 updated: 2023-07-05

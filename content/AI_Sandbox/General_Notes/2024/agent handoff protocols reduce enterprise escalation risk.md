@@ -11,7 +11,7 @@ keywords:
   - escalation
   - reliability
   - workflows
-draft: true
+draft: false
 description: formal handoff protocols between autonomous and human steps are reducing costly escalation failures.
 created: 2024-12-01
 updated: 2024-12-01

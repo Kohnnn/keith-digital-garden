@@ -11,7 +11,7 @@ keywords:
   - teams
   - leverage
   - governance
-draft: true
+draft: false
 description: platform design choices increasingly determine which groups capture value from enterprise automation investments.
 created: 2024-12-26
 updated: 2024-12-26

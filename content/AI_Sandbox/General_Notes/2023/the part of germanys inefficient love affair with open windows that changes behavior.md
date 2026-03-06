@@ -12,7 +12,7 @@ keywords:
   - love
   - affair
   - open
-draft: true
+draft: false
 description: Germany's inefficient love affair with open windows (2021)
 created: 2023-12-30
 updated: 2023-12-30

@@ -12,7 +12,7 @@ keywords:
   - resilience
   - economy
   - risk
-draft: true
+draft: false
 description: Supply chains are now political systems, not just logistics.
 created: 2021-10-22
 updated: 2025-03-12

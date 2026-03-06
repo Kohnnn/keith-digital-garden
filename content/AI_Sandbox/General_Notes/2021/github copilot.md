@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: GitHub Copilot as a signal about broader shifts.
 created: 2021-06-29
 updated: 2021-06-29

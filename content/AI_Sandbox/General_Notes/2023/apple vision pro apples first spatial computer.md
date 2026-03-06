@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: "Apple Vision Pro: Apple’s first spatial computer as a signal about broader shifts."
 created: 2023-06-05
 updated: 2023-06-05

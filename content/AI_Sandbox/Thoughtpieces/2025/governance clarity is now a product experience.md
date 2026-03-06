@@ -11,7 +11,7 @@ keywords:
   - product
   - experience
   - trust
-draft: true
+draft: false
 description: users increasingly experience governance quality directly through transparency controls and override behavior.
 created: 2025-05-30
 updated: 2025-05-30

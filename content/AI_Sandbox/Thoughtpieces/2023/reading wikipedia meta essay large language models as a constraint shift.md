@@ -11,7 +11,7 @@ keywords:
   - essay
   - large
   - language
-draft: true
+draft: false
 description: "Wikipedia [meta essay]: Large language models"
 created: 2023-12-30
 updated: 2023-12-30

@@ -11,7 +11,7 @@ keywords:
   - economy
   - will
   - sell
-draft: true
+draft: false
 description: Coming AI-driven economy will sell your decisions before you take them
 created: 2024-12-31
 updated: 2024-12-31

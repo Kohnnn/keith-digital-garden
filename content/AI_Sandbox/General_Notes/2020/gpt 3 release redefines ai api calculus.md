@@ -12,7 +12,7 @@ keywords:
   - language
   - openai
   - gpt
-draft: true
+draft: false
 description: OpenAI's GPT-3 release turned few-shot prompts into a general platform story.
 created: 2020-06-11
 updated: 2020-06-11

@@ -12,7 +12,7 @@ keywords:
   - supply
   - datacenter
   - compute
-draft: true
+draft: false
 description: Nvidia's H100 cards sold out again, forcing high-end HPC buyers to plan around quotas.
 created: 2023-05-22
 updated: 2023-05-22

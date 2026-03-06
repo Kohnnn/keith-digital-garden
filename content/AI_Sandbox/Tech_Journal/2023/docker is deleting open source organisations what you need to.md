@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Docker is deleting Open Source organisations - what you need to know as a signal about broader shifts.
 created: 2023-03-15
 updated: 2023-03-15

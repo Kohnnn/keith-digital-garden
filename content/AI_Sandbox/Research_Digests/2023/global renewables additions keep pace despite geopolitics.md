@@ -12,7 +12,7 @@ keywords:
   - energy
   - linkage
   - diesel
-draft: true
+draft: false
 description: Despite sanctions, global renewable capacity additions matched 2022 levels in 2023.
 created: 2023-10-30
 updated: 2023-10-30

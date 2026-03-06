@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: "Robinhood is limiting purchases of stocks: AMC, Blackberry, Nokia, and GameStop as a signal about broader shifts."
 created: 2021-01-28
 updated: 2021-01-28

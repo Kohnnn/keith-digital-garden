@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - confucianism
   - hinduism
-draft: true
+draft: false
 description: Notes linked by duty.
 created: 2026-02-07
 updated: 2026-02-07

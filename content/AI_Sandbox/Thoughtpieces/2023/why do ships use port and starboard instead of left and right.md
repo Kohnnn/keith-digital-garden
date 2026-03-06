@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why do ships use “port” and “starboard” instead of “left” and “right?” as a signal about broader shifts.
 created: 2023-04-18
 updated: 2023-04-18

@@ -11,7 +11,7 @@ keywords:
   - product
   - ux
   - trust
-draft: true
+draft: false
 description: in 2024 perceived responsiveness became a cultural expectation that shapes product trust more than raw model quality.
 created: 2024-10-16
 updated: 2024-10-16

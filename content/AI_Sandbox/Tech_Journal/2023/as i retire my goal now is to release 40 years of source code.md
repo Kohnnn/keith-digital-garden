@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: As I retire, my goal now is to release 40+ years of source code as a signal about broader shifts.
 created: 2023-11-03
 updated: 2023-11-03

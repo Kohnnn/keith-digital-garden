@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Cisco Acquires Splunk as a signal about broader shifts.
 created: 2023-09-21
 updated: 2023-09-21

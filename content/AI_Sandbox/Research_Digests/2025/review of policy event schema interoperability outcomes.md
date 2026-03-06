@@ -11,7 +11,7 @@ keywords:
   - schema
   - interoperability
   - observability
-draft: true
+draft: false
 description: interoperable policy event schemas are improving cross-tool governance visibility in complex ai stacks.
 created: 2025-07-21
 updated: 2025-07-21

@@ -11,7 +11,7 @@ keywords:
   - fx
   - settlement
   - stablecoin
-draft: true
+draft: false
 description: multinational teams used stablecoin payroll pilots to reduce settlement delay and foreign exchange friction.
 created: 2024-11-04
 updated: 2024-11-04

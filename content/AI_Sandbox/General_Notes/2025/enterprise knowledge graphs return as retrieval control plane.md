@@ -11,7 +11,7 @@ keywords:
   - retrieval
   - control
   - grounding
-draft: true
+draft: false
 description: enterprise teams are reviving knowledge graph layers to improve retrieval precision and policy-aware grounding.
 created: 2025-01-08
 updated: 2025-01-08

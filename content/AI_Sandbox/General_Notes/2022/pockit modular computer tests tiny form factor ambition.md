@@ -12,7 +12,7 @@ keywords:
   - edge
   - battery
   - formfactor
-draft: true
+draft: false
 description: Pockit highlights how modular ambition collides with power limits.
 created: 2022-03-09
 updated: 2022-03-09

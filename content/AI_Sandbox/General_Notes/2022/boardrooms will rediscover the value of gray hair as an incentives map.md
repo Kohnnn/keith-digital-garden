@@ -10,7 +10,7 @@ keywords:
   - rediscover
   - value
   - gray
-draft: true
+draft: false
 description: Boardrooms will rediscover the value of gray hair
 created: 2022-12-31
 updated: 2022-12-31

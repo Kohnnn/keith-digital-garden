@@ -12,7 +12,7 @@ keywords:
   - policy
   - supply
   - risk
-draft: true
+draft: false
 description: A year of energy stress tied markets, policy, and inflation.
 created: 2021-10-30
 updated: 2025-01-18

@@ -12,7 +12,7 @@ keywords:
   - acquisition
   - ai
   - infrastructure
-draft: true
+draft: false
 description: "Nvidia completes acquisition of AI infrastructure startup Run:AI"
 created: 2024-12-30
 updated: 2024-12-30

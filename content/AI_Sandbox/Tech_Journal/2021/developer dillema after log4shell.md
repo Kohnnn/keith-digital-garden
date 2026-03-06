@@ -12,7 +12,7 @@ keywords:
   - trust
   - after
   - div
-draft: true
+draft: false
 description: Post-Log4Shell rush exposed hidden dependencies and patch fatigue.
 created: 2021-12-16
 updated: 2021-12-16

@@ -12,7 +12,7 @@ keywords:
   - stock
   - market
   - astrology
-draft: true
+draft: false
 description: Systems Thinking – Is the Stock Market Astrology for Finance Bros?
 created: 2023-12-31
 updated: 2023-12-31

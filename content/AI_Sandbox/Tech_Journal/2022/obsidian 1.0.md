@@ -12,7 +12,7 @@ keywords:
   - tooling
   - workflow
   - release
-draft: true
+draft: false
 description: Obsidian 1.0 marked a stability milestone for the app.
 created: 2022-10-13
 updated: 2025-03-15

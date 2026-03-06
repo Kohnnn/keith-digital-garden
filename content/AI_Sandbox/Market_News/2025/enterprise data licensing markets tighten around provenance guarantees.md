@@ -10,7 +10,7 @@ keywords:
   - provenance
   - guarantees
   - contracts
-draft: true
+draft: false
 description: data licensing agreements increasingly prioritize provenance and revocation guarantees as ai usage expands.
 created: 2025-02-07
 updated: 2025-02-07

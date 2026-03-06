@@ -12,7 +12,7 @@ keywords:
   - dmca
   - community
   - tooling
-draft: true
+draft: false
 description: The restoration signaled a pushback against takedown precedent.
 created: 2020-11-16
 updated: 2025-03-09

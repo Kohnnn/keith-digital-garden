@@ -12,7 +12,7 @@ keywords:
   - identity
   - narrative
   - risk
-draft: true
+draft: false
 description: A critical essay reframed web3 as a governance story.
 created: 2022-01-07
 updated: 2025-02-16

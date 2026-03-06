@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: A foreign seller has hijacked my Amazon Klein bottle listing as a signal about broader shifts.
 created: 2021-06-30
 updated: 2021-06-30

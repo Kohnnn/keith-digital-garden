@@ -12,7 +12,7 @@ keywords:
   - year
   - xmas
   - golfed
-draft: true
+draft: false
 description: Fireworks, New Year, and Xmas golfed JavaScript code (in 140 characters or less)
 created: 2024-12-31
 updated: 2024-12-31

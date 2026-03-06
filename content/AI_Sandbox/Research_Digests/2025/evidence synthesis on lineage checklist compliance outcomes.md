@@ -11,7 +11,7 @@ keywords:
   - compliance
   - outcomes
   - governance
-draft: true
+draft: false
 description: lineage checklist adoption correlates with improved audit readiness and faster incident attribution.
 created: 2025-08-27
 updated: 2025-08-27

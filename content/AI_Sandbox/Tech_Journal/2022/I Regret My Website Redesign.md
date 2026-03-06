@@ -12,7 +12,7 @@ keywords:
   - metrics
   - feedback
   - focus
-draft: true
+draft: false
 description: The redesign showed how metrics can hide user pain.
 created: 2022-07-21
 updated: 2025-06-02

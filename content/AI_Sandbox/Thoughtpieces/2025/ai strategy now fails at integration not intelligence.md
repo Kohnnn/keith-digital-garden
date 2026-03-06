@@ -11,7 +11,7 @@ keywords:
   - intelligence
   - systems
   - execution
-draft: true
+draft: false
 description: enterprise ai outcomes are now constrained more by integration quality than by frontier model capability.
 created: 2025-01-20
 updated: 2025-01-20

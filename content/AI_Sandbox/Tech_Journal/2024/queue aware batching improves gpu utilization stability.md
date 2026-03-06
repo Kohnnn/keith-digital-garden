@@ -11,7 +11,7 @@ keywords:
   - gpu
   - utilization
   - latency
-draft: true
+draft: false
 description: queue aware dynamic batching is improving utilization consistency while preserving latency bounds in mixed workloads.
 created: 2024-12-22
 updated: 2024-12-22

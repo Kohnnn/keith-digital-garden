@@ -11,7 +11,7 @@ keywords:
   - language
   - mind
   - knowledge
-draft: true
+draft: false
 description: How my mind turns lived mess into clean shapes.
 created: 2021-11-21
 updated: 2025-08-12
@@ -58,6 +58,8 @@ My mind keeps running to [[Yogacara - The Mind That Paints]] whenever this tight
 
 I see this when I call someone difficult instead of naming what happened.
 
+nearby jumps: [[Advaita Vedanta - The One Without Edges]], then [[Aesthetics - The Price of Beauty]].
+
 Counter-pressure: I can drown in details and refuse patterns.
 
 Micro-ritual: Name one concrete detail before using a label.
@@ -103,6 +105,16 @@ So I keep the abstraction, but I keep it accountable. I let it guide me, and the
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Abstraction - The Idea That Floats]] vs [[Zen Buddhism - The Stillness That Cuts]]: concept-first mediation versus direct contact before concepts.
+- [[Abstraction - The Idea That Floats]] vs [[Cynicism - The Bare Truth]]: theoretical distance versus anti-ornamental lived bluntness.
+- [[Abstraction - The Idea That Floats]] vs [[Machiavelli - The Price of Control]]: model elegance versus crisis pragmatics.
+
+
+## questions / next
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
+- what would I cut after revisiting [[Aesthetics - The Price of Beauty]]?
 
 ## references
 > [!ref] Republic

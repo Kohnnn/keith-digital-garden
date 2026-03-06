@@ -12,7 +12,7 @@ keywords:
   - outage
   - trust
   - apps
-draft: true
+draft: false
 description: A Gatekeeper issue blocked many apps at once.
 created: 2020-11-12
 updated: 2025-05-10

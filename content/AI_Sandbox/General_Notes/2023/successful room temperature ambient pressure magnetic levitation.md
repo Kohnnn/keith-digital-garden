@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Successful room temperature ambient-pressure magnetic levitation of LK-99 as a signal about broader shifts.
 created: 2023-08-04
 updated: 2023-08-04

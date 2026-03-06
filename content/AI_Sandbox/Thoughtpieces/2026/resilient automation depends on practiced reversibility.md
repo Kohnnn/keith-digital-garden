@@ -11,7 +11,7 @@ keywords:
   - reversibility
   - drills
   - trust
-draft: true
+draft: false
 description: reversible design only creates resilience when teams repeatedly practice and measure rollback execution.
 created: 2026-02-02
 updated: 2026-02-02

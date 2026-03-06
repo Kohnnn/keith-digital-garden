@@ -12,7 +12,7 @@ keywords:
   - regulation
   - data
   - open
-draft: true
+draft: false
 description: Europe escalates open banking oversight after trust complaints.
 created: 2021-02-22
 updated: 2021-02-22

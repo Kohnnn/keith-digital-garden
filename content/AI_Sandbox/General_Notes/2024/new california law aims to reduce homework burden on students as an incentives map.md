@@ -11,7 +11,7 @@ keywords:
   - law
   - aims
   - reduce
-draft: true
+draft: false
 description: New California law aims to reduce homework burden on students
 created: 2024-12-31
 updated: 2024-12-31

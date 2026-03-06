@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: SpaceX successfully launches two humans into orbit as a signal about broader shifts.
 created: 2020-05-30
 updated: 2020-05-30

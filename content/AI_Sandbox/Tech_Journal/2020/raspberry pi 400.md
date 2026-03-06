@@ -12,7 +12,7 @@ keywords:
   - education
   - diy
   - device
-draft: true
+draft: false
 description: The all-in-one Pi signaled a push toward learning devices.
 created: 2020-11-02
 updated: 2025-02-22

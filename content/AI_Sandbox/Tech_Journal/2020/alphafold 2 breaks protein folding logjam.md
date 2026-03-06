@@ -12,7 +12,7 @@ keywords:
   - proteins
   - science
   - can
-draft: true
+draft: false
 description: DeepMind's AlphaFold 2 delivered near-experimental accuracy for protein structures.
 created: 2020-12-01
 updated: 2020-12-01

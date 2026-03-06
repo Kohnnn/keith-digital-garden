@@ -11,7 +11,7 @@ keywords:
   - graph
   - regressions
   - testing
-draft: true
+draft: false
 description: graph-based policy diff tests are helping teams catch chained governance regressions before merge.
 created: 2026-01-16
 updated: 2026-01-16

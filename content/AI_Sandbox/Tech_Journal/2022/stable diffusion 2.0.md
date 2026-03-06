@@ -12,7 +12,7 @@ keywords:
   - images
   - open
   - tooling
-draft: true
+draft: false
 description: The release updated the open image model baseline.
 created: 2022-11-24
 updated: 2025-01-25

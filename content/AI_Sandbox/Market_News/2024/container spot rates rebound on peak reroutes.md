@@ -10,7 +10,7 @@ keywords:
   - reroutes
   - peak
   - freight
-draft: true
+draft: false
 description: container spot rates rebounded as peak season demand met persistent rerouting constraints.
 created: 2024-11-14
 updated: 2024-11-14

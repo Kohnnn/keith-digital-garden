@@ -11,7 +11,7 @@ keywords:
   - verification
   - compliance
   - audits
-draft: true
+draft: false
 description: deletion verification methods are maturing, but end-to-end proof remains difficult in distributed ai systems.
 created: 2025-07-23
 updated: 2025-07-23

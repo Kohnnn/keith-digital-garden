@@ -11,7 +11,7 @@ keywords:
   - production
   - resilience
   - incidents
-draft: true
+draft: false
 description: downgrade strategies vary widely, with strongest results tied to explicit trigger and communication protocols.
 created: 2025-04-16
 updated: 2025-04-16

@@ -12,7 +12,7 @@ keywords:
   - perspective
   - timing
   - learning
-draft: true
+draft: false
 description: A long list of advice reads as a map of tradeoffs.
 created: 2022-04-28
 updated: 2025-02-20

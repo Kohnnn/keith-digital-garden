@@ -11,7 +11,7 @@ keywords:
   - reason
   - evidence
   - truth
-draft: true
+draft: false
 description: Break a belief down and rebuild it on solid ground.
 created: 2022-10-09
 updated: 2024-12-17
@@ -56,6 +56,8 @@ This sits in the same neighborhood as [[Pyrrhonism - The Peace of Suspension]], 
 </ul>
 
 I see this when a headline makes me angry and I want to share it.
+
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: The floor can become an excuse to never decide.
 
@@ -102,6 +104,17 @@ The final part is humility. The floor is not a place of pride. It is a place of 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Epistemology - Thinking From the Floor]] vs [[Pyrrhonism - The Peace of Suspension]]: fallibilist forward inquiry versus therapeutic withholding.
+- [[Epistemology - Thinking From the Floor]] vs [[Nyaya - The Rules of Knowing]]: reflective grounding versus formal pramana architecture.
+- [[Epistemology - Thinking From the Floor]] vs [[Yogacara - The Mind That Paints]]: world-directed correction versus construction-heavy perception.
+- [[Epistemology - Thinking From the Floor]] vs [[Machiavelli - The Price of Control]]: truth-seeking norms versus strategic truth-management.
+
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Meditations on First Philosophy (Descartes)

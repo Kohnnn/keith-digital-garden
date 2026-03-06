@@ -12,7 +12,7 @@ keywords:
   - silicon
   - chips
   - performance
-draft: true
+draft: false
 description: Apple’s M1 Ultra pushed the vertical integration story.
 created: 2022-03-08
 updated: 2025-03-10

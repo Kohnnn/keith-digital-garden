@@ -12,7 +12,7 @@ keywords:
   - infrastructure
   - regulation
   - supply
-draft: true
+draft: false
 description: A federal order aimed to standardize baseline security practices.
 created: 2021-05-12
 updated: 2025-06-25

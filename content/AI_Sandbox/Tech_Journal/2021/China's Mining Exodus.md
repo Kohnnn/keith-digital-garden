@@ -12,7 +12,7 @@ keywords:
   - migration
   - energy
   - resilience
-draft: true
+draft: false
 description: A policy clampdown forced mining to move and reshaped the map.
 created: 2021-06-25
 updated: 2025-09-30

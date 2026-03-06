@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - samkhya
   - reality
-draft: true
+draft: false
 description: Notes linked by duality.
 created: 2026-02-07
 updated: 2026-02-07

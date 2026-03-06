@@ -12,7 +12,7 @@ keywords:
   - governance
   - web
   - transition
-draft: true
+draft: false
 description: Igor Sysoev’s departure reframed stewardship of a core stack.
 created: 2022-01-18
 updated: 2025-02-03

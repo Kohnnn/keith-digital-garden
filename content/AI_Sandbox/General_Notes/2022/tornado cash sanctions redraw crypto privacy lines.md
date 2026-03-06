@@ -12,7 +12,7 @@ keywords:
   - aml
   - defi
   - laundering
-draft: true
+draft: false
 description: Treasury's action against Tornado Cash showed that DeFi mixers sit firmly inside AML jurisdiction.
 created: 2022-08-08
 updated: 2022-08-08

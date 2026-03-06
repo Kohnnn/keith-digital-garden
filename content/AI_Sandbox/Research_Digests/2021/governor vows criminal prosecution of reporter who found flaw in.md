@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Governor vows criminal prosecution of reporter who found flaw in state website as a signal about broader shifts.
 created: 2021-10-14
 updated: 2021-10-14

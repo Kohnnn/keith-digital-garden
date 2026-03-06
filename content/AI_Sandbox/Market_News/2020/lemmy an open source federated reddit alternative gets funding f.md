@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Lemmy, an open-source federated Reddit alternative, gets funding for development as a signal about broader shifts.
 created: 2020-06-27
 updated: 2020-06-27

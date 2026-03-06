@@ -11,7 +11,7 @@ keywords:
   - lineage
   - trust
   - claims
-draft: true
+draft: false
 description: safety assertions have limited credibility unless tied to transparent evaluation lineage and runtime evidence.
 created: 2024-12-09
 updated: 2024-12-09

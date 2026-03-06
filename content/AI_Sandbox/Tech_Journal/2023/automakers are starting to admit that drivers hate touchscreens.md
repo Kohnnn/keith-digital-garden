@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Automakers are starting to admit that drivers hate touchscreens as a signal about broader shifts.
 created: 2023-04-26
 updated: 2023-04-26

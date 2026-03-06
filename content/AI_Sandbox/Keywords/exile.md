@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - judaism
   - memory
-draft: true
+draft: false
 description: Notes linked by exile.
 created: 2026-02-07
 updated: 2026-02-07

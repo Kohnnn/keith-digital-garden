@@ -12,7 +12,7 @@ keywords:
   - culture
   - slack
   - linkage
-draft: true
+draft: false
 description: Tech companies telling employees to stay home made remote work feel permanent.
 created: 2020-03-30
 updated: 2020-03-30

@@ -12,7 +12,7 @@ keywords:
   - workforce
   - expected
   - surpass
-draft: true
+draft: false
 description: Toronto-Waterloo tech workforce expected to surpass Silicon Valley in 2023
 created: 2022-12-30
 updated: 2022-12-30

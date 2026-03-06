@@ -10,7 +10,7 @@ keywords:
   - fcc
   - head
   - ajit
-draft: true
+draft: false
 description: Trump's Former FCC Head Ajit Pai Asks Supreme Court to Uphold TikTok Ban
 created: 2024-12-31
 updated: 2024-12-31

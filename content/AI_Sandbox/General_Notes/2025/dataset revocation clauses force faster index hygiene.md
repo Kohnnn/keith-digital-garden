@@ -11,7 +11,7 @@ keywords:
   - index
   - hygiene
   - compliance
-draft: true
+draft: false
 description: tighter revocation clauses are forcing teams to improve retrieval index hygiene and deletion guarantees.
 created: 2025-02-16
 updated: 2025-02-16

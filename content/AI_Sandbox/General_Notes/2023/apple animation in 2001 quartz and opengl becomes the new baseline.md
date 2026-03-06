@@ -12,7 +12,7 @@ keywords:
   - 2001
   - quartz
   - opengl
-draft: true
+draft: false
 description: "Apple Animation in 2001: Quartz and OpenGL"
 created: 2023-12-31
 updated: 2023-12-31

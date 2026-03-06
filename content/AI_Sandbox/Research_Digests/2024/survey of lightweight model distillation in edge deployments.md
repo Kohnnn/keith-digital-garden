@@ -11,7 +11,7 @@ keywords:
   - models
   - latency
   - efficiency
-draft: true
+draft: false
 description: distillation studies show practical gains in edge deployments when quality loss is managed with task-specific calibration.
 created: 2024-12-16
 updated: 2024-12-16

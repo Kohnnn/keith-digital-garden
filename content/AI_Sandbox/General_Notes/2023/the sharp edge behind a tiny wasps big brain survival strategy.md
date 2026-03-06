@@ -12,7 +12,7 @@ keywords:
   - big
   - brain
   - survival
-draft: true
+draft: false
 description: A tiny wasp's big brain survival strategy (2021)
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Joint statement by the Department of the Treasury, Federal Reserve, and FDIC as a signal about broader shifts.
 created: 2023-03-12
 updated: 2023-03-12

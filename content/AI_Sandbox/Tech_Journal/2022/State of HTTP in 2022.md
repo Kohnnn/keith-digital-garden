@@ -12,7 +12,7 @@ keywords:
   - traffic
   - web
   - network
-draft: true
+draft: false
 description: Cloudflare's report framed the web as a performance system.
 created: 2022-12-31
 updated: 2025-01-15

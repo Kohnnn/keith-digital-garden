@@ -12,7 +12,7 @@ keywords:
   - trust
   - regulation
   - harm
-draft: true
+draft: false
 description: A cluster on platform power, oversight, and trust erosion.
 created: 2021-10-15
 updated: 2025-03-02

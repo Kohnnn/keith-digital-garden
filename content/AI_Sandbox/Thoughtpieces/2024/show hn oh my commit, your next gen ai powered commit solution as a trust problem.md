@@ -11,7 +11,7 @@ keywords:
   - oh
   - my
   - commit
-draft: true
+draft: false
 description: "Show HN: Oh My Commit, Your Next-Gen AI-Powered Commit Solution"
 created: 2024-12-31
 updated: 2024-12-31

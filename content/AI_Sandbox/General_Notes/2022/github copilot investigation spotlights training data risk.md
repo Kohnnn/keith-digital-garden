@@ -12,7 +12,7 @@ keywords:
   - data
   - risk
   - compliance
-draft: true
+draft: false
 description: The investigation made provenance risk a core concern for AI devtools.
 created: 2022-10-17
 updated: 2022-10-17

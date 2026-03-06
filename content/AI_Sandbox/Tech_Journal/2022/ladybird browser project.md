@@ -12,7 +12,7 @@ keywords:
   - web
   - open
   - project
-draft: true
+draft: false
 description: Ladybird started as a new cross-platform browser experiment.
 created: 2022-09-12
 updated: 2025-02-24

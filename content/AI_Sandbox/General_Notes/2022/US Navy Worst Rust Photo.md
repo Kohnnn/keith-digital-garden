@@ -12,7 +12,7 @@ keywords:
   - maintenance
   - optics
   - budget
-draft: true
+draft: false
 description: The image exposed maintenance debt in public view.
 created: 2022-12-31
 updated: 2025-02-24

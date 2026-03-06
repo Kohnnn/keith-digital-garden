@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Google’s copying of the Java SE API was fair use [pdf] as a signal about broader shifts.
 created: 2021-04-05
 updated: 2021-04-05

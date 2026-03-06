@@ -12,7 +12,7 @@ keywords:
   - lenses
   - learning
   - visualization
-draft: true
+draft: false
 description: A visual explainer made optics behavior legible.
 created: 2020-12-09
 updated: 2025-01-20

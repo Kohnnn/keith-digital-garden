@@ -10,7 +10,7 @@ keywords:
   - hubs
   - capacity
   - demand
-draft: true
+draft: false
 description: major compute corridors are seeing tighter colocation vacancy as ai demand absorbs available power ready capacity.
 created: 2024-11-16
 updated: 2024-11-16

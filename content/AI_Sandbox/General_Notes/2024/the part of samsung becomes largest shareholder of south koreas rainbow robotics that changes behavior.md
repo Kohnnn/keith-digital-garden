@@ -12,7 +12,7 @@ keywords:
   - largest
   - shareholder
   - south
-draft: true
+draft: false
 description: Samsung becomes largest shareholder of South Korea's Rainbow Robotics
 created: 2024-12-31
 updated: 2024-12-31

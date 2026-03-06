@@ -11,7 +11,7 @@ keywords:
   - retrieval
   - noise
   - quality
-draft: true
+draft: false
 description: reranking models improve retrieval outcomes, but gains shrink when metadata quality is inconsistent or stale.
 created: 2024-12-13
 updated: 2024-12-13

@@ -12,7 +12,7 @@ keywords:
   - infrastructure
   - debt
   - finance
-draft: true
+draft: false
 description: A major spending package reset the investment timeline.
 created: 2021-11-15
 updated: 2025-08-09

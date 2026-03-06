@@ -12,7 +12,7 @@ keywords:
   - machines
   - theory
   - research
-draft: true
+draft: false
 description: A 1961 paper resurfaced with fresh relevance.
 created: 2022-10-15
 updated: 2025-04-16

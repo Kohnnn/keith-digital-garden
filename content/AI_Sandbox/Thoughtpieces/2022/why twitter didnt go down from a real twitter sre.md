@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: "Why Twitter didn’t go down: From a real Twitter SRE as a signal about broader shifts."
 created: 2022-11-22
 updated: 2022-11-22

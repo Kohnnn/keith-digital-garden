@@ -3,7 +3,7 @@ title: keyword - reciprocity
 tags:
   - keyword-index
   - maya
-draft: true
+draft: false
 description: Notes linked by reciprocity.
 created: 2026-02-07
 updated: 2026-02-07

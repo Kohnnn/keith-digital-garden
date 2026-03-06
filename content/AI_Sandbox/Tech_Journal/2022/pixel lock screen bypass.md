@@ -12,7 +12,7 @@ keywords:
   - security
   - bug
   - lockscreen
-draft: true
+draft: false
 description: A bug allowed lock screen access through a crash path.
 created: 2022-11-10
 updated: 2025-03-24

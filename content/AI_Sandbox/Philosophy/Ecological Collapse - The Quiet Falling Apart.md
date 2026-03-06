@@ -10,7 +10,7 @@ keywords:
   - systems
   - loss
   - future
-draft: true
+draft: false
 description: Collapse is rarely a bang; it is a long thinning of support.
 created: 2023-03-02
 updated: 2025-12-06
@@ -56,6 +56,8 @@ My mind keeps running to [[Wildfire - The Fast Memory]] whenever this tightens.
 </ul>
 
 I see this when a season arrives late and everyone shrugs.
+
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Collapse talk can become an excuse for paralysis.
 
@@ -103,6 +105,16 @@ And it reaches into my daily ethics. If I treat collapse as a far away problem, 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Ecological Collapse - The Quiet Falling Apart]] vs [[Machiavelli - The Price of Control]]: long-system fragility versus short-horizon stabilization.
+- [[Ecological Collapse - The Quiet Falling Apart]] vs [[Epicureanism - The Garden of Enough]]: planetary limits versus private tranquility strategy.
+- [[Ecological Collapse - The Quiet Falling Apart]] vs [[Extractivism - The Hunger That Eats the Ground]]: system warning versus extraction imperative.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] The Limits to Growth

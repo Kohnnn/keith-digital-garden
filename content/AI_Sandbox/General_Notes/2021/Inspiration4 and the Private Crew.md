@@ -12,7 +12,7 @@ keywords:
   - commercial
   - training
   - tourism
-draft: true
+draft: false
 description: A private crew mission turned spaceflight into a public product.
 created: 2021-09-16
 updated: 2025-10-08

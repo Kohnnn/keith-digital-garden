@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Microsoft to acquire ZeniMax Media and Bethesda Softworks for $7.5B as a signal about broader shifts.
 created: 2020-09-21
 updated: 2020-09-21

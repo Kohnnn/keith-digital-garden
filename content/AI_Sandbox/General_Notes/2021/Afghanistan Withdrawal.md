@@ -12,7 +12,7 @@ keywords:
   - trust
   - economy
   - alliance
-draft: true
+draft: false
 description: The final withdrawal reset regional power dynamics and trust.
 created: 2021-08-31
 updated: 2025-02-27

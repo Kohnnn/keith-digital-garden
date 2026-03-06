@@ -12,7 +12,7 @@ keywords:
   - cost
   - cloud
   - div
-draft: true
+draft: false
 description: Cloud providers tighten credential rotations to rein in risk without crushing spend.
 created: 2021-11-05
 updated: 2021-11-05

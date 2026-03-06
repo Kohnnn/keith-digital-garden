@@ -12,7 +12,7 @@ keywords:
   - compute
   - div
   - linkage
-draft: true
+draft: false
 description: Azure expanded confidential compute with attestation tools.
 created: 2020-09-22
 updated: 2020-09-22

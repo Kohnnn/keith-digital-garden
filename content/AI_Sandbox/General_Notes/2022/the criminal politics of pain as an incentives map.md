@@ -11,7 +11,7 @@ keywords:
   - pain
   - span
   - class
-draft: true
+draft: false
 description: The Criminal Politics of Pain
 created: 2022-12-31
 updated: 2022-12-31

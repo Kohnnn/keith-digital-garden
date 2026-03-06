@@ -10,7 +10,7 @@ keywords:
   - small
   - businesses
   - when
-draft: true
+draft: false
 description: What happens to small businesses when big retailers shut down?
 created: 2023-12-31
 updated: 2023-12-31

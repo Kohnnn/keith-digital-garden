@@ -12,7 +12,7 @@ keywords:
   - design
   - diy
   - device
-draft: true
+draft: false
 description: A tiny modular computer highlighted extensibility at small scale.
 created: 2022-03-09
 updated: 2025-02-08

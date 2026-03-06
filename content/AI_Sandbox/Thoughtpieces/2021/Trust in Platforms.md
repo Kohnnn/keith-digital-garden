@@ -12,7 +12,7 @@ keywords:
   - policy
   - harm
   - power
-draft: true
+draft: false
 description: Trust is no longer a soft metric; it is a platform constraint.
 created: 2021-10-20
 updated: 2025-02-20

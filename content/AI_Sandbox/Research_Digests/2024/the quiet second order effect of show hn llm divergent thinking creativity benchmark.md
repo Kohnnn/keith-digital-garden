@@ -12,7 +12,7 @@ keywords:
   - llm
   - divergent
   - thinking
-draft: true
+draft: false
 description: "Show HN: LLM Divergent Thinking Creativity Benchmark"
 created: 2024-12-30
 updated: 2024-12-30

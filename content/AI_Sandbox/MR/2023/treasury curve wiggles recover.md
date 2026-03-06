@@ -12,7 +12,7 @@ keywords:
   - 2023
   - after
   - inflation
-draft: true
+draft: false
 created: 2023-12-20
 updated: 2023-12-20
 note_id: 231220MR11

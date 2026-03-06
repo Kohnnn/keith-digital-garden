@@ -10,7 +10,7 @@ keywords:
   - premiums
   - drills
   - resilience
-draft: true
+draft: false
 description: insurers are tying premium adjustments to how often enterprises run validated ai rollback and recovery drills.
 created: 2025-07-29
 updated: 2025-07-29

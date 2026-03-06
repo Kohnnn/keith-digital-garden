@@ -6,7 +6,7 @@ tags:
   - thinking
   - pyrrhonism
   - socrates
-draft: true
+draft: false
 description: Notes linked by doubt.
 created: 2026-02-07
 updated: 2026-02-07

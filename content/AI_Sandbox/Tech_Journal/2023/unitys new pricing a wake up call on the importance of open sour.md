@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: "Unity’s new pricing: A wake-up call on the importance of open source as a signal about broader shifts."
 created: 2023-09-15
 updated: 2023-09-15

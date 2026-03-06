@@ -12,7 +12,7 @@ keywords:
   - trade
   - culture
   - myth
-draft: true
+draft: false
 description: A thread challenged the assumed history of salmon sushi.
 created: 2022-12-31
 updated: 2025-06-04

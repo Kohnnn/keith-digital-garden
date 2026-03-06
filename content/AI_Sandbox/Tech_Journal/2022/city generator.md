@@ -12,7 +12,7 @@ keywords:
   - maps
   - sim
   - design
-draft: true
+draft: false
 description: A city generator made urban form feel procedural.
 created: 2022-02-14
 updated: 2025-01-25

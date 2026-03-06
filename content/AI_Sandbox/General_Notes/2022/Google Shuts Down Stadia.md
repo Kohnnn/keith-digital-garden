@@ -12,7 +12,7 @@ keywords:
   - shutdown
   - trust
   - platform
-draft: true
+draft: false
 description: The shutdown reinforced platform risk for users and studios.
 created: 2022-09-29
 updated: 2025-06-11

@@ -11,7 +11,7 @@ keywords:
   - resilience
   - routing
   - uptime
-draft: true
+draft: false
 description: teams are moving from single model dependencies to fallback trees for availability and cost control.
 created: 2024-12-03
 updated: 2024-12-03

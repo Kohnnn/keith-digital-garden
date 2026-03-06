@@ -11,7 +11,7 @@ keywords:
   - training
   - managers
   - safety
-draft: true
+draft: false
 description: organizations now train managers on override protocols as agent autonomy reaches core workflows.
 created: 2025-05-02
 updated: 2025-05-02

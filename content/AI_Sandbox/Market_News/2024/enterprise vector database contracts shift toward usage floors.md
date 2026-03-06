@@ -10,7 +10,7 @@ keywords:
   - usage
   - pricing
   - enterprise
-draft: true
+draft: false
 description: vector database vendors are adopting usage floor contracts as buyers seek predictable spend under variable retrieval loads.
 created: 2024-12-17
 updated: 2024-12-17

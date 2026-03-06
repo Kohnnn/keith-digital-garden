@@ -11,7 +11,7 @@ keywords:
   - privacy
   - datasets
   - testing
-draft: true
+draft: false
 description: teams are shifting evaluation workflows to synthetic datasets to reduce privacy exposure in model testing.
 created: 2024-11-30
 updated: 2024-11-30

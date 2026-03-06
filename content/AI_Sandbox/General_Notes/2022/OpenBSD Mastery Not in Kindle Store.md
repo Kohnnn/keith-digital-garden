@@ -12,7 +12,7 @@ keywords:
   - policy
   - access
   - control
-draft: true
+draft: false
 description: A publishing block highlighted platform gatekeeping.
 created: 2022-12-31
 updated: 2025-04-01

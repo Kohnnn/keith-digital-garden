@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Climate change: IPCC report is 'code red for humanity' as a signal about broader shifts."
 created: 2021-08-09
 updated: 2021-08-09

@@ -12,7 +12,7 @@ keywords:
   - tooling
   - speech
   - enforcement
-draft: true
+draft: false
 description: A takedown notice turned a utility tool into a policy flashpoint.
 created: 2020-10-23
 updated: 2025-02-05

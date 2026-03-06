@@ -11,7 +11,7 @@ keywords:
   - deletion
   - caches
   - verification
-draft: true
+draft: false
 description: tombstone indexing is helping teams verify deletion propagation through multi-layer memory and cache systems.
 created: 2025-09-20
 updated: 2025-09-20

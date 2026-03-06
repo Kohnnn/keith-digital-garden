@@ -10,7 +10,7 @@ keywords:
   - assurance
   - scope
   - platforms
-draft: true
+draft: false
 description: enterprise rfp timelines are lengthening as assurance and governance requirements become more detailed.
 created: 2025-04-26
 updated: 2025-04-26

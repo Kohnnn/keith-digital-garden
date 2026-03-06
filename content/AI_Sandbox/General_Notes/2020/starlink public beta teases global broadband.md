@@ -12,7 +12,7 @@ keywords:
   - satellite
   - beta
   - linkage
-draft: true
+draft: false
 description: SpaceX began selling Starlink kits for beta users, promising low-latency global internet.
 created: 2020-10-27
 updated: 2020-10-27

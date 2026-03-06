@@ -11,7 +11,7 @@ keywords:
   - enterprise
   - controls
   - routing
-draft: true
+draft: false
 description: enterprises in 2024 increasingly routed model traffic through private ai gateways for control and auditability.
 created: 2024-10-12
 updated: 2024-10-12

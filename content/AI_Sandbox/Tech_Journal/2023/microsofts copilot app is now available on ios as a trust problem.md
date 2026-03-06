@@ -12,7 +12,7 @@ keywords:
   - app
   - now
   - available
-draft: true
+draft: false
 description: Microsoft's Copilot app is now available on iOS (freely run GPT4)
 created: 2023-12-30
 updated: 2023-12-30

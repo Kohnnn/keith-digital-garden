@@ -11,7 +11,7 @@ keywords:
   - renewals
   - contracts
   - trust
-draft: true
+draft: false
 description: renewal negotiations increasingly depend on governance scorecards that track incidents controls and recovery evidence.
 created: 2025-03-19
 updated: 2025-03-19

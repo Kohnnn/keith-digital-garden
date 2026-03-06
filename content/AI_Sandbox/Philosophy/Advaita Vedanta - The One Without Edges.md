@@ -10,7 +10,7 @@ keywords:
   - consciousness
   - unity
   - surrender
-draft: true
+draft: false
 description: Advaita Vedanta claims the deepest self and reality are one.
 created: 2021-06-17
 updated: 2026-01-26
@@ -61,6 +61,8 @@ Advaita also has a practical edge. It invites a practice of seeing through the i
 
 Advaita also asks me to be careful with language. If I treat nonduality as a slogan, it becomes a new ego costume. The practice is quieter. It is the willingness to notice when I tighten around my identity and to loosen without drama. Western philosophy often values argument as proof of truth. Advaita suggests that the proof is in the quieting of grasping. That is a very different kind of evidence. It is experiential, not just verbal.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Aesthetics - The Price of Beauty]].
+
 Counter-pressure: Nonduality can be used to bypass real harm by pretending everything is already one.
 
 Micro-ritual: Notice one moment today where I say "me" and gently ask, "what else is here?"
@@ -97,6 +99,17 @@ I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Advaita Vedanta - The One Without Edges]] vs [[Human Condition - The Weight of Being Here]]: nondual dissolution of boundaries versus finite existential burden.
+- [[Advaita Vedanta - The One Without Edges]] vs [[Samkhya - The Twofold Reality]]: strict nonduality versus enduring consciousness-matter dualism.
+- [[Advaita Vedanta - The One Without Edges]] vs [[Nietzsche - The Heaviest Question]]: ego-transcending identity versus intensified self-authorship.
+- [[Advaita Vedanta - The One Without Edges]] vs [[Machiavelli - The Price of Control]]: metaphysical unity versus political segmentation and control.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what changes if I test this against [[Aesthetics - The Price of Beauty]] this week?
 
 ## references
 > [!ref] Advaita Vedanta (Stanford Encyclopedia of Philosophy)

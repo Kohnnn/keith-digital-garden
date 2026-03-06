@@ -11,7 +11,7 @@ keywords:
   - agents
   - deterministic
   - ci
-draft: true
+draft: false
 description: deterministic tool mocks are reducing flaky agent test results and speeding continuous integration feedback loops.
 created: 2024-12-23
 updated: 2024-12-23

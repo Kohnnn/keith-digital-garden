@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Corporate profits account for almost half the increase in Europe’s inflation as a signal about broader shifts.
 created: 2023-06-26
 updated: 2023-06-26

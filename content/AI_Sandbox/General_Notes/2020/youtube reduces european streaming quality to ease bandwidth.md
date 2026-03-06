@@ -12,7 +12,7 @@ keywords:
   - quality
   - europe
   - linkage
-draft: true
+draft: false
 description: The EU asked streaming services to temporarily lower bitrate, exposing fragility in content delivery.
 created: 2020-03-19
 updated: 2020-03-19

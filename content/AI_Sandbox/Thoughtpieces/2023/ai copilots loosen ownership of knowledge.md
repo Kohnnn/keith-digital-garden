@@ -12,7 +12,7 @@ keywords:
   - sovereignty
   - ownership
   - div
-draft: true
+draft: false
 description: Copilots are making knowledge feel communal rather than owned by experts.
 created: 2023-07-18
 updated: 2023-07-18

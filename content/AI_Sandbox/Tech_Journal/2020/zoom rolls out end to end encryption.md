@@ -12,7 +12,7 @@ keywords:
   - meetings
   - security
   - end
-draft: true
+draft: false
 description: Zoom delivered optional end-to-end encryption for all users, addressing spring 2020 trust issues.
 created: 2020-10-26
 updated: 2020-10-26

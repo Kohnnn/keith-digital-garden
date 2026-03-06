@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Had a call with Reddit to discuss pricing as a signal about broader shifts.
 created: 2023-05-31
 updated: 2023-05-31

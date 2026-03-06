@@ -12,7 +12,7 @@ keywords:
   - brent
   - red
   - sea
-draft: true
+draft: false
 description: Brent crude climbed near $95 as Red Sea attacks raised shipping risk premiums.
 created: 2023-07-13
 updated: 2023-07-13

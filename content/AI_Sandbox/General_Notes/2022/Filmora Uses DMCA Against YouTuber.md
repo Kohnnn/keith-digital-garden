@@ -12,7 +12,7 @@ keywords:
   - creators
   - trust
   - licensing
-draft: true
+draft: false
 description: A takedown dispute exposed licensing and platform power.
 created: 2022-12-31
 updated: 2025-03-07

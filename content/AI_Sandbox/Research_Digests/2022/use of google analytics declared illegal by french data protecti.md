@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Use of Google Analytics declared illegal by French data protection authority as a signal about broader shifts.
 created: 2022-02-10
 updated: 2022-02-10

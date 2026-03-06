@@ -12,7 +12,7 @@ keywords:
   - graph
   - workflow
   - tooling
-draft: true
+draft: false
 description: Canvas introduced a spatial layer for knowledge work.
 created: 2022-12-20
 updated: 2025-02-14

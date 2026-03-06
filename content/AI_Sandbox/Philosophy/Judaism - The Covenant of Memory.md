@@ -12,7 +12,7 @@ keywords:
   - law
   - justice
   - exile
-draft: true
+draft: false
 description: Judaism is a faith of memory, law, and stubborn hope.
 created: 2021-10-14
 updated: 2026-02-07
@@ -63,6 +63,8 @@ Exile is another deep thread. It makes the tradition resilient and wounded at th
 
 Judaism also carries a practice of argument. The tradition values debate, questioning, and interpretation. That is a beautiful antidote to authoritarian certainty. It aligns with [[Socrates - The Question That Bites]] and [[Nyaya - The Rules of Knowing]] because both insist that truth is sharpened through disciplined questioning. The result is a faith that can hold complexity without collapsing. That is a strong model for a world that prefers slogans.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: Covenant can become exclusion if it forgets its own moral purpose.
 
 Micro-ritual: Recall one story of liberation and let it shape how you treat someone today.
@@ -99,6 +101,16 @@ I keep this next to [[Christianity - The Wound That Heals]] and it leans toward 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Judaism - The Covenant of Memory]] vs [[Nietzsche - The Heaviest Question]]: covenantal memory obligation versus radical revaluation.
+- [[Judaism - The Covenant of Memory]] vs [[Pyrrhonism - The Peace of Suspension]]: commanded historical commitment versus epistemic withholding.
+- [[Judaism - The Covenant of Memory]] vs [[Machiavelli - The Price of Control]]: law-bound communal ethics versus raison d state strategy.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Hebrew Bible (text)

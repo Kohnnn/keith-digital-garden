@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Blender 4.0 release notes as a signal about broader shifts.
 created: 2023-11-14
 updated: 2023-11-14

@@ -11,7 +11,7 @@ keywords:
   - latency
   - updates
   - ops
-draft: true
+draft: false
 description: edge teams are selecting smaller models because update cadence and observability are easier to sustain over time.
 created: 2024-11-21
 updated: 2024-11-21

@@ -12,7 +12,7 @@ keywords:
   - sanctions
   - policy
   - surveillance
-draft: true
+draft: false
 description: A blacklist move reframed spyware as a policy target.
 created: 2021-11-03
 updated: 2025-07-08

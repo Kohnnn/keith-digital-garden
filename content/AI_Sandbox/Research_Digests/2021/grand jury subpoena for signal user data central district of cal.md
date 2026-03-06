@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Grand jury subpoena for Signal user data, Central District of California as a signal about broader shifts.
 created: 2021-10-29
 updated: 2021-10-29

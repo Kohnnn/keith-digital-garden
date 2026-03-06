@@ -12,7 +12,7 @@ keywords:
   - sandbox
   - constraints
   - tooling
-draft: true
+draft: false
 description: The experiment showed how far structured prompts can go.
 created: 2022-12-03
 updated: 2025-01-27

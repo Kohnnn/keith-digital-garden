@@ -12,7 +12,7 @@ keywords:
   - labor
   - ops
   - travel
-draft: true
+draft: false
 description: The holiday collapse exposed fragile scheduling systems.
 created: 2022-12-30
 updated: 2025-06-07

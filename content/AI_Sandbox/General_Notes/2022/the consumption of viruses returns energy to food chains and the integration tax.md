@@ -12,7 +12,7 @@ keywords:
   - returns
   - energy
   - food
-draft: true
+draft: false
 description: The consumption of viruses returns energy to food chains
 created: 2022-12-30
 updated: 2022-12-30

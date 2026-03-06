@@ -12,7 +12,7 @@ keywords:
   - senate
   - schedule
   - health
-draft: true
+draft: false
 description: The vote highlighted how policy touches daily rhythms.
 created: 2022-03-15
 updated: 2025-02-12

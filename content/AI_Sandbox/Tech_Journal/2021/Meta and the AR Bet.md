@@ -12,7 +12,7 @@ keywords:
   - trust
   - developer
   - hardware
-draft: true
+draft: false
 description: The rebrand signaled a long horizon compute and platform bet.
 created: 2021-10-28
 updated: 2025-11-03

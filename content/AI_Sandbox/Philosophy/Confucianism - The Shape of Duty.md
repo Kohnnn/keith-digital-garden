@@ -10,7 +10,7 @@ keywords:
   - care
   - community
   - virtue
-draft: true
+draft: false
 description: Duty is not a cage; it is a way of keeping the world human.
 created: 2022-03-19
 updated: 2025-12-20
@@ -61,6 +61,10 @@ This also changes how I think about politics. A society built only on rights can
 
 I see this when I remember to greet a neighbor, or when I keep a promise even if no one will punish me for breaking it. 
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
+*tempo note:* the argument moves slowly because trust is built slowly.
+
 Counter-pressure: Duty can become hierarchy if I confuse respect with submission.
 
 Micro-ritual: Pick one role today and do the smallest action that honors it.
@@ -95,6 +99,21 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Fair
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Confucianism - The Shape of Duty]] vs [[Daoism - The Strength of Softness]]: deliberate role-ritual cultivation versus spontaneous harmony.
+- [[Confucianism - The Shape of Duty]] vs [[Nietzsche - The Heaviest Question]]: inherited relational obligations versus self-authored values.
+- [[Confucianism - The Shape of Duty]] vs [[Legalism - Order Without Warmth]]: moral formation through example versus compliance through punishment.
+- [[Confucianism - The Shape of Duty]] vs [[Machiavelli - The Price of Control]]: legitimacy through ethical continuity versus legitimacy through effective control.
+
+
+## conflict triad
+- [[Confucianism - The Shape of Duty]] / [[Daoism - The Strength of Softness]] / [[Legalism - Order Without Warmth]]: ritual care, spontaneous flow, and punitive control compete as social-order technologies.
+- The test question: what kind of order stays humane when pressure rises?
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] The Analects

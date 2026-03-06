@@ -12,7 +12,7 @@ keywords:
   - seo
   - curation
   - web
-draft: true
+draft: false
 description: A small search engine made a deliberate bet against SEO-heavy results.
 created: 2021-09-16
 updated: 2021-09-16

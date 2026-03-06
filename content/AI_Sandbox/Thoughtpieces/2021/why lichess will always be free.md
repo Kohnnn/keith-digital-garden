@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why Lichess will always be free as a signal about broader shifts.
 created: 2021-04-23
 updated: 2021-04-23

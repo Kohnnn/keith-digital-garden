@@ -3,7 +3,7 @@ title: keyword - roots
 tags:
   - keyword-index
   - etymology
-draft: true
+draft: false
 description: Notes linked by roots.
 created: 2026-02-07
 updated: 2026-02-07

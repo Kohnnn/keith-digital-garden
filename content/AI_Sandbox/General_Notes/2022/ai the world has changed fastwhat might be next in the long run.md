@@ -10,7 +10,7 @@ keywords:
   - has
   - changed
   - fastwhat
-draft: true
+draft: false
 description: "AI: The World Has Changed Fast–What Might Be Next?"
 created: 2022-12-30
 updated: 2022-12-30

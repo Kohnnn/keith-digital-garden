@@ -12,7 +12,7 @@ keywords:
   - regulation
   - markets
   - crackdown
-draft: true
+draft: false
 description: A post-IPO crackdown signaled a new data governance line.
 created: 2021-07-05
 updated: 2025-08-12

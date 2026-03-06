@@ -11,7 +11,7 @@ keywords:
   - policy
   - drift
   - routing
-draft: true
+draft: false
 description: canary deployments are adding policy-drift assertions to catch governance regressions before full rollout.
 created: 2025-05-06
 updated: 2025-05-06

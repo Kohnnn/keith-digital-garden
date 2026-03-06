@@ -12,7 +12,7 @@ keywords:
   - labor
   - trust
   - economy
-draft: true
+draft: false
 description: Expanding mandates pushed health policy into workplaces.
 created: 2021-09-09
 updated: 2025-04-05

@@ -10,7 +10,7 @@ keywords:
   - texttoeverything
   - everything
   - span
-draft: true
+draft: false
 description: AI's Year of Text-to-Everything
 created: 2022-12-30
 updated: 2022-12-30

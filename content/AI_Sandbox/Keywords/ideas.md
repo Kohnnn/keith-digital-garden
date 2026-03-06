@@ -3,7 +3,7 @@ title: keyword - ideas
 tags:
   - keyword-index
   - memetics
-draft: true
+draft: false
 description: Notes linked by ideas.
 created: 2026-02-07
 updated: 2026-02-07

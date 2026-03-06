@@ -11,7 +11,7 @@ keywords:
   - building
   - parallel
   - generative
-draft: true
+draft: false
 description: How China is building a parallel generative AI universe
 created: 2022-12-31
 updated: 2022-12-31

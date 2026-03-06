@@ -11,7 +11,7 @@ keywords:
   - horizon
   - agents
   - evaluation
-draft: true
+draft: false
 description: long-horizon coding benchmarks reveal bigger gaps in planning and recovery than in isolated function generation.
 created: 2024-12-12
 updated: 2024-12-12

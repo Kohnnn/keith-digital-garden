@@ -12,7 +12,7 @@ keywords:
   - story
   - mood
   - time
-draft: true
+draft: false
 description: A short story captured how memory forms around motion.
 created: 2022-09-23
 updated: 2025-04-18

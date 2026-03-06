@@ -12,7 +12,7 @@ keywords:
   - finance
   - regulation
   - trust
-draft: true
+draft: false
 description: A direct listing made crypto a mainstream market story.
 created: 2021-04-14
 updated: 2025-07-22

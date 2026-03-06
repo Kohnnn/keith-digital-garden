@@ -12,7 +12,7 @@ keywords:
   - transparency
   - data
   - div
-draft: true
+draft: false
 description: EU climate guidance now demands datacenter builders publish energy intensity before permitting.
 created: 2023-11-20
 updated: 2023-11-20

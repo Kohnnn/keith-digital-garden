@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: I'm fed up with it, so I'm writing a browser as a signal about broader shifts.
 created: 2023-09-22
 updated: 2023-09-22

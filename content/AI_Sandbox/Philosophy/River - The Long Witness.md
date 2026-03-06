@@ -12,7 +12,7 @@ keywords:
   - memory
   - flow
   - change
-draft: true
+draft: false
 description: A river keeps telling the truth even when I forget.
 created: 2021-09-09
 updated: 2025-12-12
@@ -71,6 +71,8 @@ And the river is a mirror for time. It keeps moving even when I want to pause my
 
 I see this when I stand on a bridge and watch the current take leaves away. 
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: The river metaphor can become vague if I never connect it to a real choice.
 
 Micro-ritual: Once a week, name one thing you will let move instead of forcing it.
@@ -109,6 +111,16 @@ I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[River - The Long Witness]] vs [[Dams - The Control That Floods]]: continuity witness versus engineered interruption.
+- [[River - The Long Witness]] vs [[Extractivism - The Hunger That Eats the Ground]]: relational landscape memory versus throughput mentality.
+- [[River - The Long Witness]] vs [[Machiavelli - The Price of Control]]: long temporal humility versus short-cycle control strategy.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Meditations

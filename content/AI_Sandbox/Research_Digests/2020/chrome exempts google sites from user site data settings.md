@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Chrome exempts Google sites from user site data settings as a signal about broader shifts.
 created: 2020-10-18
 updated: 2020-10-18

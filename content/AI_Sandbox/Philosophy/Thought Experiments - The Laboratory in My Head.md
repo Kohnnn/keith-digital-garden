@@ -10,7 +10,7 @@ keywords:
   - ethics
   - paradox
   - insight
-draft: true
+draft: false
 description: When I test reality by stressing my imagination.
 created: 2021-08-05
 updated: 2024-12-03
@@ -57,6 +57,8 @@ I keep this close to [[Mohism - The Care That Spreads]] because the tension feel
 
 I see this on a late-night walk when an idea suddenly flips.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: I can hide in hypotheticals to avoid real risk.
 
 Micro-ritual: End one thought experiment with a real action.
@@ -101,6 +103,16 @@ When the world feels too loud, I treat thought experiments as a way to repair my
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Thought Experiments - The Laboratory in My Head]] vs [[Confucianism - The Shape of Duty]]: hypothetical stress tests versus inherited ritual wisdom.
+- [[Thought Experiments - The Laboratory in My Head]] vs [[Machiavelli - The Price of Control]]: conceptual edge cases versus crisis execution constraints.
+- [[Thought Experiments - The Laboratory in My Head]] vs [[Zen Buddhism - The Stillness That Cuts]]: simulation-heavy reasoning versus direct-contact practice.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Meditations on First Philosophy

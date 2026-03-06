@@ -11,7 +11,7 @@ keywords:
   - production
   - rag
   - quality
-draft: true
+draft: false
 description: recent studies and field reports show retrieval evaluation quality depends on freshness and task grounded relevance metrics.
 created: 2024-11-23
 updated: 2024-11-23

@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Theory-building and why employee churn is lethal to software companies as a signal about broader shifts.
 created: 2023-01-10
 updated: 2023-01-10

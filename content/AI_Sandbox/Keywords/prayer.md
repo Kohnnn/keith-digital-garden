@@ -3,7 +3,7 @@ title: keyword - prayer
 tags:
   - keyword-index
   - islam
-draft: true
+draft: false
 description: Notes linked by prayer.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - stability
   - media
   - britain
-draft: true
+draft: false
 description: The end of a long reign tested institutional continuity.
 created: 2022-09-08
 updated: 2025-02-06

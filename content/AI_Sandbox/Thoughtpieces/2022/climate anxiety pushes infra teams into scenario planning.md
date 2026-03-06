@@ -12,7 +12,7 @@ keywords:
   - planning
   - anxiety
   - div
-draft: true
+draft: false
 description: Every climate headline now drives infrastructure teams to run scenario drills, not just spreadsheets.
 created: 2022-08-05
 updated: 2022-08-05

@@ -11,7 +11,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Show HN: Boring Report, a news app that uses AI to desensationalize the news as a signal about broader shifts."
 created: 2023-05-11
 updated: 2023-05-11

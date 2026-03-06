@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Evidence that Adani Group has engaged in stock manipulation and accounting fraud as a signal about broader shifts.
 created: 2023-01-25
 updated: 2023-01-25

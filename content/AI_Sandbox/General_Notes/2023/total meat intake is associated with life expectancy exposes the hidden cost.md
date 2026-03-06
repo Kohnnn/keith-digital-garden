@@ -12,7 +12,7 @@ keywords:
   - intake
   - associated
   - life
-draft: true
+draft: false
 description: Total Meat Intake Is Associated with Life Expectancy
 created: 2023-12-31
 updated: 2023-12-31

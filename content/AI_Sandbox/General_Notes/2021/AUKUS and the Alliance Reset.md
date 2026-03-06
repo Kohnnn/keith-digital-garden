@@ -12,7 +12,7 @@ keywords:
   - submarines
   - exports
   - balance
-draft: true
+draft: false
 description: A new security pact reshaped defense alignment in the Pacific.
 created: 2021-09-15
 updated: 2025-10-08

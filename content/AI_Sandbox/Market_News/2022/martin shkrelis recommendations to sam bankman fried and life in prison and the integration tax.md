@@ -11,7 +11,7 @@ keywords:
   - recommendations
   - sam
   - bankmanfried
-draft: true
+draft: false
 description: Martin Shkreli's recommendations to Sam Bankman-Fried and life in prison
 created: 2022-12-30
 updated: 2022-12-30

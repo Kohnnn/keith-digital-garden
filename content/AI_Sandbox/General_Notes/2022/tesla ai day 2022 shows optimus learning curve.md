@@ -12,7 +12,7 @@ keywords:
   - dojo
   - robotics
   - demo
-draft: true
+draft: false
 description: Tesla's second AI Day unveiled a walking Optimus prototype and more Dojo plans, mixing ambition with rough edges.
 created: 2022-09-30
 updated: 2022-09-30

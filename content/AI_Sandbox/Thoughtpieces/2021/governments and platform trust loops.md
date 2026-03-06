@@ -12,7 +12,7 @@ keywords:
   - div
   - linkage
   - platform
-draft: true
+draft: false
 description: Platform trust rests on repeated regulatory dialogues; every outage resets negotiation.
 created: 2021-04-15
 updated: 2021-04-15

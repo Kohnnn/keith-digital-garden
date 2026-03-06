@@ -12,7 +12,7 @@ keywords:
   - supply
   - inflation
   - policy
-draft: true
+draft: false
 description: A gas price spike exposed energy dependence and policy risk.
 created: 2021-10-06
 updated: 2025-08-18

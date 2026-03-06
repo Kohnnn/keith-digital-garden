@@ -11,7 +11,7 @@ keywords:
   - queues
   - europe
   - grid
-draft: true
+draft: false
 description: improved reporting in 2024 made european storage interconnection queues easier to benchmark and plan around.
 created: 2024-10-23
 updated: 2024-10-23

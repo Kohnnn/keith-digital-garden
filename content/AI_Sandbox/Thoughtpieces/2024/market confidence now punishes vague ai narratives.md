@@ -11,7 +11,7 @@ keywords:
   - confidence
   - ai
   - guidance
-draft: true
+draft: false
 description: investors in 2024 reward concrete ai execution and punish ambiguous storytelling.
 created: 2024-07-09
 updated: 2024-07-09

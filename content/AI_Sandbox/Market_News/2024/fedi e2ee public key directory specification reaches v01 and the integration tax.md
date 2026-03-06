@@ -11,7 +11,7 @@ keywords:
   - key
   - directory
   - specification
-draft: true
+draft: false
 description: Fedi-E2EE Public Key Directory Specification Reaches v0.1
 created: 2024-12-30
 updated: 2024-12-30

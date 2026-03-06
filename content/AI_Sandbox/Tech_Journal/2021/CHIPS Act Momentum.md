@@ -12,7 +12,7 @@ keywords:
   - supply
   - subsidies
   - security
-draft: true
+draft: false
 description: Semiconductor policy moved into national strategy.
 created: 2021-06-08
 updated: 2025-05-02

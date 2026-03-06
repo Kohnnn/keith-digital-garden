@@ -12,7 +12,7 @@ keywords:
   - joseph
   - juran
   - quality
-draft: true
+draft: false
 description: Steve Jobs on Joseph Juran and Quality [video]
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - chips
   - regulation
   - competition
-draft: true
+draft: false
 description: Regulators moved to block a defining semiconductor deal.
 created: 2021-12-02
 updated: 2025-01-30

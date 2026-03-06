@@ -11,7 +11,7 @@ keywords:
   - rollout
   - regions
   - compliance
-draft: true
+draft: false
 description: stricter data residency requirements are becoming the pacing function for multinational ai product rollouts.
 created: 2024-11-29
 updated: 2024-11-29

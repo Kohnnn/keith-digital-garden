@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Gordon Moore has died as a signal about broader shifts.
 created: 2023-03-25
 updated: 2023-03-25

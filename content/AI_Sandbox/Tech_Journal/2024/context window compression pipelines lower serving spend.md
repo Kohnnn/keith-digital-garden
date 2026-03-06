@@ -11,7 +11,7 @@ keywords:
   - serving
   - spend
   - latency
-draft: true
+draft: false
 description: context compression and summarization pipelines are cutting token spend while keeping answer quality in range.
 created: 2024-12-07
 updated: 2024-12-07

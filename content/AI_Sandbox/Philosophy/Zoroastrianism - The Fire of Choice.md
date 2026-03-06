@@ -10,7 +10,7 @@ keywords:
   - choice
   - dualism
   - purity
-draft: true
+draft: false
 description: Zoroastrianism frames life as a moral choice between truth and the lie.
 created: 2022-02-21
 updated: 2026-02-07
@@ -61,6 +61,8 @@ The ritual of fire matters too. Fire is not worshiped as a god; it is honored as
 
 There is also a strong ethic of good thoughts, good words, good deeds. That trilogy is a compact moral system. It makes the inner life, the spoken life, and the public life all part of the same discipline. That is a good corrective to my habit of keeping those compartments separate. It is also why I keep this note near [[Communicant - The Ethics of Being Heard]] because words carry moral weight. Zoroastrianism treats speech as a place where truth must be practiced, not just asserted.
 
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: Moral dualism can become self-righteousness if I forget my own capacity to fail.
 
 Micro-ritual: Choose one small truth today that costs you a little and tell it.
@@ -97,6 +99,16 @@ I keep this next to [[Stoicism - The Weather Inside]] and it leans toward [[Nyay
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Zoroastrianism - The Fire of Choice]] vs [[Pyrrhonism - The Peace of Suspension]]: moral dual clarity versus judgment suspension.
+- [[Zoroastrianism - The Fire of Choice]] vs [[Madhyamaka - The Middle That Refuses]]: truth-lie polarity versus anti-essential middle practice.
+- [[Zoroastrianism - The Fire of Choice]] vs [[Machiavelli - The Price of Control]]: purity-driven ethics versus necessity-driven strategy.
+
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] The Avesta (text)

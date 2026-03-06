@@ -11,7 +11,7 @@ keywords:
   - llm
   - research
   - papers
-draft: true
+draft: false
 description: Collection of 1k LLM Research Papers of 2024
 created: 2024-12-30
 updated: 2024-12-30

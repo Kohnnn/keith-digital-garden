@@ -12,7 +12,7 @@ keywords:
   - privacy
   - icloud
   - keys
-draft: true
+draft: false
 description: Advanced Data Protection shifts recovery costs onto users and ecosystems.
 created: 2022-12-07
 updated: 2022-12-07

@@ -10,7 +10,7 @@ keywords:
   - freshness
   - tiers
   - sla
-draft: true
+draft: false
 description: vector data platforms are introducing freshness-based service tiers as retrieval reliability becomes a commercial differentiator.
 created: 2025-03-15
 updated: 2025-03-15

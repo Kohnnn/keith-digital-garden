@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Twitch source code and customer data has reportedly been leaked as a signal about broader shifts.
 created: 2021-10-06
 updated: 2021-10-06

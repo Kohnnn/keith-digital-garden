@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Let's build a Chrome extension that steals as much data as possible as a signal about broader shifts.
 created: 2023-02-21
 updated: 2023-02-21

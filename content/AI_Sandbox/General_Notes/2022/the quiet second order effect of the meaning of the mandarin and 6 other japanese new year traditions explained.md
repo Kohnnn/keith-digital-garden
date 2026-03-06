@@ -11,7 +11,7 @@ keywords:
   - 6
   - other
   - japanese
-draft: true
+draft: false
 description: The meaning of the Mandarin and 6 other Japanese New Year traditions explained
 created: 2022-12-31
 updated: 2022-12-31

@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Bay 12 Games has made $7M from the Steam release of Dwarf Fortress as a signal about broader shifts.
 created: 2023-02-02
 updated: 2023-02-02

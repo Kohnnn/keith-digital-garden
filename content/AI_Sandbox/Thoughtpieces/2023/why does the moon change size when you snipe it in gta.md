@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why does the moon change size when you snipe it in GTA? as a signal about broader shifts.
 created: 2023-11-21
 updated: 2023-11-21

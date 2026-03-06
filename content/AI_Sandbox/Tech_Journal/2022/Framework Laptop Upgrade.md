@@ -12,7 +12,7 @@ keywords:
   - laptop
   - supply
   - design
-draft: true
+draft: false
 description: The updated Framework laptop doubled down on modularity.
 created: 2022-05-19
 updated: 2025-02-03

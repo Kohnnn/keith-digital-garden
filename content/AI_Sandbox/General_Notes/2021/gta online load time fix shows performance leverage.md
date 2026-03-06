@@ -12,7 +12,7 @@ keywords:
   - profiling
   - bottleneck
   - code
-draft: true
+draft: false
 description: A small fix delivered a massive load time win, a reminder that profiling wins.
 created: 2021-02-28
 updated: 2021-02-28

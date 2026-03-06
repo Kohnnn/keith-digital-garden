@@ -12,7 +12,7 @@ keywords:
   - cloud
   - dependency
   - recovery
-draft: true
+draft: false
 description: A single region failure rippled through modern digital life.
 created: 2021-12-07
 updated: 2025-08-31

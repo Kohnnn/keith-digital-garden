@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Google no longer automatically indexes websites? as a signal about broader shifts.
 created: 2023-06-05
 updated: 2023-06-05

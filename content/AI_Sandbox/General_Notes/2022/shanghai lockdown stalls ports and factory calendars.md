@@ -12,7 +12,7 @@ keywords:
   - ports
   - supplychain
   - zerocovid
-draft: true
+draft: false
 description: Shanghai's April lockdown let zero-COVID spill directly into global supply chains.
 created: 2022-04-18
 updated: 2022-04-18

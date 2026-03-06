@@ -12,7 +12,7 @@ keywords:
   - encryption
   - apple
   - trust
-draft: true
+draft: false
 description: On-device scanning blurred the line between privacy and surveillance.
 created: 2021-08-05
 updated: 2021-08-05

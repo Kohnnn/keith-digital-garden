@@ -12,7 +12,7 @@ keywords:
   - policy
   - trust
   - platform
-draft: true
+draft: false
 description: The suspension reignited debates about platform rules and privacy.
 created: 2022-12-14
 updated: 2025-01-22

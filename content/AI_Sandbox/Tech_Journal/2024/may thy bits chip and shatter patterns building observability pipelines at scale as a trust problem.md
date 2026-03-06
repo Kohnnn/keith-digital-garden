@@ -12,7 +12,7 @@ keywords:
   - bits
   - chip
   - shatterpatterns
-draft: true
+draft: false
 description: "May thy bits chip and shatter:Patterns building Observability Pipelines at scale"
 created: 2024-12-31
 updated: 2024-12-31

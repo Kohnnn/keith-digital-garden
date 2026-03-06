@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Queen Elizabeth II has died as a signal about broader shifts.
 created: 2022-09-08
 updated: 2022-09-08

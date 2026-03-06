@@ -12,7 +12,7 @@ keywords:
   - hangs
   - linux
   - amd
-draft: true
+draft: false
 description: Fixing sleep-wake hangs on Linux with AMD GPUs
 created: 2024-12-31
 updated: 2024-12-31

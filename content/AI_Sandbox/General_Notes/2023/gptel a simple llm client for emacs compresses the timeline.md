@@ -10,7 +10,7 @@ keywords:
   - llm
   - client
   - emacs
-draft: true
+draft: false
 description: "Gptel: A simple LLM client for Emacs"
 created: 2023-12-31
 updated: 2023-12-31

@@ -11,7 +11,7 @@ keywords:
   - plastic
   - model
   - kit
-draft: true
+draft: false
 description: The Lure and Frustration of the Plastic Model Kit
 created: 2023-12-31
 updated: 2023-12-31

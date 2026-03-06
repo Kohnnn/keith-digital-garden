@@ -12,7 +12,7 @@ keywords:
   - adoption
   - volatility
   - narrative
-draft: true
+draft: false
 description: A corporate treasury move turned crypto into a balance sheet debate.
 created: 2021-02-08
 updated: 2025-10-08

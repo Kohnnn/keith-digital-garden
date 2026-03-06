@@ -10,7 +10,7 @@ keywords:
   - love
   - redemption
   - cross
-draft: true
+draft: false
 description: Christianity asks me to treat love as a wound that heals the world.
 created: 2022-01-14
 updated: 2026-02-07
@@ -81,6 +81,10 @@ Prayer and liturgy also matter to me. They are not just words; they are posture.
 
 I also have to make room for doubt. The tradition has a long history of wrestling, and that wrestling is part of faith, not a failure of it. Doubt keeps me from turning belief into arrogance. It is a check on certainty and a doorway to humility. That is a necessary discipline in a world that rewards loud conviction.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
+*friction point:* love sounds soft until it is asked to absorb real harm.
+
 Counter-pressure: Christianity can become a tool of control when mercy is replaced by fear.
 
 Micro-ritual: Sit with one person who is hurting and refuse to fix the moment.
@@ -117,6 +121,21 @@ I keep this next to [[Augustine - The Restless Heart]] and it leans toward [[Bud
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Christianity - The Wound That Heals]] vs [[Nietzsche - The Heaviest Question]]: grace and humility versus critique of ressentiment morality.
+- [[Christianity - The Wound That Heals]] vs [[Machiavelli - The Price of Control]]: cross-shaped power versus necessity-driven statecraft.
+- [[Christianity - The Wound That Heals]] vs [[Bushido - The Steel of Restraint]]: enemy-love and forgiveness versus honor-duty discipline.
+- [[Christianity - The Wound That Heals]] vs [[Legalism - Order Without Warmth]]: mercy-first transformation versus behavior-first compliance.
+
+
+## conflict triad
+- [[Christianity - The Wound That Heals]] / [[Nietzsche - The Heaviest Question]] / [[Bushido - The Steel of Restraint]]: grace, self-overcoming, and honor discipline each redefine strength.
+- The test question: which strength heals the world instead of only proving itself?
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] New Testament (text)

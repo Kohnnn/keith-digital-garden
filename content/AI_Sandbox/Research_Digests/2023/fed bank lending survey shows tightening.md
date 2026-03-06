@@ -12,7 +12,7 @@ keywords:
   - banks
   - survey
   - linkage
-draft: true
+draft: false
 description: The Fed's regional bank survey recorded the first widespread tightening since 2020.
 created: 2023-07-12
 updated: 2023-07-12

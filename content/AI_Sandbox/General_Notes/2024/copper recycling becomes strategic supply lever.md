@@ -11,7 +11,7 @@ keywords:
   - supply
   - grid
   - capex
-draft: true
+draft: false
 description: copper recycling in 2024 moved from sustainability story to hard supply strategy.
 created: 2024-11-03
 updated: 2024-11-03

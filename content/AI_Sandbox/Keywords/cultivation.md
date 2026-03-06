@@ -3,7 +3,7 @@ title: keyword - cultivation
 tags:
   - keyword-index
   - confucianism
-draft: true
+draft: false
 description: Notes linked by cultivation.
 created: 2026-02-07
 updated: 2026-02-07

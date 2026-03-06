@@ -12,7 +12,7 @@ keywords:
   - 2024
   - public
   - domain
-draft: true
+draft: false
 description: January 1, 2024 is Public Domain Day
 created: 2023-12-31
 updated: 2023-12-31

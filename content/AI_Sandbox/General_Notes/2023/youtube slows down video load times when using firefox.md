@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: YouTube slows down video load times when using Firefox as a signal about broader shifts.
 created: 2023-11-20
 updated: 2023-11-20

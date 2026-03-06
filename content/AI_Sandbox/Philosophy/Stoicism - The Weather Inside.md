@@ -12,7 +12,7 @@ keywords:
   - resilience
   - control
   - reason
-draft: true
+draft: false
 description: Stoicism trains me to separate what I can guide from what I cannot.
 created: 2022-05-17
 updated: 2026-02-07
@@ -65,6 +65,10 @@ I also notice how Stoicism changes my relationship with attention. In a world th
 
 Stoicism gives me practical tools too. It asks me to rehearse loss so I am not shocked by it, and to practice gratitude for what is already here. That sounds bleak until I try it. The rehearsal is not doom; it is perspective. It keeps me from worshiping fragile things. It also links to [[Surrender - The Moment I Stop Gripping]] because both teach a gentle release that still honors what I love.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
+*field note:* this is less a doctrine than a daily stabilization drill.
+
 Counter-pressure: Stoicism can slip into emotional avoidance if I use it to bypass grief.
 
 Micro-ritual: Name one thing I cannot control today and release it with one long breath.
@@ -100,6 +104,21 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Budd
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Stoicism - The Weather Inside]] vs [[Epicureanism - The Garden of Enough]]: virtue as highest good versus tranquility as highest practical aim.
+- [[Stoicism - The Weather Inside]] vs [[Buddhism - The Practice of Letting Go]]: rational governance of impressions versus no-self and craving-release practice.
+- [[Stoicism - The Weather Inside]] vs [[Nietzsche - The Heaviest Question]]: disciplined acceptance versus creative revaluation.
+- [[Stoicism - The Weather Inside]] vs [[Pyrrhonism - The Peace of Suspension]]: reasoned commitment versus peace through suspension.
+
+
+## conflict triad
+- [[Stoicism - The Weather Inside]] / [[Epicureanism - The Garden of Enough]] / [[Buddhism - The Practice of Letting Go]]: resilience, sufficiency, and de-grasping offer three anti-chaos strategies.
+- The test question: do I stabilize by commanding judgment, reducing desire, or dissolving attachment?
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Stoicism (Stanford Encyclopedia of Philosophy)

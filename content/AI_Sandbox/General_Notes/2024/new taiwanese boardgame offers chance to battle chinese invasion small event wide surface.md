@@ -10,7 +10,7 @@ keywords:
   - boardgame
   - offers
   - chance
-draft: true
+draft: false
 description: New Taiwanese boardgame offers chance to battle Chinese invasion
 created: 2024-12-30
 updated: 2024-12-30

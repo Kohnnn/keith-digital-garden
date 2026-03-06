@@ -11,7 +11,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: DALL·E now available in beta as a signal about broader shifts.
 created: 2022-07-20
 updated: 2022-07-20

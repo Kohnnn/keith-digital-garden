@@ -11,7 +11,7 @@ keywords:
   - drift
   - monitoring
   - production
-draft: true
+draft: false
 description: safety classifier performance drifts in production as user behavior and content patterns evolve faster than retraining cycles.
 created: 2024-12-31
 updated: 2024-12-31

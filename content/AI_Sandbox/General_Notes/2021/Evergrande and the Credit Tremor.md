@@ -12,7 +12,7 @@ keywords:
   - confidence
   - policy
   - contagion
-draft: true
+draft: false
 description: A property giant exposed how thin the credit buffer really was.
 created: 2021-09-23
 updated: 2025-10-02

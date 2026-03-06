@@ -12,7 +12,7 @@ keywords:
   - design
   - access
   - public
-draft: true
+draft: false
 description: A library project reframed public-domain reading as craft.
 created: 2022-07-24
 updated: 2025-05-15

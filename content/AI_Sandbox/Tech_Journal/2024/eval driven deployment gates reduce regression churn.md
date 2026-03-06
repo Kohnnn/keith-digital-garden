@@ -11,7 +11,7 @@ keywords:
   - gates
   - regressions
   - quality
-draft: true
+draft: false
 description: teams are reducing post release regressions by tying deployment gates directly to eval outcome thresholds.
 created: 2024-12-21
 updated: 2024-12-21

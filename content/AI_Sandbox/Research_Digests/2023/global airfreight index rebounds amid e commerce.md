@@ -12,7 +12,7 @@ keywords:
   - ecommerce
   - demand
   - linkage
-draft: true
+draft: false
 description: The TAC Index showed airfreight rates spiking again after e-commerce demand rose.
 created: 2023-10-05
 updated: 2023-10-05

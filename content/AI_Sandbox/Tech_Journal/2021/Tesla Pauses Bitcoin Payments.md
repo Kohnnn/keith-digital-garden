@@ -12,7 +12,7 @@ keywords:
   - narrative
   - volatility
   - adoption
-draft: true
+draft: false
 description: A reversal highlighted energy concerns in crypto adoption.
 created: 2021-05-12
 updated: 2025-04-21

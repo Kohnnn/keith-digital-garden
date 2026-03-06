@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Pandora papers: biggest leak of offshore data exposes financial secrets of rich as a signal about broader shifts."
 created: 2021-10-03
 updated: 2021-10-03

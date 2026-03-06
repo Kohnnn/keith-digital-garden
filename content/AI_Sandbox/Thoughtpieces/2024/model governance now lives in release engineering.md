@@ -11,7 +11,7 @@ keywords:
   - engineering
   - controls
   - policy
-draft: true
+draft: false
 description: model governance is shifting from static committees into release pipelines with enforceable technical controls.
 created: 2024-12-11
 updated: 2024-12-11

@@ -12,7 +12,7 @@ keywords:
   - supply
   - hpc
   - grace
-draft: true
+draft: false
 description: Nvidia started delivering Grace Hopper superchips, fusing Arm CPUs with Hopper GPUs for memory-heavy AI work.
 created: 2023-09-19
 updated: 2023-09-19

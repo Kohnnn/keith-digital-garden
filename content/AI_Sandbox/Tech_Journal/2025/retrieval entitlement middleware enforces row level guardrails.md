@@ -11,7 +11,7 @@ keywords:
   - rowlevel
   - guardrails
   - middleware
-draft: true
+draft: false
 description: entitlement middleware with row-level enforcement is becoming standard for secure enterprise retrieval.
 created: 2025-04-02
 updated: 2025-04-02

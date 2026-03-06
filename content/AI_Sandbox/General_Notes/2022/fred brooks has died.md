@@ -12,7 +12,7 @@ keywords:
   - software
   - leadership
   - systems
-draft: true
+draft: false
 description: The passing of Fred Brooks closed a chapter in software history.
 created: 2022-11-18
 updated: 2025-02-06

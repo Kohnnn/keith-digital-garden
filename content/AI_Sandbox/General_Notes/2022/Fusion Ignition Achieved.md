@@ -12,7 +12,7 @@ keywords:
   - research
   - climate
   - breakthrough
-draft: true
+draft: false
 description: The ignition result reframed long-term energy timelines.
 created: 2022-12-13
 updated: 2025-04-11

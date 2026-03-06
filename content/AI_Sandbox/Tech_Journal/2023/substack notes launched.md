@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Substack Notes Launched as a signal about broader shifts.
 created: 2023-04-11
 updated: 2023-04-11

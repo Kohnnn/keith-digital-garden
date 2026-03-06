@@ -12,7 +12,7 @@ keywords:
   - oversight
   - div
   - linkage
-draft: true
+draft: false
 description: The SEC issued guidance tightening compliance expectations for crypto brokers.
 created: 2023-10-18
 updated: 2023-10-18

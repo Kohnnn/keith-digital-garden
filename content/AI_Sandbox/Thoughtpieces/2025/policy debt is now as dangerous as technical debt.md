@@ -11,7 +11,7 @@ keywords:
   - technical
   - governance
   - risk
-draft: true
+draft: false
 description: accumulated policy shortcuts are creating reliability and legal risks comparable to unresolved technical debt.
 created: 2025-07-11
 updated: 2025-07-11

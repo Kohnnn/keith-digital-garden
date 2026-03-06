@@ -11,7 +11,7 @@ keywords:
   - impressions
   - tailscale
   - span
-draft: true
+draft: false
 description: My First Impressions of Tailscale
 created: 2022-12-31
 updated: 2022-12-31

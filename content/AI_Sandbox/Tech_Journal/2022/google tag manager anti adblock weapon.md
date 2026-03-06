@@ -12,7 +12,7 @@ keywords:
   - tags
   - privacy
   - blockers
-draft: true
+draft: false
 description: An analysis described GTM as a new anti-adblock layer.
 created: 2022-02-21
 updated: 2025-01-21

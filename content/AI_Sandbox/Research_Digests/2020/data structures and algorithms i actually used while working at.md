@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Data structures and algorithms I actually used while working at tech companies as a signal about broader shifts.
 created: 2020-07-15
 updated: 2020-07-15

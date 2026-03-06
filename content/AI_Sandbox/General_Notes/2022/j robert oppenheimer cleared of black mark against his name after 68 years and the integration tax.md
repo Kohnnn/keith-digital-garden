@@ -10,7 +10,7 @@ keywords:
   - oppenheimer
   - cleared
   - black
-draft: true
+draft: false
 description: J. Robert Oppenheimer cleared of “black mark” against his name after 68 years
 created: 2022-12-30
 updated: 2022-12-30

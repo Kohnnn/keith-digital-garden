@@ -11,7 +11,7 @@ keywords:
   - span
   - class
   - div
-draft: true
+draft: false
 description: GPU Glossary
 created: 2024-12-30
 updated: 2024-12-30

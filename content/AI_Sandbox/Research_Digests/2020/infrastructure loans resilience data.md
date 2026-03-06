@@ -12,7 +12,7 @@ keywords:
   - data
   - div
   - infrastructure
-draft: true
+draft: false
 description: Loan data shows infrastructure projects with resilience clauses had lower defaults during 2020 disruptions.
 created: 2020-12-03
 updated: 2020-12-03

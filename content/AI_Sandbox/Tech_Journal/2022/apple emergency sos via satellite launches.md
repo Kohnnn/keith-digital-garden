@@ -12,7 +12,7 @@ keywords:
   - emergency
   - iphone
   - div
-draft: true
+draft: false
 description: Apple enabled satellite SOS messaging for iPhone 14, blending consumer hardware with specialized infrastructure.
 created: 2022-11-15
 updated: 2022-11-15

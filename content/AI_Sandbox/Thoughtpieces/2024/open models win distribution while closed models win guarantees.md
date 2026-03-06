@@ -11,7 +11,7 @@ keywords:
   - distribution
   - guarantees
   - tradeoffs
-draft: true
+draft: false
 description: model market structure is splitting between open distribution advantage and closed service-level reliability guarantees.
 created: 2024-12-07
 updated: 2024-12-07

@@ -12,7 +12,7 @@ keywords:
   - oci
   - image
   - desktop
-draft: true
+draft: false
 description: Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - chatbot
   - adoption
   - usage
-draft: true
+draft: false
 description: OpenAI released ChatGPT to the public and hit a million users in days, showing conversational AI is sticky.
 created: 2022-11-30
 updated: 2022-11-30

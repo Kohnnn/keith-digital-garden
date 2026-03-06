@@ -11,7 +11,7 @@ keywords:
   - resilience
   - testing
   - security
-draft: true
+draft: false
 description: prompt injection resilience testing is improving, but evaluation methods still miss many tool-chain attack paths.
 created: 2025-03-05
 updated: 2025-03-05

@@ -12,7 +12,7 @@ keywords:
   - data
   - work
   - div
-draft: true
+draft: false
 description: 2021 productivity data suggests hybrid models outperform full-time office.
 created: 2021-11-10
 updated: 2021-11-10

@@ -12,7 +12,7 @@ keywords:
   - reimbursement
   - pandemic
   - linkage
-draft: true
+draft: false
 description: Regulatory waivers let telehealth usage spike, forcing hospitals to retool intake virtually.
 created: 2020-04-15
 updated: 2020-04-15

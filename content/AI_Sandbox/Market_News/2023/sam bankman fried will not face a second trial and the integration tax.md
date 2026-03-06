@@ -11,7 +11,7 @@ keywords:
   - will
   - not
   - face
-draft: true
+draft: false
 description: Sam Bankman-Fried will not face a second trial
 created: 2023-12-31
 updated: 2023-12-31

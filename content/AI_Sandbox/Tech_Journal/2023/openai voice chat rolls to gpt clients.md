@@ -12,7 +12,7 @@ keywords:
   - chatgpt
   - product
   - gpt
-draft: true
+draft: false
 description: OpenAI launched real-time voice conversation for ChatGPT across iOS/Android plus API access.
 created: 2023-09-25
 updated: 2023-09-25

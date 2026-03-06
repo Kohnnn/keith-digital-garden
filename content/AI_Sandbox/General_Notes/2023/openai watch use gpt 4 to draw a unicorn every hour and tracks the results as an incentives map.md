@@ -10,7 +10,7 @@ keywords:
   - use
   - gpt4
   - draw
-draft: true
+draft: false
 description: OpenAI Watch – Use GPT-4 to draw a unicorn every hour and tracks the results
 created: 2023-12-30
 updated: 2023-12-30

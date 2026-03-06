@@ -10,7 +10,7 @@ keywords:
   - startups
   - licensing
   - marketplaces
-draft: true
+draft: false
 description: provenance verification vendors are partnering with data licensing marketplaces to reduce transaction risk.
 created: 2025-07-31
 updated: 2025-07-31

@@ -11,7 +11,7 @@ keywords:
   - margins
   - product
   - scale
-draft: true
+draft: false
 description: falling inference costs in 2024 changed which ai product ideas are financially viable.
 created: 2024-09-01
 updated: 2024-09-01

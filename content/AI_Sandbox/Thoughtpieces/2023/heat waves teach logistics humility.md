@@ -12,7 +12,7 @@ keywords:
   - resilience
   - rail
   - div
-draft: true
+draft: false
 description: 2023 heat waves exposed how fragile inland logistics chains are.
 created: 2023-07-25
 updated: 2023-07-25

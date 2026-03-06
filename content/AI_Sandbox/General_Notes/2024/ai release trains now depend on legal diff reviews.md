@@ -11,7 +11,7 @@ keywords:
   - review
   - diffs
   - governance
-draft: true
+draft: false
 description: legal and policy diff review is becoming a standard gate for ai release trains in regulated environments.
 created: 2024-12-18
 updated: 2024-12-18

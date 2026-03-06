@@ -12,7 +12,7 @@ keywords:
   - adoptees
   - families
   - rocked
-draft: true
+draft: false
 description: South Korean adoptees and families rocked by fraud allegations
 created: 2024-12-31
 updated: 2024-12-31

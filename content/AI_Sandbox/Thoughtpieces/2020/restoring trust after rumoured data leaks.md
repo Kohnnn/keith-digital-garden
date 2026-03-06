@@ -12,7 +12,7 @@ keywords:
   - leaks
   - div
   - linkage
-draft: true
+draft: false
 description: Rumours about data leaks forced firms to reconsider transparent trust-building even before formal breaches.
 created: 2020-09-01
 updated: 2020-09-01

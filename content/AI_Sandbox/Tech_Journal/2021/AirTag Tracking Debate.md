@@ -12,7 +12,7 @@ keywords:
   - policy
   - platform
   - trust
-draft: true
+draft: false
 description: A new device triggered a debate about safety and misuse.
 created: 2021-05-11
 updated: 2024-11-12

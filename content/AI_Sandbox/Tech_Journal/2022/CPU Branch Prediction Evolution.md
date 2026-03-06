@@ -12,7 +12,7 @@ keywords:
   - prediction
   - performance
   - history
-draft: true
+draft: false
 description: A deep dive mapped how prediction evolved over decades.
 created: 2022-12-31
 updated: 2025-02-07

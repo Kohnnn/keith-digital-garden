@@ -11,7 +11,7 @@ keywords:
   - rag
   - refresh
   - pipelines
-draft: true
+draft: false
 description: logical replication streams are enabling lower-latency rag corpus updates without full reindex cycles.
 created: 2024-12-03
 updated: 2024-12-03

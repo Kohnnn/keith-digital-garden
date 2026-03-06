@@ -11,7 +11,7 @@ keywords:
   - safety
   - triage
   - operations
-draft: true
+draft: false
 description: structured refusal taxonomies are making safety incident triage faster and more comparable.
 created: 2025-02-24
 updated: 2025-02-24

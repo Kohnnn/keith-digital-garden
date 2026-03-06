@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: "Whistleblowers: Software keeping inmates in Arizona prisons beyond release dates as a signal about broader shifts."
 created: 2021-02-22
 updated: 2021-02-22

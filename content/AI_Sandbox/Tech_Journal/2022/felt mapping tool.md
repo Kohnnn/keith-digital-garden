@@ -12,7 +12,7 @@ keywords:
   - ux
   - tooling
   - collaboration
-draft: true
+draft: false
 description: Felt reframed mapping as a collaborative, visual workflow.
 created: 2022-07-05
 updated: 2025-03-11

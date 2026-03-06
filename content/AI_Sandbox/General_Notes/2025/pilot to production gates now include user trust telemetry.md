@@ -11,7 +11,7 @@ keywords:
   - trust
   - telemetry
   - gates
-draft: true
+draft: false
 description: release gates now include trust telemetry to reduce pilot success but production disappointment.
 created: 2025-05-20
 updated: 2025-05-20

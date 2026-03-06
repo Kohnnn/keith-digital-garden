@@ -11,7 +11,7 @@ keywords:
   - escalation
   - autonomy
   - controls
-draft: true
+draft: false
 description: approval ladders are replacing binary handoff patterns to improve control over high-risk autonomous actions.
 created: 2025-08-01
 updated: 2025-08-01

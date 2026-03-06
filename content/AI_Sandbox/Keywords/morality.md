@@ -3,7 +3,7 @@ title: keyword - morality
 tags:
   - keyword-index
   - suffering
-draft: true
+draft: false
 description: Notes linked by morality.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - narrative
   - trust
-draft: true
+draft: false
 description: A record sale turned NFTs into a mainstream market signal.
 created: 2021-03-11
 updated: 2025-05-29

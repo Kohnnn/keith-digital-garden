@@ -10,7 +10,7 @@ keywords:
   - copilot
   - bundling
   - enterprise
-draft: true
+draft: false
 description: enterprise search pricing is shifting as bundled copilot suites reset buyer expectations around standalone value.
 created: 2024-11-17
 updated: 2024-11-17

@@ -10,7 +10,7 @@ keywords:
   - devotion
   - justice
   - humility
-draft: true
+draft: false
 description: Sikhism binds devotion to justice through service and equality.
 created: 2023-06-02
 updated: 2026-02-07
@@ -58,6 +58,8 @@ The tradition also emphasizes discipline. The daily rhythm of prayer and the vis
 The insistence on justice is another thread. Sikhism does not celebrate violence, but it also refuses passivity in the face of oppression. That is a complicated moral stance, but it feels honest. It aligns with [[Ethics - Prudence is a Muscle]] because it requires discernment: when do I endure, and when do I resist? The answer is not simple, but the tradition refuses to hide behind simplicity. It asks for courage without cruelty.
 Sikhism also carries a strong sense of unity. The One is beyond image, beyond name, and yet near. That resonates with [[Advaita Vedanta - The One Without Edges]] but the practice feels different. Advaita dissolves separations; Sikhism builds a community that reflects unity through equality and service. The unity is not just metaphysical; it is social. That is the core challenge to the western self-as-island myth. Equality is the proof.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Service can become performance if humility is lost.
 
 Micro-ritual: Do one anonymous act of service today and leave without credit.
@@ -94,6 +96,16 @@ I keep this next to [[Islam - The Discipline of Mercy]] and it leans toward [[Ad
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Sikhism - The Courage of Service]] vs [[Machiavelli - The Price of Control]]: service-equality theology versus stability-through-control politics.
+- [[Sikhism - The Courage of Service]] vs [[Bushido - The Steel of Restraint]]: courage for protection and service versus courage for honor hierarchy.
+- [[Sikhism - The Courage of Service]] vs [[Nietzsche - The Heaviest Question]]: humility and seva versus self-overcoming value creation.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Guru Granth Sahib (text)

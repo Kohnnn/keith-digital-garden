@@ -12,7 +12,7 @@ keywords:
   - travel
   - economy
   - policy
-draft: true
+draft: false
 description: A tourism reopening tested the balance between health and revenue.
 created: 2021-11-01
 updated: 2025-02-03

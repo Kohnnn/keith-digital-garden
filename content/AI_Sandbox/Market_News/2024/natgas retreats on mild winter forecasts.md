@@ -10,7 +10,7 @@ keywords:
   - forecasts
   - storage
   - prices
-draft: true
+draft: false
 description: natural gas prices softened as updated weather forecasts implied lower heating demand.
 created: 2024-10-11
 updated: 2024-10-11

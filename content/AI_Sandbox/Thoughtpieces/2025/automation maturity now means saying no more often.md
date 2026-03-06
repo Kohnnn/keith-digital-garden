@@ -11,7 +11,7 @@ keywords:
   - refusal
   - risk
   - controls
-draft: true
+draft: false
 description: mature automation programs increasingly rely on principled refusal and bounded autonomy rather than maximal action scope.
 created: 2025-07-15
 updated: 2025-07-15

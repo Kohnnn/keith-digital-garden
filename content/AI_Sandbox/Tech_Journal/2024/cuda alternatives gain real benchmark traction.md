@@ -11,7 +11,7 @@ keywords:
   - benchmarks
   - portability
   - kernels
-draft: true
+draft: false
 description: alternative gpu software stacks gained measurable traction in 2024 benchmark and pilot environments.
 created: 2024-10-15
 updated: 2024-10-15

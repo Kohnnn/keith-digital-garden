@@ -11,7 +11,7 @@ keywords:
   - enterprise
   - governance
   - execution
-draft: true
+draft: false
 description: leadership performance in enterprise ai is increasingly judged by incident readiness and recovery quality.
 created: 2025-06-03
 updated: 2025-06-03

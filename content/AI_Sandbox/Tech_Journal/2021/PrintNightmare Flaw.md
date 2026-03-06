@@ -12,7 +12,7 @@ keywords:
   - security
   - exposure
   - infrastructure
-draft: true
+draft: false
 description: A Windows print flaw became a rapid patch and exposure race.
 created: 2021-07-02
 updated: 2025-07-04

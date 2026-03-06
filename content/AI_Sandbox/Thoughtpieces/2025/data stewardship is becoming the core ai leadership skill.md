@@ -11,7 +11,7 @@ keywords:
   - leadership
   - governance
   - quality
-draft: true
+draft: false
 description: ai leaders are increasingly judged by how well they govern data quality rights and lifecycle accountability.
 created: 2025-04-08
 updated: 2025-04-08

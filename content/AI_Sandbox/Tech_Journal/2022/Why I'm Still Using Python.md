@@ -12,7 +12,7 @@ keywords:
   - speed
   - ecosystem
   - tradeoffs
-draft: true
+draft: false
 description: A reflection on why Python keeps winning for real work.
 created: 2022-12-30
 updated: 2025-04-12

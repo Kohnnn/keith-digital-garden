@@ -12,7 +12,7 @@ keywords:
   - updates
   - reliability
   - ecosystem
-draft: true
+draft: false
 description: A report collected stability issues after Ventura upgrades.
 created: 2022-12-31
 updated: 2025-06-09

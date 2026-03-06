@@ -12,7 +12,7 @@ keywords:
   - space
   - science
   - deployment
-draft: true
+draft: false
 description: The full deployment marked a critical milestone for Webb.
 created: 2022-01-08
 updated: 2025-03-28

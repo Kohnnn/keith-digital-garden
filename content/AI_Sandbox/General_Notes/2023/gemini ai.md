@@ -11,7 +11,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Gemini AI as a signal about broader shifts.
 created: 2023-12-06
 updated: 2023-12-06

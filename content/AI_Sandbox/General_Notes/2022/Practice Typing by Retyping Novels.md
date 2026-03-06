@@ -12,7 +12,7 @@ keywords:
   - focus
   - habit
   - skill
-draft: true
+draft: false
 description: A typing tool framed skill building as long-form repetition.
 created: 2022-12-31
 updated: 2025-02-18

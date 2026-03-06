@@ -12,7 +12,7 @@ keywords:
   - teaching
   - interaction
   - craft
-draft: true
+draft: false
 description: An interactive explainer made mechanical systems legible.
 created: 2022-05-04
 updated: 2025-03-27

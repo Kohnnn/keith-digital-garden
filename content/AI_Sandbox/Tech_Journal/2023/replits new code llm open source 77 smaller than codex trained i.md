@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: "Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week as a signal about broader shifts."
 created: 2023-05-03
 updated: 2023-05-03

@@ -12,7 +12,7 @@ keywords:
   - policy
   - economy
   - tourism
-draft: true
+draft: false
 description: Reopening borders reset travel timelines and airline planning.
 created: 2021-10-25
 updated: 2025-04-23

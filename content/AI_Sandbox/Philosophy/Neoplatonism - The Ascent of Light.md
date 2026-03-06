@@ -10,7 +10,7 @@ keywords:
   - light
   - emanation
   - mysticism
-draft: true
+draft: false
 description: Neoplatonism imagines reality as a layered ascent toward the One.
 created: 2024-06-12
 updated: 2026-02-07
@@ -63,6 +63,8 @@ Neoplatonism also reorders the self. It says I am not just a bundle of impulses;
 
 It also gives art a spiritual job. If beauty is a ray of the One, then creating and noticing beauty is not a luxury. It is a kind of orientation. That makes me hold art more carefully. It is not just entertainment, it is a compass. This view helps me understand why certain songs or paintings feel like a doorway rather than a distraction.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Ascent imagery can devalue ordinary life if I treat it as merely low.
 
 Micro-ritual: Remove one distraction today and sit in silence for five minutes.
@@ -98,6 +100,16 @@ I keep this next to [[Plato - The Cave I Keep Building]] and it leans toward [[A
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Neoplatonism - The Ascent of Light]] vs [[Madhyamaka - The Middle That Refuses]]: hierarchical emanation versus anti-foundational middle practice.
+- [[Neoplatonism - The Ascent of Light]] vs [[Cynicism - The Bare Truth]]: contemplative ascent versus anti-systemic lived austerity.
+- [[Neoplatonism - The Ascent of Light]] vs [[Machiavelli - The Price of Control]]: transcendence orientation versus political contingency orientation.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Plotinus (Stanford Encyclopedia of Philosophy)

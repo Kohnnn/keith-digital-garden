@@ -12,7 +12,7 @@ keywords:
   - policy
   - div
   - linkage
-draft: true
+draft: false
 description: Remote work visas are now geopolitical bargaining chips.
 created: 2021-05-20
 updated: 2021-05-20

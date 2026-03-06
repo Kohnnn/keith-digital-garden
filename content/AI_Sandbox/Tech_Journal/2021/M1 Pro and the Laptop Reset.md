@@ -12,7 +12,7 @@ keywords:
   - laptop
   - thermal
   - workflow
-draft: true
+draft: false
 description: Apple turned laptop performance into a silicon and battery story.
 created: 2021-10-18
 updated: 2025-10-06

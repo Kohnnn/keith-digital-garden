@@ -12,7 +12,7 @@ keywords:
   - funding
   - security
   - budgets
-draft: true
+draft: false
 description: The Log4Shell scramble proved we underfund supercritical open source maintainers.
 created: 2021-12-18
 updated: 2021-12-18

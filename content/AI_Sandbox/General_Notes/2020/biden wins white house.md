@@ -12,7 +12,7 @@ keywords:
   - legitimacy
   - policy
   - stability
-draft: true
+draft: false
 description: The result set a new policy tone and transition cadence.
 created: 2020-11-07
 updated: 2025-01-23

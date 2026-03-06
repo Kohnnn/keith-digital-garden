@@ -12,7 +12,7 @@ keywords:
   - archaeology
   - model
   - access
-draft: true
+draft: false
 description: The scan turned a monument into a navigable dataset.
 created: 2022-10-27
 updated: 2025-05-08

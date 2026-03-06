@@ -11,7 +11,7 @@ keywords:
   - growth
   - pricing
   - demand
-draft: true
+draft: false
 description: 2024 data indicates eu saas expansion slowed as buyers prioritized consolidation and governance.
 created: 2024-11-13
 updated: 2024-11-13

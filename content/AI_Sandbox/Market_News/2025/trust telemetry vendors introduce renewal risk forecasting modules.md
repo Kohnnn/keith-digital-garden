@@ -10,7 +10,7 @@ keywords:
   - renewals
   - forecasting
   - vendors
-draft: true
+draft: false
 description: trust telemetry providers are launching renewal-risk forecasting features for enterprise customer success teams.
 created: 2025-07-25
 updated: 2025-07-25

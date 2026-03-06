@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: “Open source” seeds loosen Big Ag’s grip on farmers as a signal about broader shifts.
 created: 2023-02-10
 updated: 2023-02-10

@@ -10,7 +10,7 @@ keywords:
   - capex
   - guidance
   - rally
-draft: true
+draft: false
 description: semiconductor equities rose after upgraded capex guidance reinforced demand confidence.
 created: 2024-10-18
 updated: 2024-10-18

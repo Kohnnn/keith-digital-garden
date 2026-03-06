@@ -12,7 +12,7 @@ keywords:
   - utility
   - div
   - linkage
-draft: true
+draft: false
 description: Clean tech investors now ask for utility partnerships to ensure grid demand alignment.
 created: 2021-06-18
 updated: 2021-06-18

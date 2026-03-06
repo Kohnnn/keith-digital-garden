@@ -11,7 +11,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: OpenAI's board has fired Sam Altman as a signal about broader shifts.
 created: 2023-11-17
 updated: 2023-11-17

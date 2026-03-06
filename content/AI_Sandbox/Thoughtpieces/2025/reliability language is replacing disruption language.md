@@ -11,7 +11,7 @@ keywords:
   - language
   - trust
   - adoption
-draft: true
+draft: false
 description: market narratives are shifting from disruption rhetoric toward reliability and accountability claims.
 created: 2025-01-24
 updated: 2025-01-24

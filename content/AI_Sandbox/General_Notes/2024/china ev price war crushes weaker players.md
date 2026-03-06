@@ -11,7 +11,7 @@ keywords:
   - pricing
   - margins
   - competition
-draft: true
+draft: false
 description: aggressive electric vehicle price cuts in china are forcing weaker manufacturers into defensive mergers.
 created: 2024-05-28
 updated: 2024-05-28

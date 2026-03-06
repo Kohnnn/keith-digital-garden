@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why is the Gaza Strip blurry on Google Maps? as a signal about broader shifts.
 created: 2021-05-17
 updated: 2021-05-17

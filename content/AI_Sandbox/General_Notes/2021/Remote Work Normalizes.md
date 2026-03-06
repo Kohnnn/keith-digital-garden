@@ -12,7 +12,7 @@ keywords:
   - labor
   - productivity
   - culture
-draft: true
+draft: false
 description: Hybrid work moved from emergency to default for many teams.
 created: 2021-10-11
 updated: 2025-03-27

@@ -10,7 +10,7 @@ keywords:
   - building
   - chatgpt
   - app
-draft: true
+draft: false
 description: "Show HN: Building a ChatGPT App with the Help of ChatGPT"
 created: 2022-12-30
 updated: 2022-12-30

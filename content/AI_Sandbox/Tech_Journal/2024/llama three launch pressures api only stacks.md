@@ -11,7 +11,7 @@ keywords:
   - api
   - stack
   - serving
-draft: true
+draft: false
 description: llama 3’s release tightened competition for api only llm providers by improving open weight quality.
 created: 2024-04-18
 updated: 2024-04-18

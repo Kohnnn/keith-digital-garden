@@ -10,7 +10,7 @@ keywords:
   - survival
   - time
   - change
-draft: true
+draft: false
 description: The slow logic that shapes life without asking permission.
 created: 2021-04-27
 updated: 2025-07-15
@@ -57,6 +57,8 @@ I keep this close to [[Drought - The Discipline of Scarcity]] because the tensio
 
 I see this when I feel jealousy and call it truth.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Evolution can become a story that excuses harm.
 
 Micro-ritual: Name one instinct you will not obey today.
@@ -102,6 +104,16 @@ I also think about how evolution shaped social instincts. My craving for belongi
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Evolutionary Theory - The Long Pressure]] vs [[Aquinas - The Reason That Prays]]: selection history versus teleological order.
+- [[Evolutionary Theory - The Long Pressure]] vs [[Nietzsche - The Heaviest Question]]: blind adaptive pressure versus authored value transformation.
+- [[Evolutionary Theory - The Long Pressure]] vs [[Moral Development - The Ladder I Keep Climbing]]: descriptive adaptation versus normative growth.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] On the Origin of Species

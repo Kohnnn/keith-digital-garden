@@ -11,7 +11,7 @@ keywords:
   - discipline
   - survival
   - nature
-draft: true
+draft: false
 description: Scarcity reveals what I value when comfort disappears.
 created: 2022-06-02
 updated: 2025-12-09
@@ -57,6 +57,8 @@ I keep this close to [[Evolutionary Theory - The Long Pressure]] because the ten
 </ul>
 
 I see this when the lawn turns yellow and everyone adapts.
+
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Scarcity talk can become an excuse to hoard.
 
@@ -110,6 +112,16 @@ Drought also teaches a quiet kind of hope. If a place can survive a dry season, 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Drought - The Discipline of Scarcity]] vs [[Epicureanism - The Garden of Enough]]: imposed scarcity versus chosen enoughness.
+- [[Drought - The Discipline of Scarcity]] vs [[Maslow - The Shape of Need]]: structural deprivation versus staged need fulfillment.
+- [[Drought - The Discipline of Scarcity]] vs [[Machiavelli - The Price of Control]]: adaptation ethics versus emergency command politics.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Walden

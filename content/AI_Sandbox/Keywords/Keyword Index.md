@@ -5,7 +5,7 @@ tags:
   - abstraction
   - art
   - attention
-draft: true
+draft: false
 description: Single-word keyword threads for cross-branch navigation.
 created: 2025-10-12
 updated: 2026-02-07

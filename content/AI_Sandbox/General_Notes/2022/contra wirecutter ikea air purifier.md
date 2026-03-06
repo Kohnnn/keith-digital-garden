@@ -12,7 +12,7 @@ keywords:
   - claims
   - health
   - trust
-draft: true
+draft: false
 description: A critique questioned mainstream product testing conclusions.
 created: 2022-06-20
 updated: 2025-04-27

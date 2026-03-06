@@ -11,7 +11,7 @@ keywords:
   - headers
   - audit
   - joins
-draft: true
+draft: false
 description: context attestation headers are improving audit traceability across multi-service ai workflows.
 created: 2025-05-26
 updated: 2025-05-26

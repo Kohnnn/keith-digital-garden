@@ -11,7 +11,7 @@ keywords:
   - matter
   - witness
   - liberation
-draft: true
+draft: false
 description: Samkhya splits reality into consciousness and matter to explain liberation.
 created: 2022-07-03
 updated: 2026-01-29
@@ -62,6 +62,8 @@ Samkhya also presses me on agency. If consciousness is distinct, then it can cho
 
 Samkhya also makes me rethink ethics. If the self is a witness, then the body and mind are not disposable. They are still part of the field where action happens. That means I need to care for the body without becoming it. It is stewardship, not identification. Care becomes maintenance of the instrument, not worship of it. This is a delicate balance. It feels like a corrective to western extremes: either total materialism or total disembodiment. Samkhya says both are incomplete.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: The witness stance can become cold detachment if I stop caring for the world.
 
 Micro-ritual: When emotion spikes, name it as weather and breathe for ten seconds.
@@ -96,6 +98,16 @@ I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Samkhya - The Twofold Reality]] vs [[Advaita Vedanta - The One Without Edges]]: enduring dualism versus strict nonduality.
+- [[Samkhya - The Twofold Reality]] vs [[Madhyamaka - The Middle That Refuses]]: witness-matter distinctions versus emptiness of fixed entities.
+- [[Samkhya - The Twofold Reality]] vs [[Nietzsche - The Heaviest Question]]: disidentification with fluctuation versus intensified affirmation of becoming.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Samkhya (Stanford Encyclopedia of Philosophy)

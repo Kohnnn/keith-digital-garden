@@ -10,7 +10,7 @@ keywords:
   - mllm
   - o1like
   - reasoning
-draft: true
+draft: false
 description: "Mulberry: Empowering MLLM with o1-like Reasoning"
 created: 2024-12-31
 updated: 2024-12-31

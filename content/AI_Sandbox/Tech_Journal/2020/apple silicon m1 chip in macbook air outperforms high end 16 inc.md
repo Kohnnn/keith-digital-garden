@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro as a signal about broader shifts.
 created: 2020-11-12
 updated: 2020-11-12

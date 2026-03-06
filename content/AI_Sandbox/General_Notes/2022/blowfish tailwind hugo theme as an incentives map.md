@@ -10,7 +10,7 @@ keywords:
   - hugo
   - theme
   - span
-draft: true
+draft: false
 description: Blowfish – Tailwind Hugo Theme
 created: 2022-12-30
 updated: 2022-12-30

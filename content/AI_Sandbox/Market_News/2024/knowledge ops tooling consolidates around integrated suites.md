@@ -10,7 +10,7 @@ keywords:
   - tooling
   - suites
   - consolidation
-draft: true
+draft: false
 description: knowledge operations vendors are consolidating as buyers prefer integrated retrieval governance and observability stacks.
 created: 2024-12-20
 updated: 2024-12-20

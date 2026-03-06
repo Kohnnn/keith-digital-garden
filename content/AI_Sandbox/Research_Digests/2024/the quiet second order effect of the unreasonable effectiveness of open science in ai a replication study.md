@@ -12,7 +12,7 @@ keywords:
   - open
   - science
   - ai
-draft: true
+draft: false
 description: "The Unreasonable Effectiveness of Open Science in AI: A Replication Study"
 created: 2024-12-30
 updated: 2024-12-30

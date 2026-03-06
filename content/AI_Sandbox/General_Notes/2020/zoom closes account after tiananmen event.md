@@ -12,7 +12,7 @@ keywords:
   - policy
   - access
   - pressure
-draft: true
+draft: false
 description: The closure highlighted cross-border policy pressure on platforms.
 created: 2020-06-10
 updated: 2025-02-11

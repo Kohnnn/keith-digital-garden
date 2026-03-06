@@ -12,7 +12,7 @@ keywords:
   - ai
   - can
   - models
-draft: true
+draft: false
 description: Type error in AI? Can models be intelligent or are they the same thing as maps?
 created: 2023-12-31
 updated: 2023-12-31

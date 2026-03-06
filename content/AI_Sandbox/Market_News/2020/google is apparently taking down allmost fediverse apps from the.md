@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Google is apparently taking down all/most Fediverse apps from the Play Store as a signal about broader shifts.
 created: 2020-08-28
 updated: 2020-08-28

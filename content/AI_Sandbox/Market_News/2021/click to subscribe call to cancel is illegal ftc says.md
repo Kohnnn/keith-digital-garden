@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: “Click to subscribe, call to cancel” is illegal, FTC says as a signal about broader shifts.
 created: 2021-11-17
 updated: 2021-11-17

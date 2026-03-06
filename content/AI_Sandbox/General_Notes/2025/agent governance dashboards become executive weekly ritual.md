@@ -11,7 +11,7 @@ keywords:
   - executive
   - agents
   - risk
-draft: true
+draft: false
 description: executive teams are adopting weekly governance dashboard reviews as agent deployments scale across core functions.
 created: 2025-01-05
 updated: 2025-01-05

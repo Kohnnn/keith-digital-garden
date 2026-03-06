@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Every Google result now looks like an ad as a signal about broader shifts.
 created: 2020-01-21
 updated: 2020-01-21

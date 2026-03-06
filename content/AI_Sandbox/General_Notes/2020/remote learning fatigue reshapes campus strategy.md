@@ -12,7 +12,7 @@ keywords:
   - fatigue
   - div
   - linkage
-draft: true
+draft: false
 description: 2020 remote learning fatigue forced universities to rethink campus strategies.
 created: 2020-10-15
 updated: 2020-10-15

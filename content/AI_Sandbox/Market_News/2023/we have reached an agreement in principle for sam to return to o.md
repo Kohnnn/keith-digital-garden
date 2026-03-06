@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: We have reached an agreement in principle for Sam to return to OpenAI as CEO as a signal about broader shifts.
 created: 2023-11-22
 updated: 2023-11-22

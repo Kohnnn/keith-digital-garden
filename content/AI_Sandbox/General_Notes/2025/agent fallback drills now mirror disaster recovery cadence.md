@@ -11,7 +11,7 @@ keywords:
   - resilience
   - recovery
   - cadence
-draft: true
+draft: false
 description: enterprises are scheduling fallback drills for agent systems at the same cadence as disaster recovery tests.
 created: 2025-06-25
 updated: 2025-06-25

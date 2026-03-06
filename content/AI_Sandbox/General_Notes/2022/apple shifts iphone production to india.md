@@ -12,7 +12,7 @@ keywords:
   - supply
   - manufacturing
   - risk
-draft: true
+draft: false
 description: Reports pointed to a large production shift away from China.
 created: 2022-12-04
 updated: 2025-01-23

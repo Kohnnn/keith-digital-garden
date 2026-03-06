@@ -11,7 +11,7 @@ keywords:
   - 011
   - found
   - dos
-draft: true
+draft: false
 description: 86-DOS Version 0.11 Found
 created: 2023-12-31
 updated: 2023-12-31

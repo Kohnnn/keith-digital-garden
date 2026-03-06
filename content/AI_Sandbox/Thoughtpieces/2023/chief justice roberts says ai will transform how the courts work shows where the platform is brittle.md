@@ -12,7 +12,7 @@ keywords:
   - roberts
   - says
   - ai
-draft: true
+draft: false
 description: Chief Justice Roberts Says AI Will Transform How the Courts Work
 created: 2023-12-31
 updated: 2023-12-31

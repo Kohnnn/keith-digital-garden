@@ -12,7 +12,7 @@ keywords:
   - labor
   - health
   - risk
-draft: true
+draft: false
 description: A report pointed to workforce fragility in healthcare.
 created: 2022-04-27
 updated: 2025-05-21

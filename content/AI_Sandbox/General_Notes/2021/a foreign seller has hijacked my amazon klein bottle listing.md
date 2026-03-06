@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: A listing hijack shows how marketplaces shift risk onto small sellers.
 created: 2021-06-30
 updated: 2021-06-30

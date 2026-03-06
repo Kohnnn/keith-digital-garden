@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Sound as a signal about broader shifts.
 created: 2022-10-18
 updated: 2022-10-18

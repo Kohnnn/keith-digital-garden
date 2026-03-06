@@ -12,7 +12,7 @@ keywords:
   - writer
   - tone
   - div
-draft: true
+draft: false
 description: LinkedIn added tone/style controls to its AI writing assistant inside the platform.
 created: 2023-12-01
 updated: 2023-12-01

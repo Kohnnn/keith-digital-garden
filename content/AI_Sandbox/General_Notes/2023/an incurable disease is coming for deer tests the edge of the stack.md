@@ -12,7 +12,7 @@ keywords:
   - coming
   - deer
   - span
-draft: true
+draft: false
 description: An Incurable Disease Is Coming for Deer
 created: 2023-12-31
 updated: 2023-12-31

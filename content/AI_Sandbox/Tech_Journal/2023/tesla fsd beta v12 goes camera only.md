@@ -12,7 +12,7 @@ keywords:
   - vision
   - beta
   - v12
-draft: true
+draft: false
 description: Tesla widened the FSD Beta V12 program and doubled down on its camera-only stack.
 created: 2023-12-08
 updated: 2023-12-08

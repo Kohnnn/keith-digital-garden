@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Everything that uses configuration files should report where they're located as a signal about broader shifts.
 created: 2023-06-25
 updated: 2023-06-25

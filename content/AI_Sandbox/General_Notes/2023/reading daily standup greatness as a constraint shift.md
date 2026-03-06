@@ -11,7 +11,7 @@ keywords:
   - greatness
   - span
   - class
-draft: true
+draft: false
 description: Daily Standup Greatness
 created: 2023-12-31
 updated: 2023-12-31

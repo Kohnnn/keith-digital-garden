@@ -12,7 +12,7 @@ keywords:
   - gpu
   - ai
   - compute
-draft: true
+draft: false
 description: Nvidia unveiled Ampere architecture, doubling down on AI datacenter dominance.
 created: 2020-05-14
 updated: 2020-05-14

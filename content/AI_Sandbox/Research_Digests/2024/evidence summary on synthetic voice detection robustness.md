@@ -11,7 +11,7 @@ keywords:
   - robustness
   - audio
   - spoofing
-draft: true
+draft: false
 description: synthetic voice detectors perform unevenly across channels and degrade under compression and adversarial post processing.
 created: 2024-11-15
 updated: 2024-11-15

@@ -12,7 +12,7 @@ keywords:
   - console
   - safety
   - div
-draft: true
+draft: false
 description: Anthropic launched a dedicated console for Claude 2, blending safety tooling with developer UX.
 created: 2023-07-12
 updated: 2023-07-12

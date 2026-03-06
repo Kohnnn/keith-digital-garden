@@ -11,7 +11,7 @@ keywords:
   - registries
   - policy
   - controls
-draft: true
+draft: false
 description: centralized threshold registries are reducing silent safety-policy drift across agent teams.
 created: 2025-05-12
 updated: 2025-05-12

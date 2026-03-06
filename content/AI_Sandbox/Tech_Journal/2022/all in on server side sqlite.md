@@ -12,7 +12,7 @@ keywords:
   - ops
   - durability
   - scale
-draft: true
+draft: false
 description: An essay argued for SQLite as a server-side default.
 created: 2022-05-09
 updated: 2025-01-24

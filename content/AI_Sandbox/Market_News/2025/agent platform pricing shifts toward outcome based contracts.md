@@ -10,7 +10,7 @@ keywords:
   - contracts
   - platforms
   - enterprise
-draft: true
+draft: false
 description: agent platform vendors are introducing outcome-linked commercial models as buyers push for measurable value alignment.
 created: 2025-02-01
 updated: 2025-02-01

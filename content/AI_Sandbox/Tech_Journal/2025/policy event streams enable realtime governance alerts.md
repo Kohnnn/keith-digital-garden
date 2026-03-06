@@ -11,7 +11,7 @@ keywords:
   - alerts
   - governance
   - realtime
-draft: true
+draft: false
 description: policy event streaming is enabling real-time governance alerting across distributed agent systems.
 created: 2025-07-07
 updated: 2025-07-07

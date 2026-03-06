@@ -12,7 +12,7 @@ keywords:
   - dmca
   - fight
   - fake
-draft: true
+draft: false
 description: YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email
 created: 2024-12-30
 updated: 2024-12-30

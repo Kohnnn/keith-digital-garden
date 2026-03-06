@@ -11,7 +11,7 @@ keywords:
   - strategy
   - trust
   - markets
-draft: true
+draft: false
 description: competitive positioning in ai is increasingly expressed through reliability and recoverability claims.
 created: 2025-08-19
 updated: 2025-08-19

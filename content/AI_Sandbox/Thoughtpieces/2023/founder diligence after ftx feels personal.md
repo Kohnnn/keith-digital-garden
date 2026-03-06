@@ -12,7 +12,7 @@ keywords:
   - trust
   - ftx
   - personal
-draft: true
+draft: false
 description: Post-FTX, investors and operators probe personal habits as hard as metrics.
 created: 2023-02-10
 updated: 2023-02-10

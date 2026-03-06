@@ -10,7 +10,7 @@ keywords:
   - charter
   - reopened
   - private
-draft: true
+draft: false
 description: Closed Failing Charter Reopened as Private Religious School Funded by Vouchers
 created: 2024-12-31
 updated: 2024-12-31

@@ -11,7 +11,7 @@ keywords:
   - memory
   - restlessness
   - desire
-draft: true
+draft: false
 description: Augustine frames desire as a restless search for God.
 created: 2023-07-21
 updated: 2026-02-07
@@ -66,6 +66,8 @@ Augustine also insists that love is ordered. If I love the wrong things as ultim
 
 He also warns about pride. The self can become a small god, and that is a fragile throne. This is where Augustine clashes with the western cult of self-creation. It is a humbling counterweight that keeps me from mistaking confidence for truth. It also keeps my compassion softer because I remember how easily I fall out of alignment.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Augustine can amplify guilt if I forget the language of grace.
 
 Micro-ritual: Name one restless desire today and ask what it is really pointing toward.
@@ -101,6 +103,16 @@ I keep this next to [[Human Condition - The Weight of Being Here]] and it leans 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Augustine - The Restless Heart]] vs [[Epicureanism - The Garden of Enough]]: restless desire for ultimate good versus tranquil sufficiency.
+- [[Augustine - The Restless Heart]] vs [[Nietzsche - The Heaviest Question]]: grace-shaped humility versus self-legislating affirmation.
+- [[Augustine - The Restless Heart]] vs [[Pyrrhonism - The Peace of Suspension]]: confessional commitment versus cultivated withholding.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Augustine (Stanford Encyclopedia of Philosophy)

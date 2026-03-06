@@ -12,7 +12,7 @@ keywords:
   - supply
   - shutdown
   - recovery
-draft: true
+draft: false
 description: A meat processor shutdown showed how cyber risk hits the real economy.
 created: 2021-06-02
 updated: 2025-05-24

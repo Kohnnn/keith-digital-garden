@@ -12,7 +12,7 @@ keywords:
   - kernel
   - linux
   - ai
-draft: true
+draft: false
 description: Opening kernel modules reduces friction but keeps the core under control.
 created: 2022-05-11
 updated: 2022-05-11

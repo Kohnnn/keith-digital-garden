@@ -11,7 +11,7 @@ keywords:
   - overhead
   - risk
   - security
-draft: true
+draft: false
 description: partitioned caching reduces leakage risk but introduces measurable infrastructure and latency tradeoffs.
 created: 2025-06-13
 updated: 2025-06-13

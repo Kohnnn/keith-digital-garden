@@ -10,7 +10,7 @@ keywords:
   - habit
   - consciousness
   - compassion
-draft: true
+draft: false
 description: Yogacara claims experience is structured by mind and habit.
 created: 2022-09-30
 updated: 2026-01-25
@@ -61,6 +61,8 @@ Yogacara also touches western debates about realism and idealism. I can feel the
 
 Yogacara also pushes me to notice how culture shapes perception. My mind is not an island. It absorbs habits from family, media, and history. When I say I am just seeing what is there, I might actually be seeing what I was trained to see. This makes western ideas of objectivity feel thinner. It does not destroy objectivity; it demands I earn it by cleaning the lenses. Even my sense of what counts as normal is a learned filter. That is both unsettling and freeing. It means my practice has to include unlearning, not just learning.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Mind-centered views can turn inward and ignore systemic injustice.
 
 Micro-ritual: Notice one automatic story today and rewrite it in a gentler way.
@@ -96,6 +98,16 @@ I keep this next to [[Epistemology - Thinking From the Floor]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Yogacara - The Mind That Paints]] vs [[Nyaya - The Rules of Knowing]]: mind-constructed experience versus externally answerable realism.
+- [[Yogacara - The Mind That Paints]] vs [[Plato - The Cave I Keep Building]]: phenomenological construction versus form-based ascent.
+- [[Yogacara - The Mind That Paints]] vs [[Machiavelli - The Price of Control]]: cognitive purification versus strategic manipulation of perception.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Yogacara (Internet Encyclopedia of Philosophy)

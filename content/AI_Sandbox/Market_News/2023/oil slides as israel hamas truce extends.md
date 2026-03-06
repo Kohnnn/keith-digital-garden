@@ -12,7 +12,7 @@ keywords:
   - prices
   - energy
   - div
-draft: true
+draft: false
 description: Crude eased after Israel and Hamas agreed to extend a temporary truce, lowering supply risk.
 created: 2023-11-27
 updated: 2023-11-27

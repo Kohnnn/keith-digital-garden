@@ -11,7 +11,7 @@ keywords:
   - loss
   - renewal
   - risk
-draft: true
+draft: false
 description: Fire is a memory that returns faster than I am ready for.
 created: 2023-08-19
 updated: 2025-12-13
@@ -71,6 +71,8 @@ I keep a human dimension in view too. Wildfire displaces people, but it also rev
 
 I see this when I step outside and the air smells like smoke and I realize I never thought to prepare. 
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Fire can make me fatalistic if I treat it as destiny instead of a call to care.
 
 Micro-ritual: Once a season, review the one thing you can do to reduce harm.
@@ -104,6 +106,16 @@ I keep this next to [[Environmental Philosophy - Land Turned Into a Machine]] an
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Wildfire - The Fast Memory]] vs [[Dams - The Control That Floods]]: adaptive disturbance cycles versus engineered suppression logic.
+- [[Wildfire - The Fast Memory]] vs [[Machiavelli - The Price of Control]]: complexity humility versus command reflex under threat.
+- [[Wildfire - The Fast Memory]] vs [[Extractivism - The Hunger That Eats the Ground]]: regenerative pulse versus extraction acceleration.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] A Sand County Almanac

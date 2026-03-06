@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Mechanical Watch as a signal about broader shifts.
 created: 2022-05-04
 updated: 2022-05-04

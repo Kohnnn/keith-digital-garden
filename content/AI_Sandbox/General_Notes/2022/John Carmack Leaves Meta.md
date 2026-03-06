@@ -12,7 +12,7 @@ keywords:
   - vr
   - focus
   - culture
-draft: true
+draft: false
 description: The resignation highlighted friction in long-horizon bets.
 created: 2022-12-17
 updated: 2025-05-22

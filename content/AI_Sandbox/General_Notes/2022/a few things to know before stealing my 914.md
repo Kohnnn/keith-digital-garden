@@ -12,7 +12,7 @@ keywords:
   - security
   - cars
   - risk
-draft: true
+draft: false
 description: A car security essay made theft prevention practical and funny.
 created: 2022-04-01
 updated: 2025-03-13

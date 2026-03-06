@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: "Show HN: OpenAPI DevTools – Chrome extension that generates an API spec as a signal about broader shifts."
 created: 2023-10-25
 updated: 2023-10-25

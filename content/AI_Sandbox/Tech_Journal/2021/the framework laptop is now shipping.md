@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: The Framework Laptop is now shipping as a signal about broader shifts.
 created: 2021-07-23
 updated: 2021-07-23

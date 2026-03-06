@@ -12,7 +12,7 @@ keywords:
   - cars
   - ux
   - design
-draft: true
+draft: false
 description: A test suggested physical controls reduce errors.
 created: 2022-08-17
 updated: 2025-02-01

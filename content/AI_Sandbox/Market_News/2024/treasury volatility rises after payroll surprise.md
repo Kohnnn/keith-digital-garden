@@ -10,7 +10,7 @@ keywords:
   - payroll
   - rates
   - finance
-draft: true
+draft: false
 description: treasury volatility picked up after a stronger payroll print challenged near term rate cut expectations.
 created: 2024-09-06
 updated: 2024-09-06

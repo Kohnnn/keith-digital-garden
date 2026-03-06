@@ -10,7 +10,7 @@ keywords:
   - companys
   - db
   - anton
-draft: true
+draft: false
 description: I destroyed the company's DB – by Anton Zaides
 created: 2023-12-31
 updated: 2023-12-31

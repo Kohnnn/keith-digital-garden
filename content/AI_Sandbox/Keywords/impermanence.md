@@ -3,7 +3,7 @@ title: keyword - impermanence
 tags:
   - keyword-index
   - buddhism
-draft: true
+draft: false
 description: Notes linked by impermanence.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - prompts
   - safety
   - tooling
-draft: true
+draft: false
 description: A prompt-built VM hinted at how people will steer and jailbreak models.
 created: 2022-12-03
 updated: 2022-12-03

@@ -12,7 +12,7 @@ keywords:
   - cost
   - battery
   - costs
-draft: true
+draft: false
 description: BloombergNEF data shows battery pack costs dropped 8% YoY, improving storage economics for renewables.
 created: 2023-10-09
 updated: 2023-10-09

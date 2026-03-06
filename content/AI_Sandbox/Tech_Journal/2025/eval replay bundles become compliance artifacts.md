@@ -11,7 +11,7 @@ keywords:
   - compliance
   - artifacts
   - evidence
-draft: true
+draft: false
 description: replayable evaluation bundles are now used as audit evidence in high-accountability deployments.
 created: 2025-01-14
 updated: 2025-01-14

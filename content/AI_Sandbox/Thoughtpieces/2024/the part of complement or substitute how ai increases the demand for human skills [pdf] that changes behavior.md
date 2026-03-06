@@ -12,7 +12,7 @@ keywords:
   - how
   - ai
   - increases
-draft: true
+draft: false
 description: Complement or substitute? How AI increases the demand for human skills [pdf]
 created: 2024-12-30
 updated: 2024-12-30

@@ -12,7 +12,7 @@ keywords:
   - dev
   - workflow
   - tooling
-draft: true
+draft: false
 description: Codespaces framed dev environments as a cloud service.
 created: 2020-05-06
 updated: 2025-03-06

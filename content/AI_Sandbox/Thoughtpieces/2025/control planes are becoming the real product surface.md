@@ -11,7 +11,7 @@ keywords:
   - product
   - surface
   - governance
-draft: true
+draft: false
 description: in enterprise ai, control planes for routing policy and observability increasingly define product value.
 created: 2025-01-26
 updated: 2025-01-26

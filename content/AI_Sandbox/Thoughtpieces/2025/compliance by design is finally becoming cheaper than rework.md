@@ -11,7 +11,7 @@ keywords:
   - rework
   - cost
   - governance
-draft: true
+draft: false
 description: rising audit pressure is making upfront compliance architecture less expensive than repeated post-launch remediation.
 created: 2025-03-01
 updated: 2025-03-01

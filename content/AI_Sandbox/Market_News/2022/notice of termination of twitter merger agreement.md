@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Notice of termination of Twitter merger agreement as a signal about broader shifts.
 created: 2022-07-08
 updated: 2022-07-08

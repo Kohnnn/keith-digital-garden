@@ -12,7 +12,7 @@ keywords:
   - alerts
   - tools
   - api
-draft: true
+draft: false
 description: Ntfy framed push notifications as a simple HTTP workflow.
 created: 2022-11-08
 updated: 2025-01-31

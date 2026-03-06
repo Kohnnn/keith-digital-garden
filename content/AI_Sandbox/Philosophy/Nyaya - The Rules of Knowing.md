@@ -11,7 +11,7 @@ keywords:
   - evidence
   - reason
   - clarity
-draft: true
+draft: false
 description: Nyaya builds a disciplined path for reliable knowledge.
 created: 2024-10-06
 updated: 2026-01-31
@@ -62,6 +62,8 @@ Nyaya also helps me with inner noise. If I treat my emotions as evidence, I will
 
 There is a western story that logic is cold and distant from life. Nyaya refuses that split. It says logic is the backbone of care because it keeps me from deceiving myself and others. That feels almost devotional. I can treat reasoning as a form of kindness, a way to keep the shared world clean. When I do that, argument becomes less like a duel and more like a repair. It also helps me notice when I am arguing just to protect pride. Nyaya asks me to drop the pride and keep the proof. It also teaches me to slow down in a culture of hot takes and fast conclusions.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Logic can become a weapon if I use it to dominate rather than understand.
 
 Micro-ritual: Before making a claim today, name the source of my evidence.
@@ -97,6 +99,17 @@ I keep this next to [[Epistemology - Thinking From the Floor]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Nyaya - The Rules of Knowing]] vs [[Pyrrhonism - The Peace of Suspension]]: reliable means of knowledge versus suspension for tranquility.
+- [[Nyaya - The Rules of Knowing]] vs [[Yogacara - The Mind That Paints]]: externally answerable realism versus perception-first constructivism.
+- [[Nyaya - The Rules of Knowing]] vs [[Madhyamaka - The Middle That Refuses]]: inferential realism versus anti-essential dialectic.
+- [[Nyaya - The Rules of Knowing]] vs [[Machiavelli - The Price of Control]]: truth-validating method versus strategic rhetoric under power.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Nyaya (Stanford Encyclopedia of Philosophy)

@@ -12,7 +12,7 @@ keywords:
   - rust
   - programs
   - libraries
-draft: true
+draft: false
 description: Lib.rs – catalog of Rust programs and libraries
 created: 2023-12-31
 updated: 2023-12-31

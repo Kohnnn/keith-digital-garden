@@ -10,7 +10,7 @@ keywords:
   - prayer
   - justice
   - discipline
-draft: true
+draft: false
 description: Islam trains the soul through submission, prayer, and justice.
 created: 2022-04-10
 updated: 2026-02-07
@@ -87,6 +87,10 @@ Charity is another pillar that cuts through my excuses. It is not just a nice ac
 
 I also feel the emphasis on intention. Actions matter, but the heart matters too. That keeps the practice from becoming a checklist. It pushes me to ask why I give, not just how much. That interior honesty is a small revolution in a world that measures only outcomes. It is a quiet guard against hypocrisy. It makes sincerity a daily discipline. It makes patience possible too. It keeps the soul from hardening. It keeps mercy from becoming a slogan. It keeps me accountable in private. It turns the heart toward honesty. It keeps my ego small. Daily. Still. It keeps the practice humane when the world goes hard.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
+*friction point:* discipline gets distorted the moment mercy drops out.
+
 Counter-pressure: Submission can be misused as obedience to human power instead of moral truth.
 
 Micro-ritual: Pause one minute today to remember what you are serving and why.
@@ -123,6 +127,21 @@ I keep this next to [[Confucianism - The Shape of Duty]] and it leans toward [[B
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Islam - The Discipline of Mercy]] vs [[Legalism - Order Without Warmth]]: law integrated with intention and mercy versus deterrence-first governance.
+- [[Islam - The Discipline of Mercy]] vs [[Pyrrhonism - The Peace of Suspension]]: revealed commitment versus sustained epistemic suspension.
+- [[Islam - The Discipline of Mercy]] vs [[Cynicism - The Bare Truth]]: communal devotional discipline versus anti-institutional austerity.
+- [[Islam - The Discipline of Mercy]] vs [[Machiavelli - The Price of Control]]: moral accountability before God versus strategic justification under pressure.
+
+
+## conflict triad
+- [[Islam - The Discipline of Mercy]] / [[Legalism - Order Without Warmth]] / [[Pyrrhonism - The Peace of Suspension]]: committed law with mercy, control law, and suspended judgment create different civic psychologies.
+- The test question: how much certainty is needed for justice, and how much uncertainty keeps justice humble?
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] The Quran (text)

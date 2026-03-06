@@ -12,7 +12,7 @@ keywords:
   - pricing
   - compute
   - debate
-draft: true
+draft: false
 description: Nvidia’s H100 price hikes reignite debate over affordability for mid-tier AI teams.
 created: 2023-12-07
 updated: 2023-12-07

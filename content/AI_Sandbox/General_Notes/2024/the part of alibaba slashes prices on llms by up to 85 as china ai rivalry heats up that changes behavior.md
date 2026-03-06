@@ -12,7 +12,7 @@ keywords:
   - prices
   - llms
   - up
-draft: true
+draft: false
 description: Alibaba slashes prices on LLMs by up to 85% as China AI rivalry heats up
 created: 2024-12-31
 updated: 2024-12-31

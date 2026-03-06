@@ -11,7 +11,7 @@ keywords:
   - reliability
   - outputs
   - checks
-draft: true
+draft: false
 description: quorum-based validation across model variants is reducing high-impact false outputs in sensitive tasks.
 created: 2025-03-31
 updated: 2025-03-31

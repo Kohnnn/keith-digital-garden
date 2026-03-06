@@ -11,7 +11,7 @@ keywords:
   - codetest
   - c
   - rust
-draft: true
+draft: false
 description: "Syzygy: Dual Code-Test C to Rust Translation Using LLMs and Dynamic Analysis"
 created: 2024-12-30
 updated: 2024-12-30

@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: GPT-4 as a signal about broader shifts.
 created: 2023-03-14
 updated: 2023-03-14

@@ -12,7 +12,7 @@ keywords:
   - shortages
   - economy
   - trust
-draft: true
+draft: false
 description: A wave of quits reshaped hiring and wage pressure.
 created: 2021-10-12
 updated: 2025-03-18

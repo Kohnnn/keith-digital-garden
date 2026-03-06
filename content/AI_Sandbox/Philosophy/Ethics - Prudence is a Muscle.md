@@ -10,7 +10,7 @@ keywords:
   - choice
   - responsibility
   - habit
-draft: true
+draft: false
 description: Practical wisdom is slow, but it keeps my life honest.
 created: 2023-03-16
 updated: 2025-07-08
@@ -55,6 +55,8 @@ I keep this close to [[Moral Development - The Ladder I Keep Climbing]] because 
 </ul>
 
 I see this when I am about to say yes to a project and my calendar is already full.
+
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Prudence can become fear if I use it to avoid risk.
 
@@ -106,6 +108,17 @@ Finally, prudence has a social edge. My choices never land only on me. If I make
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Ethics - Prudence is a Muscle]] vs [[Legalism - Order Without Warmth]]: situational practical reason versus fixed compliance code.
+- [[Ethics - Prudence is a Muscle]] vs [[Mohism - The Care That Spreads]]: context-sensitive judgment versus impartial utility baseline.
+- [[Ethics - Prudence is a Muscle]] vs [[Nietzsche - The Heaviest Question]]: shared deliberative norms versus self-authored value horizons.
+- [[Ethics - Prudence is a Muscle]] vs [[Machiavelli - The Price of Control]]: prudence for flourishing versus prudence for regime survival.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Aristotle, Nicomachean Ethics

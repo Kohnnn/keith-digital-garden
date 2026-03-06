@@ -11,7 +11,7 @@ keywords:
   - speak
   - via
   - video
-draft: true
+draft: false
 description: Xi, Putin speak via video as grinding Ukraine war tests China-Russia partnership
 created: 2022-12-30
 updated: 2022-12-30

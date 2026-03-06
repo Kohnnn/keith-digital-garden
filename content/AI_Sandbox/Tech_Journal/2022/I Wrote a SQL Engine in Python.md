@@ -12,7 +12,7 @@ keywords:
   - python
   - parsing
   - design
-draft: true
+draft: false
 description: A solo build showed how far Python can go in systems work.
 created: 2022-12-30
 updated: 2025-03-10

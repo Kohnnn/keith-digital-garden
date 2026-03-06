@@ -10,7 +10,7 @@ keywords:
   - friendship
   - simplicity
   - fear
-draft: true
+draft: false
 description: Epicureanism teaches me that peace comes from simple pleasures and honest limits.
 created: 2021-09-08
 updated: 2026-02-07
@@ -63,6 +63,8 @@ It also changes how I look at consumption. The western machine whispers that I a
 
 Epicureanism also elevates friendship. It is not a bonus; it is the infrastructure of peace. That is a challenge in a culture that celebrates independence. The garden is communal. The quiet I want is not solitary, it is shared. This puts Epicureanism near [[Communicant - The Ethics of Being Heard]] because attention and trust are part of the good life. The pleasure is relational, not just sensory.
 
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Epicureanism can become escapist if I use it to avoid responsibility.
 
 Micro-ritual: Eat one simple meal today and notice the quiet it brings.
@@ -98,6 +100,16 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Daoi
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Epicureanism - The Garden of Enough]] vs [[Stoicism - The Weather Inside]]: tranquility-centered pleasure versus virtue-centered endurance.
+- [[Epicureanism - The Garden of Enough]] vs [[Nietzsche - The Heaviest Question]]: modest sufficiency versus intensity and self-overcoming.
+- [[Epicureanism - The Garden of Enough]] vs [[Christianity - The Wound That Heals]]: immanent calm versus redemptive suffering horizon.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Epicurus (Stanford Encyclopedia of Philosophy)

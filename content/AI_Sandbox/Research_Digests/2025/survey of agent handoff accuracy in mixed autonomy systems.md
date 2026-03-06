@@ -11,7 +11,7 @@ keywords:
   - autonomy
   - systems
   - reliability
-draft: true
+draft: false
 description: mixed-autonomy studies show handoff accuracy is a major determinant of safety and recovery outcomes.
 created: 2025-01-28
 updated: 2025-01-28

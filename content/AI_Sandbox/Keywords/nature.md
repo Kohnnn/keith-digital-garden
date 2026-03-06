@@ -6,7 +6,7 @@ tags:
   - daoism
   - scarcity
   - environmental
-draft: true
+draft: false
 description: Notes linked by nature.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - weights
   - open
   - llama
-draft: true
+draft: false
 description: Meta published Llama 2 weights under a permissive license, inviting commercial fine-tuning.
 created: 2023-07-18
 updated: 2023-07-18

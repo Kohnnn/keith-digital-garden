@@ -12,7 +12,7 @@ keywords:
   - tooling
   - privacy
   - portability
-draft: true
+draft: false
 description: A show‑and‑tell shared a portable approach to secret storage.
 created: 2022-12-21
 updated: 2025-02-11

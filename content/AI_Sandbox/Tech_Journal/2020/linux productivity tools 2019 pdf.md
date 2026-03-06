@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Linux Productivity Tools (2019) [pdf] as a signal about broader shifts.
 created: 2020-05-18
 updated: 2020-05-18

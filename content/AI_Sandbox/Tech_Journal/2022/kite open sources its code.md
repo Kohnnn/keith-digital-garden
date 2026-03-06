@@ -12,7 +12,7 @@ keywords:
   - tooling
   - sunset
   - code
-draft: true
+draft: false
 description: Kite’s shutdown ended in an open-source release.
 created: 2022-11-20
 updated: 2025-03-01

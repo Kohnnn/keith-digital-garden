@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Meta fined $1.3B over data transfers to U.S. as a signal about broader shifts.
 created: 2023-05-22
 updated: 2023-05-22

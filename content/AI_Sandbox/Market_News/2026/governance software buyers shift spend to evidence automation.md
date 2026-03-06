@@ -10,7 +10,7 @@ keywords:
   - evidence
   - automation
   - spend
-draft: true
+draft: false
 description: buyers are reallocating governance budgets toward automated evidence generation and reporting workflows.
 created: 2026-02-12
 updated: 2026-02-12

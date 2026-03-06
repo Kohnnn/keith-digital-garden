@@ -12,7 +12,7 @@ keywords:
   - no
   - second
   - trial
-draft: true
+draft: false
 description: Prosecutors say no second trial for Sam Bankman-Fried on [Bribery] charges
 created: 2023-12-30
 updated: 2023-12-30

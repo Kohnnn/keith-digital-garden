@@ -11,7 +11,7 @@ keywords:
   - tests
   - retrieval
   - boundaries
-draft: true
+draft: false
 description: replaying historical access decisions is helping teams harden retrieval entitlement boundaries.
 created: 2025-08-13
 updated: 2025-08-13

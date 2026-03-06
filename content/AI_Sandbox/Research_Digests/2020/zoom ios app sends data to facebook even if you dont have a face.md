@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Zoom iOS app sends data to Facebook even if you don’t have a Facebook account as a signal about broader shifts.
 created: 2020-03-26
 updated: 2020-03-26

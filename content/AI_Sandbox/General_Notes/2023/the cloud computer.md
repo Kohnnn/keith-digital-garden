@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: The Cloud Computer as a signal about broader shifts.
 created: 2023-10-26
 updated: 2023-10-26

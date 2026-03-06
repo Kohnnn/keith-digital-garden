@@ -10,7 +10,7 @@ keywords:
   - virtue
   - harmony
   - cultivation
-draft: true
+draft: false
 description: Neo-Confucianism blends ethics and cosmology into a single practice.
 created: 2024-04-09
 updated: 2026-01-22
@@ -61,6 +61,8 @@ There is also a quiet social critique here. If leaders are out of alignment, soc
 
 I feel a western echo in the desire for an ordered universe, but Neo-Confucianism does not chase order for its own sake. It chases harmony between inner life and outer life. That means my ethics cannot stay private. If I am cruel at home and polished in public, I am misaligned. The pattern is not a theory I recite; it is a life I can be measured by.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: The idea of a cosmic pattern can harden into dogma and silence dissent.
 
 Micro-ritual: Spend five minutes in stillness and name one habit that hides the pattern.
@@ -97,6 +99,16 @@ I keep this next to [[Confucianism - The Shape of Duty]] and it leans toward [[F
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Neo-Confucianism - The Pattern in the Heart]] vs [[Daoism - The Strength of Softness]]: patterned cultivation versus spontaneous attunement.
+- [[Neo-Confucianism - The Pattern in the Heart]] vs [[Madhyamaka - The Middle That Refuses]]: ordered principle versus anti-essential emptiness.
+- [[Neo-Confucianism - The Pattern in the Heart]] vs [[Nietzsche - The Heaviest Question]]: cosmic moral pattern versus self-authored values.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Neo-Confucianism (Stanford Encyclopedia of Philosophy)

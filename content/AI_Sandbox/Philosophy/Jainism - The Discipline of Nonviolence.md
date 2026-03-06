@@ -10,7 +10,7 @@ keywords:
   - compassion
   - asceticism
   - purity
-draft: true
+draft: false
 description: Nonviolence is not passive; it is relentless care.
 created: 2022-05-07
 updated: 2025-12-20
@@ -61,6 +61,8 @@ There is a danger here too. The ethic can become purity theater if I use it to j
 
 I see this when I choose a slower option because it hurts less. 
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Nonviolence can become self-righteous if I forget mercy.
 
 Micro-ritual: Once a day, choose the less harmful option even if it is less convenient.
@@ -94,6 +96,17 @@ I keep this next to [[Extractivism - The Hunger That Eats the Ground]] and it le
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Jainism - The Discipline of Nonviolence]] vs [[Machiavelli - The Price of Control]]: radical harm-minimization versus strategic coercion under crisis.
+- [[Jainism - The Discipline of Nonviolence]] vs [[Bushido - The Steel of Restraint]]: restraint for non-harm versus restraint for honor-duty.
+- [[Jainism - The Discipline of Nonviolence]] vs [[Nietzsche - The Heaviest Question]]: ascetic nonviolence versus life-affirming power expression.
+- [[Jainism - The Discipline of Nonviolence]] vs [[Legalism - Order Without Warmth]]: moral self-purification versus state-driven compliance.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Tattvartha Sutra

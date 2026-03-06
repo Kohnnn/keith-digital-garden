@@ -12,7 +12,7 @@ keywords:
   - demand
   - supply
   - miners
-draft: true
+draft: false
 description: Pandemic demand and crypto mining sent GPU prices soaring.
 created: 2020-10-15
 updated: 2020-10-15

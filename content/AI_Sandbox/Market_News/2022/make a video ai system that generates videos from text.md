@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: "Make-A-Video: AI system that generates videos from text as a signal about broader shifts."
 created: 2022-09-29
 updated: 2022-09-29

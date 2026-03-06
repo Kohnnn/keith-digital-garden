@@ -12,7 +12,7 @@ keywords:
   - compliance
   - crypto
   - trust
-draft: true
+draft: false
 description: A regulator warning halted a product before launch.
 created: 2021-09-08
 updated: 2025-01-11

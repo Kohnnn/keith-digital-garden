@@ -11,7 +11,7 @@ keywords:
   - digests
   - incidents
   - reviews
-draft: true
+draft: false
 description: trace digest pipelines are compressing incident context into audit-friendly summaries without losing critical lineage.
 created: 2025-09-16
 updated: 2025-09-16

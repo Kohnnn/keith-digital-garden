@@ -12,7 +12,7 @@ keywords:
   - behavior
   - privacy
   - trust
-draft: true
+draft: false
 description: A concept essay linked data scoring to behavioral chilling.
 created: 2020-09-29
 updated: 2025-02-15

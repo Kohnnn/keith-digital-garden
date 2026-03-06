@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: What I learned getting acquired by Google as a signal about broader shifts.
 created: 2023-11-09
 updated: 2023-11-09

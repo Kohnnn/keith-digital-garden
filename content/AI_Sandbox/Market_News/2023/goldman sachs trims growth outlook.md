@@ -12,7 +12,7 @@ keywords:
   - growth
   - fed
   - div
-draft: true
+draft: false
 description: Goldman Sachs shaved its GDP forecast for 2023 amid lingering inflation.
 created: 2023-09-14
 updated: 2023-09-14

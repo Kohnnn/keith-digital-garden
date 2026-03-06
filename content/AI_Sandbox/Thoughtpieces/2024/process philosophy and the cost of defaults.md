@@ -12,7 +12,7 @@ keywords:
   - span
   - class
   - div
-draft: true
+draft: false
 description: Process Philosophy
 created: 2024-12-31
 updated: 2024-12-31

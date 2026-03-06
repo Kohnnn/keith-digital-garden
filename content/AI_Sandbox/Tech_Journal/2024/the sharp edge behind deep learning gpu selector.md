@@ -12,7 +12,7 @@ keywords:
   - gpu
   - selector
   - span
-draft: true
+draft: false
 description: Deep Learning GPU Selector
 created: 2024-12-31
 updated: 2024-12-31

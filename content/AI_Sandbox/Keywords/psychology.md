@@ -3,7 +3,7 @@ title: keyword - psychology
 tags:
   - keyword-index
   - psychology
-draft: true
+draft: false
 description: Notes linked by psychology.
 created: 2026-02-07
 updated: 2026-02-07

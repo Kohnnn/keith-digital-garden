@@ -12,7 +12,7 @@ keywords:
   - anxiety
   - focus
   - habits
-draft: true
+draft: false
 description: A reflective piece treated news consumption as a habit loop.
 created: 2022-02-22
 updated: 2025-03-01

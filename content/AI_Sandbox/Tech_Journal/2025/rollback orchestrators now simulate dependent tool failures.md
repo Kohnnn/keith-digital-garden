@@ -11,7 +11,7 @@ keywords:
   - tools
   - failures
   - simulation
-draft: true
+draft: false
 description: rollback orchestration systems are adding dependent-tool failure simulation to improve recovery reliability.
 created: 2025-05-22
 updated: 2025-05-22

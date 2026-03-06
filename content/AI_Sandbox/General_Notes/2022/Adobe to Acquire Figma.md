@@ -12,7 +12,7 @@ keywords:
   - monopoly
   - pricing
   - workflow
-draft: true
+draft: false
 description: The deal raised questions about design platform power.
 created: 2022-09-15
 updated: 2025-02-14

@@ -12,7 +12,7 @@ keywords:
   - years
   - surprise
   - 700m
-draft: true
+draft: false
 description: "Nvidia's new year's surprise: a $700M software acquisition will be open source"
 created: 2024-12-31
 updated: 2024-12-31

@@ -12,7 +12,7 @@ keywords:
   - trucking
   - shortage
   - refining
-draft: true
+draft: false
 description: East Coast diesel stocks fell to levels that forced rationing chatter before winter.
 created: 2022-10-24
 updated: 2022-10-24

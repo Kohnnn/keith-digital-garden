@@ -10,7 +10,7 @@ keywords:
   - agency
   - interpretation
   - model
-draft: true
+draft: false
 description: I treat minds like stories so I can move through the world.
 created: 2022-09-14
 updated: 2025-10-02
@@ -57,6 +57,8 @@ This sits in the same neighborhood as [[Yogacara - The Mind That Paints]], even 
 
 I see this when I label a coworker lazy after one mistake.
 
+map notes: [[Advaita Vedanta - The One Without Edges]] + [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: I can strip agency from others to feel safe.
 
 Micro-ritual: Replace one assumption with a question.
@@ -100,6 +102,16 @@ Finally, the stance touches ethics. If I treat someone as a full agent, I owe th
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Intentional Stance - The Shortcut I Live By]] vs [[Yogacara - The Mind That Paints]]: pragmatic attribution heuristic versus mind-first construction account.
+- [[Intentional Stance - The Shortcut I Live By]] vs [[Nyaya - The Rules of Knowing]]: predictive usefulness versus validity-tested knowledge.
+- [[Intentional Stance - The Shortcut I Live By]] vs [[Artificial Intelligence - The Mirror That Talks Back]]: anthropomorphic stance utility versus model-level opacity.
+
+
+## questions / next
+- which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 
 ## references
 > [!ref] The Intentional Stance

@@ -12,7 +12,7 @@ keywords:
   - scotland
   - compute
   - div
-draft: true
+draft: false
 description: Scotland hosts new edge AI nodes to keep latency low for European clients.
 created: 2022-11-12
 updated: 2022-11-12

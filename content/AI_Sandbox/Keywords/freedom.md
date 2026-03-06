@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - cynicism
   - surrender
-draft: true
+draft: false
 description: Notes linked by freedom.
 created: 2026-02-07
 updated: 2026-02-07

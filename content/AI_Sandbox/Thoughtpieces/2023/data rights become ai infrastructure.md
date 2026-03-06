@@ -12,7 +12,7 @@ keywords:
   - ai
   - div
   - infrastructure
-draft: true
+draft: false
 description: Data rights conversations now dictate where AI infrastructure gets built.
 created: 2023-11-09
 updated: 2023-11-09

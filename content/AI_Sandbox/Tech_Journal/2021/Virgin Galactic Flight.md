@@ -12,7 +12,7 @@ keywords:
   - tourism
   - markets
   - trust
-draft: true
+draft: false
 description: A high-profile flight made space tourism feel near-term.
 created: 2021-07-11
 updated: 2024-10-28

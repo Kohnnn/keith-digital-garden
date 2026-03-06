@@ -12,7 +12,7 @@ keywords:
   - streaming
   - bing
   - microsoft
-draft: true
+draft: false
 description: Microsoft Flight Simulator 2020 fused Azure cloud streaming with Bing Maps to recreate the planet.
 created: 2020-08-18
 updated: 2020-08-18

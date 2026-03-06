@@ -10,7 +10,7 @@ keywords:
   - assurance
   - deployment
   - enterprise
-draft: true
+draft: false
 description: compliance automation firms are bundling assurance workflows directly into deployment products to win enterprise demand.
 created: 2025-02-05
 updated: 2025-02-05

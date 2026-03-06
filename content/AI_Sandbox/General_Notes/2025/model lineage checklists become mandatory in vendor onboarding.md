@@ -11,7 +11,7 @@ keywords:
   - vendors
   - controls
   - audits
-draft: true
+draft: false
 description: enterprises are requiring model lineage checklists before granting production access to ai vendors.
 created: 2025-06-23
 updated: 2025-06-23

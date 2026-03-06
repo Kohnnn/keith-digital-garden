@@ -12,7 +12,7 @@ keywords:
   - demo
   - motion
   - graphics
-draft: true
+draft: false
 description: A visual demo made bubble physics feel tactile.
 created: 2022-11-11
 updated: 2025-04-13

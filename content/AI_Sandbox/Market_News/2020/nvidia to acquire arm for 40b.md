@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Nvidia to Acquire Arm for $40B as a signal about broader shifts.
 created: 2020-09-13
 updated: 2020-09-13

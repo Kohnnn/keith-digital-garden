@@ -12,7 +12,7 @@ keywords:
   - demand
   - inflation
   - prices
-draft: true
+draft: false
 description: Average U.S. gasoline passed $5, reinforcing how energy costs dominate consumer sentiment.
 created: 2022-06-11
 updated: 2022-06-11

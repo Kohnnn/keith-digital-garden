@@ -11,7 +11,7 @@ keywords:
   - supplychain
   - maintainer
   - trust
-draft: true
+draft: false
 description: the xz incident exposed how fragile maintainer trust and release pipelines remain.
 created: 2024-03-31
 updated: 2024-03-31

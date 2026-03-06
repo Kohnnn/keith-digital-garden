@@ -12,7 +12,7 @@ keywords:
   - generative
   - openai
   - art
-draft: true
+draft: false
 description: Stability AI open-sourced Stable Diffusion, putting high-quality text-to-image models on every GPU.
 created: 2022-08-22
 updated: 2022-08-22

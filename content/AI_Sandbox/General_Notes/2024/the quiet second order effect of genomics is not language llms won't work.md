@@ -11,7 +11,7 @@ keywords:
   - language
   - llms
   - wont
-draft: true
+draft: false
 description: Genomics Is Not Language – LLMs Won't Work
 created: 2024-12-31
 updated: 2024-12-31

@@ -11,7 +11,7 @@ keywords:
   - datasets
   - safety
   - governance
-draft: true
+draft: false
 description: public ai incident datasets improved in 2024 but remain incomplete for robust policy analysis.
 created: 2024-10-17
 updated: 2024-10-17

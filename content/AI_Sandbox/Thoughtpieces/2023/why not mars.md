@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why Not Mars as a signal about broader shifts.
 created: 2023-01-02
 updated: 2023-01-02

@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: How the CIA used Crypto AG encryption devices to spy on countries for decades as a signal about broader shifts.
 created: 2020-02-11
 updated: 2020-02-11

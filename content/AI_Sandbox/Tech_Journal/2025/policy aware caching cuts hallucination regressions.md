@@ -11,7 +11,7 @@ keywords:
   - hallucination
   - regressions
   - controls
-draft: true
+draft: false
 description: policy-aware cache keys are reducing stale unsafe response reuse in production assistants.
 created: 2025-01-16
 updated: 2025-01-16

@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Nokia launches DIY repairable budget Android phone as a signal about broader shifts.
 created: 2023-02-25
 updated: 2023-02-25

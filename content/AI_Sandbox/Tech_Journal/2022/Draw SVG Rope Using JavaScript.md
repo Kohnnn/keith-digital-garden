@@ -12,7 +12,7 @@ keywords:
   - canvas
   - math
   - demo
-draft: true
+draft: false
 description: A small demo made rope physics legible in SVG.
 created: 2022-12-31
 updated: 2025-01-28

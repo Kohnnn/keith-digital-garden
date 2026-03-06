@@ -11,7 +11,7 @@ keywords:
   - reason
   - inquiry
   - truth
-draft: true
+draft: false
 description: Refusing the borrowed answer until something solid appears.
 created: 2022-02-17
 updated: 2026-01-14
@@ -57,6 +57,8 @@ I keep this close to [[Nyaya - The Rules of Knowing]] because the tension feels 
 </ul>
 
 I see this when I strip a plan down to why I want it.
+
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Digging can become a way to avoid commitment.
 
@@ -106,6 +108,16 @@ I also notice how this practice connects to the larger question of meaning. If I
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[First Principles - Digging to Bedrock]] vs [[Madhyamaka - The Middle That Refuses]]: foundation-seeking versus anti-foundational emptiness.
+- [[First Principles - Digging to Bedrock]] vs [[Pyrrhonism - The Peace of Suspension]]: grounding ambition versus therapeutic non-closure.
+- [[First Principles - Digging to Bedrock]] vs [[Daoism - The Strength of Softness]]: explicit derivation versus tacit attunement.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Posterior Analytics

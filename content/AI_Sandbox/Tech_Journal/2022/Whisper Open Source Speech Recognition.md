@@ -12,7 +12,7 @@ keywords:
   - transcription
   - open
   - dataset
-draft: true
+draft: false
 description: Open source speech models moved closer to production quality.
 created: 2022-09-21
 updated: 2025-03-02

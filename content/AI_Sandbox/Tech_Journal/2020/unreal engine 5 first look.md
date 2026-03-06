@@ -12,7 +12,7 @@ keywords:
   - graphics
   - realtime
   - tooling
-draft: true
+draft: false
 description: The demo reset expectations for real-time graphics.
 created: 2020-05-13
 updated: 2025-02-19

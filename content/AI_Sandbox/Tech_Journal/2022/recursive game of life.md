@@ -12,7 +12,7 @@ keywords:
   - simulation
   - math
   - demo
-draft: true
+draft: false
 description: A recursive Game of Life demo made complexity feel simple.
 created: 2022-12-14
 updated: 2025-02-07

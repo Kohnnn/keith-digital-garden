@@ -12,7 +12,7 @@ keywords:
   - security
   - adoption
   - hardware
-draft: true
+draft: false
 description: A new OS release tried to reset the PC experience.
 created: 2021-10-04
 updated: 2025-06-16

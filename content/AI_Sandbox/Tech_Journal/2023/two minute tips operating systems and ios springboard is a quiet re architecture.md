@@ -12,7 +12,7 @@ keywords:
   - tips
   - operating
   - systems
-draft: true
+draft: false
 description: "Two Minute Tips: Operating Systems and iOS Springboard"
 created: 2023-12-31
 updated: 2023-12-31

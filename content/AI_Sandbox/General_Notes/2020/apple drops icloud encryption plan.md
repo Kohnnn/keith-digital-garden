@@ -12,7 +12,7 @@ keywords:
   - policy
   - fbi
   - access
-draft: true
+draft: false
 description: A reported reversal highlighted the tension between privacy and access.
 created: 2020-01-21
 updated: 2025-03-01

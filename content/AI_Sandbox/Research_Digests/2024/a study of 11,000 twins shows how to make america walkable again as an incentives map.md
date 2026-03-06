@@ -10,7 +10,7 @@ keywords:
   - twins
   - shows
   - how
-draft: true
+draft: false
 description: A study of 11,000 twins shows how to make America walkable again
 created: 2024-12-31
 updated: 2024-12-31

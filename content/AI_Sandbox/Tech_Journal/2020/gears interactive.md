@@ -12,7 +12,7 @@ keywords:
   - visualization
   - learning
   - craft
-draft: true
+draft: false
 description: A visual explainer made gear mechanics intuitive.
 created: 2020-02-12
 updated: 2025-03-17

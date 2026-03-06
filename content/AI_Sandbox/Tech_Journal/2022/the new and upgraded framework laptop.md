@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: The new and upgraded Framework Laptop as a signal about broader shifts.
 created: 2022-05-19
 updated: 2022-05-19

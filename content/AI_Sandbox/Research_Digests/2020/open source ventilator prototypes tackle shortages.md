@@ -12,7 +12,7 @@ keywords:
   - rapidmanufacturing
   - covid
   - open
-draft: true
+draft: false
 description: Engineer communities launched open-source ventilators to cope with hospital shortfalls.
 created: 2020-03-25
 updated: 2020-03-25

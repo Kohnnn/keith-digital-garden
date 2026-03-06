@@ -3,7 +3,7 @@ title: keyword - authority
 tags:
   - keyword-index
   - legalism
-draft: true
+draft: false
 description: Notes linked by authority.
 created: 2026-02-07
 updated: 2026-02-07

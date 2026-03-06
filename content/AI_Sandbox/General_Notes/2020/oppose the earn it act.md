@@ -12,7 +12,7 @@ keywords:
   - privacy
   - law
   - risk
-draft: true
+draft: false
 description: The campaign framed the act as a threat to encryption.
 created: 2020-07-01
 updated: 2025-04-04

@@ -10,7 +10,7 @@ keywords:
   - lender
   - reporting
   - exports
-draft: true
+draft: false
 description: governance analytics vendors are adding lender-friendly reporting exports as financing scrutiny rises.
 created: 2025-08-31
 updated: 2025-08-31

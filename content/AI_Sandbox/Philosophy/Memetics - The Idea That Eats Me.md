@@ -11,7 +11,7 @@ keywords:
   - culture
   - evolution
   - mind
-draft: true
+draft: false
 description: I am not just thinking ideas; ideas are also thinking me.
 created: 2023-01-19
 updated: 2025-09-21
@@ -57,6 +57,8 @@ This sits in the same neighborhood as [[Yogacara - The Mind That Paints]], even 
 </ul>
 
 I see this when a phrase slips out of my mouth and I did not choose it.
+
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: I can blame memes instead of taking responsibility.
 
@@ -107,6 +109,16 @@ Finally, memetics makes me think about responsibility. If I share an idea, I am 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Memetics - The Idea That Eats Me]] vs [[Nyaya - The Rules of Knowing]]: transmissibility advantage versus warranted belief criteria.
+- [[Memetics - The Idea That Eats Me]] vs [[Ethics - Prudence is a Muscle]]: viral spread dynamics versus deliberative practical judgment.
+- [[Memetics - The Idea That Eats Me]] vs [[Confucianism - The Shape of Duty]]: contagion drift versus ritual stabilization.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- which claim here survives contact with [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] The Selfish Gene

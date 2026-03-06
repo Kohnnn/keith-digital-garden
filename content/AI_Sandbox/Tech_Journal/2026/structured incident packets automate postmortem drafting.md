@@ -11,7 +11,7 @@ keywords:
   - postmortems
   - drafting
   - automation
-draft: true
+draft: false
 description: structured incident packets are automating first-pass postmortem drafting with better consistency and speed.
 created: 2026-01-25
 updated: 2026-01-25

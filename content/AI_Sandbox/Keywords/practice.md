@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - buddhism
   - zen
-draft: true
+draft: false
 description: Notes linked by practice.
 created: 2026-02-07
 updated: 2026-02-07

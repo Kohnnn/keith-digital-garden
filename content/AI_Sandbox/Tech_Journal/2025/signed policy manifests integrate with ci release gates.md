@@ -11,7 +11,7 @@ keywords:
   - ci
   - release
   - policy
-draft: true
+draft: false
 description: policy manifests signed in ci pipelines are improving release integrity and audit traceability.
 created: 2025-03-27
 updated: 2025-03-27

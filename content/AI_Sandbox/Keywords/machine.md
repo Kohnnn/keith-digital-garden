@@ -2,7 +2,7 @@
 title: keyword - machine
 tags:
   - keyword-index
-draft: true
+draft: false
 description: Notes linked by machine.
 created: 2026-02-07
 updated: 2026-02-07

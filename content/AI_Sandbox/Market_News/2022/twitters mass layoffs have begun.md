@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Twitter’s mass layoffs have begun as a signal about broader shifts.
 created: 2022-11-04
 updated: 2022-11-04

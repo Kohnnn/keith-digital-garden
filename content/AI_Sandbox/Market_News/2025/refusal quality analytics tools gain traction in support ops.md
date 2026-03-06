@@ -10,7 +10,7 @@ keywords:
   - analytics
   - support
   - operations
-draft: true
+draft: false
 description: refusal analytics products are gaining adoption as support teams optimize trust and escalation outcomes.
 created: 2025-09-04
 updated: 2025-09-04

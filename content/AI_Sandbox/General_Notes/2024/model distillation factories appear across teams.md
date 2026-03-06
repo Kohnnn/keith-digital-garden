@@ -11,7 +11,7 @@ keywords:
   - cost
   - latency
   - teams
-draft: true
+draft: false
 description: more teams now run repeatable distillation pipelines to cut inference cost and latency.
 created: 2024-10-02
 updated: 2024-10-02

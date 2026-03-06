@@ -12,7 +12,7 @@ keywords:
   - efficiency
   - power
   - div
-draft: true
+draft: false
 description: AMD refreshed its 3D V-Cache lineup focusing on lower power usage for data centers.
 created: 2023-09-07
 updated: 2023-09-07

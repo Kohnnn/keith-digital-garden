@@ -12,7 +12,7 @@ keywords:
   - confidence
   - markets
   - economy
-draft: true
+draft: false
 description: A currency spiral turned policy credibility into a market crisis.
 created: 2021-11-23
 updated: 2025-09-23

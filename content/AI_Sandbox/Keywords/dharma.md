@@ -3,7 +3,7 @@ title: keyword - dharma
 tags:
   - keyword-index
   - hinduism
-draft: true
+draft: false
 description: Notes linked by dharma.
 created: 2026-02-07
 updated: 2026-02-07

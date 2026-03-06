@@ -11,7 +11,7 @@ keywords:
   - compilers
   - tokens
   - sessions
-draft: true
+draft: false
 description: context-packing compilers are reducing long-session token waste while preserving key constraints.
 created: 2025-05-08
 updated: 2025-05-08

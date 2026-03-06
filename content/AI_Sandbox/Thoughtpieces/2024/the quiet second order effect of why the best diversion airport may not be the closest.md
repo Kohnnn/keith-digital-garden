@@ -10,7 +10,7 @@ keywords:
   - diversion
   - airport
   - may
-draft: true
+draft: false
 description: Why the Best Diversion Airport May Not Be the Closest
 created: 2024-12-31
 updated: 2024-12-31

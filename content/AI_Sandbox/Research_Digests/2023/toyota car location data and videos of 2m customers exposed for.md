@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Toyota: Car location data and videos of 2M customers exposed for ten years as a signal about broader shifts."
 created: 2023-05-12
 updated: 2023-05-12

@@ -12,7 +12,7 @@ keywords:
   - energy
   - alliance
   - risk
-draft: true
+draft: false
 description: The invasion reset European security and energy assumptions.
 created: 2022-02-24
 updated: 2025-07-17

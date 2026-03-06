@@ -11,7 +11,7 @@ keywords:
   - regulated
   - data
   - access
-draft: true
+draft: false
 description: regulated-domain retrieval studies emphasize access enforcement and provenance checks as key safety controls.
 created: 2025-01-29
 updated: 2025-01-29

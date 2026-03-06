@@ -11,7 +11,7 @@ keywords:
   - diffs
   - deployment
   - artifacts
-draft: true
+draft: false
 description: deployment pipelines now treat guardrail config diffs as mandatory reviewable artifacts.
 created: 2025-05-24
 updated: 2025-05-24

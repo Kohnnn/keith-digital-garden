@@ -10,7 +10,7 @@ keywords:
   - posts
   - 23
   - gain
-draft: true
+draft: false
 description: S&P 500 posts 23% gain for 2024
 created: 2024-12-31
 updated: 2024-12-31

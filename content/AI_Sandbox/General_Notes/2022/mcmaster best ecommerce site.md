@@ -12,7 +12,7 @@ keywords:
   - catalog
   - ops
   - design
-draft: true
+draft: false
 description: A product essay framed McMaster as the UX gold standard.
 created: 2022-09-25
 updated: 2025-04-30

@@ -1,7 +1,7 @@
 ---
 title: aarnphm style homepage draft
 tags: [sandbox, draft, profile, interactive-writing]
-draft: true
+draft: false
 description: Paraphrased homepage-style note inspired by aarnphm, adapted for Project Obsidian.
 created: 2026-02-25
 updated: 2026-02-25

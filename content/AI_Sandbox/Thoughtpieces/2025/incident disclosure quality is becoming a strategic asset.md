@@ -11,7 +11,7 @@ keywords:
   - quality
   - strategy
   - trust
-draft: true
+draft: false
 description: high-quality incident disclosure is increasingly differentiating vendors in enterprise trust decisions.
 created: 2025-06-01
 updated: 2025-06-01

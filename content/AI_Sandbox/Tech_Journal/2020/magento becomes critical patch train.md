@@ -12,7 +12,7 @@ keywords:
   - ecom
   - open
   - source
-draft: true
+draft: false
 description: Magento’s critical patch cycle highlighted the risk of e-commerce platforms lagging behind security updates.
 created: 2020-09-02
 updated: 2020-09-02

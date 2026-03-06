@@ -12,7 +12,7 @@ keywords:
   - timelines
   - product
   - div
-draft: true
+draft: false
 description: Panic usability tests during product launches reveal that fragmented timelines harm team coordination.
 created: 2023-11-08
 updated: 2023-11-08

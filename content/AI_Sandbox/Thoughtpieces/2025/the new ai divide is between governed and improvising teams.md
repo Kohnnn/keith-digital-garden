@@ -11,7 +11,7 @@ keywords:
   - improvising
   - teams
   - maturity
-draft: true
+draft: false
 description: performance divergence in ai adoption increasingly reflects governance discipline rather than model access differences.
 created: 2025-04-10
 updated: 2025-04-10

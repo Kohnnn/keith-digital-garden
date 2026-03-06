@@ -10,7 +10,7 @@ keywords:
   - adventure
   - ai
   - ml
-draft: true
+draft: false
 description: My 25-year adventure in AI and ML
 created: 2024-12-31
 updated: 2024-12-31

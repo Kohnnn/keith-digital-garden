@@ -10,7 +10,7 @@ keywords:
   - regional
   - inference
   - markets
-draft: true
+draft: false
 description: regional capacity exchange models are appearing to improve matching between burst demand and available inference supply.
 created: 2025-02-03
 updated: 2025-02-03

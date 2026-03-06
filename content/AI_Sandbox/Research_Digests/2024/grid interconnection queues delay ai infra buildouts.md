@@ -11,7 +11,7 @@ keywords:
   - delays
   - ai
   - buildout
-draft: true
+draft: false
 description: interconnection bottlenecks are slowing data center and ai infrastructure expansion despite strong demand.
 created: 2024-06-27
 updated: 2024-06-27

@@ -12,7 +12,7 @@ keywords:
   - internet
   - prices
   - stability
-draft: true
+draft: false
 description: Energy price protests triggered an internet shutdown signal.
 created: 2022-01-05
 updated: 2025-01-20

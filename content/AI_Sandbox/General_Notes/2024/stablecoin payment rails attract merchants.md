@@ -11,7 +11,7 @@ keywords:
   - merchants
   - rails
   - settlement
-draft: true
+draft: false
 description: merchant pilots in 2024 expanded stablecoin settlement for cross border and high fee verticals.
 created: 2024-09-09
 updated: 2024-09-09

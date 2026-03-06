@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: "Why Cities: Skylines 2 performs poorly as a signal about broader shifts."
 created: 2023-11-05
 updated: 2023-11-05

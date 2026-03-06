@@ -12,7 +12,7 @@ keywords:
   - patch
   - blast
   - maintenance
-draft: true
+draft: false
 description: Log4Shell turned a common logging library into an industry-wide fire drill.
 created: 2021-12-09
 updated: 2025-10-19

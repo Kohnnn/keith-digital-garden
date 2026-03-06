@@ -10,7 +10,7 @@ keywords:
   - grid
   - rally
   - commodities
-draft: true
+draft: false
 description: copper prices extended gains as transmission expansion and data center demand lifted forward estimates.
 created: 2024-05-20
 updated: 2024-05-20

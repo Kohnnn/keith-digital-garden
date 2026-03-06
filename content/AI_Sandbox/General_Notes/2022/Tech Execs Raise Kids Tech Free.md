@@ -12,7 +12,7 @@ keywords:
   - attention
   - health
   - culture
-draft: true
+draft: false
 description: The story highlighted a growing screen-time skepticism.
 created: 2022-12-30
 updated: 2025-04-09

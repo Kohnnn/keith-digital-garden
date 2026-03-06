@@ -11,7 +11,7 @@ keywords:
   - message
   - design
   - clarity
-draft: true
+draft: false
 description: escalation handoff message design strongly influences recovery speed and operator accuracy.
 created: 2025-06-11
 updated: 2025-06-11

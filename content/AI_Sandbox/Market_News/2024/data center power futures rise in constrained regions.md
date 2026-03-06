@@ -10,7 +10,7 @@ keywords:
   - datacenters
   - pricing
   - demand
-draft: true
+draft: false
 description: forward power prices climbed in constrained hubs as projected data center demand tightened medium term supply assumptions.
 created: 2024-11-25
 updated: 2024-11-25

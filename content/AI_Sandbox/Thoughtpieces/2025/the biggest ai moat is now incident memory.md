@@ -11,7 +11,7 @@ keywords:
   - memory
   - operations
   - learning
-draft: true
+draft: false
 description: organizations that systematically learn from incidents are building a durable advantage over feature-chasing competitors.
 created: 2025-02-28
 updated: 2025-02-28

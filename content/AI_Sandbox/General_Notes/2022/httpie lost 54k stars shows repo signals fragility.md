@@ -12,7 +12,7 @@ keywords:
   - metrics
   - trust
   - oss
-draft: true
+draft: false
 description: A star purge showed how fragile platform-based credibility can be.
 created: 2022-04-14
 updated: 2022-04-14

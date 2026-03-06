@@ -12,7 +12,7 @@ keywords:
   - reliability
   - ux
   - trust
-draft: true
+draft: false
 description: A text pattern triggered a crash, showing brittle UX edges.
 created: 2022-05-05
 updated: 2025-01-30

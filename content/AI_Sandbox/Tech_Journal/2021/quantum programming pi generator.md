@@ -12,7 +12,7 @@ keywords:
   - pi
   - div
   - linkage
-draft: true
+draft: false
 description: A new quantum compiler showed why linear algebra still matters.
 created: 2021-07-25
 updated: 2021-07-25

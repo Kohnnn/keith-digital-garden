@@ -11,7 +11,7 @@ keywords:
   - velocity
   - leadership
   - execution
-draft: true
+draft: false
 description: leadership outcomes increasingly favor teams that improve risk visibility over raw release velocity.
 created: 2026-01-29
 updated: 2026-01-29

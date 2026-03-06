@@ -10,7 +10,7 @@ keywords:
   - marketplaces
   - regulated
   - sectors
-draft: true
+draft: false
 description: policy telemetry marketplaces are emerging to standardize governance signal exchange in regulated industries.
 created: 2026-02-16
 updated: 2026-02-16

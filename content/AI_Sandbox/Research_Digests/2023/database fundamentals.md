@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Database Fundamentals as a signal about broader shifts.
 created: 2023-12-15
 updated: 2023-12-15

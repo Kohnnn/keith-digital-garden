@@ -12,7 +12,7 @@ keywords:
   - skill
   - licensing
   - productivity
-draft: true
+draft: false
 description: Autocomplete shifted from syntax to intent and rewired how code is produced.
 created: 2021-06-29
 updated: 2025-09-27

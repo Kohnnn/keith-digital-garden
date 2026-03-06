@@ -12,7 +12,7 @@ keywords:
   - signals
   - div
   - linkage
-draft: true
+draft: false
 description: Demand response pilots reveal flexibility signals in 2021 summer peaks.
 created: 2021-08-07
 updated: 2021-08-07

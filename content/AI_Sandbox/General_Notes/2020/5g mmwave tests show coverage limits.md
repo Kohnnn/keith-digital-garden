@@ -12,7 +12,7 @@ keywords:
   - coverage
   - trials
   - linkage
-draft: true
+draft: false
 description: Trials of mmWave 5G revealed range and obstacle sensitivity even before mass rollout.
 created: 2020-07-20
 updated: 2020-07-20

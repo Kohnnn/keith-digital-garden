@@ -11,7 +11,7 @@ keywords:
   - hallucination
   - quality
   - rag
-draft: true
+draft: false
 description: retrieval audit practices in 2024 helped teams lower hallucination rates in production rag systems.
 created: 2024-10-20
 updated: 2024-10-20

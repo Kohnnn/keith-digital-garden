@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: "Pricing Money: A beginner's guide to money, bonds, futures and swaps as a signal about broader shifts."
 created: 2023-06-16
 updated: 2023-06-16

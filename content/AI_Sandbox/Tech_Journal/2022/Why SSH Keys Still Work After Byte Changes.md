@@ -12,7 +12,7 @@ keywords:
   - crypto
   - encoding
   - math
-draft: true
+draft: false
 description: A crypto Q&A showed why key formats are resilient.
 created: 2022-12-31
 updated: 2025-03-05

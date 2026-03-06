@@ -10,7 +10,7 @@ keywords:
   - hardware
   - capacity
   - financing
-draft: true
+draft: false
 description: leasing models for inference hardware are expanding as enterprises avoid heavy upfront capex commitments.
 created: 2024-12-13
 updated: 2024-12-13

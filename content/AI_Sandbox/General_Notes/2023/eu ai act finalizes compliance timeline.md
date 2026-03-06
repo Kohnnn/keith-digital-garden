@@ -12,7 +12,7 @@ keywords:
   - compliance
   - watermark
   - risk
-draft: true
+draft: false
 description: The EU published the final AI Act text, creating the most detailed compliance schedule yet.
 created: 2023-06-22
 updated: 2023-06-22

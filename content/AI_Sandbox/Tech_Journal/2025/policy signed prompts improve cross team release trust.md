@@ -11,7 +11,7 @@ keywords:
   - signed
   - releases
   - trust
-draft: true
+draft: false
 description: cryptographically signed prompt artifacts are improving release trust and auditability across teams.
 created: 2025-02-18
 updated: 2025-02-18

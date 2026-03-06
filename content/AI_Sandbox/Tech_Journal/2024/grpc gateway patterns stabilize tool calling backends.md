@@ -11,7 +11,7 @@ keywords:
   - tools
   - backend
   - contracts
-draft: true
+draft: false
 description: grpc gateway patterns are reducing latency variance and contract drift in high volume tool calling systems.
 created: 2024-12-01
 updated: 2024-12-01

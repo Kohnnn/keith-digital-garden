@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Framework announces AMD, new Intel gen, 16“ laptop and more as a signal about broader shifts.
 created: 2023-03-23
 updated: 2023-03-23

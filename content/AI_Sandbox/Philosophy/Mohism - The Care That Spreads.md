@@ -10,7 +10,7 @@ keywords:
   - ethics
   - utility
   - peace
-draft: true
+draft: false
 description: Mohism argues that care should be impartial, practical, and public.
 created: 2021-11-22
 updated: 2026-01-20
@@ -61,6 +61,10 @@ Mohism also expands what I mean by love. It is not just affection or attachment.
 
 Another way Mohism presses me is in how I spend time and money. It is suspicious of luxury that does not help anyone. That can feel harsh, but it also feels clarifying. I think about the western habit of treating philanthropy as optional and private. Mohism turns it into a public expectation. It does not let me keep my ethics inside my head. It asks for visible results.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
+*field note:* impartial care is emotionally hard and politically explosive.
+
 Counter-pressure: Impartial care can flatten intimacy and erase the meaning of special bonds.
 
 Micro-ritual: Do one concrete act today for someone I do not know.
@@ -97,6 +101,21 @@ I keep this next to [[Fair Division - The Blueberry Pie Rule]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Mohism - The Care That Spreads]] vs [[Confucianism - The Shape of Duty]]: impartial concern versus graded relational obligations.
+- [[Mohism - The Care That Spreads]] vs [[Epicureanism - The Garden of Enough]]: public utility obligations versus private tranquility.
+- [[Mohism - The Care That Spreads]] vs [[Nietzsche - The Heaviest Question]]: universalizable benefit versus aristocratic self-legislation.
+- [[Mohism - The Care That Spreads]] vs [[Machiavelli - The Price of Control]]: welfare-first legitimacy versus stability-first legitimacy.
+
+
+## conflict triad
+- [[Mohism - The Care That Spreads]] / [[Confucianism - The Shape of Duty]] / [[Epicureanism - The Garden of Enough]]: impartial benefit, role-graded duty, and modest private tranquility prioritize different goods.
+- The test question: do I optimize for public utility, relational fidelity, or personal calm?
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Mozi (text)

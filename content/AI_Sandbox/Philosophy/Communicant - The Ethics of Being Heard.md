@@ -10,7 +10,7 @@ keywords:
   - empathy
   - dialogue
   - voice
-draft: true
+draft: false
 description: Speaking is power; listening is a promise.
 created: 2022-01-09
 updated: 2025-12-11
@@ -56,6 +56,8 @@ I keep this close to [[Aristotle - The Mean I Miss]] because the tension feels r
 </ul>
 
 I see this when I start typing a response and feel heat in my chest.
+
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: Politeness can become silence when truth is needed.
 
@@ -107,6 +109,16 @@ The medium matters too. A text message can flatten a human voice. A quick post c
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Communicant - The Ethics of Being Heard]] vs [[Machiavelli - The Price of Control]]: dialogic reciprocity versus narrative control as tactic.
+- [[Communicant - The Ethics of Being Heard]] vs [[Legalism - Order Without Warmth]]: relational understanding versus command compliance.
+- [[Communicant - The Ethics of Being Heard]] vs [[Nyaya - The Rules of Knowing]]: empathic hearing norms versus formal validity norms.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Rhetoric

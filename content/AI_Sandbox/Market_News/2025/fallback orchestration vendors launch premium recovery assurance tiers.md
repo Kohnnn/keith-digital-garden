@@ -10,7 +10,7 @@ keywords:
   - recovery
   - assurance
   - tiers
-draft: true
+draft: false
 description: orchestration vendors are introducing premium tiers tied to recovery guarantees and drill evidence.
 created: 2025-08-29
 updated: 2025-08-29

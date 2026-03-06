@@ -10,7 +10,7 @@ keywords:
   - margins
   - competition
   - models
-draft: true
+draft: false
 description: intensified api price competition is pressuring margin assumptions across foundation model providers.
 created: 2024-12-16
 updated: 2024-12-16

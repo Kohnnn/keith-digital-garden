@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: YouTube-dl's repository has been restored as a signal about broader shifts.
 created: 2020-11-16
 updated: 2020-11-16

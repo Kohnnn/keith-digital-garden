@@ -12,7 +12,7 @@ keywords:
   - physics
   - first
   - principles
-draft: true
+draft: false
 description: "EPW: Electron-phonon physics from first principles"
 created: 2023-12-31
 updated: 2023-12-31

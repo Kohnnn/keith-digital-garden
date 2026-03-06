@@ -12,7 +12,7 @@ keywords:
   - ux
   - control
   - platform
-draft: true
+draft: false
 description: A small redirect change shows how defaults steer navigation at scale.
 created: 2022-11-24
 updated: 2025-02-12

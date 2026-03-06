@@ -12,7 +12,7 @@ keywords:
   - google
   - ethics
   - framing
-draft: true
+draft: false
 description: A suspended Google engineer claimed LaMDA was sentient, sparking a public narrative fight over how we talk about LLMs.
 created: 2022-06-13
 updated: 2022-06-13

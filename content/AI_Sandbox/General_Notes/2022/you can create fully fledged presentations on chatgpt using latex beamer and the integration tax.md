@@ -10,7 +10,7 @@ keywords:
   - create
   - fully
   - fledged
-draft: true
+draft: false
 description: You can create fully fledged presentations on ChatGPT using LateX Beamer
 created: 2022-12-31
 updated: 2022-12-31

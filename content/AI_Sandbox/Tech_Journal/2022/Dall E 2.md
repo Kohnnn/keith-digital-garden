@@ -12,7 +12,7 @@ keywords:
   - prompt
   - creativity
   - risk
-draft: true
+draft: false
 description: The release reset expectations for image generation.
 created: 2022-04-06
 updated: 2025-01-12

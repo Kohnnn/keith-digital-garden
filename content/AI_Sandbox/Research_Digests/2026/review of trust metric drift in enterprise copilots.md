@@ -11,7 +11,7 @@ keywords:
   - drift
   - copilots
   - adoption
-draft: true
+draft: false
 description: trust metrics in enterprise copilots drift over time as user expectations and policy behaviors evolve.
 created: 2026-02-10
 updated: 2026-02-10

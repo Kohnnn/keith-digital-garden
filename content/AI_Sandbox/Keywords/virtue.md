@@ -6,7 +6,7 @@ tags:
   - aristotle
   - confucianism
   - ethics
-draft: true
+draft: false
 description: Notes linked by virtue.
 created: 2026-02-07
 updated: 2026-02-07

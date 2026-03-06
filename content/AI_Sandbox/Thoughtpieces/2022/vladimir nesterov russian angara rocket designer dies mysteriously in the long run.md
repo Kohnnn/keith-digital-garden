@@ -11,7 +11,7 @@ keywords:
   - russian
   - angara
   - rocket
-draft: true
+draft: false
 description: Vladimir Nesterov, Russian Angara rocket designer, dies mysteriously
 created: 2022-12-30
 updated: 2022-12-30

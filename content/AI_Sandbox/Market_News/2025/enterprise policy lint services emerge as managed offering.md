@@ -10,7 +10,7 @@ keywords:
   - managed
   - services
   - enterprise
-draft: true
+draft: false
 description: managed policy lint services are emerging as enterprises seek continuous governance hygiene.
 created: 2025-09-02
 updated: 2025-09-02

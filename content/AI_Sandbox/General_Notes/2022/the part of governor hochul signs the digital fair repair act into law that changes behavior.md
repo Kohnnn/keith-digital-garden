@@ -12,7 +12,7 @@ keywords:
   - signs
   - digital
   - fair
-draft: true
+draft: false
 description: Governor Hochul Signs the Digital Fair Repair Act into Law
 created: 2022-12-31
 updated: 2022-12-31

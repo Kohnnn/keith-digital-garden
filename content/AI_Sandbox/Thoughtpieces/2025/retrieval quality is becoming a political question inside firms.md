@@ -11,7 +11,7 @@ keywords:
   - politics
   - ownership
   - governance
-draft: true
+draft: false
 description: internal power dynamics increasingly shape retrieval quality through ownership and curation priorities.
 created: 2025-02-27
 updated: 2025-02-27

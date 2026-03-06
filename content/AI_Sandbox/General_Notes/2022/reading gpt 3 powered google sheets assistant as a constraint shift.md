@@ -10,7 +10,7 @@ keywords:
   - google
   - sheets
   - assistant
-draft: true
+draft: false
 description: GPT-3 Powered Google Sheets Assistant
 created: 2022-12-31
 updated: 2022-12-31

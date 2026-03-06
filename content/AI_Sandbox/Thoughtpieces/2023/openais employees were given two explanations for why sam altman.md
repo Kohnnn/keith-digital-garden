@@ -11,7 +11,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: OpenAI's employees were given two explanations for why Sam Altman was fired as a signal about broader shifts.
 created: 2023-11-20
 updated: 2023-11-20

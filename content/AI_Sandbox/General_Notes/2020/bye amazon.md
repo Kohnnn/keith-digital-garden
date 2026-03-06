@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Bye, Amazon as a signal about broader shifts.
 created: 2020-05-04
 updated: 2020-05-04

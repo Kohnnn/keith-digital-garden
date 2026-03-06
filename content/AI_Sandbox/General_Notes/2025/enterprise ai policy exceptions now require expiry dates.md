@@ -11,7 +11,7 @@ keywords:
   - expiry
   - governance
   - controls
-draft: true
+draft: false
 description: policy exception processes are adding mandatory expiry dates to prevent long-lived governance drift.
 created: 2025-06-27
 updated: 2025-06-27

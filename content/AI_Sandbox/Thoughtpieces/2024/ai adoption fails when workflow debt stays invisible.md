@@ -11,7 +11,7 @@ keywords:
   - debt
   - operations
   - change
-draft: true
+draft: false
 description: ai initiatives underperform when organizations automate around broken workflows instead of redesigning them.
 created: 2024-12-25
 updated: 2024-12-25

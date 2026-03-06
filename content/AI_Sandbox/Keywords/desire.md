@@ -3,7 +3,7 @@ title: keyword - desire
 tags:
   - keyword-index
   - aesthetics
-draft: true
+draft: false
 description: Notes linked by desire.
 created: 2026-02-07
 updated: 2026-02-07

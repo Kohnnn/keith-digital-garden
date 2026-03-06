@@ -12,7 +12,7 @@ keywords:
   - precision
   - science
   - memory
-draft: true
+draft: false
 description: A $10B telescope left Earth with no repair trip waiting.
 created: 2021-12-25
 updated: 2025-08-03

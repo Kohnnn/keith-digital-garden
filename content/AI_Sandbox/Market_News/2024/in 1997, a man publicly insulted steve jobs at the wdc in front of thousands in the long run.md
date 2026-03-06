@@ -11,7 +11,7 @@ keywords:
   - publicly
   - insulted
   - steve
-draft: true
+draft: false
 description: In 1997, a man publicly insulted Steve Jobs at the WDC in front of thousands
 created: 2024-12-31
 updated: 2024-12-31

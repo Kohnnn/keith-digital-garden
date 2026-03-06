@@ -11,7 +11,7 @@ keywords:
   - policy
   - outcomes
   - analysis
-draft: true
+draft: false
 description: replay-aware canary systems are comparing policy outcomes to catch hidden regressions before wider rollout.
 created: 2026-01-22
 updated: 2026-01-22

@@ -12,7 +12,7 @@ keywords:
   - based
   - traffic
   - monitor
-draft: true
+draft: false
 description: IPTraf-ng – TUI based traffic monitor for Linux
 created: 2023-12-31
 updated: 2023-12-31

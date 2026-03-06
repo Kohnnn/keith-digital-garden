@@ -5,7 +5,7 @@ tags:
   - environmental
   - philosophy
   - extractivism
-draft: true
+draft: false
 description: Notes linked by extraction.
 created: 2026-02-07
 updated: 2026-02-07

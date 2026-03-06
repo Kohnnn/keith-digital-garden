@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: I regret my website redesign as a signal about broader shifts.
 created: 2022-07-21
 updated: 2022-07-21

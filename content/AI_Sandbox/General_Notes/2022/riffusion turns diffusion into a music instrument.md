@@ -12,7 +12,7 @@ keywords:
   - audio
   - generative
   - interface
-draft: true
+draft: false
 description: Diffusion models started to look like playable instruments.
 created: 2022-12-15
 updated: 2022-12-15

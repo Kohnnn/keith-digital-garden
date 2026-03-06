@@ -11,7 +11,7 @@ keywords:
   - out
   - 2004
   - span
-draft: true
+draft: false
 description: How to Drop Out (2004)
 created: 2023-12-31
 updated: 2023-12-31

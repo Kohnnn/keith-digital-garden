@@ -12,7 +12,7 @@ keywords:
   - pricing
   - trust
   - policy
-draft: true
+draft: false
 description: A complaint highlighted pricing traps in cancellation flows.
 created: 2022-02-05
 updated: 2025-04-07

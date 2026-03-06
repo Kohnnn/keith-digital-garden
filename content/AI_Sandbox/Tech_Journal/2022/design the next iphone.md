@@ -12,7 +12,7 @@ keywords:
   - ui
   - play
   - tools
-draft: true
+draft: false
 description: A playful tool surfaced how people prioritize phone features.
 created: 2022-08-23
 updated: 2025-03-19

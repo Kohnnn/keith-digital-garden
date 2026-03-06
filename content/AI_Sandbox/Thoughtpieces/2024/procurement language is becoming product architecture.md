@@ -11,7 +11,7 @@ keywords:
   - architecture
   - risk
   - governance
-draft: true
+draft: false
 description: contractual requirements are increasingly dictating technical architecture in enterprise ai systems.
 created: 2024-12-28
 updated: 2024-12-28

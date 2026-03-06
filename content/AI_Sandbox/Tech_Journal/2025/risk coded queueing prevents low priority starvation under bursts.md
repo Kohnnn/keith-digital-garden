@@ -11,7 +11,7 @@ keywords:
   - starvation
   - bursts
   - scheduling
-draft: true
+draft: false
 description: risk-coded queueing strategies are reducing starvation while preserving safety and latency goals.
 created: 2025-08-15
 updated: 2025-08-15

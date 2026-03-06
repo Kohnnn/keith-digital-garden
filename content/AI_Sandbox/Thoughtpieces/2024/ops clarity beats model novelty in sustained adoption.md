@@ -11,7 +11,7 @@ keywords:
   - novelty
   - adoption
   - execution
-draft: true
+draft: false
 description: long-term adoption favors clear operational ownership and controls more than repeated model novelty cycles.
 created: 2024-12-12
 updated: 2024-12-12

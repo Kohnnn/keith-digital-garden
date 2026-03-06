@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Google no longer producing high quality search results in significant categories as a signal about broader shifts.
 created: 2022-01-02
 updated: 2022-01-02

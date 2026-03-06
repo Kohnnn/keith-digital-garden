@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Apollo will close down on June 30th as a signal about broader shifts.
 created: 2023-06-08
 updated: 2023-06-08

@@ -11,7 +11,7 @@ keywords:
   - operators
   - risk
   - discipline
-draft: true
+draft: false
 description: in 2024 disciplined operators outperformed louder narratives as macro uncertainty persisted.
 created: 2024-10-22
 updated: 2024-10-22

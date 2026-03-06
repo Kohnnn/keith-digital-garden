@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Social Cooling (2017) as a signal about broader shifts.
 created: 2020-09-29
 updated: 2020-09-29

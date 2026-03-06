@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Give babies peanut butter to cut peanut allergies, study says as a signal about broader shifts.
 created: 2023-03-17
 updated: 2023-03-17

@@ -11,7 +11,7 @@ keywords:
   - 2023
   - review
   - span
-draft: true
+draft: false
 description: AI for Earth, 2023 in Review
 created: 2023-12-31
 updated: 2023-12-31

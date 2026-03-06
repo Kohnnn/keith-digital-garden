@@ -12,7 +12,7 @@ keywords:
   - diffusion
   - reproducing
   - training
-draft: true
+draft: false
 description: Examples of Stable Diffusion reproducing training data verbatim
 created: 2024-12-31
 updated: 2024-12-31

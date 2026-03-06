@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - vedanta
   - neoplatonism
-draft: true
+draft: false
 description: Notes linked by unity.
 created: 2026-02-07
 updated: 2026-02-07

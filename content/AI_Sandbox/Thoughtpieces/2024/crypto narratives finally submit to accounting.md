@@ -11,7 +11,7 @@ keywords:
   - narratives
   - reporting
   - discipline
-draft: true
+draft: false
 description: 2024 forced crypto projects to prioritize transparent accounting over storytelling momentum.
 created: 2024-10-26
 updated: 2024-10-26

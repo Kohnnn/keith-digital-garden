@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Flipper Zero – Portable Multi-Tool Device for Geeks as a signal about broader shifts.
 created: 2022-07-20
 updated: 2022-07-20

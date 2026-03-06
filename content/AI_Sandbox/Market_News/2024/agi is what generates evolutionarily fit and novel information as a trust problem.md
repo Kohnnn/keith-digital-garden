@@ -12,7 +12,7 @@ keywords:
   - generates
   - evolutionarily
   - fit
-draft: true
+draft: false
 description: AGI is what generates evolutionarily fit and novel information
 created: 2024-12-30
 updated: 2024-12-30

@@ -12,7 +12,7 @@ keywords:
   - logistics
   - supply
   - delays
-draft: true
+draft: false
 description: A port outbreak slowed shipments and tightened supply chains.
 created: 2021-06-17
 updated: 2025-01-22

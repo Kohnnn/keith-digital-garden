@@ -11,7 +11,7 @@ keywords:
   - auth
   - sessions
   - controls
-draft: true
+draft: false
 description: browser-based ai agents are revealing weak session handling and brittle authorization assumptions in web apps.
 created: 2024-11-28
 updated: 2024-11-28

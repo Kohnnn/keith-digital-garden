@@ -12,7 +12,7 @@ keywords:
   - ai
   - scene
   - div
-draft: true
+draft: false
 description: Meta’s new AI video tool analyzes scenes to auto-caption, summarize, and edit highlights.
 created: 2023-08-31
 updated: 2023-08-31

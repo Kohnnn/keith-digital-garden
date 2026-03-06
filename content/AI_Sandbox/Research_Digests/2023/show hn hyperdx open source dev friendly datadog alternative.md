@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Show HN: HyperDX – open-source dev-friendly Datadog alternative as a signal about broader shifts."
 created: 2023-09-18
 updated: 2023-09-18

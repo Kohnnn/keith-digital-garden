@@ -12,7 +12,7 @@ keywords:
   - alameda
   - contagion
   - governance
-draft: true
+draft: false
 description: FTX's Chapter 11 petition exposed an $8B shortfall and ended the industry's preferred counterparty.
 created: 2022-11-11
 updated: 2022-11-11

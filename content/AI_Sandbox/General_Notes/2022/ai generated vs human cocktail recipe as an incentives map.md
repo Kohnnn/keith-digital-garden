@@ -10,7 +10,7 @@ keywords:
   - human
   - cocktail
   - recipe
-draft: true
+draft: false
 description: AI-Generated vs. human cocktail recipe
 created: 2022-12-31
 updated: 2022-12-31

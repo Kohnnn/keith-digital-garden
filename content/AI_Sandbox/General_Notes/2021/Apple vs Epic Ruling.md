@@ -12,7 +12,7 @@ keywords:
   - antitrust
   - court
   - policy
-draft: true
+draft: false
 description: A court decision reshaped platform power debates.
 created: 2021-09-10
 updated: 2025-04-30

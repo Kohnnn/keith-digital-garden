@@ -10,7 +10,7 @@ keywords:
   - will
   - nihilism
   - courage
-draft: true
+draft: false
 description: A decision test that forces me to own my life.
 created: 2022-05-18
 updated: 2025-09-03
@@ -55,6 +55,10 @@ This sits in the same neighborhood as [[Bushido - The Steel of Restraint]], even
 </ul>
 
 I see this at the end of a day when the dishes are still in the sink and I am too tired to own it.
+
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
+*tempo note:* this one should feel like a cold shower, not a lecture.
 
 Counter-pressure: The test can turn into self-shaming if I forget it is a tool, not a verdict.
 
@@ -106,6 +110,21 @@ So what do I do with the weight? I keep it practical. I test my day with one or 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Nietzsche - The Heaviest Question]] vs [[Stoicism - The Weather Inside]]: self-overcoming through creation versus self-mastery through restraint.
+- [[Nietzsche - The Heaviest Question]] vs [[Christianity - The Wound That Heals]]: value revaluation and tragic affirmation versus grace, humility, and redemptive suffering.
+- [[Nietzsche - The Heaviest Question]] vs [[Confucianism - The Shape of Duty]]: authored individuality versus role-anchored relational duty.
+- [[Nietzsche - The Heaviest Question]] vs [[Machiavelli - The Price of Control]]: existential value-creation versus strategic state survival.
+
+
+## conflict triad
+- [[Nietzsche - The Heaviest Question]] / [[Christianity - The Wound That Heals]] / [[Machiavelli - The Price of Control]]: self-creation, redemptive love, and state necessity pull in different moral directions.
+- The test question: do I optimize for personal intensity, communal mercy, or institutional survival when they collide?
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 
 ## references
 > [!ref] The Gay Science (Book IV, aphorism 341)

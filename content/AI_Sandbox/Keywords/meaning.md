@@ -5,7 +5,7 @@ tags:
   - meaning
   - etymology
   - nietzsche
-draft: true
+draft: false
 description: Notes linked by meaning.
 created: 2026-02-07
 updated: 2026-02-07

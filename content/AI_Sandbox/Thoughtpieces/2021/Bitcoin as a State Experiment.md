@@ -12,7 +12,7 @@ keywords:
   - policy
   - inclusion
   - legitimacy
-draft: true
+draft: false
 description: A government-level adoption move changed the question from price to legitimacy.
 created: 2021-06-09
 updated: 2025-08-22

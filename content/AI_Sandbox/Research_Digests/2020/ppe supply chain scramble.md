@@ -12,7 +12,7 @@ keywords:
   - supply
   - domestic
   - linkage
-draft: true
+draft: false
 description: PPE shortages revealed how globalized medical supply chains collapse under pandemic demand.
 created: 2020-03-22
 updated: 2020-03-22

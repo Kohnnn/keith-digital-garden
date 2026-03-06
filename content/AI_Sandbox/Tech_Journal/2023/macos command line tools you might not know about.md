@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: macOS command-line tools you might not know about as a signal about broader shifts.
 created: 2023-06-27
 updated: 2023-06-27

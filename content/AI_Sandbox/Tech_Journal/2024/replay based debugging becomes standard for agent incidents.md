@@ -11,7 +11,7 @@ keywords:
   - incidents
   - traces
   - reliability
-draft: true
+draft: false
 description: replayable execution traces are becoming core tooling for reproducing and fixing agent failures.
 created: 2024-12-06
 updated: 2024-12-06

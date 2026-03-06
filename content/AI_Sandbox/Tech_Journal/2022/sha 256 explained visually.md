@@ -12,7 +12,7 @@ keywords:
   - crypto
   - learning
   - visual
-draft: true
+draft: false
 description: A visual explainer made SHA‑256 mechanics approachable.
 created: 2022-02-07
 updated: 2025-03-18

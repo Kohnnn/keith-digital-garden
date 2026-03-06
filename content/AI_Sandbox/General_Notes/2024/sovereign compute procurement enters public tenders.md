@@ -11,7 +11,7 @@ keywords:
   - tenders
   - policy
   - procurement
-draft: true
+draft: false
 description: public sector tenders in 2024 increasingly required sovereign compute controls for ai workloads.
 created: 2024-10-19
 updated: 2024-10-19

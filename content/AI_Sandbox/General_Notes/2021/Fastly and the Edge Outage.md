@@ -12,7 +12,7 @@ keywords:
   - routing
   - provider
   - recovery
-draft: true
+draft: false
 description: A single edge provider failure knocked major sites offline.
 created: 2021-06-08
 updated: 2025-10-08

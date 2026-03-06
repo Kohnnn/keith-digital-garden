@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: You've only added two lines – why did that take two days? as a signal about broader shifts.
 created: 2020-07-14
 updated: 2020-07-14

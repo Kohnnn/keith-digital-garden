@@ -10,7 +10,7 @@ keywords:
   - ecology
   - hunger
   - justice
-draft: true
+draft: false
 description: A way of living that takes more than it gives back.
 created: 2021-09-17
 updated: 2025-12-04
@@ -56,6 +56,8 @@ This is the angle where [[Fair Division - The Blueberry Pie Rule]] starts to mak
 </ul>
 
 I see this when I cram my schedule and call it ambition.
+
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: Anti-extraction can become performative purity.
 
@@ -103,6 +105,16 @@ And there is a human dimension that pulls me back to [[Human Condition - The Wei
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Extractivism - The Hunger That Eats the Ground]] vs [[Epicureanism - The Garden of Enough]]: accumulation imperative versus sufficiency ethics.
+- [[Extractivism - The Hunger That Eats the Ground]] vs [[Environmental Philosophy - Land Turned Into a Machine]]: commodification logic versus stewardship logic.
+- [[Extractivism - The Hunger That Eats the Ground]] vs [[Mohism - The Care That Spreads]]: selective gain versus impartial social cost accounting.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 
 ## references
 > [!ref] The Open Veins of Latin America

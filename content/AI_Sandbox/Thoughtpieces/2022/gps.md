@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: GPS as a signal about broader shifts.
 created: 2022-01-18
 updated: 2022-01-18

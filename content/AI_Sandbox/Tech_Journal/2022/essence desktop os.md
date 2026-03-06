@@ -12,7 +12,7 @@ keywords:
   - systems
   - design
   - build
-draft: true
+draft: false
 description: Essence showed a desktop OS built from scratch.
 created: 2022-01-15
 updated: 2025-03-12

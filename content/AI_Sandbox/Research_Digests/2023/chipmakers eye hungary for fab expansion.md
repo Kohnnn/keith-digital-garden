@@ -11,7 +11,7 @@ keywords:
   - eu
   - div
   - fabs
-draft: true
+draft: false
 description: Several fabs moved into Hungary as the EU backs semiconductor industrial clusters.
 created: 2023-10-08
 updated: 2023-10-08

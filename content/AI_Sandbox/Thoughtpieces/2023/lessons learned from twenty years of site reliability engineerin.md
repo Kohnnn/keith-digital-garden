@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Lessons Learned from Twenty Years of Site Reliability Engineering as a signal about broader shifts.
 created: 2023-10-27
 updated: 2023-10-27

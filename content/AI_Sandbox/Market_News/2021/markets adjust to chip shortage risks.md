@@ -12,7 +12,7 @@ keywords:
   - shortage
   - div
   - linkage
-draft: true
+draft: false
 created: 2021-07-10
 updated: 2021-07-10
 note_id: 210710MR13

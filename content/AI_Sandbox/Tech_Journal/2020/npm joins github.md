@@ -12,7 +12,7 @@ keywords:
   - ecosystem
   - governance
   - tooling
-draft: true
+draft: false
 description: The acquisition shifted stewardship of a core package registry.
 created: 2020-03-16
 updated: 2025-02-04

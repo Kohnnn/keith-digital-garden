@@ -12,7 +12,7 @@ keywords:
   - resilience
   - narrative
   - timing
-draft: true
+draft: false
 description: A personal essay reframed life shifts as structural, not accidental.
 created: 2022-03-23
 updated: 2025-02-08

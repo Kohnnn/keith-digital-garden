@@ -12,7 +12,7 @@ keywords:
   - vs
   - domain
   - knowledge
-draft: true
+draft: false
 description: Model scale vs. domain knowledge in statistical forecasting of chaotic systems
 created: 2023-12-31
 updated: 2023-12-31

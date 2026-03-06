@@ -12,7 +12,7 @@ keywords:
   - platform
   - linux
   - ecosystem
-draft: true
+draft: false
 description: Valve used its distribution power to legitimize a handheld PC platform.
 created: 2021-07-15
 updated: 2021-07-15

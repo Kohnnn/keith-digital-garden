@@ -12,7 +12,7 @@ keywords:
   - president
   - asks
   - nasa
-draft: true
+draft: false
 description: Navajo Nation president asks NASA to delay Moon launch over possible desecration
 created: 2023-12-31
 updated: 2023-12-31

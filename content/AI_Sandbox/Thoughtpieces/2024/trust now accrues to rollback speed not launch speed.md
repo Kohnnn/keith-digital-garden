@@ -11,7 +11,7 @@ keywords:
   - release
   - reliability
   - governance
-draft: true
+draft: false
 description: in ai products, user trust is increasingly determined by recovery quality after failure rather than launch velocity alone.
 created: 2024-12-05
 updated: 2024-12-05

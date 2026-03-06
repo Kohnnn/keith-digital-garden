@@ -12,7 +12,7 @@ keywords:
   - index
   - inflation
   - div
-draft: true
+draft: false
 description: FAO data showed food prices easing into late 2022 but still up sharply year on year.
 created: 2022-12-02
 updated: 2022-12-02

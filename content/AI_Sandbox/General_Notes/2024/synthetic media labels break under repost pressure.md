@@ -11,7 +11,7 @@ keywords:
   - provenance
   - reposts
   - moderation
-draft: true
+draft: false
 description: synthetic media labeling systems still fail once content is transformed and reposted across platforms.
 created: 2024-09-18
 updated: 2024-09-18

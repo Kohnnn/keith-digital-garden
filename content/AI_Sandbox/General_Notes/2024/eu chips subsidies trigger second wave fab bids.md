@@ -11,7 +11,7 @@ keywords:
   - subsidies
   - fabs
   - bids
-draft: true
+draft: false
 description: updated eu subsidies in 2024 prompted a second wave of semiconductor fab proposals.
 created: 2024-04-11
 updated: 2024-04-11

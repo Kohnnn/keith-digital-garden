@@ -11,7 +11,7 @@ keywords:
   - rag
   - retrieval
   - quality
-draft: true
+draft: false
 description: multilingual support flows are revealing retrieval blind spots that monolingual test suites rarely detect.
 created: 2024-12-19
 updated: 2024-12-19

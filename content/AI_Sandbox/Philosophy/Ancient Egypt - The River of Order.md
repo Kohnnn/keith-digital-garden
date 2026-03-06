@@ -11,7 +11,7 @@ keywords:
   - ritual
   - afterlife
   - balance
-draft: true
+draft: false
 description: Ancient Egypt binds life to order, ritual, and the long memory of the river.
 created: 2021-03-05
 updated: 2026-02-07
@@ -86,6 +86,8 @@ Writing also carries a sacred weight. To inscribe is to stabilize. The act of na
 
 Temples are also a kind of civic engine. They hold food, memory, and ritual knowledge. That makes religion inseparable from economics and governance. It is a strength and a risk. The strength is shared infrastructure; the risk is control. This is where I feel the pull of [[Legalism - Order Without Warmth]] again. If the temple becomes a monopoly, the sacred becomes a gate. The discipline is to keep the gate open. The gate should lead to care, not to fear. Power must bend toward balance or it becomes a flood. Always.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: Order can become authoritarian when it is used to protect power.
 
 Micro-ritual: Repeat one small act each day that stabilizes your life.
@@ -122,6 +124,16 @@ I keep this next to [[Confucianism - The Shape of Duty]] and it leans toward [[S
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Ancient Egypt - The River of Order]] vs [[Nietzsche - The Heaviest Question]]: cosmic-order maintenance versus personal value revaluation.
+- [[Ancient Egypt - The River of Order]] vs [[Daoism - The Strength of Softness]]: formalized hierarchy versus adaptive non-forcing flow.
+- [[Ancient Egypt - The River of Order]] vs [[Machiavelli - The Price of Control]]: sacred legitimacy versus strategic legitimacy.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] The Pyramid Texts (text)

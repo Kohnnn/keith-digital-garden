@@ -11,7 +11,7 @@ keywords:
   - simulation
   - coverage
   - controls
-draft: true
+draft: false
 description: enterprise procurement scorecards are increasingly weighting simulation coverage quality before approving agent platforms.
 created: 2026-01-05
 updated: 2026-01-05

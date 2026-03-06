@@ -12,7 +12,7 @@ keywords:
   - it
   - aware
   - radeon
-draft: true
+draft: false
 description: AMD says it is aware of Radeon RX 7900 XTX temperature issues
 created: 2022-12-30
 updated: 2022-12-30

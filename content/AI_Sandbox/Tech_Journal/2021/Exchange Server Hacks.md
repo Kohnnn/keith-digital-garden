@@ -12,7 +12,7 @@ keywords:
   - patch
   - espionage
   - exposure
-draft: true
+draft: false
 description: A mass exploit wave turned email servers into a global emergency.
 created: 2021-03-02
 updated: 2025-06-30

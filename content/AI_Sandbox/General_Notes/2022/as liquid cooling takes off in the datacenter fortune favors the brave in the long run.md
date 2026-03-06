@@ -11,7 +11,7 @@ keywords:
   - takes
   - off
   - datacenter
-draft: true
+draft: false
 description: As liquid cooling takes off in the datacenter, fortune favors the brave
 created: 2022-12-31
 updated: 2022-12-31

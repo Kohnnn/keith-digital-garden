@@ -12,7 +12,7 @@ keywords:
   - security
   - tooling
   - js
-draft: true
+draft: false
 description: Deno 1.0 reframed the JS runtime conversation.
 created: 2020-05-13
 updated: 2025-03-02

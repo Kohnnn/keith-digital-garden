@@ -11,7 +11,7 @@ keywords:
   - locks
   - benchmarks
   - rigor
-draft: true
+draft: false
 description: version-locking evaluation datasets is reducing accidental benchmark inflation across release cycles.
 created: 2025-07-05
 updated: 2025-07-05

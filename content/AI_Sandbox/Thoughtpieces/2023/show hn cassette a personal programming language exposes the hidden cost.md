@@ -12,7 +12,7 @@ keywords:
   - cassette
   - personal
   - programming
-draft: true
+draft: false
 description: "Show HN: Cassette, a Personal Programming Language"
 created: 2023-12-31
 updated: 2023-12-31

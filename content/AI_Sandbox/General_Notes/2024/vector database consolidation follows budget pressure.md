@@ -11,7 +11,7 @@ keywords:
   - budgets
   - consolidation
   - ops
-draft: true
+draft: false
 description: 2024 budget pressure pushed teams to consolidate overlapping vector stores into simpler stacks.
 created: 2024-11-06
 updated: 2024-11-06

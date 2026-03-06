@@ -12,7 +12,7 @@ keywords:
   - champagne
   - known
   - little
-draft: true
+draft: false
 description: The little-known history of Champagne
 created: 2023-12-31
 updated: 2023-12-31

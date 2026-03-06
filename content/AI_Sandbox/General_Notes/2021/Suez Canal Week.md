@@ -12,7 +12,7 @@ keywords:
   - delay
   - infrastructure
   - resilience
-draft: true
+draft: false
 description: A single ship turned global logistics into a daily headline.
 created: 2021-03-25
 updated: 2025-07-18

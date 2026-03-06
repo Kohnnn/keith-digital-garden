@@ -11,7 +11,7 @@ keywords:
   - v29
   - sprite
   - map
-draft: true
+draft: false
 description: Raster Master v2.9 – Sprite and Map Editor
 created: 2023-12-31
 updated: 2023-12-31

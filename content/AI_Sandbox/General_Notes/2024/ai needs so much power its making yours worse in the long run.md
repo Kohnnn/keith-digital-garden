@@ -11,7 +11,7 @@ keywords:
   - so
   - much
   - power
-draft: true
+draft: false
 description: AI Needs So Much Power, It's Making Yours Worse
 created: 2024-12-30
 updated: 2024-12-30

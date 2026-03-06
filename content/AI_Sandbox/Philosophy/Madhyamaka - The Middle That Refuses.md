@@ -10,7 +10,7 @@ keywords:
   - wisdom
   - compassion
   - impermanence
-draft: true
+draft: false
 description: Madhyamaka clears away extremes to reveal the openness of reality.
 created: 2022-02-14
 updated: 2026-01-24
@@ -61,6 +61,8 @@ Madhyamaka also gives me a new way to understand conflict. Most conflicts are bo
 
 This also shifts how I handle anxiety. When I feel trapped between two terrible choices, Madhyamaka reminds me that the trap is often a false frame. The middle is not a compromise; it is a refusal to accept the options as complete. That is a powerful move in a culture that treats debate as a binary. It gives me room to breathe and to invent. I can hold my view lightly and still act with care.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Emptiness can become an excuse for moral indifference if I forget compassion.
 
 Micro-ritual: When I feel certain today, name one condition that makes that certainty possible.
@@ -96,6 +98,17 @@ I keep this next to [[Epistemology - Thinking From the Floor]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Madhyamaka - The Middle That Refuses]] vs [[Aristotle - The Mean I Miss]]: emptiness of fixed essence versus substance-form ontology.
+- [[Madhyamaka - The Middle That Refuses]] vs [[Plato - The Cave I Keep Building]]: anti-foundational middle practice versus stable metaphysical ascent.
+- [[Madhyamaka - The Middle That Refuses]] vs [[Aquinas - The Reason That Prays]]: dependent origination dialectics versus analogical hierarchy of being.
+- [[Madhyamaka - The Middle That Refuses]] vs [[Machiavelli - The Price of Control]]: de-reifying identities versus strategic reification of roles.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] Fundamental Wisdom of the Middle Way (translation)

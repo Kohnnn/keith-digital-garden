@@ -12,7 +12,7 @@ keywords:
   - native
   - performance
   - tradeoffs
-draft: true
+draft: false
 description: A critique questioned cross-platform tradeoffs in mobile apps.
 created: 2022-12-31
 updated: 2025-02-25

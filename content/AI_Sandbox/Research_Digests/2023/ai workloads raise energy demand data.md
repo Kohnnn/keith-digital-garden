@@ -12,7 +12,7 @@ keywords:
   - data
   - demand
   - center
-draft: true
+draft: false
 description: Diarize energy use rising 12% YoY for AI training centers per Uptime Institute survey.
 created: 2023-11-22
 updated: 2023-11-22

@@ -12,7 +12,7 @@ keywords:
   - data
   - open
   - agencies
-draft: true
+draft: false
 description: The latest executive order mandates open, high-quality federal datasets for AI developers.
 created: 2023-12-06
 updated: 2023-12-06

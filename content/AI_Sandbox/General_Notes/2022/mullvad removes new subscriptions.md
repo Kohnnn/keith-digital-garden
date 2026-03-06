@@ -12,7 +12,7 @@ keywords:
   - payments
   - policy
   - risk
-draft: true
+draft: false
 description: The change reframed subscription growth as a risk surface.
 created: 2022-06-20
 updated: 2025-02-21

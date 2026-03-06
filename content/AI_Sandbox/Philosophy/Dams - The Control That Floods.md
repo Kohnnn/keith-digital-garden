@@ -10,7 +10,7 @@ keywords:
   - nature
   - risk
   - scarcity
-draft: true
+draft: false
 description: Every attempt to control a river controls me too.
 created: 2023-05-11
 updated: 2025-12-08
@@ -56,6 +56,8 @@ This keeps echoing [[Drought - The Discipline of Scarcity]] when I try to live i
 </ul>
 
 I see this when I build a perfect plan and ignore who it displaces.
+
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: Control can become a moral alibi.
 
@@ -109,6 +111,16 @@ I also think about the energy trade. Dams promise power, but they also reorganiz
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Dams - The Control That Floods]] vs [[Daoism - The Strength of Softness]]: hydraulic command over flow versus alignment with flow.
+- [[Dams - The Control That Floods]] vs [[Environmental Philosophy - Land Turned Into a Machine]]: infrastructure promise versus ecological externality.
+- [[Dams - The Control That Floods]] vs [[Fair Division - The Blueberry Pie Rule]]: centralized control versus distributive justice of risk and benefit.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 
 ## references
 > [!ref] A Sand County Almanac

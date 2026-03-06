@@ -12,7 +12,7 @@ keywords:
   - data
   - div
   - linkage
-draft: true
+draft: false
 description: Crunchbase data reveals 25% of AI startups cut headcount in 2023 as funding cools.
 created: 2023-11-10
 updated: 2023-11-10

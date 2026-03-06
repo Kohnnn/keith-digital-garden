@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - confucianism
   - mohism
-draft: true
+draft: false
 description: Notes linked by care.
 created: 2026-02-07
 updated: 2026-02-07

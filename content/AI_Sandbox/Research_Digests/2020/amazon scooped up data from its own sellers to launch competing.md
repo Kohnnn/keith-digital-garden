@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Amazon scooped up data from its own sellers to launch competing products as a signal about broader shifts.
 created: 2020-04-23
 updated: 2020-04-23

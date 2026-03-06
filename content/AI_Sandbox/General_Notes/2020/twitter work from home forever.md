@@ -12,7 +12,7 @@ keywords:
   - labor
   - culture
   - shift
-draft: true
+draft: false
 description: The decision signaled a permanent shift in tech work norms.
 created: 2020-05-12
 updated: 2025-02-27

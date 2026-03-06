@@ -12,7 +12,7 @@ keywords:
   - ai
   - cloud
   - regions
-draft: true
+draft: false
 description: Google announced sovereign AI regions to satisfy data residency and compliance demands.
 created: 2023-10-17
 updated: 2023-10-17

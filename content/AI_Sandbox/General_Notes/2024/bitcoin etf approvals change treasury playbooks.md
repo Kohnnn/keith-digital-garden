@@ -11,7 +11,7 @@ keywords:
   - treasury
   - flows
   - custody
-draft: true
+draft: false
 description: spot bitcoin etf approvals shifted institutional crypto exposure from custody ops to portfolio policy.
 created: 2024-01-11
 updated: 2024-01-11

@@ -11,7 +11,7 @@ keywords:
   - indexing
   - retrieval
   - ops
-draft: true
+draft: false
 description: vector indexing in postgres became a mainstream production choice for retrieval heavy applications.
 created: 2024-10-07
 updated: 2024-10-07

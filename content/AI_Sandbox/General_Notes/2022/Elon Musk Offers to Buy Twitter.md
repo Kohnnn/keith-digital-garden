@@ -12,7 +12,7 @@ keywords:
   - leverage
   - governance
   - market
-draft: true
+draft: false
 description: The bid reframed platform control as a capital event.
 created: 2022-04-14
 updated: 2025-04-06

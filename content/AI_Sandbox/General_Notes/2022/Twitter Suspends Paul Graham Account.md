@@ -12,7 +12,7 @@ keywords:
   - platform
   - speech
   - trust
-draft: true
+draft: false
 description: The suspension highlighted volatile platform policy shifts.
 created: 2022-12-18
 updated: 2025-06-18

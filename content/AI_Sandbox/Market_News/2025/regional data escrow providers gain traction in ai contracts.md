@@ -10,7 +10,7 @@ keywords:
   - regional
   - contracts
   - governance
-draft: true
+draft: false
 description: regional data escrow services are seeing higher demand as buyers seek continuity and revocation safeguards.
 created: 2025-04-24
 updated: 2025-04-24

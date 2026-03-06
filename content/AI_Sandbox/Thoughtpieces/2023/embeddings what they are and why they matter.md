@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: "Embeddings: What they are and why they matter as a signal about broader shifts."
 created: 2023-10-23
 updated: 2023-10-23

@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Firefox desktop extensions coming soon for the upcoming Android release as a signal about broader shifts.
 created: 2023-08-11
 updated: 2023-08-11

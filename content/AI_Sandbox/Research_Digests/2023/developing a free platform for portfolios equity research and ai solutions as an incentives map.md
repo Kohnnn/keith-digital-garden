@@ -12,7 +12,7 @@ keywords:
   - platform
   - portfolios
   - equity
-draft: true
+draft: false
 description: Developing a free platform for portfolios, equity research and AI solutions
 created: 2023-12-30
 updated: 2023-12-30

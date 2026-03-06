@@ -11,7 +11,7 @@ keywords:
   - complaint
   - against
   - fintech
-draft: true
+draft: false
 description: US files complaint against fintech app Dave and its CEO
 created: 2024-12-31
 updated: 2024-12-31

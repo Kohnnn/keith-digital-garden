@@ -10,7 +10,7 @@ keywords:
   - all
   - how
   - we
-draft: true
+draft: false
 description: "Explaining It All: How We Became the Center of the Universe"
 created: 2023-12-30
 updated: 2023-12-30

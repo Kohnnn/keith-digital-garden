@@ -12,7 +12,7 @@ keywords:
   - trust
   - platforms
   - risk
-draft: true
+draft: false
 description: A personal case showed how hard identity defense is online.
 created: 2022-09-19
 updated: 2025-03-20

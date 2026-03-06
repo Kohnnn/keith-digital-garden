@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: Zoom meetings aren’t end-to-end encrypted, despite marketing as a signal about broader shifts.
 created: 2020-03-31
 updated: 2020-03-31

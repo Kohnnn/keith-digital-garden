@@ -10,7 +10,7 @@ keywords:
   - compassion
   - practice
   - self
-draft: true
+draft: false
 description: The end of suffering is not escape; it is attention.
 created: 2021-05-14
 updated: 2025-12-20
@@ -61,6 +61,10 @@ I also notice how Buddhism links ethics and awareness. The more I see my own cli
 
 I see this when I pause before reacting and the reaction dissolves. 
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
+*friction point:* release is not collapse; it is precision with less ego.
+
 Counter-pressure: Buddhism can become avoidance if I use "detachment" to dodge responsibility.
 
 Micro-ritual: When a craving hits, count three breaths before acting.
@@ -94,6 +98,21 @@ I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans towa
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Buddhism - The Practice of Letting Go]] vs [[Nietzsche - The Heaviest Question]]: de-centering craving/self versus intensifying self-creation.
+- [[Buddhism - The Practice of Letting Go]] vs [[Stoicism - The Weather Inside]]: no-self and impermanence training versus rational self-command.
+- [[Buddhism - The Practice of Letting Go]] vs [[Bushido - The Steel of Restraint]]: compassion and release versus honor-bound loyalty.
+- [[Buddhism - The Practice of Letting Go]] vs [[Machiavelli - The Price of Control]]: suffering-reduction aim versus regime-survival aim.
+
+
+## conflict triad
+- [[Buddhism - The Practice of Letting Go]] / [[Nietzsche - The Heaviest Question]] / [[Stoicism - The Weather Inside]]: no-self release, self-creation, and rational self-command each answer suffering differently.
+- The test question: which path reduces suffering without flattening agency?
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] The Dhammapada

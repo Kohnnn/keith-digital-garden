@@ -11,7 +11,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Amazon met with startups about investing, then launched competing products as a signal about broader shifts.
 created: 2020-07-23
 updated: 2020-07-23

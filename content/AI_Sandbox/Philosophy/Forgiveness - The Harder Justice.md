@@ -11,7 +11,7 @@ keywords:
   - mercy
   - repair
   - power
-draft: true
+draft: false
 description: Forgiveness is not soft; it is a harder justice that refuses to let harm rule the future.
 created: 2024-02-09
 updated: 2026-02-07
@@ -88,6 +88,8 @@ I also have to separate forgiveness from reconciliation. Reconciliation requires
 
 There is also a collective version of forgiveness. Whole communities carry wounds. The repair is not just personal; it is structural. Forgiveness in this sense is not about saying everything is fine. It is about naming harm in public, making amends in public, and changing the conditions that caused the harm. That is closer to restorative justice than to personal release. It is also the only kind of forgiveness that can touch historical injustice. Without repair, calls for forgiveness become another way to keep the old order intact. That is the trap I refuse. Forgiveness without repair is just a prettier form of denial.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Forgiveness can be weaponized to protect power and silence truth.
 
 Micro-ritual: Name one wound, write the truth of it, and release one line of it into the future.
@@ -124,6 +126,16 @@ I keep this next to [[Christianity - The Wound That Heals]] and it leans toward 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Forgiveness - The Harder Justice]] vs [[Machiavelli - The Price of Control]]: repair-forward moral horizon versus stability-forward strategic horizon.
+- [[Forgiveness - The Harder Justice]] vs [[Nietzsche - The Heaviest Question]]: redemptive release versus suspicion of ressentiment morality.
+- [[Forgiveness - The Harder Justice]] vs [[Legalism - Order Without Warmth]]: restorative accountability versus deterrence accountability.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] New Testament (text)

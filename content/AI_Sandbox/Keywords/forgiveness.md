@@ -3,7 +3,7 @@ title: keyword - forgiveness
 tags:
   - keyword-index
   - justice
-draft: true
+draft: false
 description: Notes linked by forgiveness.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - transition
   - prices
   - risk
-draft: true
+draft: false
 description: The transition is real, but stability still depends on legacy fuel.
 created: 2021-10-10
 updated: 2024-12-05

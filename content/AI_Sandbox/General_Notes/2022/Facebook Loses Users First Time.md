@@ -12,7 +12,7 @@ keywords:
   - meta
   - saturation
   - earnings
-draft: true
+draft: false
 description: The first user decline signaled a maturity phase.
 created: 2022-02-03
 updated: 2025-01-21

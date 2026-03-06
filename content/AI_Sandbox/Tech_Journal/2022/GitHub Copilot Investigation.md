@@ -12,7 +12,7 @@ keywords:
   - risk
   - coding
   - policy
-draft: true
+draft: false
 description: Legal scrutiny sharpened the questions around training data.
 created: 2022-10-17
 updated: 2025-04-19

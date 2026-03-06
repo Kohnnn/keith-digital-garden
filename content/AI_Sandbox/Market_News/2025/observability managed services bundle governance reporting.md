@@ -10,7 +10,7 @@ keywords:
   - governance
   - reporting
   - services
-draft: true
+draft: false
 description: managed observability providers are bundling governance reporting to meet enterprise assurance requirements.
 created: 2025-04-22
 updated: 2025-04-22

@@ -12,7 +12,7 @@ keywords:
   - premiums
   - 2023
   - div
-draft: true
+draft: false
 description: Underwriter losses from ransomware keep cyber premiums elevated despite lower attack volumes.
 created: 2023-10-31
 updated: 2023-10-31

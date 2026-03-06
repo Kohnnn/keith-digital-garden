@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - aesthetics
   - mind
-draft: true
+draft: false
 description: Notes linked by perception.
 created: 2026-02-07
 updated: 2026-02-07

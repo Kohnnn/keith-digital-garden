@@ -11,7 +11,7 @@ keywords:
   - partitioning
   - policy
   - leakage
-draft: true
+draft: false
 description: policy-class cache partitioning is reducing accidental cross-scope retrieval reuse in enterprise stacks.
 created: 2025-05-28
 updated: 2025-05-28

@@ -12,7 +12,7 @@ keywords:
   - brand
   - product
   - messaging
-draft: true
+draft: false
 description: A founder documented how a shiny redesign hurt clarity and conversion.
 created: 2022-07-21
 updated: 2022-07-21

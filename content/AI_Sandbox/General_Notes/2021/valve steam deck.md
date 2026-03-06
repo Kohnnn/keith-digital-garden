@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Valve Steam Deck as a signal about broader shifts.
 created: 2021-07-15
 updated: 2021-07-15

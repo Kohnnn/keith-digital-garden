@@ -11,7 +11,7 @@ keywords:
   - walkthroughs
   - governance
   - readiness
-draft: true
+draft: false
 description: procurement playbooks increasingly require incident walkthroughs to validate vendor response quality before purchase.
 created: 2025-05-16
 updated: 2025-05-16

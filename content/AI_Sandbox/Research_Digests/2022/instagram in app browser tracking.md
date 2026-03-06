@@ -12,7 +12,7 @@ keywords:
   - privacy
   - meta
   - data
-draft: true
+draft: false
 description: A technical teardown showed how in-app browsers can track users.
 created: 2022-08-10
 updated: 2025-04-02

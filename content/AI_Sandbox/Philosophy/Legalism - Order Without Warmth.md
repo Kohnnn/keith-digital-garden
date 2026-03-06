@@ -11,7 +11,7 @@ keywords:
   - law
   - control
   - power
-draft: true
+draft: false
 description: Order can be clean and still be cruel.
 created: 2022-08-12
 updated: 2025-12-20
@@ -62,6 +62,10 @@ This is why [[Confucianism - The Shape of Duty]] matters too. Confucianism wants
 
 I see this when I create a personal rule to keep myself on track. It helps, but it does not make me kinder. That is the limit.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
+*friction point:* order can save a state and still damage a society.
+
 Counter-pressure: Softness without structure can collapse into chaos.
 
 Micro-ritual: Write one rule you follow and ask what value it protects.
@@ -95,6 +99,21 @@ I keep this next to [[Confucianism - The Shape of Duty]] and it leans toward [[F
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Legalism - Order Without Warmth]] vs [[Confucianism - The Shape of Duty]]: deterrence machinery versus virtue-led social pedagogy.
+- [[Legalism - Order Without Warmth]] vs [[Islam - The Discipline of Mercy]]: impersonal enforcement versus law tempered by mercy and intention.
+- [[Legalism - Order Without Warmth]] vs [[Daoism - The Strength of Softness]]: pressure and punishment versus adaptive softness.
+- [[Legalism - Order Without Warmth]] vs [[Machiavelli - The Price of Control]]: bureaucratic compliance logic versus context-sensitive strategic maneuver.
+
+
+## conflict triad
+- [[Legalism - Order Without Warmth]] / [[Confucianism - The Shape of Duty]] / [[Islam - The Discipline of Mercy]]: punishment systems, virtue pedagogy, and mercy-shaped law each claim to secure order.
+- The test question: what keeps compliance from turning into quiet cruelty?
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Han Feizi

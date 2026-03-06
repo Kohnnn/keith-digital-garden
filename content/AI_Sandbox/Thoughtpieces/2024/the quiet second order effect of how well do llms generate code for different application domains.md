@@ -10,7 +10,7 @@ keywords:
   - do
   - llms
   - generate
-draft: true
+draft: false
 description: How Well Do LLMs Generate Code for Different Application Domains?
 created: 2024-12-30
 updated: 2024-12-30

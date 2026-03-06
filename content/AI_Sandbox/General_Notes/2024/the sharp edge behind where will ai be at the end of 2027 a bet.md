@@ -11,7 +11,7 @@ keywords:
   - ai
   - end
   - 2027
-draft: true
+draft: false
 description: Where will AI be at the end of 2027? A bet
 created: 2024-12-31
 updated: 2024-12-31

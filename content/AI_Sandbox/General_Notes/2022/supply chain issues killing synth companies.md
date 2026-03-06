@@ -12,7 +12,7 @@ keywords:
   - delays
   - pricing
   - synths
-draft: true
+draft: false
 description: A report showed small makers squeezed by component shortages.
 created: 2022-07-13
 updated: 2025-02-28

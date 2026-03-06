@@ -10,7 +10,7 @@ keywords:
   - shows
   - how
   - disney
-draft: true
+draft: false
 description: Mufasa's 'Bye Bye' shows how Disney villain songs went wrong
 created: 2024-12-31
 updated: 2024-12-31

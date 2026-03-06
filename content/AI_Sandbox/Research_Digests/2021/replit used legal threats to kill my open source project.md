@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Replit used legal threats to kill my open-source project as a signal about broader shifts.
 created: 2021-06-07
 updated: 2021-06-07

@@ -12,7 +12,7 @@ keywords:
   - will
   - now
   - qualify
-draft: true
+draft: false
 description: Consumer Leases Will Now Qualify for EV Tax Credits
 created: 2022-12-31
 updated: 2022-12-31

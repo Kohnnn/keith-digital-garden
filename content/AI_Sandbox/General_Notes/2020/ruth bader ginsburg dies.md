@@ -12,7 +12,7 @@ keywords:
   - law
   - leadership
   - transition
-draft: true
+draft: false
 description: The loss reshaped the legal and political landscape.
 created: 2020-09-18
 updated: 2025-01-31

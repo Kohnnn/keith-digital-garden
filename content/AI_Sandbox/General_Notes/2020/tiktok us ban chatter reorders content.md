@@ -12,7 +12,7 @@ keywords:
   - data
   - china
   - linkage
-draft: true
+draft: false
 description: U.S. threats to ban TikTok turned platforms into geopolitical pawns.
 created: 2020-08-01
 updated: 2020-08-01

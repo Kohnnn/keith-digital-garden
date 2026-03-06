@@ -12,7 +12,7 @@ keywords:
   - prices
   - rates
   - pressure
-draft: true
+draft: false
 description: The June CPI print framed inflation as the dominant macro risk.
 created: 2022-07-13
 updated: 2025-03-05

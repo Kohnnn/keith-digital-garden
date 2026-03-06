@@ -4,7 +4,7 @@ tags:
   - philosophy
   - workflow
   - writing
-draft: true
+draft: false
 description: My step-by-step process for philo-dump notes.
 created: 2025-02-01
 updated: 2026-02-01

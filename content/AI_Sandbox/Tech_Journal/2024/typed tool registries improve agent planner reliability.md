@@ -11,7 +11,7 @@ keywords:
   - planner
   - tools
   - reliability
-draft: true
+draft: false
 description: typed tool registries are reducing planning errors and invalid calls in complex agent workflows.
 created: 2024-12-05
 updated: 2024-12-05

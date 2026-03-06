@@ -11,7 +11,7 @@ keywords:
   - suffering
   - mortality
   - self
-draft: true
+draft: false
 description: The pressure of being alive without a script.
 created: 2023-04-12
 updated: 2025-11-22
@@ -57,6 +57,8 @@ This sits in the same neighborhood as [[Etymology - The Trail Inside Words]], ev
 </ul>
 
 I see this when I wash dishes and feel the day disappear.
+
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
 
 Counter-pressure: Meaning can become performance if I chase it for approval.
 
@@ -107,6 +109,17 @@ The final thing I keep learning is that honesty is a muscle, not a mood. I need 
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Human Condition - The Weight of Being Here]] vs [[Stoicism - The Weather Inside]]: exposed existential burden versus disciplined emotional stance.
+- [[Human Condition - The Weight of Being Here]] vs [[Advaita Vedanta - The One Without Edges]]: finite burdened identity versus nondual de-centering.
+- [[Human Condition - The Weight of Being Here]] vs [[Epicureanism - The Garden of Enough]]: tragic finitude versus curated modest pleasures.
+- [[Human Condition - The Weight of Being Here]] vs [[Machiavelli - The Price of Control]]: vulnerability-centered anthropology versus power-centered anthropology.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- which claim here survives contact with [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] The Human Condition

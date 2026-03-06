@@ -12,7 +12,7 @@ keywords:
   - contagion
   - retail
   - freeze
-draft: true
+draft: false
 description: Celsius halting withdrawals showed how CeFi risk looked exactly like shadow banking.
 created: 2022-06-12
 updated: 2022-06-12

@@ -12,7 +12,7 @@ keywords:
   - speed
   - tooling
   - js
-draft: true
+draft: false
 description: Bun positioned a fast JS toolchain as a single stack.
 created: 2022-07-05
 updated: 2025-05-02

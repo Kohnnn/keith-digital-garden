@@ -11,7 +11,7 @@ keywords:
   - rootcause
   - incidents
   - stores
-draft: true
+draft: false
 description: linking evaluation artifacts directly to traces is speeding root-cause analysis in agent incidents.
 created: 2025-05-10
 updated: 2025-05-10

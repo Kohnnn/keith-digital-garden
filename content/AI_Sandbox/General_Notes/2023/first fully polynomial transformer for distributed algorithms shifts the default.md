@@ -11,7 +11,7 @@ keywords:
   - transformer
   - distributed
   - algorithms
-draft: true
+draft: false
 description: First fully-polynomial transformer for distributed algorithms
 created: 2023-12-31
 updated: 2023-12-31

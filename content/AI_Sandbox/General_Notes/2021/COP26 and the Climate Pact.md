@@ -12,7 +12,7 @@ keywords:
   - transition
   - netzero
   - credibility
-draft: true
+draft: false
 description: A global deal landed, but the credibility test stayed open.
 created: 2021-11-13
 updated: 2025-10-08

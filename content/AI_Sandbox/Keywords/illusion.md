@@ -3,7 +3,7 @@ title: keyword - illusion
 tags:
   - keyword-index
   - plato
-draft: true
+draft: false
 description: Notes linked by illusion.
 created: 2026-02-07
 updated: 2026-02-07

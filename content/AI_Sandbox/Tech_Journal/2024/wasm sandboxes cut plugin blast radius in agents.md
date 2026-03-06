@@ -11,7 +11,7 @@ keywords:
   - plugins
   - isolation
   - security
-draft: true
+draft: false
 description: teams are isolating agent plugins in wasm runtimes to limit compromise scope and improve policy enforcement.
 created: 2024-12-02
 updated: 2024-12-02

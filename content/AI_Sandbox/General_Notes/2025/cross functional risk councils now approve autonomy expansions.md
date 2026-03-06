@@ -11,7 +11,7 @@ keywords:
   - autonomy
   - approvals
   - governance
-draft: true
+draft: false
 description: expanding autonomous scope increasingly requires cross-functional risk council approval in large organizations.
 created: 2025-09-12
 updated: 2025-09-12

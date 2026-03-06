@@ -12,7 +12,7 @@ keywords:
   - matter
   - models
   - limits
-draft: true
+draft: false
 description: A long-form essay linked physics to uncertainty intuition.
 created: 2022-12-31
 updated: 2025-03-21

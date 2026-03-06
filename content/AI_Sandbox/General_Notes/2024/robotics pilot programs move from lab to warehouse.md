@@ -11,7 +11,7 @@ keywords:
   - pilots
   - labor
   - automation
-draft: true
+draft: false
 description: warehouse robotics pilots in 2024 shifted from demos to measurable throughput experiments.
 created: 2024-09-12
 updated: 2024-09-12

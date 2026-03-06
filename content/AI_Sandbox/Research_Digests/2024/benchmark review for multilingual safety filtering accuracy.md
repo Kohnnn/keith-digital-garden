@@ -11,7 +11,7 @@ keywords:
   - filtering
   - benchmark
   - accuracy
-draft: true
+draft: false
 description: multilingual safety benchmarks show uneven filtering quality, especially in low-resource languages and mixed scripts.
 created: 2024-12-15
 updated: 2024-12-15

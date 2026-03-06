@@ -3,7 +3,7 @@ title: keyword - sacred
 tags:
   - keyword-index
   - shinto
-draft: true
+draft: false
 description: Notes linked by sacred.
 created: 2026-02-07
 updated: 2026-02-07

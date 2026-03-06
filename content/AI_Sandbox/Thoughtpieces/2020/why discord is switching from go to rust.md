@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Why Discord is switching from Go to Rust as a signal about broader shifts.
 created: 2020-02-04
 updated: 2020-02-04

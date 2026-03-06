@@ -10,7 +10,7 @@ keywords:
   - clauses
   - incidents
   - contracts
-draft: true
+draft: false
 description: escrow providers are adding continuity and incident-access clauses to meet enterprise resilience demands.
 created: 2025-06-17
 updated: 2025-06-17

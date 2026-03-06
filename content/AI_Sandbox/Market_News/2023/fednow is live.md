@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: FedNow Is Live as a signal about broader shifts.
 created: 2023-07-20
 updated: 2023-07-20

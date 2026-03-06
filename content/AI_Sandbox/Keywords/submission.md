@@ -3,7 +3,7 @@ title: keyword - submission
 tags:
   - keyword-index
   - islam
-draft: true
+draft: false
 description: Notes linked by submission.
 created: 2026-02-07
 updated: 2026-02-07

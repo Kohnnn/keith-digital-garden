@@ -12,7 +12,7 @@ keywords:
   - llm
   - api
   - model
-draft: true
+draft: false
 description: AWS made Bedrock generally available, bundling multiple foundation models behind a single managed API.
 created: 2023-09-28
 updated: 2023-09-28

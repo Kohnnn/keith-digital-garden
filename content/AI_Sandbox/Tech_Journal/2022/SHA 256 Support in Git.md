@@ -12,7 +12,7 @@ keywords:
   - hashing
   - migration
   - tooling
-draft: true
+draft: false
 description: A report traced why Git's hash transition is slow.
 created: 2022-12-31
 updated: 2025-03-14

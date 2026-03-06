@@ -12,7 +12,7 @@ keywords:
   - supply
   - div
   - linkage
-draft: true
+draft: false
 description: The Suez blockage rippled through container scheduling into week-long delays.
 created: 2021-03-30
 updated: 2021-03-30

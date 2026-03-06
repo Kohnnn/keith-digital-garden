@@ -12,7 +12,7 @@ keywords:
   - tech
   - labor
   - reality
-draft: true
+draft: false
 description: A critique highlighted how tech narratives miss farm realities.
 created: 2022-12-30
 updated: 2025-03-23

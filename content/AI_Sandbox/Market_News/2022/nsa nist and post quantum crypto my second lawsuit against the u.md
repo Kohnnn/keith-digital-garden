@@ -12,7 +12,7 @@ keywords:
   - liquidity
   - risk
   - pricing
-draft: true
+draft: false
 description: "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government as a signal about broader shifts."
 created: 2022-08-05
 updated: 2022-08-05

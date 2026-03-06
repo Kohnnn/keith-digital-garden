@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Reflecting on 18 Years at Google as a signal about broader shifts.
 created: 2023-11-22
 updated: 2023-11-22

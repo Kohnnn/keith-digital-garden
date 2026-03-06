@@ -10,7 +10,7 @@ keywords:
   - new
   - ai
   - model
-draft: true
+draft: false
 description: Why DeepSeek's new AI model thinks it's ChatGPT
 created: 2024-12-30
 updated: 2024-12-30

@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Remembering Allan McDonald, who refused to approve the Challenger launch as a signal about broader shifts.
 created: 2021-03-07
 updated: 2021-03-07

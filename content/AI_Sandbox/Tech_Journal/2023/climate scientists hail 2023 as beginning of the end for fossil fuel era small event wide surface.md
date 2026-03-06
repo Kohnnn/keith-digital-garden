@@ -11,7 +11,7 @@ keywords:
   - hail
   - 2023
   - beginning
-draft: true
+draft: false
 description: Climate scientists hail 2023 as 'beginning of the end' for fossil fuel era
 created: 2023-12-30
 updated: 2023-12-30

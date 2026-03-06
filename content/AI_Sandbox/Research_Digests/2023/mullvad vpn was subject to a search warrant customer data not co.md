@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Mullvad VPN was subject to a search warrant – customer data not compromised as a signal about broader shifts.
 created: 2023-04-20
 updated: 2023-04-20

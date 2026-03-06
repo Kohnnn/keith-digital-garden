@@ -11,7 +11,7 @@ keywords:
   - adoption
   - trust
   - product
-draft: true
+draft: false
 description: better refusal explanations are improving user trust and long-term adoption in enterprise assistant workflows.
 created: 2025-06-29
 updated: 2025-06-29

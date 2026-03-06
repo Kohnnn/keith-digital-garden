@@ -11,7 +11,7 @@ keywords:
   - competition
   - workflows
   - trust
-draft: true
+draft: false
 description: teams that make governance easy to execute are outperforming teams with heavy but unusable control systems.
 created: 2026-01-31
 updated: 2026-01-31

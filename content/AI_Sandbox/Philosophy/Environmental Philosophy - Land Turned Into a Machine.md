@@ -11,7 +11,7 @@ keywords:
   - stewardship
   - extraction
   - responsibility
-draft: true
+draft: false
 description: When place becomes function, ethics gets thin.
 created: 2024-01-05
 updated: 2026-02-01
@@ -56,6 +56,8 @@ I feel the hinge with [[Artificial Intelligence - The Mirror That Talks Back]] m
 </ul>
 
 I see this when I throw away food and pretend it vanished.
+
+nearby jumps: [[Abstraction - The Idea That Floats]], then [[Advaita Vedanta - The One Without Edges]].
 
 Counter-pressure: I can romanticize land and ignore hard tradeoffs.
 
@@ -107,6 +109,16 @@ The simplest fix I know is to treat land as a neighbor, not a machine. A neighbo
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Environmental Philosophy - Land Turned Into a Machine]] vs [[Machiavelli - The Price of Control]]: stewardship constraint versus control-first governance.
+- [[Environmental Philosophy - Land Turned Into a Machine]] vs [[Mohism - The Care That Spreads]]: ecological intrinsic value versus utility calibration.
+- [[Environmental Philosophy - Land Turned Into a Machine]] vs [[Artificial Intelligence - The Mirror That Talks Back]]: techno-solution scaling versus relational land ethics.
+
+
+## questions / next
+- what would I cut after revisiting [[Abstraction - The Idea That Floats]]?
+- what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
 > [!ref] The Land Ethic (Aldo Leopold)

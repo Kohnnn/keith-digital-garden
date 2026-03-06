@@ -10,7 +10,7 @@ keywords:
   - face
   - 100k
   - suits
-draft: true
+draft: false
 description: FL­ in­sur­ers face >100k suits claim­ing $7.8B, all other states 24.7k/2.4B
 created: 2022-12-30
 updated: 2022-12-30

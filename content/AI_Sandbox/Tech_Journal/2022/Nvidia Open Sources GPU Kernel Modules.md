@@ -12,7 +12,7 @@ keywords:
   - gpu
   - openness
   - tooling
-draft: true
+draft: false
 description: Nvidia's kernel module release shifted the driver story.
 created: 2022-05-11
 updated: 2025-03-11

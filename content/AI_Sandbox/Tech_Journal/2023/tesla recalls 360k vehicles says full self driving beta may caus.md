@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Tesla recalls 360k vehicles, says full self-driving beta may cause crashes as a signal about broader shifts.
 created: 2023-02-16
 updated: 2023-02-16

@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Postgres as a graph database as a signal about broader shifts.
 created: 2023-03-31
 updated: 2023-03-31

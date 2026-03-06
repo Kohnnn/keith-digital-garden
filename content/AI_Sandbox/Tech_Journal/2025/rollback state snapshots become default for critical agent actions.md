@@ -11,7 +11,7 @@ keywords:
   - state
   - actions
   - recovery
-draft: true
+draft: false
 description: critical workflows increasingly require pre-action state snapshots to enable fast and safe rollback.
 created: 2025-08-09
 updated: 2025-08-09

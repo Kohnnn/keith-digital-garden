@@ -12,7 +12,7 @@ keywords:
   - barges
   - logistics
   - climate
-draft: true
+draft: false
 description: Record-low Rhine water levels forced barges to halve loads, threatening German industry.
 created: 2022-08-12
 updated: 2022-08-12

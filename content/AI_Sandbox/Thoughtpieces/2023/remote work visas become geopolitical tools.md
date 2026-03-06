@@ -12,7 +12,7 @@ keywords:
   - talent
   - policy
   - work
-draft: true
+draft: false
 description: Countries offering remote work visas are turning workers into strategic assets.
 created: 2023-05-05
 updated: 2023-05-05

@@ -12,7 +12,7 @@ keywords:
   - day
   - 2025
   - span
-draft: true
+draft: false
 description: Public Domain Day 2025
 created: 2024-12-31
 updated: 2024-12-31

@@ -10,7 +10,7 @@ keywords:
   - rising
   - application
   - ai
-draft: true
+draft: false
 description: Study reveals rising application of AI across communications by the PR industry
 created: 2024-12-30
 updated: 2024-12-30

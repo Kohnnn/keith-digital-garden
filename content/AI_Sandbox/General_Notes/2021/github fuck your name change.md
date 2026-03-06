@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: GitHub, fuck your name change as a signal about broader shifts.
 created: 2021-03-17
 updated: 2021-03-17

@@ -10,7 +10,7 @@ keywords:
   - gpu
   - markets
   - capacity
-draft: true
+draft: false
 description: brokerage-style inference platforms are growing as buyers navigate fragmented gpu supply and pricing.
 created: 2024-12-19
 updated: 2024-12-19

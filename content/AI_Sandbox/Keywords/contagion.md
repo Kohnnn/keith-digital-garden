@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - contagion
   - memetics
-draft: true
+draft: false
 description: Notes linked by contagion.
 created: 2026-02-07
 updated: 2026-02-07

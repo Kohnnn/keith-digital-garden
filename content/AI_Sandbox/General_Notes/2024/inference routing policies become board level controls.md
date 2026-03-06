@@ -11,7 +11,7 @@ keywords:
   - controls
   - cost
   - risk
-draft: true
+draft: false
 description: model routing rules are moving from engineering defaults to formal governance controls with budget and risk implications.
 created: 2024-12-17
 updated: 2024-12-17

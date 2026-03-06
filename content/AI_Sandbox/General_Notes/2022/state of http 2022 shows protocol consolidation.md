@@ -12,7 +12,7 @@ keywords:
   - protocol
   - web
   - latency
-draft: true
+draft: false
 description: The 2022 report shows the web stack converging around fewer transport defaults.
 created: 2022-12-31
 updated: 2022-12-31

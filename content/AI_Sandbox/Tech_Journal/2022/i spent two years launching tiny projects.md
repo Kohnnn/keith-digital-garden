@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: I spent two years launching tiny projects as a signal about broader shifts.
 created: 2022-05-18
 updated: 2022-05-18

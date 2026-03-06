@@ -11,7 +11,7 @@ keywords:
   - reform
   - utility
   - interconnect
-draft: true
+draft: false
 description: federal interconnection reform is moving, but utility execution remains the bottleneck.
 created: 2024-06-20
 updated: 2024-06-20

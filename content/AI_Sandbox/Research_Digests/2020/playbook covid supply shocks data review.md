@@ -12,7 +12,7 @@ keywords:
   - data
   - div
   - linkage
-draft: true
+draft: false
 description: Simple data review showing how supply interruptions spiked through 2020.
 created: 2020-09-30
 updated: 2020-09-30

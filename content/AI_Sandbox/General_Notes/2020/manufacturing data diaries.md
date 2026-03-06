@@ -12,7 +12,7 @@ keywords:
   - diaries
   - supply
   - div
-draft: true
+draft: false
 description: Manufacturers started sharing machine-level dashboards to pre-empt COVID disruptions.
 created: 2020-06-18
 updated: 2020-06-18

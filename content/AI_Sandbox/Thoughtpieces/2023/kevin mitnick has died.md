@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Kevin Mitnick has died as a signal about broader shifts.
 created: 2023-07-19
 updated: 2023-07-19

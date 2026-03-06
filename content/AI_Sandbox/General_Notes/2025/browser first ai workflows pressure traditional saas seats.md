@@ -11,7 +11,7 @@ keywords:
   - saas
   - seats
   - pricing
-draft: true
+draft: false
 description: browser-native ai workflows are reducing dependence on full-seat enterprise software in repetitive task categories.
 created: 2025-01-03
 updated: 2025-01-03

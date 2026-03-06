@@ -10,7 +10,7 @@ keywords:
   - duty
   - restraint
   - courage
-draft: true
+draft: false
 description: Bushido frames honor as a daily discipline of restraint.
 created: 2023-01-12
 updated: 2026-01-28
@@ -61,6 +61,8 @@ I also hear a western echo in the idea of the tragic hero who chooses duty over 
 
 Bushido also makes me think about how a society teaches restraint. In western culture, restraint can look like repression, so we often swing to expression instead. Bushido says expression without restraint is just impulse. The practice is to feel the impulse and still choose the code. That is a useful counterweight when my emotions want to run the room. It also makes me think about leadership. A leader without restraint is a threat, even if they are charismatic. Bushido would say the quiet leader is the safer leader. Restraint keeps strength from turning into spectacle.
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: Honor codes can hide cruelty behind noble language.
 
 Micro-ritual: Pick one commitment today and keep it exactly as promised.
@@ -97,6 +99,16 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Conf
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Bushido - The Steel of Restraint]] vs [[Buddhism - The Practice of Letting Go]]: honor-bound role identity versus compassionate non-attachment.
+- [[Bushido - The Steel of Restraint]] vs [[Daoism - The Strength of Softness]]: hardened code versus yielding adaptation.
+- [[Bushido - The Steel of Restraint]] vs [[Christianity - The Wound That Heals]]: duty reputation ethic versus enemy-love ethic.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] Bushido: The Soul of Japan (text)

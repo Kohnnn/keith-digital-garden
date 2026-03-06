@@ -12,7 +12,7 @@ keywords:
   - glove
   - vr
   - div
-draft: true
+draft: false
 description: Meta’s Reality Labs unveiled a soft robotic glove prototype that simulates touch in VR.
 created: 2021-11-16
 updated: 2021-11-16

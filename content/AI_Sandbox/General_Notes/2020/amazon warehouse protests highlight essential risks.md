@@ -12,7 +12,7 @@ keywords:
   - protest
   - essential
   - linkage
-draft: true
+draft: false
 description: Amazon employees walked out over COVID safety, exposing vulnerability in so-called essential systems.
 created: 2020-03-30
 updated: 2020-03-30

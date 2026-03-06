@@ -12,7 +12,7 @@ keywords:
   - meaning
   - roots
   - identity
-draft: true
+draft: false
 description: A word carries the footsteps of every mind that used it.
 created: 2022-02-09
 updated: 2025-12-13
@@ -71,6 +71,8 @@ And it matters for communication. If I use words without respecting their trail,
 
 I see this when I hear a word in a new context and it suddenly feels sharper. 
 
+follow-up trail: [[Advaita Vedanta - The One Without Edges]] -> [[Abstraction - The Idea That Floats]].
+
 Counter-pressure: Chasing origins can become pedantry if I never return to what people mean now.
 
 Micro-ritual: Pick one word a week and trace its earlier meaning for five minutes.
@@ -104,6 +106,16 @@ I keep this next to [[Socrates - The Question That Bites]] and it leans toward [
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Etymology - The Trail Inside Words]] vs [[Logical Tautology - When It Says Nothing and Still Works]]: semantic history versus formal invariance.
+- [[Etymology - The Trail Inside Words]] vs [[Nyaya - The Rules of Knowing]]: meaning genealogy versus validity structure.
+- [[Etymology - The Trail Inside Words]] vs [[Communicant - The Ethics of Being Heard]]: lexical roots versus live relational uptake.
+
+
+## questions / next
+- where does this break when read beside [[Advaita Vedanta - The One Without Edges]]?
+- where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
 > [!ref] On Interpretation

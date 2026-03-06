@@ -12,7 +12,7 @@ keywords:
   - silicon
   - arm
   - industry
-draft: true
+draft: false
 description: Apple announced the M1 chip, signaling a major transition to in-house silicon for laptops.
 created: 2020-11-10
 updated: 2020-11-10

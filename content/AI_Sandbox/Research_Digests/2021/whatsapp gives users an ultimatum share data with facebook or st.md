@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "WhatsApp gives users an ultimatum: Share data with Facebook or stop using app as a signal about broader shifts."
 created: 2021-01-06
 updated: 2021-01-06

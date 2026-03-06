@@ -12,7 +12,7 @@ keywords:
   - reliability
   - vendor
   - scale
-draft: true
+draft: false
 description: A long-time self-host gave up, signaling ops gravity.
 created: 2022-09-04
 updated: 2025-05-06

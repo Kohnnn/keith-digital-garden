@@ -11,7 +11,7 @@ keywords:
   - materiality
   - finance
   - tiers
-draft: true
+draft: false
 description: assistant policies are incorporating financial materiality tiers to align controls with business impact.
 created: 2025-08-07
 updated: 2025-08-07

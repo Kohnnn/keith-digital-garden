@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: My mouse driver is asking for a firewall exemption (2019) as a signal about broader shifts.
 created: 2021-08-23
 updated: 2021-08-23

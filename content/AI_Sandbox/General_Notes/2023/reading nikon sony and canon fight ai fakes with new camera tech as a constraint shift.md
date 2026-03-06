@@ -11,7 +11,7 @@ keywords:
   - canon
   - fight
   - ai
-draft: true
+draft: false
 description: Nikon, Sony and Canon fight AI fakes with new camera tech
 created: 2023-12-31
 updated: 2023-12-31

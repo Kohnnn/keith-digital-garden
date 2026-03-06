@@ -11,7 +11,7 @@ keywords:
   - intelligence
   - enterprise
   - governance
-draft: true
+draft: false
 description: enterprise buyers increasingly reward accountability evidence over raw model intelligence claims.
 created: 2025-07-09
 updated: 2025-07-09

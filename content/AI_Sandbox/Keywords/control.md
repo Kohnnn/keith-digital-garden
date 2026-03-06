@@ -6,7 +6,7 @@ tags:
   - legalism
   - stoicism
   - surrender
-draft: true
+draft: false
 description: Notes linked by control.
 created: 2026-02-07
 updated: 2026-02-07

@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: They're deleting my channel, but they don't know why? [video] as a signal about broader shifts.
 created: 2020-09-23
 updated: 2020-09-23

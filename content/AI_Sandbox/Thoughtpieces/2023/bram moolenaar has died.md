@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: Bram Moolenaar has died as a signal about broader shifts.
 created: 2023-08-05
 updated: 2023-08-05

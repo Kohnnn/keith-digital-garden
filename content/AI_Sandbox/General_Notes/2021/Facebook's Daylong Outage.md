@@ -12,7 +12,7 @@ keywords:
   - platform
   - dependency
   - trust
-draft: true
+draft: false
 description: A routing failure knocked a global platform offline for hours.
 created: 2021-10-04
 updated: 2025-08-28

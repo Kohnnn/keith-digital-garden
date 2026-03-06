@@ -11,7 +11,7 @@ keywords:
   - strategy
   - distribution
   - trust
-draft: true
+draft: false
 description: open weight models forced companies to build moats in workflow and trust instead of raw model access.
 created: 2024-10-04
 updated: 2024-10-04

@@ -12,7 +12,7 @@ keywords:
   - climate
   - data
   - div
-draft: true
+draft: false
 description: Complex risk (climate, supply, policy) demands multidisciplinary infrastructure desks combining data science, law, procurement.
 created: 2023-11-22
 updated: 2023-11-22

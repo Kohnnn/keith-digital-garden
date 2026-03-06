@@ -11,7 +11,7 @@ keywords:
   - cosmos
   - reciprocity
   - ritual
-draft: true
+draft: false
 description: Maya religion ties time, sacrifice, and cosmos into a living calendar.
 created: 2022-08-19
 updated: 2026-02-07
@@ -86,6 +86,8 @@ Community is the real vessel of the ritual. The calendar is too heavy to carry a
 
 Elders and teachers carry the memory. The knowledge is not just stored in books; it is held in people. That makes education a sacred act. It is a transfer of responsibility, not just information. This feels close to [[Moral Development - The Ladder I Keep Climbing]] because growth is not only individual. It is social transmission. If the memory breaks, the calendar breaks. That is the weight of teaching. Memory is a moral duty, not a hobby. It is how the world keeps its shape. It is a form of care. It is also a form of resistance. It keeps time alive.
 
+see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
+
 Counter-pressure: Sacrifice can be used to justify cruelty if it is severed from compassion.
 
 Micro-ritual: Offer one hour today to a cause that will outlast you.
@@ -122,6 +124,16 @@ I keep this next to [[Ancient Egypt - The River of Order]] and it leans toward [
     </li>
   </ul>
 </div>
+
+## ideological conflicts
+- [[Maya - The Calendar of Blood]] vs [[Epicureanism - The Garden of Enough]]: sacrificial cosmic reciprocity versus low-cost tranquility.
+- [[Maya - The Calendar of Blood]] vs [[Machiavelli - The Price of Control]]: ritual cosmopolitics versus strategic statecraft.
+- [[Maya - The Calendar of Blood]] vs [[Buddhism - The Practice of Letting Go]]: calendrical obligation and offering versus non-attachment practice.
+
+
+## questions / next
+- what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
+- what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
 > [!ref] Popol Vuh (text)

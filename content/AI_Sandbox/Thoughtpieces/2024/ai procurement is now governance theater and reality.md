@@ -11,7 +11,7 @@ keywords:
   - ai
   - policy
   - risk
-draft: true
+draft: false
 description: ai buying decisions now hinge on governance artifacts as much as model quality.
 created: 2024-06-03
 updated: 2024-06-03

@@ -11,7 +11,7 @@ keywords:
   - traces
   - observability
   - standards
-draft: true
+draft: false
 description: open telemetry conventions expanded in 2024 to better capture llm and agent execution traces.
 created: 2024-11-08
 updated: 2024-11-08

@@ -11,7 +11,7 @@ keywords:
   - managing
   - child
   - processes
-draft: true
+draft: false
 description: "Bash: Creating and Managing Child Processes"
 created: 2024-12-31
 updated: 2024-12-31

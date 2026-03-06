@@ -12,7 +12,7 @@ keywords:
   - incentives
   - trust
   - policy
-draft: true
+draft: false
 description: A professor described widespread cheating and the incentives behind it.
 created: 2022-05-28
 updated: 2025-03-04

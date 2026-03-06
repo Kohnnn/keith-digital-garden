@@ -12,7 +12,7 @@ keywords:
   - visualization
   - learning
   - physics
-draft: true
+draft: false
 description: A visual tour of sound made abstract physics concrete.
 created: 2022-10-18
 updated: 2025-04-02

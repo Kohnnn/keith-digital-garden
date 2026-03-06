@@ -12,7 +12,7 @@ keywords:
   - belief
   - narrative
   - recovery
-draft: true
+draft: false
 description: A short essay framed disillusionment as a recovery phase.
 created: 2022-12-31
 updated: 2025-01-26

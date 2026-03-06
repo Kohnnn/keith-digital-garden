@@ -4,7 +4,7 @@ tags:
   - keyword-index
   - mohism
   - pyrrhonism
-draft: true
+draft: false
 description: Notes linked by peace.
 created: 2026-02-07
 updated: 2026-02-07

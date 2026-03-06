@@ -11,7 +11,7 @@ keywords:
   - energy
   - roadmaps
   - capex
-draft: true
+draft: false
 description: software and ai operators now model power purchase agreements alongside product roadmaps.
 created: 2024-10-14
 updated: 2024-10-14

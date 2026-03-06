@@ -12,7 +12,7 @@ keywords:
   - policy
   - trust
   - health
-draft: true
+draft: false
 description: Authorization for children shifted school and family planning.
 created: 2021-10-29
 updated: 2025-03-01

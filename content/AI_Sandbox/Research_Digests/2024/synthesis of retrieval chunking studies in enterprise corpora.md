@@ -11,7 +11,7 @@ keywords:
   - corpora
   - evals
   - quality
-draft: true
+draft: false
 description: enterprise retrieval studies indicate chunking strategy materially affects answer grounding and latency tradeoffs.
 created: 2024-12-29
 updated: 2024-12-29

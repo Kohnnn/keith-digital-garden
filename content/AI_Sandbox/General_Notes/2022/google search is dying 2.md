@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Google Search Is Dying as a signal about broader shifts.
 created: 2022-02-15
 updated: 2022-02-15

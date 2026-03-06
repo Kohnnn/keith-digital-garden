@@ -12,7 +12,7 @@ keywords:
   - palettes
   - graphics
   - demo
-draft: true
+draft: false
 description: A demo explored color limits through brute force rendering.
 created: 2022-12-31
 updated: 2025-06-06

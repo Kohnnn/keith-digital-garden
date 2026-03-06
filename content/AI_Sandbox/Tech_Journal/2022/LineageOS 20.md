@@ -12,7 +12,7 @@ keywords:
   - privacy
   - updates
   - community
-draft: true
+draft: false
 description: The release underscored community-led OS longevity.
 created: 2022-12-31
 updated: 2025-05-03

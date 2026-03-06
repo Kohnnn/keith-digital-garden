@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: Discovering that a Bluetooth car battery monitor is siphoning location data as a signal about broader shifts.
 created: 2023-06-26
 updated: 2023-06-26

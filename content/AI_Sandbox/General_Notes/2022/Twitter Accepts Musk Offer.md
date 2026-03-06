@@ -12,7 +12,7 @@ keywords:
   - governance
   - leverage
   - control
-draft: true
+draft: false
 description: The deal reframed platform control as a capital decision.
 created: 2022-04-25
 updated: 2025-01-30

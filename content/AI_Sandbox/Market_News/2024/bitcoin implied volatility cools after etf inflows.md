@@ -10,7 +10,7 @@ keywords:
   - etf
   - inflows
   - options
-draft: true
+draft: false
 description: bitcoin options implied volatility softened as etf inflows stabilized market structure.
 created: 2024-10-28
 updated: 2024-10-28

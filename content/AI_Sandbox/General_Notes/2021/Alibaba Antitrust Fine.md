@@ -12,7 +12,7 @@ keywords:
   - markets
   - china
   - policy
-draft: true
+draft: false
 description: A record fine clarified the direction of China’s tech policy.
 created: 2021-04-10
 updated: 2025-07-31

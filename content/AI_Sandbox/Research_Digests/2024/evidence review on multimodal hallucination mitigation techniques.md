@@ -11,7 +11,7 @@ keywords:
   - mitigation
   - grounding
   - evals
-draft: true
+draft: false
 description: studies show multimodal hallucination rates decrease when models use grounding checks and retrieval-aware decoding.
 created: 2024-12-10
 updated: 2024-12-10

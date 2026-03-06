@@ -11,7 +11,7 @@ keywords:
   - outages
   - resilience
   - recovery
-draft: true
+draft: false
 description: teams with model downgrade playbooks recover faster during provider incidents and severe regressions.
 created: 2025-03-25
 updated: 2025-03-25

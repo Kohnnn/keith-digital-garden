@@ -11,7 +11,7 @@ keywords:
   - datacenter
   - siting
   - pricing
-draft: true
+draft: false
 description: volatile power contracts in 2024 redirected european data center siting decisions.
 created: 2024-09-05
 updated: 2024-09-05

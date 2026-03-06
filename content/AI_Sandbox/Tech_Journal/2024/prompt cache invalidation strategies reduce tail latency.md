@@ -11,7 +11,7 @@ keywords:
   - prompts
   - invalidation
   - serving
-draft: true
+draft: false
 description: better cache invalidation design is lowering p95 and p99 latency in repetitive prompt-heavy workloads.
 created: 2024-12-04
 updated: 2024-12-04

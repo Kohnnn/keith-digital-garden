@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Twitter set to accept Musk's $43B offer – sources as a signal about broader shifts.
 created: 2022-04-25
 updated: 2022-04-25

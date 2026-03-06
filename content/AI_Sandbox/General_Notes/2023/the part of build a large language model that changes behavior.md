@@ -12,7 +12,7 @@ keywords:
   - language
   - model
   - scratch
-draft: true
+draft: false
 description: Build a Large Language Model (From Scratch)
 created: 2023-12-31
 updated: 2023-12-31

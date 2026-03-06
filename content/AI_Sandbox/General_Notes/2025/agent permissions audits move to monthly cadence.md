@@ -11,7 +11,7 @@ keywords:
   - monthly
   - agents
   - access
-draft: true
+draft: false
 description: organizations are shifting agent permission audits from quarterly to monthly reviews as usage deepens.
 created: 2025-05-18
 updated: 2025-05-18

@@ -11,7 +11,7 @@ keywords:
   - premiums
   - freight
   - risk
-draft: true
+draft: false
 description: repeated red sea disruptions kept freight insurance and rerouting costs structurally high in 2024.
 created: 2024-01-24
 updated: 2024-01-24

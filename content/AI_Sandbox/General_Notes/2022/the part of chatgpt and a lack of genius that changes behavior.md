@@ -11,7 +11,7 @@ keywords:
   - genius
   - span
   - class
-draft: true
+draft: false
 description: ChatGPT and a Lack of Genius
 created: 2022-12-31
 updated: 2022-12-31

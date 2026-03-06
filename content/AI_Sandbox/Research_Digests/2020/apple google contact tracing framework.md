@@ -12,7 +12,7 @@ keywords:
   - bluetooth
   - privacy
   - apple
-draft: true
+draft: false
 description: Apple and Google's joint API aimed to balance public health and user data protection.
 created: 2020-04-10
 updated: 2020-04-10

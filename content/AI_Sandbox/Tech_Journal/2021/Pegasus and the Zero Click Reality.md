@@ -12,7 +12,7 @@ keywords:
   - device
   - exploit
   - rights
-draft: true
+draft: false
 description: The Pegasus revelations showed how silent compromise has become.
 created: 2021-07-19
 updated: 2025-09-11

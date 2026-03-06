@@ -11,7 +11,7 @@ keywords:
   - one
   - emoji
   - has
-draft: true
+draft: false
 description: A string containing one emoji has length == 7 in JS and 17 in Rust
 created: 2024-12-30
 updated: 2024-12-30

@@ -11,7 +11,7 @@ keywords:
   - model
   - shows
   - early
-draft: true
+draft: false
 description: Robotics profit-sharing model shows early success
 created: 2023-12-30
 updated: 2023-12-30

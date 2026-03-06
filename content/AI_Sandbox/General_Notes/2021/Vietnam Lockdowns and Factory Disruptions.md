@@ -12,7 +12,7 @@ keywords:
   - supply
   - labor
   - economy
-draft: true
+draft: false
 description: Factory shutdowns turned a health crisis into a supply shock.
 created: 2021-08-19
 updated: 2025-05-20

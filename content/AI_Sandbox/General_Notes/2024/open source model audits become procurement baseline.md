@@ -11,7 +11,7 @@ keywords:
   - procurement
   - models
   - security
-draft: true
+draft: false
 description: third-party audits for open source models are becoming baseline requirements in enterprise procurement.
 created: 2024-08-01
 updated: 2024-08-01

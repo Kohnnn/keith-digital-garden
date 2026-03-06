@@ -11,7 +11,7 @@ keywords:
   - apis
   - procurement
   - tracking
-draft: true
+draft: false
 description: real time freight visibility apis became mandatory language in 2024 logistics contracts.
 created: 2024-10-13
 updated: 2024-10-13

@@ -12,7 +12,7 @@ keywords:
   - dpa
   - abbott
   - recall
-draft: true
+draft: false
 description: The White House invoked the DPA to boost infant formula production after Abbott's recall.
 created: 2022-05-18
 updated: 2022-05-18

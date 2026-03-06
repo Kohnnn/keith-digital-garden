@@ -10,7 +10,7 @@ keywords:
   - good
   - guessing
   - location
-draft: true
+draft: false
 description: AI Is Scarily Good at Guessing the Location of Random Photos
 created: 2023-12-31
 updated: 2023-12-31

@@ -12,7 +12,7 @@ keywords:
   - health
   - supply
   - trust
-draft: true
+draft: false
 description: Booster programs shifted the pandemic playbook again.
 created: 2021-09-24
 updated: 2025-04-14

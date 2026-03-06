@@ -12,7 +12,7 @@ keywords:
   - metrics
   - survey
   - index
-draft: true
+draft: false
 description: "Tech sector job interviews assess anxiety, not software skills: study as a signal about broader shifts."
 created: 2020-07-15
 updated: 2020-07-15

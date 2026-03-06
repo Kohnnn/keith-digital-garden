@@ -12,7 +12,7 @@ keywords:
   - communication
   - theory
   - history
-draft: true
+draft: false
 description: A profile traced how information theory shaped modern systems.
 created: 2022-12-30
 updated: 2025-02-28

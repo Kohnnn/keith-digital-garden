@@ -12,7 +12,7 @@ keywords:
   - 19062014
   - interactive
   - map
-draft: true
+draft: false
 description: Reported UFO-Sightings 1906-2014 (interactive map)
 created: 2023-12-31
 updated: 2023-12-31

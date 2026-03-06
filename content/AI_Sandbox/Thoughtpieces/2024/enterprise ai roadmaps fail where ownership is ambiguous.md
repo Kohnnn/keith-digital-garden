@@ -11,7 +11,7 @@ keywords:
   - governance
   - execution
   - teams
-draft: true
+draft: false
 description: many enterprise ai plans stall when no team has end to end ownership across data model policy and operations.
 created: 2024-12-06
 updated: 2024-12-06

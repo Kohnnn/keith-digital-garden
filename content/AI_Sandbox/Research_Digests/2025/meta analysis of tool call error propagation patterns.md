@@ -11,7 +11,7 @@ keywords:
   - propagation
   - agents
   - reliability
-draft: true
+draft: false
 description: tool-call studies show error propagation is concentrated in interface mismatches and retry policy failures.
 created: 2025-04-12
 updated: 2025-04-12

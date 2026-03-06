@@ -6,7 +6,7 @@ tags:
   - extractivism
   - justice
   - legalism
-draft: true
+draft: false
 description: Notes linked by power.
 created: 2026-02-07
 updated: 2026-02-07

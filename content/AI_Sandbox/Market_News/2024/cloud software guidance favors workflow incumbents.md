@@ -10,7 +10,7 @@ keywords:
   - guidance
   - incumbents
   - workflows
-draft: true
+draft: false
 description: earnings guidance suggests established workflow platforms captured a larger share of enterprise ai spend than greenfield challengers.
 created: 2024-11-26
 updated: 2024-11-26

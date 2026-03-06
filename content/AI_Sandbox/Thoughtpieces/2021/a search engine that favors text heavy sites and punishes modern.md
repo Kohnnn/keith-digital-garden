@@ -12,7 +12,7 @@ keywords:
   - meaning
   - power
   - choice
-draft: true
+draft: false
 description: A search engine that favors text-heavy sites and punishes modern web design as a signal about broader shifts.
 created: 2021-09-16
 updated: 2021-09-16

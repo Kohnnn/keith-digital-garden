@@ -12,7 +12,7 @@ keywords:
   - stack
   - latency
   - workflow
-draft: true
+draft: false
 description: Protomaps – A free and open source map of the world as a signal about broader shifts.
 created: 2023-10-23
 updated: 2023-10-23

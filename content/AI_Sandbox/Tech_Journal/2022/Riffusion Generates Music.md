@@ -12,7 +12,7 @@ keywords:
   - creativity
   - model
   - tool
-draft: true
+draft: false
 description: Text-to-audio demos pushed generative models into music.
 created: 2022-12-15
 updated: 2025-02-09

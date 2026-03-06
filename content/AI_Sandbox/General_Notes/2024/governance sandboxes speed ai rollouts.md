@@ -11,7 +11,7 @@ keywords:
   - rollout
   - controls
   - risk
-draft: true
+draft: false
 description: controlled governance sandboxes helped teams ship ai features faster without skipping risk checks.
 created: 2024-11-01
 updated: 2024-11-01

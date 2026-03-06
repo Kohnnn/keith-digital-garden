@@ -12,7 +12,7 @@ keywords:
   - updates
   - security
   - tooling
-draft: true
+draft: false
 description: VanillaOS framed immutability as a stability tactic.
 created: 2022-12-31
 updated: 2025-04-28

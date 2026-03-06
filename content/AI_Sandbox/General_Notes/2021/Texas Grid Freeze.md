@@ -12,7 +12,7 @@ keywords:
   - failure
   - policy
   - resilience
-draft: true
+draft: false
 description: A winter storm exposed the fragility of the power system.
 created: 2021-02-16
 updated: 2025-03-14

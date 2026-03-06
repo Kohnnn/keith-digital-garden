@@ -12,7 +12,7 @@ keywords:
   - shift
   - trust
   - risk
-draft: true
+draft: false
 description: Facebook-owned sites were down as a signal about broader shifts.
 created: 2021-10-04
 updated: 2021-10-04

@@ -12,7 +12,7 @@ keywords:
   - regulation
   - documents
   - trust
-draft: true
+draft: false
 description: Leaked internal research reframed the platform risk debate.
 created: 2021-10-05
 updated: 2025-10-08

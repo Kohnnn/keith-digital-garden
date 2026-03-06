@@ -11,7 +11,7 @@ keywords:
   - creating
   - skewt
   - logp
-draft: true
+draft: false
 description: "Show HN: Creating Skew-T Log-P diagrams from the Rapid Refresh (RAP) model"
 created: 2024-12-31
 updated: 2024-12-31

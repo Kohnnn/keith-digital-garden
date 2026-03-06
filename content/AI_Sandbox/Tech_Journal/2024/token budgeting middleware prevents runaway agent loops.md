@@ -11,7 +11,7 @@ keywords:
   - loops
   - middleware
   - safety
-draft: true
+draft: false
 description: token budget middleware with hard stops is reducing infinite loop failures and unexpected cost spikes in agent workloads.
 created: 2024-12-24
 updated: 2024-12-24

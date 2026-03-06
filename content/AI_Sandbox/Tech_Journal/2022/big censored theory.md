@@ -12,7 +12,7 @@ keywords:
   - media
   - patterns
   - visualization
-draft: true
+draft: false
 description: A visual essay mapped censorship across media.
 created: 2022-08-29
 updated: 2025-02-28

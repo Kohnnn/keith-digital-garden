@@ -12,7 +12,7 @@ keywords:
   - ai
   - google
   - div
-draft: true
+draft: false
 description: Google wired Bard into Docs, Gmail, and Sheets, moving AI helpers into daily workflows.
 created: 2023-05-23
 updated: 2023-05-23

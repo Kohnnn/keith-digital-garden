@@ -10,7 +10,7 @@ keywords:
   - tight
   - pandemic
   - confidence
-draft: true
+draft: false
 created: 2021-07-15
 updated: 2021-07-15
 note_id: 210715MR13

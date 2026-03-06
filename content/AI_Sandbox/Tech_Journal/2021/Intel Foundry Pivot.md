@@ -12,7 +12,7 @@ keywords:
   - chips
   - competition
   - capital
-draft: true
+draft: false
 description: Intel’s foundry shift signaled a new phase in chip competition.
 created: 2021-03-23
 updated: 2025-02-14

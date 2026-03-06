@@ -11,7 +11,7 @@ keywords:
   - planning
   - quality
   - governance
-draft: true
+draft: false
 description: teams are tracking unresolved evaluation gaps as formal debt items in quarterly planning cycles.
 created: 2025-08-03
 updated: 2025-08-03

@@ -12,7 +12,7 @@ keywords:
   - economy
   - markets
   - trust
-draft: true
+draft: false
 description: A new variant reignited uncertainty across markets and policy.
 created: 2021-11-26
 updated: 2025-08-27

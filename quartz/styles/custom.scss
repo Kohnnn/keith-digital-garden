@@ -37,6 +37,22 @@ article {
   line-height: 1.65;
 }
 
+.article-title,
+article h1,
+article h2,
+article h3,
+article h4 {
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--dark);
+}
+
+article strong,
+article b {
+  font-weight: 700;
+  color: var(--dark);
+}
+
 article a {
   text-decoration: underline;
   text-decoration-thickness: 1px;

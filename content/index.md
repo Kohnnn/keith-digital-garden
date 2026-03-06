@@ -92,6 +92,11 @@ cssclasses: [portfolio-page, kitchen-home]
 ## Research and notes
 
 <div class="writing-grid">
+  <a class="writing-card" href="./Notes">
+    <span class="casefile-label">Garden</span>
+    <h3>Notes hub</h3>
+    <p>Main entry into simulations, explainers, and topic branches beyond the casefiles.</p>
+  </a>
   <a class="writing-card" href="./Portfolio/Blog">
     <span class="casefile-label">Writing</span>
     <h3>Research notes</h3>
@@ -106,6 +111,11 @@ cssclasses: [portfolio-page, kitchen-home]
     <span class="casefile-label">Profile</span>
     <h3>Portfolio overview</h3>
     <p>Short route into experience, skills, projects, and contact without the digital-garden clutter.</p>
+  </a>
+  <a class="writing-card" href="./tags">
+    <span class="casefile-label">Map</span>
+    <h3>Tag map</h3>
+    <p>Browse the rest of the garden by topic instead of only through the portfolio path.</p>
   </a>
 </div>
 

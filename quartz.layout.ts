@@ -1,7 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-const isCuratedSurface = (slug?: string) => slug === "index" || slug?.startsWith("Portfolio/")
+const isPortfolioSurface = (cssclasses?: string[]) =>
+  cssclasses?.includes("portfolio-page") ?? false
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -9,27 +10,14 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.DappledLight(),
+    Component.StackedNotesContainer(),
     Component.InteractiveSim(),
-    Component.ConditionalRender({
-      component: Component.StackedNotesContainer(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
-    }),
-    Component.ConditionalRender({
-      component: Component.RelatedNotes({ tagFilter: "philosophy" }),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
-    }),
-    Component.ConditionalRender({
-      component: Component.BacklinksGrid({ tagFilter: "philosophy" }),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
-    }),
+    Component.RelatedNotes({ tagFilter: "philosophy" }),
+    Component.BacklinksGrid({ tagFilter: "philosophy" }),
   ],
   footer: Component.Footer({
-    blurb:
-      "Keith Kitchen is a working portfolio and research kitchen for market systems, models, and tooling.",
     links: {
       Home: "index",
-      Contact: "Portfolio/Contact",
-      Projects: "Portfolio/Projects",
       GitHub: "https://github.com/Kohnnn/keith-digital-garden",
     },
   }),
@@ -40,16 +28,19 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index" && !isCuratedSurface(page.fileData.slug),
+      condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+    }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
     Component.ConditionalRender({
       component: Component.TagList(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
   ],
   left: [
@@ -61,42 +52,19 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
+        { Component: Component.StackedNotes() },
         { Component: Component.Darkmode() },
-        {
-          Component: Component.ConditionalRender({
-            component: Component.StackedNotes(),
-            condition: (page) => !isCuratedSurface(page.fileData.slug),
-          }),
-        },
-        {
-          Component: Component.ConditionalRender({
-            component: Component.ReaderMode(),
-            condition: (page) => !isCuratedSurface(page.fileData.slug),
-          }),
-        },
+        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.ConditionalRender({
-      component: Component.Explorer({
-        title: "Browse",
-        filterFn: (node) => !["tags", "AI_Sandbox", "attachments"].includes(node.slugSegment),
-      }),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
+    Component.Explorer({
+      filterFn: (node) => !["tags", "AI_Sandbox", "attachments"].includes(node.slugSegment),
     }),
   ],
   right: [
-    Component.ConditionalRender({
-      component: Component.GraphMapToggle(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
-    }),
-    Component.ConditionalRender({
-      component: Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
-    }),
-    Component.ConditionalRender({
-      component: Component.Backlinks(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
-    }),
+    Component.GraphMapToggle(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
 
@@ -105,12 +73,15 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
-    Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+    }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
   ],
   left: [
@@ -122,21 +93,12 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
+        { Component: Component.StackedNotes() },
         { Component: Component.Darkmode() },
-        {
-          Component: Component.ConditionalRender({
-            component: Component.StackedNotes(),
-            condition: (page) => !isCuratedSurface(page.fileData.slug),
-          }),
-        },
       ],
     }),
-    Component.ConditionalRender({
-      component: Component.Explorer({
-        title: "Browse",
-        filterFn: (node) => !["tags", "AI_Sandbox", "attachments"].includes(node.slugSegment),
-      }),
-      condition: (page) => !isCuratedSurface(page.fileData.slug),
+    Component.Explorer({
+      filterFn: (node) => !["tags", "AI_Sandbox", "attachments"].includes(node.slugSegment),
     }),
   ],
   right: [],

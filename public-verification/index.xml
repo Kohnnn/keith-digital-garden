@@ -6,6 +6,12 @@
       <description>Last 10 notes on Keith Kitchen</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Notes</title>
+    <link>https://kohnnn.github.io/keith-digital-garden/Notes</link>
+    <guid>https://kohnnn.github.io/keith-digital-garden/Notes</guid>
+    <description><![CDATA[ Wider garden of simulations, explainers, and working notes beyond the portfolio casefiles. ]]></description>
+    <pubDate>Fri, 06 Mar 2026 17:00:00 GMT</pubDate>
+  </item><item>
     <title>VNIBB</title>
     <link>https://kohnnn.github.io/keith-digital-garden/Portfolio/Projects/VNIBB</link>
     <guid>https://kohnnn.github.io/keith-digital-garden/Portfolio/Projects/VNIBB</guid>
@@ -59,12 +65,6 @@
     <guid>https://kohnnn.github.io/keith-digital-garden/attachments/market/2025/W48/source-manifest</guid>
     <description><![CDATA[ W48 2025 - Source Manifest Local imageX postCreatedAccountScopeScoreattachments/market/2025/W48/x-1997009417393319959-1.jpghttps://x.com/rektcapital/status/19970094173933199592025-12-05@rektcapitalnear145.52attachments/market/2025/W48/x-1998021459361349942-2.jpghttps://x.com/rektcapital/status/19980... ]]></description>
     <pubDate>Sat, 14 Feb 2026 18:18:57 GMT</pubDate>
-  </item><item>
-    <title>source-manifest</title>
-    <link>https://kohnnn.github.io/keith-digital-garden/attachments/market/2025/W47/source-manifest</link>
-    <guid>https://kohnnn.github.io/keith-digital-garden/attachments/market/2025/W47/source-manifest</guid>
-    <description><![CDATA[ W47 2025 - Source Manifest Local imageX postCreatedAccountScopeScoreattachments/market/2025/W47/x-1990842061231194463-1.jpghttps://x.com/KaikoData/status/19908420612311944632025-11-18@KaikoDatastrict7.17attachments/market/2025/W47/x-1990843006501388398-2.jpghttps://x.com/KaikoData/status/19908430065... ]]></description>
-    <pubDate>Sat, 14 Feb 2026 18:18:25 GMT</pubDate>
   </item>
     </channel>
   </rss>

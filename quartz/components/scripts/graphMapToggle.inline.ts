@@ -20,7 +20,9 @@ document.addEventListener("nav", () => {
     const view = stored === "grid" || stored === "graph" ? stored : defaultView
     setView(root, view)
 
-    const buttons = root.querySelectorAll("[data-graph-map-button]") as NodeListOf<HTMLButtonElement>
+    const buttons = root.querySelectorAll(
+      "[data-graph-map-button]",
+    ) as NodeListOf<HTMLButtonElement>
     buttons.forEach((button) => {
       const view = (button.dataset.view as ViewType | undefined) ?? defaultView
       const onClick = () => setView(root, view)

@@ -17,30 +17,45 @@ const defaultOptions: BacklinksGridOptions = {
 export default ((opts?: Partial<BacklinksGridOptions>) => {
   const options: BacklinksGridOptions = { ...defaultOptions, ...opts }
 
-  const BacklinksGrid: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzComponentProps) => {
+  const BacklinksGrid: QuartzComponent = ({
+    fileData,
+    allFiles,
+    displayClass,
+  }: QuartzComponentProps) => {
+    if (!fileData.slug) {
+      return null
+    }
+    const currentSlug = fileData.slug
+
     const currentTags = (fileData.frontmatter?.tags ?? []) as string[]
     if (options.tagFilter && !currentTags.includes(options.tagFilter)) {
       return null
     }
 
-    const slug = simplifySlug(fileData.slug ?? "")
-    const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+    const slug = simplifySlug(currentSlug)
+    const backlinkFiles = allFiles.filter((file) => file.slug && file.links?.includes(slug))
     if (options.hideWhenEmpty && backlinkFiles.length === 0) {
       return null
     }
 
     return (
-      <div class={classNames(displayClass, "backlinks-grid")}> 
+      <div class={classNames(displayClass, "backlinks-grid")}>
         <h3>{options.heading}</h3>
         <ul class="backlinks-grid-list">
           {backlinkFiles.length > 0 ? (
-            backlinkFiles.map((f) => (
-              <li>
-                <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-                  {f.frontmatter?.title ?? f.slug}
-                </a>
-              </li>
-            ))
+            backlinkFiles.map((f) => {
+              if (!f.slug) {
+                return null
+              }
+
+              return (
+                <li>
+                  <a href={resolveRelative(currentSlug, f.slug)} class="internal">
+                    {f.frontmatter?.title ?? f.slug}
+                  </a>
+                </li>
+              )
+            })
           ) : (
             <li>No backlinks yet.</li>
           )}

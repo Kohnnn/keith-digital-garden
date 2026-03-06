@@ -19,7 +19,16 @@ const defaultOptions: RelatedNotesOptions = {
 export default ((opts?: Partial<RelatedNotesOptions>) => {
   const options: RelatedNotesOptions = { ...defaultOptions, ...opts }
 
-  const RelatedNotes: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzComponentProps) => {
+  const RelatedNotes: QuartzComponent = ({
+    fileData,
+    allFiles,
+    displayClass,
+  }: QuartzComponentProps) => {
+    if (!fileData.slug) {
+      return null
+    }
+    const currentSlug = fileData.slug
+
     const currentTags = (fileData.frontmatter?.tags ?? []) as string[]
     if (currentTags.length === 0) {
       return null
@@ -29,9 +38,9 @@ export default ((opts?: Partial<RelatedNotesOptions>) => {
       return null
     }
 
-    const currentSlug = simplifySlug(fileData.slug ?? "")
+    const simplifiedCurrentSlug = simplifySlug(currentSlug)
     const related = allFiles
-      .filter((file) => file.slug && simplifySlug(file.slug) !== currentSlug)
+      .filter((file) => file.slug && simplifySlug(file.slug) !== simplifiedCurrentSlug)
       .filter((file) => !file.frontmatter?.draft)
       .map((file) => {
         const tags = (file.frontmatter?.tags ?? []) as string[]
@@ -62,8 +71,12 @@ export default ((opts?: Partial<RelatedNotesOptions>) => {
         <h3>{options.heading}</h3>
         <ul class="related-notes-grid">
           {related.map((item) => {
+            if (!item.file.slug) {
+              return null
+            }
+
             const title = item.file.frontmatter?.title ?? item.file.slug ?? "Untitled"
-            const href = resolveRelative(fileData.slug!, item.file.slug!)
+            const href = resolveRelative(currentSlug, item.file.slug)
             const tagLabel = item.sharedTags.slice(0, 3).join(", ")
             return (
               <li>

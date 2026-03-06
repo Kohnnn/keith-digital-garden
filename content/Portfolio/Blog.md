@@ -1,183 +1,124 @@
 ---
-title: Market Log
-tags: [portfolio, blog]
+title: Research Notes
+tags: [portfolio, research, writing]
 draft: false
-description: Visual explainer library and market research notes.
+description: Writing index for market memos, frameworks, and selected note labs.
 created: 2026-01-30
 updated: 2026-03-06
 aliases: [Blog]
-cssclasses: [market-log-subblogs]
+cssclasses: [portfolio-page, research-notes]
 ---
 
-# Market Log
+# Research Notes
 
-This page currently acts as a curated visual explainer library plus a research log scaffold for future dated market entries.
+This page indexes the writing surfaces that sit closest to the operating workflow: weekly market context, framework notes, and selected interactive labs.
 
-## featured sub blogs
+## Writing system
 
-### featured source
-
-<div class="subblog-source-card">
-  <p class="source-label">featured source</p>
-  <h3><a href="https://ciechanow.ski/archives/" target="_blank" rel="noopener noreferrer">Bartosz Ciechanowski // Archives</a></h3>
-  <p>Deep visual explainers with interactive canvas demos and physics-first storytelling.</p>
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">Recurring output</span>
+    <p>Weekly market memos and standing framework notes tied to actual review loops.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Why it matters</span>
+    <p>Writing is used to clarify positioning, preserve context, and keep research decisions auditable.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Secondary layer</span>
+    <p>Interactive notes show how I break down technical systems, not just how I trade or model.</p>
+  </div>
 </div>
 
-### archive index (date / title / tags)
+## Current writing streams
 
-<div class="subblog-list" role="list" aria-label="Featured articles from Ciechanow archives">
+<div class="writing-grid">
+  <a class="writing-card" href="../mark-memo/2026/weekly-market-report-2026-W05">
+    <span class="casefile-label">Weekly memo</span>
+    <h3>Market report, week 05 of 2026</h3>
+    <p>Latest published memo in the archive, combining charts, X-sourced context, and market observations.</p>
+  </a>
+  <a class="writing-card" href="../mark-memo/2026/weekly-market-report-2026-W04">
+    <span class="casefile-label">Weekly memo</span>
+    <h3>Market report, week 04 of 2026</h3>
+    <p>Follow-up market context note with the same reporting structure and chart library.</p>
+  </a>
+  <a class="writing-card" href="./Projects/Investment-Strategy">
+    <span class="casefile-label">Framework</span>
+    <h3>Market cycle playbook</h3>
+    <p>Standing framework note for cycle state, sizing logic, and invalidation rules.</p>
+  </a>
+</div>
+
+## Research surfaces
+
+<div class="subblog-list" role="list" aria-label="Selected research and note surfaces">
   <div class="subblog-header" aria-hidden="true">
-    <span>Date</span>
-    <span>Title</span>
-    <span>Tags</span>
+    <span>Type</span>
+    <span>Surface</span>
+    <span>Focus</span>
   </div>
 
-  <a class="subblog-row" href="/Portfolio/Stuffs/Moon">
-    <span>2024-12-17</span>
+  <a class="subblog-row" href="./Projects/Crypto-Dashboard">
+    <span>dashboard</span>
+    <span>Crypto dashboard</span>
+    <span>signal triage, cycle state, liquidity context</span>
+  </a>
+
+  <a class="subblog-row" href="./Projects/Option-Pricing">
+    <span>quant</span>
+    <span>Option pricing</span>
+    <span>valuation models, Greeks, scenario analysis</span>
+  </a>
+
+  <a class="subblog-row" href="../Notes/Moon">
+    <span>interactive note</span>
     <span>Moon</span>
-    <span>astronomy, simulation, native</span>
+    <span>lighting, geometry, visual explanation</span>
   </a>
 
-  <a class="subblog-row" href="/Portfolio/Stuffs/Airfoil">
-    <span>2024-02-27</span>
-    <span>Airfoil</span>
-    <span>aerodynamics, physics, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Bicycle">
-    <span>2023-03-28</span>
-    <span>Bicycle</span>
-    <span>mechanics, kinematics, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Sound">
-    <span>2022-10-18</span>
-    <span>Sound</span>
-    <span>waves, audio, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Mechanical-Watch">
-    <span>2022-05-04</span>
-    <span>Mechanical Watch</span>
-    <span>engineering, timekeeping, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/GPS">
-    <span>2022-01-18</span>
+  <a class="subblog-row" href="../Notes/GPS">
+    <span>interactive note</span>
     <span>GPS</span>
-    <span>navigation, satellites, native</span>
+    <span>trilateration, noise, confidence geometry</span>
   </a>
 
-  <a class="subblog-row" href="/Portfolio/Stuffs/Curves-and-Surfaces">
-    <span>2021-11-02</span>
-    <span>Curves and Surfaces</span>
-    <span>geometry, graphics, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Naval-Architecture">
-    <span>2021-07-27</span>
-    <span>Naval Architecture</span>
-    <span>ships, buoyancy, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Internal-Combustion-Engine">
-    <span>2021-04-29</span>
-    <span>Internal Combustion Engine</span>
-    <span>thermodynamics, engines, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Cameras-and-Lenses">
-    <span>2020-12-07</span>
-    <span>Cameras and Lenses</span>
-    <span>optics, photography, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Lights-and-Shadows">
-    <span>2020-07-01</span>
-    <span>Lights and Shadows</span>
-    <span>rendering, light, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Gears">
-    <span>2020-02-12</span>
-    <span>Gears</span>
-    <span>mechanics, motion, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Tesseract">
-    <span>2019-12-10</span>
-    <span>Tesseract</span>
-    <span>math, 4d, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Earth-and-Sun">
-    <span>2019-10-16</span>
-    <span>Earth and Sun</span>
-    <span>astronomy, orbit, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Alpha-Compositing">
-    <span>2019-07-24</span>
-    <span>Alpha Compositing</span>
-    <span>graphics, blending, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Color-Spaces">
-    <span>2019-02-15</span>
-    <span>Color Spaces</span>
-    <span>color, visualization, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Exposing-Floating-Point">
-    <span>2019-01-01</span>
-    <span>Exposing Floating Point</span>
-    <span>numbers, computation, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Mesh-Transforms">
-    <span>2014-05-14</span>
-    <span>Mesh Transforms</span>
-    <span>graphics, transforms, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Exposing-NSDictionary">
-    <span>2014-04-08</span>
-    <span>Exposing NSDictionary</span>
-    <span>ios, internals, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Exposing-NSMutableArray">
-    <span>2014-03-05</span>
-    <span>Exposing NSMutableArray</span>
-    <span>ios, internals, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Drawing-Bezier-Curves">
-    <span>2014-02-18</span>
-    <span>Drawing Bezier Curves</span>
-    <span>curves, graphics, native</span>
-  </a>
-
-  <a class="subblog-row" href="/Portfolio/Stuffs/Exploring-GPGPU-on-iOS">
-    <span>2014-01-05</span>
-    <span>Exploring GPGPU on iOS</span>
-    <span>ios, compute, native</span>
+  <a class="subblog-row" href="../Notes/Color-Spaces">
+    <span>interactive note</span>
+    <span>Color spaces</span>
+    <span>RGB intuition, luminance, perceptual tradeoffs</span>
   </a>
 </div>
 
-### interactive behavior
+## Research stack
 
-- Each article opens as its own blog page in this garden.
-- Every listed page now runs a native simulation in your own frontend runtime.
-- All interactions are local HTML5/Canvas/WebGL controls, not external iframe embeds.
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Observe</strong>
+    Weekly memos and dashboards preserve market-state changes as they happen.
+  </div>
+  <div class="decision-card">
+    <strong>Frame</strong>
+    Standing framework notes convert recurring questions into reusable logic.
+  </div>
+  <div class="decision-card">
+    <strong>Test</strong>
+    Interactive note labs force concepts to become concrete and inspectable.
+  </div>
+  <div class="decision-card">
+    <strong>Reuse</strong>
+    Outputs feed back into future memos, dashboards, and portfolio decisions.
+  </div>
+</div>
 
-## status
+## Notes policy
 
-- Legacy posts still exist in the old portfolio site.
-- This Quartz page now hosts native interactive remixes in `Portfolio/Stuffs`.
-- Next expansion: add original dated market notes authored directly in this garden.
+- Published research stays close to actual working questions or tools.
+- Interactive notes are kept because they show how I think through systems, not just what I trade or model.
+- `Notes/*` now replaces the old `Portfolio/Stuffs/*` path, with redirects preserved for old links.
 
-## links
+## Links
 
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio/Portfolio|Portfolio hub]]
+- [[Notes/Moon|Notes section]]

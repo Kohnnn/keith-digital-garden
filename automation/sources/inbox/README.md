@@ -57,6 +57,7 @@ https://x.com/federalreserve/status/...
 - High coverage: 100+ links/week
 
 For 10-week bulk updates:
+
 - Optimal total volume: 600-800 links (about 60-80 per week).
 
 ## Processing command (weekly)
@@ -74,11 +75,13 @@ python "automation/scripts/process_weekly_x_links.py" --output-dir "content/atta
 ```
 
 Outputs in week folder:
+
 - `source-manifest.md`
 - `weekly_x_context.json`
 - downloaded local chart images
 
 Archive output:
+
 - `automation/sources/archive/<year>/<year>-W<week>-x-posts.md`
 
 ## Batch run tip (10 weeks)

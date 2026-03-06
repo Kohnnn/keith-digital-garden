@@ -103,15 +103,13 @@ updated: YYYY-MM-DD
 ```json
 {
   "week": "2025-W01",
-  "range": {"start": "2024-12-30", "end": "2025-01-05"},
+  "range": { "start": "2024-12-30", "end": "2025-01-05" },
   "summary": ["..."],
   "keySignals": ["..."],
   "risks": ["..."],
   "thesis": "",
   "workingTitle": "Weekly Market Report 2025-W01",
   "imageQuery": "",
-  "sources": [
-    {"title": "...", "url": "...", "channel": "...", "publishedAt": "YYYY-MM-DD"}
-  ]
+  "sources": [{ "title": "...", "url": "...", "channel": "...", "publishedAt": "YYYY-MM-DD" }]
 }
 ```

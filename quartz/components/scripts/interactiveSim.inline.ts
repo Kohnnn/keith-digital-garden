@@ -27,7 +27,9 @@ const formatRangeValue = (input: HTMLInputElement) => {
 }
 
 const setupRangeOutputs = (root: HTMLElement) => {
-  const ranges = root.querySelectorAll<HTMLInputElement>('.interactive-sim-control input[type="range"]')
+  const ranges = root.querySelectorAll<HTMLInputElement>(
+    '.interactive-sim-control input[type="range"]',
+  )
   const updates: Array<() => void> = []
   for (const range of ranges) {
     const parent = range.closest(".interactive-sim-control")
@@ -219,11 +221,7 @@ const mountMoon = (root: HTMLElement): SimController | null => {
 
   const buffer = gl.createBuffer()
   gl.bindBuffer(gl.ARRAY_BUFFER, buffer)
-  gl.bufferData(
-    gl.ARRAY_BUFFER,
-    new Float32Array([-1, -1, 1, -1, -1, 1, 1, 1]),
-    gl.STATIC_DRAW,
-  )
+  gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1, -1, 1, -1, -1, 1, 1, 1]), gl.STATIC_DRAW)
 
   const aPos = gl.getAttribLocation(program, "aPos")
   const uResolution = gl.getUniformLocation(program, "uResolution")
@@ -360,8 +358,22 @@ const mountAirfoil = (root: HTMLElement): SimController | null => {
     ctx.rotate(alpha)
     ctx.beginPath()
     ctx.moveTo(-chord * 0.52, 0)
-    ctx.bezierCurveTo(-chord * 0.42, -thick * 0.95, chord * 0.18, -thick * 0.68, chord * 0.5, -thick * 0.08)
-    ctx.bezierCurveTo(chord * 0.52, -thick * 0.04, chord * 0.52, thick * 0.04, chord * 0.5, thick * 0.08)
+    ctx.bezierCurveTo(
+      -chord * 0.42,
+      -thick * 0.95,
+      chord * 0.18,
+      -thick * 0.68,
+      chord * 0.5,
+      -thick * 0.08,
+    )
+    ctx.bezierCurveTo(
+      chord * 0.52,
+      -thick * 0.04,
+      chord * 0.52,
+      thick * 0.04,
+      chord * 0.5,
+      thick * 0.08,
+    )
     ctx.bezierCurveTo(chord * 0.18, thick * 0.68, -chord * 0.42, thick * 0.95, -chord * 0.52, 0)
     ctx.closePath()
     ctx.fillStyle = "#e2bc22"
@@ -524,7 +536,10 @@ const mountBicycle = (root: HTMLElement): SimController | null => {
       y: state.y + Math.sin(state.heading) * wheelBase,
     }
 
-    if (trail.length === 0 || Math.hypot(rear.x - trail[trail.length - 1].x, rear.y - trail[trail.length - 1].y) > 0.006) {
+    if (
+      trail.length === 0 ||
+      Math.hypot(rear.x - trail[trail.length - 1].x, rear.y - trail[trail.length - 1].y) > 0.006
+    ) {
       trail.push({ ...rear })
       if (trail.length > 900) trail.shift()
     }
@@ -830,7 +845,14 @@ const mountMechanicalWatch = (root: HTMLElement): SimController | null => {
     const r2 = r1 * ratio
     const r3 = r1 * 0.75
 
-    drawGear(cx - r1 - r2 + 8, cy, r2, Math.max(8, Math.floor(24 * ratio)), -angle / ratio, "#c5a03b")
+    drawGear(
+      cx - r1 - r2 + 8,
+      cy,
+      r2,
+      Math.max(8, Math.floor(24 * ratio)),
+      -angle / ratio,
+      "#c5a03b",
+    )
     drawGear(cx, cy, r1, 24, angle, "#b9c8d0")
     drawGear(cx + r1 + r3 - 8, cy, r3, 18, -angle * 1.35, "#94b4c1")
 
@@ -910,9 +932,15 @@ const mountGPS = (root: HTMLElement): SimController | null => {
   let raf = 0
   let running = false
 
-  const satPos = (phase: number, radius: number) => ({ x: Math.cos(phase) * radius, y: Math.sin(phase) * radius })
+  const satPos = (phase: number, radius: number) => ({
+    x: Math.cos(phase) * radius,
+    y: Math.sin(phase) * radius,
+  })
 
-  const toPx = (w: number, h: number, x: number, y: number) => ({ x: w * 0.5 + x * w * 0.42, y: h * 0.55 - y * h * 0.42 })
+  const toPx = (w: number, h: number, x: number, y: number) => ({
+    x: w * 0.5 + x * w * 0.42,
+    y: h * 0.55 - y * h * 0.42,
+  })
 
   const draw = () => {
     if (!running) return
@@ -924,11 +952,7 @@ const mountGPS = (root: HTMLElement): SimController | null => {
     ctx.fillStyle = "#0b1017"
     ctx.fillRect(0, 0, w, h)
 
-    const sats = [
-      satPos(t + 0.2, 0.95),
-      satPos(t + 2.5, 0.82),
-      satPos(t + 4.1, 1.04),
-    ]
+    const sats = [satPos(t + 0.2, 0.95), satPos(t + 2.5, 0.82), satPos(t + 4.1, 1.04)]
 
     const rp = toPx(w, h, rx, ry)
     for (const sat of sats) {
@@ -1515,12 +1539,7 @@ const mountTesseract = (root: HTMLElement): SimController | null => {
 
   const vertices: number[][] = []
   for (let i = 0; i < 16; i++) {
-    vertices.push([
-      i & 1 ? 1 : -1,
-      i & 2 ? 1 : -1,
-      i & 4 ? 1 : -1,
-      i & 8 ? 1 : -1,
-    ])
+    vertices.push([i & 1 ? 1 : -1, i & 2 ? 1 : -1, i & 4 ? 1 : -1, i & 8 ? 1 : -1])
   }
   const edges: [number, number][] = []
   for (let i = 0; i < 16; i++) {
@@ -1674,7 +1693,11 @@ const mountColorSpaces = (root: HTMLElement): SimController | null => {
     const luma = 0.2126 * r + 0.7152 * g + 0.0722 * b
     ctx.fillStyle = "rgba(234,224,207,0.9)"
     ctx.font = '500 12px "IBM Plex Mono", monospace'
-    ctx.fillText(`RGB(${Math.round(r * 255)}, ${Math.round(g * 255)}, ${Math.round(b * 255)})`, w * 0.06, h * 0.86)
+    ctx.fillText(
+      `RGB(${Math.round(r * 255)}, ${Math.round(g * 255)}, ${Math.round(b * 255)})`,
+      w * 0.06,
+      h * 0.86,
+    )
     ctx.fillText(`Luma ${luma.toFixed(3)}`, w * 0.72, h * 0.64)
   }
 
@@ -1886,7 +1909,7 @@ const mountFloatingPoint = (root: HTMLElement): SimController | null => {
     ctx.fillText(`mantissa=${man}`, x, h * 0.54)
 
     const nextValue = value + step
-    ctx.fillText(`next representable probe: ${(Math.fround(nextValue)).toPrecision(8)}`, x, h * 0.66)
+    ctx.fillText(`next representable probe: ${Math.fround(nextValue).toPrecision(8)}`, x, h * 0.66)
   }
 
   const onValue = () => {
@@ -2188,7 +2211,15 @@ const mountCamerasAndLenses = (root: HTMLElement): SimController | null => {
   let objectDist = Number(objectInput.value)
   let raf = 0
 
-  const drawRay = (x0: number, y0: number, x1: number, y1: number, x2: number, y2: number, color: string) => {
+  const drawRay = (
+    x0: number,
+    y0: number,
+    x1: number,
+    y1: number,
+    x2: number,
+    y2: number,
+    color: string,
+  ) => {
     ctx.strokeStyle = color
     ctx.lineWidth = 1.4
     ctx.beginPath()
@@ -2211,7 +2242,6 @@ const mountCamerasAndLenses = (root: HTMLElement): SimController | null => {
     const sensorX = w * 0.86
     const objX = lensX - objectDist * w * 0.34
     const objH = h * 0.18
-    const fPx = focal * w * 0.2
 
     ctx.strokeStyle = "rgba(111, 143, 163, 0.58)"
     ctx.lineWidth = 1
@@ -2246,7 +2276,15 @@ const mountCamerasAndLenses = (root: HTMLElement): SimController | null => {
     ctx.lineTo(sensorX, axisY + h * 0.26)
     ctx.stroke()
 
-    drawRay(objX, axisY - objH, lensX, axisY - objH, imageX, axisY + imageH, "rgba(18,115,181,0.68)")
+    drawRay(
+      objX,
+      axisY - objH,
+      lensX,
+      axisY - objH,
+      imageX,
+      axisY + imageH,
+      "rgba(18,115,181,0.68)",
+    )
     drawRay(objX, axisY - objH, lensX, axisY, imageX, axisY + imageH, "rgba(181,128,32,0.65)")
 
     ctx.strokeStyle = "#1a2c3a"
@@ -2258,7 +2296,11 @@ const mountCamerasAndLenses = (root: HTMLElement): SimController | null => {
 
     ctx.fillStyle = "#0f2845"
     ctx.font = '500 12px "IBM Plex Mono", monospace'
-    ctx.fillText(`f=${focal.toFixed(2)}  aperture=${aperture.toFixed(2)}  object=${objectDist.toFixed(2)}`, 12, 22)
+    ctx.fillText(
+      `f=${focal.toFixed(2)}  aperture=${aperture.toFixed(2)}  object=${objectDist.toFixed(2)}`,
+      12,
+      22,
+    )
     ctx.fillText(`image distance ~ ${diN.toFixed(2)}`, 12, 40)
 
     raf = requestAnimationFrame(draw)
@@ -2379,7 +2421,11 @@ const mountLightsAndShadows = (root: HTMLElement): SimController | null => {
 
     ctx.fillStyle = "rgba(234,224,207,0.85)"
     ctx.font = '500 12px "IBM Plex Mono", monospace'
-    ctx.fillText(`angle ${(angle / DEG).toFixed(1)}deg  height ${height.toFixed(2)}  softness ${softness.toFixed(2)}`, 12, 22)
+    ctx.fillText(
+      `angle ${(angle / DEG).toFixed(1)}deg  height ${height.toFixed(2)}  softness ${softness.toFixed(2)}`,
+      12,
+      22,
+    )
 
     raf = requestAnimationFrame(draw)
   }
@@ -2487,7 +2533,11 @@ const mountMeshTransforms = (root: HTMLElement): SimController | null => {
 
     ctx.fillStyle = "#0f2845"
     ctx.font = '500 12px "IBM Plex Mono", monospace'
-    ctx.fillText(`rot ${(rotate / DEG).toFixed(1)}deg  scale ${scale.toFixed(2)}  shear ${shear.toFixed(2)}`, 12, 22)
+    ctx.fillText(
+      `rot ${(rotate / DEG).toFixed(1)}deg  scale ${scale.toFixed(2)}  shear ${shear.toFixed(2)}`,
+      12,
+      22,
+    )
 
     raf = requestAnimationFrame(draw)
   }
@@ -2788,7 +2838,11 @@ const mountExposingNSDictionary = (root: HTMLElement): SimController | null => {
 
     ctx.fillStyle = "#0f2845"
     ctx.font = '500 12px "IBM Plex Mono", monospace'
-    ctx.fillText(`keys=${Math.floor(keys)} buckets=${Math.floor(buckets)} load=${(keys / Math.max(1, buckets)).toFixed(2)}`, 12, 22)
+    ctx.fillText(
+      `keys=${Math.floor(keys)} buckets=${Math.floor(buckets)} load=${(keys / Math.max(1, buckets)).toFixed(2)}`,
+      12,
+      22,
+    )
     ctx.fillText(`collisions=${collisions}`, 12, 40)
   }
 
@@ -3002,7 +3056,11 @@ const mountExploringGPGPUOnIOS = (root: HTMLElement): SimController | null => {
 
     ctx.fillStyle = "rgba(234,224,207,0.86)"
     ctx.font = '500 12px "IBM Plex Mono", monospace'
-    ctx.fillText(`particles=${count} force=${force.toFixed(2)} damping=${damping.toFixed(3)}`, 12, 22)
+    ctx.fillText(
+      `particles=${count} force=${force.toFixed(2)} damping=${damping.toFixed(3)}`,
+      12,
+      22,
+    )
     ctx.fillText("CPU implementation inspired by GPU-style parallel updates", 12, 40)
 
     time += 0.016

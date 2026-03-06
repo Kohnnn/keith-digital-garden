@@ -13,20 +13,23 @@ This pipeline turns source links into AI-assisted drafts while preserving the aa
 
 ## Stages
 
-1) Intake
+1. Intake
+
 - Read URLs from `automation/sources/inbox/`.
 - Detect source type: YouTube, Substack, or web article.
 - Expand profiles/playlists into item URLs (YouTube channel/playlist, Substack `/feed`).
 - Deduplicate by URL hash.
 
-2) Evidence
+2. Evidence
+
 - YouTube: `yt-dlp` metadata + captions.
 - Substack: RSS or article HTML.
 - Web: HTML fetch + metadata extraction.
 - Store normalized records in `automation/raw/`.
 - Evidence packs are small, factual summaries used to draft.
 
-3) Preflight (single approval)
+3. Preflight (single approval)
+
 - Generate a 100-item pack:
   - Working title
   - One-line thesis
@@ -36,11 +39,13 @@ This pipeline turns source links into AI-assisted drafts while preserving the aa
 - Human flips `approved: true` in the pack once.
 
 3a) Weekly preflight (market reports)
+
 - Group YouTube videos by ISO week for the target year.
 - Merge all channels into one report per week.
 - Build and cache a weekly evidence pack for each week.
 
-4) Draft generation
+4. Draft generation
+
 - Build drafts from evidence packs using the aarnphm template.
 - Apply a fixed personality mix for the batch.
 - Insert callouts and inline references.
@@ -49,10 +54,12 @@ This pipeline turns source links into AI-assisted drafts while preserving the aa
 - Images are optional and only included when a relevant chart source is found.
 
 4a) Weekly report generation
+
 - Writes to `content/AI_Sandbox/Market_Reports/<year>/`.
 - Includes a source video callout for traceability.
 
-5) Archive
+5. Archive
+
 - Move processed input files to `automation/sources/archived/YYYY-MM/`.
 - Write a run report to `automation/output/reports/`.
 

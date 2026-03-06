@@ -1,29 +1,30 @@
 ---
-title: Signal Ports
+title: Contact
 tags: [portfolio, contact]
 draft: false
 description: Contact channels and collaboration preferences.
 created: 2026-01-30
 updated: 2026-03-06
 aliases: [Contact]
+cssclasses: [portfolio-page]
 ---
 
-# Signal Ports
+# Contact
 
 Open to conversations around research analyst, quant research, and portfolio strategy roles.
 
-## direct
+## Direct
 
 - Email: kiet.vph@gmail.com
 - Phone: +84 946 646 335
 - Location: Ho Chi Minh City, Vietnam
 
-## preferred contact
+## Preferred contact
 
-- Best channel: Email (fastest response)
-- Useful context in first message: role type, scope, timeline, and expected outcomes
+- Best channel: Email
+- Useful context in the first message: role type, scope, timeline, and expected outcomes
 
-## social
+## Social
 
 - LinkedIn: https://linkedin.com/in/kiet-vo-097
 - GitHub: https://github.com/Kohnnn

@@ -13,8 +13,24 @@ const StackedNotes: QuartzComponent = () => (
   >
     Stack
     <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <circle cx="14" cy="12" r="5" opacity="0.9" fill="none" stroke="currentColor" stroke-width="2" />
-      <circle cx="10" cy="12" r="5" opacity="0.5" fill="none" stroke="currentColor" stroke-width="2" />
+      <circle
+        cx="14"
+        cy="12"
+        r="5"
+        opacity="0.9"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+      />
+      <circle
+        cx="10"
+        cy="12"
+        r="5"
+        opacity="0.5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+      />
     </svg>
   </button>
 )

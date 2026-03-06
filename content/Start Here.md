@@ -1,25 +1,27 @@
 ---
 title: Start Here
-tags: [garden, guide]
+tags: [guide, portfolio]
 draft: false
-description: Orientation for the Project Obsidian digital garden.
+description: Orientation for the Keith Kitchen site structure.
 created: 2026-01-30
-updated: 2026-01-30
+updated: 2026-03-06
+cssclasses: [portfolio-page]
 ---
 
 # Start Here
 
-This note is the orientation hub for the digital garden.
+If you are evaluating the portfolio, start with the curated pages first.
 
-## What this site is
-- A public-facing Obsidian vault powered by Quartz v4.
-- A knowledge garden with linked notes and evolving ideas.
+## Recommended route
 
-## How to navigate
-- Use the left Explorer to browse folders.
-- Use the graph and backlinks to discover related notes.
-- Start with [[About]] for intent and scope.
-- Use [[index|Kiet Vo // Quant Ops]] as the main dashboard.
-- Visit [[Portfolio/Portfolio]] for the portfolio hub.
+- [[index|Homepage]] for the short positioning statement
+- [[Portfolio/Projects|Casefiles]] for product, quant, and automation work
+- [[Portfolio/Resume|Experience log]] for sell-side, research, and credit experience
+- [[Portfolio/Blog|Research notes]] for dated market work and published writing
+- [[Portfolio/Contact|Contact]] if you want to continue the conversation
 
-#
+## If you want the note network
+
+- `Notes/*` contains interactive explainers and technical curiosities.
+- `mark-memo/*` contains weekly market reports and working research artifacts.
+- The broader Quartz mechanics are still available on note pages even though the portfolio surfaces are intentionally cleaner.

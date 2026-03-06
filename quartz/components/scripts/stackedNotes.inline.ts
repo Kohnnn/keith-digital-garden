@@ -31,11 +31,7 @@ const renderPrimary = (primary: HTMLElement) => {
   primary.replaceChildren(clone)
 }
 
-const renderSecondary = async (
-  targetUrl: URL,
-  secondary: HTMLElement,
-  meta: HTMLElement,
-) => {
+const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTMLElement) => {
   secondary.replaceChildren()
   const loading = document.createElement("p")
   loading.className = "stacked-note-loading"
@@ -84,7 +80,9 @@ const setupStackMode = () => {
   const closeButton = document.getElementById("stacked-notes-close") as HTMLButtonElement | null
   const primary = document.querySelector("[data-stack-content='primary']") as HTMLElement | null
   const secondary = document.querySelector("[data-stack-content='secondary']") as HTMLElement | null
-  const secondaryMeta = document.querySelector("[data-stack-meta='secondary']") as HTMLElement | null
+  const secondaryMeta = document.querySelector(
+    "[data-stack-meta='secondary']",
+  ) as HTMLElement | null
   const primaryMeta = document.querySelector("[data-stack-meta='primary']") as HTMLElement | null
 
   if (!toggle || !container || !closeButton || !primary || !secondary || !secondaryMeta) return

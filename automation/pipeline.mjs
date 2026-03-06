@@ -22,22 +22,22 @@ const PATHS = {
   outputReports: path.join(__dirname, "output", "reports"),
   contentSandbox: path.join(REPO_ROOT, "content", "AI_Sandbox"),
   contentOut: path.join(REPO_ROOT, "content", "mark-memo"),
-  contentNews: path.join(REPO_ROOT, "content", "mark-memo", "news")
+  contentNews: path.join(REPO_ROOT, "content", "mark-memo", "news"),
 }
 
 const DEFAULT_CONFIG = {
   pplx: {
     apiKeyEnv: "PPLX_API_KEY",
     baseUrl: "https://api.perplexity.ai",
-    model: "perplexity/sonar-pro"
+    model: "perplexity/sonar-pro",
   },
   brave: {
     apiKeyEnv: "BRAVE_API_KEY",
-    baseUrl: "https://api.search.brave.com/res/v1"
+    baseUrl: "https://api.search.brave.com/res/v1",
   },
   serper: {
     apiKeyEnv: "SERPER_API_KEY",
-    baseUrl: "https://google.serper.dev"
+    baseUrl: "https://google.serper.dev",
   },
   ytDlp: {
     jsRuntime: "node",
@@ -45,16 +45,16 @@ const DEFAULT_CONFIG = {
     maxSleepInterval: 10,
     sleepRequests: 3,
     cookiesFromBrowser: "",
-    subLangs: "vi,en"
+    subLangs: "vi,en",
   },
   limits: {
     maxPosts: 100,
     maxYouTubeItems: 200,
-    maxSubstackItems: 200
+    maxSubstackItems: 200,
   },
   persona: {
-    mix: ["analytical", "reflective", "warm"]
-  }
+    mix: ["analytical", "reflective", "warm"],
+  },
 }
 
 const argv = process.argv.slice(2)
@@ -115,7 +115,11 @@ const applyEnvMapping = (key, value) => {
   const upperKey = rawKey.toUpperCase().replace(/[^A-Z0-9_]/g, "")
   let envKey = ""
 
-  if (upperKey.startsWith("PPLX") || upperKey.startsWith("BRAVE") || upperKey.startsWith("SERPER")) {
+  if (
+    upperKey.startsWith("PPLX") ||
+    upperKey.startsWith("BRAVE") ||
+    upperKey.startsWith("SERPER")
+  ) {
     envKey = upperKey
   } else if (rawKey === "apiKey" && value.startsWith("pplx-")) {
     envKey = "PPLX_API_KEY"
@@ -175,7 +179,7 @@ const loadConfig = async () => {
       serper: { ...config.serper, ...parsed.serper },
       ytDlp: { ...config.ytDlp, ...parsed.ytDlp },
       limits: { ...config.limits, ...parsed.limits },
-      persona: { ...config.persona, ...parsed.persona }
+      persona: { ...config.persona, ...parsed.persona },
     }
   }
 
@@ -303,8 +307,8 @@ const writeTranscriptLog = async (line) => {
 const fetchHtml = async (url) => {
   const response = await fetch(url, {
     headers: {
-      "User-Agent": "Mozilla/5.0 (compatible; QuartzBot/1.0)"
-    }
+      "User-Agent": "Mozilla/5.0 (compatible; QuartzBot/1.0)",
+    },
   })
   if (!response.ok) {
     throw new Error(`Fetch failed: ${response.status} ${response.statusText}`)
@@ -316,7 +320,7 @@ const extractMeta = (html, keys) => {
   for (const key of keys) {
     const pattern = new RegExp(
       `<meta[^>]+(?:property|name)=["']${key}["'][^>]+content=["']([^"']+)["'][^>]*>`,
-      "i"
+      "i",
     )
     const match = html.match(pattern)
     if (match && match[1]) return match[1].trim()
@@ -413,7 +417,7 @@ const STOPWORDS = new Set([
   "today",
   "week",
   "market",
-  "markets"
+  "markets",
 ])
 
 const extractTopTerms = (text, limit = 6) => {
@@ -524,7 +528,7 @@ const AD_TERMS = [
   "giveaway",
   "khuyến mãi",
   "mã giảm",
-  "ưu đãi"
+  "ưu đãi",
 ]
 
 const isAdSentence = (sentence) => {
@@ -559,7 +563,7 @@ const buildFocusedReportFromTranscripts = (
   focusText,
   macroText,
   focusTitles,
-  macroTitles
+  macroTitles,
 ) => {
   const cleanedFocus = cleanTranscript(focusText)
   const cleanedMacro = cleanTranscript(macroText)
@@ -581,40 +585,76 @@ const buildFocusedReportFromTranscripts = (
   }
 
   const summarySignals = [
-    { keywords: ["fomc", "fed", "lãi suất"], bullet: "Rates stayed the weekly ceiling; the Fed narrative still anchors risk." },
-    { keywords: ["trái phiếu", "yield", "bond"], bullet: "Bond auctions/yields were the pressure point behind the tape." },
-    { keywords: ["tín dụng", "credit"], bullet: "Consumer credit stress showed up beneath the surface." },
-    { keywords: ["lạm phát", "cpi", "ppi", "inflation"], bullet: "Inflation stayed sticky; disinflation is uneven." },
-    { keywords: ["việc làm", "jobs", "thất nghiệp"], bullet: "Labor data stayed mixed, keeping policy uncertainty high." },
-    { keywords: ["tesla", "nvda", "nvidia", "apple", "meta"], bullet: "Mega‑cap leadership drove the tape more than breadth." },
+    {
+      keywords: ["fomc", "fed", "lãi suất"],
+      bullet: "Rates stayed the weekly ceiling; the Fed narrative still anchors risk.",
+    },
+    {
+      keywords: ["trái phiếu", "yield", "bond"],
+      bullet: "Bond auctions/yields were the pressure point behind the tape.",
+    },
+    {
+      keywords: ["tín dụng", "credit"],
+      bullet: "Consumer credit stress showed up beneath the surface.",
+    },
+    {
+      keywords: ["lạm phát", "cpi", "ppi", "inflation"],
+      bullet: "Inflation stayed sticky; disinflation is uneven.",
+    },
+    {
+      keywords: ["việc làm", "jobs", "thất nghiệp"],
+      bullet: "Labor data stayed mixed, keeping policy uncertainty high.",
+    },
+    {
+      keywords: ["tesla", "nvda", "nvidia", "apple", "meta"],
+      bullet: "Mega‑cap leadership drove the tape more than breadth.",
+    },
     { keywords: ["trung quốc", "china"], bullet: "China headlines remained a macro overhang." },
     { keywords: ["vàng", "gold"], bullet: "Gold acted as a risk barometer, not a trend signal." },
-    { keywords: ["khủng bố", "terror"], bullet: "Geopolitical risk premium briefly resurfaced — khá căng." }
+    {
+      keywords: ["khủng bố", "terror"],
+      bullet: "Geopolitical risk premium briefly resurfaced — khá căng.",
+    },
   ]
 
   const ratesSignals = [
-    { keywords: ["lãi suất", "rate", "fomc", "fed"], bullet: "Rate expectations still dominate risk appetite." },
-    { keywords: ["trái phiếu", "yield", "bond"], bullet: "Bond tone stayed fragile, keeping equity risk capped." },
+    {
+      keywords: ["lãi suất", "rate", "fomc", "fed"],
+      bullet: "Rate expectations still dominate risk appetite.",
+    },
+    {
+      keywords: ["trái phiếu", "yield", "bond"],
+      bullet: "Bond tone stayed fragile, keeping equity risk capped.",
+    },
     { keywords: ["thanh khoản", "liquidity"], bullet: "Liquidity is the real throttle this week." },
-    { keywords: ["tín dụng", "credit"], bullet: "Credit data hints at stress under the surface." }
+    { keywords: ["tín dụng", "credit"], bullet: "Credit data hints at stress under the surface." },
   ]
 
   const equitySignals = [
-    { keywords: ["chứng khoán", "cổ phiếu", "stock", "equity"], bullet: "Equities looked selective, not broad‑based." },
-    { keywords: ["nvda", "nvidia", "tesla", "apple", "meta"], bullet: "Single‑name leadership mattered more than indices." },
-    { keywords: ["earnings", "kết quả"], bullet: "Earnings tone still decides the next leg." }
+    {
+      keywords: ["chứng khoán", "cổ phiếu", "stock", "equity"],
+      bullet: "Equities looked selective, not broad‑based.",
+    },
+    {
+      keywords: ["nvda", "nvidia", "tesla", "apple", "meta"],
+      bullet: "Single‑name leadership mattered more than indices.",
+    },
+    { keywords: ["earnings", "kết quả"], bullet: "Earnings tone still decides the next leg." },
   ]
 
   const commoditySignals = [
     { keywords: ["usd", "dollar", "dxy", "tỷ giá"], bullet: "USD direction set the macro mood." },
     { keywords: ["vàng", "gold"], bullet: "Gold tracked risk‑off chatter more than growth." },
-    { keywords: ["dầu", "oil", "energy"], bullet: "Energy headlines kept volatility elevated." }
+    { keywords: ["dầu", "oil", "energy"], bullet: "Energy headlines kept volatility elevated." },
   ]
 
   const flowSignals = [
     { keywords: ["dòng tiền", "flow", "position"], bullet: "Flows felt tactical, not conviction." },
     { keywords: ["volatility", "vix"], bullet: "Volatility kept positioning cautious." },
-    { keywords: ["options", "gamma"], bullet: "Options positioning continues to shape intraday moves." }
+    {
+      keywords: ["options", "gamma"],
+      bullet: "Options positioning continues to shape intraday moves.",
+    },
   ]
 
   const cryptoSignals = [
@@ -622,7 +662,10 @@ const buildFocusedReportFromTranscripts = (
     { keywords: ["eth", "ethereum"], bullet: "ETH sensitivity to liquidity stayed high." },
     { keywords: ["stablecoin"], bullet: "Stablecoin flow was a key liquidity barometer." },
     { keywords: ["dominance"], bullet: "BTC dominance framed the altcoin risk budget." },
-    { keywords: ["hash", "on-chain"], bullet: "On‑chain activity signaled caution rather than breakout." }
+    {
+      keywords: ["hash", "on-chain"],
+      bullet: "On‑chain activity signaled caution rather than breakout.",
+    },
   ]
 
   const overallSummary = signalMatches(summarySource, summarySignals, 4)
@@ -645,7 +688,7 @@ const buildFocusedReportFromTranscripts = (
     commoditiesFx,
     cryptoMacro,
     positioningFlow,
-    outlook
+    outlook,
   }
 }
 
@@ -668,7 +711,7 @@ const buildCommentaryFromTerms = (terms) => {
     return [
       "Flow feels tactical, not conviction.",
       "I’m watching liquidity and positioning more than narratives.",
-      "Price action looks reactive, not trend‑confirming — khá căng." 
+      "Price action looks reactive, not trend‑confirming — khá căng.",
     ]
   }
 
@@ -678,7 +721,7 @@ const buildCommentaryFromTerms = (terms) => {
   return [
     `The week pivots around ${head}.`,
     `Pressure sits in ${tail || "liquidity, valuation, expectations"}.`,
-    "Flow stays tactical; I don’t see long‑duration conviction yet."
+    "Flow stays tactical; I don’t see long‑duration conviction yet.",
   ]
 }
 
@@ -713,9 +756,7 @@ const buildNarrativeFromSignals = (text) => {
   const lower = text.toLowerCase()
   const sentences = []
   if (lower.includes("tesla") || lower.includes("nvda") || lower.includes("nvidia")) {
-    sentences.push(
-      "My read: leadership is narrow; when Tesla/NVDA wobble, momentum fades fast."
-    )
+    sentences.push("My read: leadership is narrow; when Tesla/NVDA wobble, momentum fades fast.")
   }
   if (lower.includes("trung quốc") || lower.includes("china")) {
     sentences.push("China headlines are a volatility tax, capping follow‑through.")
@@ -736,7 +777,7 @@ const buildOutlookFromTerms = (terms, fallbackTerm) => {
   const focus = terms && terms.length > 0 ? terms[0] : fallbackTerm
   return [
     `Next week, the focus stays on ${focus || "liquidity"}.`,
-    "If the bounce fades, I’ll stay defensive rather than chase."
+    "If the bounce fades, I’ll stay defensive rather than chase.",
   ]
 }
 
@@ -807,7 +848,7 @@ const getIsoWeekRange = (date) => {
   weekEnd.setUTCDate(weekStart.getUTCDate() + 6)
   return {
     start: weekStart.toISOString().slice(0, 10),
-    end: weekEnd.toISOString().slice(0, 10)
+    end: weekEnd.toISOString().slice(0, 10),
   }
 }
 
@@ -851,8 +892,8 @@ const normalizeWebSource = async (url, id) => {
     meta: {
       siteName: extractMeta(html, ["og:site_name"]) || "",
       description,
-      tags: []
-    }
+      tags: [],
+    },
   }
 }
 
@@ -869,8 +910,8 @@ const normalizeSubstackSource = async (url, id, config) => {
   return [
     {
       ...(await normalizeWebSource(url, id)),
-      sourceType: "substack"
-    }
+      sourceType: "substack",
+    },
   ]
 }
 
@@ -905,8 +946,8 @@ const buildYouTubeRecord = (payload, yearFilter, sourceUrl) => {
       siteName: "YouTube",
       description: payload.description || "",
       tags: payload.tags || [],
-      sourceChannelUrl: sourceUrl || ""
-    }
+      sourceChannelUrl: sourceUrl || "",
+    },
   }
 }
 
@@ -918,7 +959,7 @@ const normalizeYouTubeSource = async (
   dateBefore,
   playlistStart,
   playlistEnd,
-  playlistReverse
+  playlistReverse,
 ) => {
   const args = ["--dump-json", "--skip-download"]
   if (dateAfter || dateBefore) {
@@ -983,7 +1024,7 @@ const ensureTranscript = async (config, record) => {
     "vtt",
     "-o",
     outputTemplate,
-    record.url
+    record.url,
   ]
 
   const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
@@ -1075,7 +1116,7 @@ const fetchYouTubeMetadata = async (url, id, yearFilter) => {
       "vtt",
       "-o",
       transcriptPath.replace(/\.vtt$/, ".%(ext)s"),
-      url
+      url,
     ])
   } catch {
     // transcripts optional
@@ -1098,8 +1139,8 @@ const fetchYouTubeMetadata = async (url, id, yearFilter) => {
     meta: {
       siteName: "YouTube",
       description: payload.description || "",
-      tags: payload.tags || []
-    }
+      tags: payload.tags || [],
+    },
   }
 }
 
@@ -1141,7 +1182,7 @@ const normalizeSources = async (urls, config, options = {}) => {
         dateBefore,
         playlistStart,
         playlistEnd,
-        playlistReverse
+        playlistReverse,
       )
       for (const record of expanded) {
         const entryCache = path.join(PATHS.cacheNormalized, `${record.id}.json`)
@@ -1190,13 +1231,13 @@ const callPplx = async (config, messages) => {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`
+      Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
       model: config.pplx.model,
       messages,
-      temperature: 0.3
-    })
+      temperature: 0.3,
+    }),
   })
 
   if (!response.ok) {
@@ -1220,9 +1261,10 @@ const extractJson = (text) => {
 
 const buildEvidencePack = async (config, record) => {
   const sourceText = record.textPath ? await fs.readFile(record.textPath, "utf-8") : ""
-  const transcript = record.transcriptPath && (await fileExists(record.transcriptPath))
-    ? await fs.readFile(record.transcriptPath, "utf-8")
-    : ""
+  const transcript =
+    record.transcriptPath && (await fileExists(record.transcriptPath))
+      ? await fs.readFile(record.transcriptPath, "utf-8")
+      : ""
 
   const trimmedSource = truncateText(sourceText, 12000)
   const trimmedTranscript = truncateText(transcript, 12000)
@@ -1234,7 +1276,7 @@ const buildEvidencePack = async (config, record) => {
 
   const response = await callPplx(config, [
     { role: "system", content: system },
-    { role: "user", content: user }
+    { role: "user", content: user },
   ])
 
   const parsed = extractJson(response)
@@ -1246,7 +1288,7 @@ const buildEvidencePack = async (config, record) => {
     tags: record.meta?.tags || [],
     thesis: "",
     workingTitles: [record.title || ""],
-    imageQuery: ""
+    imageQuery: "",
   }
 }
 
@@ -1265,7 +1307,7 @@ const createPreflight = async (config, records, limit) => {
       thesis: evidence.thesis || "",
       tags: evidence.tags || [],
       draft_path: `content/AI_Sandbox/${draftSlug}.md`,
-      image_query: evidence.imageQuery || ""
+      image_query: evidence.imageQuery || "",
     })
   }
 
@@ -1274,7 +1316,7 @@ const createPreflight = async (config, records, limit) => {
     generated: nowIso(),
     persona_mix: config.persona.mix,
     count: entries.length,
-    entries
+    entries,
   }
 
   return pack
@@ -1304,7 +1346,7 @@ const writePreflight = async (pack) => {
     "---",
     "# Preflight Pack",
     "",
-    "Flip approved: true when ready."
+    "Flip approved: true when ready.",
   ]
 
   for (const entry of pack.entries) {
@@ -1338,8 +1380,8 @@ const searchBraveImages = async (config, query) => {
 
   const response = await fetch(url, {
     headers: {
-      "X-Subscription-Token": apiKey
-    }
+      "X-Subscription-Token": apiKey,
+    },
   })
 
   if (!response.ok) {
@@ -1384,7 +1426,7 @@ const REFERENCE_KEYWORDS = [
   "retail",
   "sales",
   "tariff",
-  "trade"
+  "trade",
 ]
 
 const REFERENCE_BLOCKED_PATTERNS = [
@@ -1394,7 +1436,7 @@ const REFERENCE_BLOCKED_PATTERNS = [
   /\/graphics\//i,
   /\/podcasts\//i,
   /\/live\//i,
-  /\/interactive\//i
+  /\/interactive\//i,
 ]
 
 const isReferenceCandidate = (item) => {
@@ -1415,9 +1457,7 @@ const isReferenceCandidate = (item) => {
 
 const normalizeSearchResults = (items, mapper) => {
   if (!Array.isArray(items)) return []
-  return items
-    .map((item) => mapper(item))
-    .filter((entry) => entry && isReferenceCandidate(entry))
+  return items.map((item) => mapper(item)).filter((entry) => entry && isReferenceCandidate(entry))
 }
 
 const buildSerperTbs = (range) => {
@@ -1433,7 +1473,7 @@ const buildSerperTbs = (range) => {
 
 const serperState = {
   index: 0,
-  exhausted: new Set()
+  exhausted: new Set(),
 }
 
 const getSerperKeys = (config) => {
@@ -1444,7 +1484,7 @@ const getSerperKeys = (config) => {
   const legacyKeys = [
     process.env.SERPER_API_KEY_1,
     process.env.SERPER_API_KEY_2,
-    process.env.SERPER_API_KEY_3
+    process.env.SERPER_API_KEY_3,
   ].filter(Boolean)
 
   keys.push(...legacyKeys)
@@ -1501,9 +1541,9 @@ const searchSerperWeb = async (config, query, limit = 8, options = {}) => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "X-API-KEY": pick.key
+        "X-API-KEY": pick.key,
       },
-      body: JSON.stringify({ q: query, num: limit, tbs })
+      body: JSON.stringify({ q: query, num: limit, tbs }),
     })
 
     let payload = null
@@ -1513,7 +1553,7 @@ const searchSerperWeb = async (config, query, limit = 8, options = {}) => {
         title: item.title || "",
         url: item.link || "",
         snippet: item.snippet || "",
-        date: item.date || ""
+        date: item.date || "",
       }))
     }
 
@@ -1547,9 +1587,9 @@ const searchSerperNews = async (config, query, limit = 8, options = {}) => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "X-API-KEY": pick.key
+        "X-API-KEY": pick.key,
       },
-      body: JSON.stringify({ q: query, num: limit, tbs })
+      body: JSON.stringify({ q: query, num: limit, tbs }),
     })
 
     let payload = null
@@ -1559,7 +1599,7 @@ const searchSerperNews = async (config, query, limit = 8, options = {}) => {
         title: item.title || "",
         url: item.link || "",
         snippet: item.snippet || "",
-        date: item.date || ""
+        date: item.date || "",
       }))
     }
 
@@ -1591,8 +1631,8 @@ const searchBraveWeb = async (config, query, limit = 8) => {
 
   const response = await fetch(url, {
     headers: {
-      "X-Subscription-Token": apiKey
-    }
+      "X-Subscription-Token": apiKey,
+    },
   })
 
   if (!response.ok) return []
@@ -1602,7 +1642,7 @@ const searchBraveWeb = async (config, query, limit = 8) => {
     title: item.title || "",
     url: item.url || "",
     snippet: item.description || "",
-    date: item.age || ""
+    date: item.age || "",
   }))
 }
 
@@ -1616,8 +1656,8 @@ const searchBraveNews = async (config, query, limit = 8) => {
 
   const response = await fetch(url, {
     headers: {
-      "X-Subscription-Token": apiKey
-    }
+      "X-Subscription-Token": apiKey,
+    },
   })
 
   if (!response.ok) return []
@@ -1627,7 +1667,7 @@ const searchBraveNews = async (config, query, limit = 8) => {
     title: item.title || "",
     url: item.url || "",
     snippet: item.description || "",
-    date: item.published || item.age || ""
+    date: item.published || item.age || "",
   }))
 }
 
@@ -1657,7 +1697,7 @@ const buildReferenceQueries = (weekMeta, evidence, siteFilter) => {
     ...(evidence?.summary || []),
     ...(evidence?.keySignals || []),
     ...(evidence?.risks || []),
-    evidence?.thesis || ""
+    evidence?.thesis || "",
   ]
     .join(" ")
     .trim()
@@ -1717,7 +1757,7 @@ const buildReferenceQueries = (weekMeta, evidence, siteFilter) => {
     `US economic data ${weekTag}`.trim(),
     `Federal Reserve ${weekTag}`.trim(),
     `Treasury auction ${weekTag}`.trim(),
-    `inflation CPI PPI ${weekTag}`.trim()
+    `inflation CPI PPI ${weekTag}`.trim(),
   ]
     .concat(keywordQueries)
     .concat([
@@ -1731,7 +1771,7 @@ const buildReferenceQueries = (weekMeta, evidence, siteFilter) => {
       `CPI report ${weekTag}`.trim(),
       `FOMC minutes ${weekTag}`.trim(),
       `GDP ${weekTag} BEA`.trim(),
-      `PCE price index ${weekTag} BEA`.trim()
+      `PCE price index ${weekTag} BEA`.trim(),
     ])
     .filter(Boolean)
 
@@ -1743,7 +1783,7 @@ const buildReferenceQueries = (weekMeta, evidence, siteFilter) => {
     `site:bea.gov/news personal income and outlays ${monthTag}`.trim(),
     `site:federalreserve.gov/monetarypolicy FOMC minutes ${monthTag}`.trim(),
     `site:treasury.gov/press-center Treasury auction ${monthTag}`.trim(),
-    `site:fred.stlouisfed.org/release ${monthTag}`.trim()
+    `site:fred.stlouisfed.org/release ${monthTag}`.trim(),
   ].filter(Boolean)
 
   const allQueries = baseQueries.concat(explicitQueries)
@@ -1811,7 +1851,6 @@ const filterReferencesByWeek = (items, range, minCount = 6) => {
   return dated.concat(undated)
 }
 
-
 const sanitizeSnippet = (text) => {
   if (!text) return ""
   return text
@@ -1827,7 +1866,9 @@ const formatReferenceCallouts = (items) => {
     .map((item) => {
       const snippet = sanitizeSnippet(item.snippet || "")
       const trimmed = snippet.length > 180 ? `${snippet.slice(0, 177)}...` : snippet
-      const detail = trimmed ? `Why it matters: ${trimmed}` : "Why it matters: Week-specific context."
+      const detail = trimmed
+        ? `Why it matters: ${trimmed}`
+        : "Why it matters: Week-specific context."
       return `> [!ref] ${item.title}\n> ${item.url}\n> ${detail}`
     })
     .join("\n\n")
@@ -2051,10 +2092,10 @@ const updateWeeklyReferences = async (config, options = {}) => {
       summary: extractSectionBullets(content, "## Overall Summary"),
       keySignals: [
         ...extractSectionBullets(content, "## Rates & Liquidity"),
-        ...extractSectionBullets(content, "## Equities")
+        ...extractSectionBullets(content, "## Equities"),
       ],
       risks: extractSectionBullets(content, "## Outlook Next Week"),
-      thesis: extractFrontmatterValue(content, "description")
+      thesis: extractFrontmatterValue(content, "description"),
     }
 
     const weekMeta = { week: weekKey, range, label, monthLabel }
@@ -2088,7 +2129,7 @@ const PREFERRED_IMAGE_DOMAINS = [
   "substack.com",
   "google.com",
   "gstatic.com",
-  "googleusercontent.com"
+  "googleusercontent.com",
 ]
 
 const FALLBACK_IMAGE_DOMAINS = ["x.com", "twitter.com"]
@@ -2109,7 +2150,7 @@ const buildDraftPrompt = (personaMix, evidence, record, imageUrl) => {
 
   return [
     { role: "system", content: system },
-    { role: "user", content: user }
+    { role: "user", content: user },
   ]
 }
 
@@ -2128,7 +2169,7 @@ const buildDraftMarkdown = (record, entry, rawDraft, imageUrl) => {
     `description: ${description}`,
     `created: ${created}`,
     `updated: ${updated}`,
-    "---"
+    "---",
   ].join("\n")
 
   let body = rawDraft || ""
@@ -2165,15 +2206,14 @@ const buildWeeklyEvidencePack = async (config, weekKey, records, year, options =
       await ensureTranscript(config, record)
     }
     const transcriptPath = record.transcriptPath
-    const hasTranscript =
-      useTranscripts && transcriptPath && (await fileExists(transcriptPath))
+    const hasTranscript = useTranscripts && transcriptPath && (await fileExists(transcriptPath))
 
     if (useTranscripts && !hasTranscript) {
       missingTranscripts.push({
         id: record.id,
         title: record.title,
         url: record.url,
-        channel: record.author
+        channel: record.author,
       })
       continue
     }
@@ -2185,10 +2225,10 @@ const buildWeeklyEvidencePack = async (config, weekKey, records, year, options =
       title: record.title,
       url: record.url,
       channel: record.author,
-      publishedAt: record.publishedAt
+      publishedAt: record.publishedAt,
     })
     sourceBlobs.push(
-      `TITLE: ${record.title}\nCHANNEL: ${record.author}\nDATE: ${record.publishedAt}\nURL: ${record.url}${snippet ? `\nSNIPPET: ${snippet}` : ""}`
+      `TITLE: ${record.title}\nCHANNEL: ${record.author}\nDATE: ${record.publishedAt}\nURL: ${record.url}${snippet ? `\nSNIPPET: ${snippet}` : ""}`,
     )
   }
 
@@ -2201,7 +2241,7 @@ const buildWeeklyEvidencePack = async (config, weekKey, records, year, options =
 
   const response = await callPplx(config, [
     { role: "system", content: system },
-    { role: "user", content: user }
+    { role: "user", content: user },
   ])
 
   const parsed = extractJson(response)
@@ -2218,7 +2258,7 @@ const buildWeeklyEvidencePack = async (config, weekKey, records, year, options =
     imageQuery: "",
     sources,
     transcriptsUsed: useTranscripts,
-    missingTranscripts
+    missingTranscripts,
   }
 }
 
@@ -2228,7 +2268,7 @@ const buildFocusedWeeklyEvidencePack = async (
   records,
   year,
   focusChannel,
-  macroChannel
+  macroChannel,
 ) => {
   const focusSources = []
   const macroSources = []
@@ -2268,7 +2308,7 @@ const buildFocusedWeeklyEvidencePack = async (
         title: record.title,
         url: record.url,
         channel: record.author,
-        publishedAt: record.publishedAt
+        publishedAt: record.publishedAt,
       })
       focusBlobs.push(blob)
     }
@@ -2279,7 +2319,7 @@ const buildFocusedWeeklyEvidencePack = async (
         title: record.title,
         url: record.url,
         channel: record.author,
-        publishedAt: record.publishedAt
+        publishedAt: record.publishedAt,
       })
       macroBlobs.push(blob)
     }
@@ -2296,7 +2336,7 @@ const buildFocusedWeeklyEvidencePack = async (
   try {
     const response = await callPplx(config, [
       { role: "system", content: system },
-      { role: "user", content: user }
+      { role: "user", content: user },
     ])
 
     const parsed = extractJson(response)
@@ -2306,7 +2346,7 @@ const buildFocusedWeeklyEvidencePack = async (
         focusSources,
         macroSources,
         missingFocus,
-        missingMacro
+        missingMacro,
       }
     }
   } catch {
@@ -2344,7 +2384,7 @@ const buildFocusedWeeklyEvidencePack = async (
     focusSources,
     macroSources,
     missingFocus,
-    missingMacro
+    missingMacro,
   }
 }
 
@@ -2354,7 +2394,7 @@ const buildWeeklyEvidenceSkeleton = (weekKey, records, year) => {
     title: record.title,
     url: record.url,
     channel: record.author,
-    publishedAt: record.publishedAt
+    publishedAt: record.publishedAt,
   }))
 
   return {
@@ -2366,7 +2406,7 @@ const buildWeeklyEvidenceSkeleton = (weekKey, records, year) => {
     imageQuery: "",
     sources,
     transcriptsUsed: false,
-    year
+    year,
   }
 }
 
@@ -2386,7 +2426,7 @@ const writeWeeklyPreflight = async (pack) => {
     "---",
     "# Weekly Preflight Pack",
     "",
-    "Flip approved: true when ready."
+    "Flip approved: true when ready.",
   ]
 
   for (const entry of pack.entries) {
@@ -2412,7 +2452,7 @@ const buildWeeklyDraftPrompt = (personaMix, evidence, weekMeta, imageUrl) => {
 
   return [
     { role: "system", content: system },
-    { role: "user", content: user }
+    { role: "user", content: user },
   ]
 }
 
@@ -2424,7 +2464,7 @@ const buildFocusedWeeklyDraftPrompt = (personaMix, evidence, weekMeta, imageUrl)
 
   return [
     { role: "system", content: system },
-    { role: "user", content: user }
+    { role: "user", content: user },
   ]
 }
 
@@ -2445,7 +2485,7 @@ const buildWeeklyMarkdown = (entry, evidence, rawDraft, imageUrl) => {
     `description: ${description}`,
     `created: ${created}`,
     `updated: ${updated}`,
-    "---"
+    "---",
   ].join("\n")
 
   let body = rawDraft || ""
@@ -2503,7 +2543,11 @@ const createWeeklyPreflight = async (config, records, year) => {
     const weekRange = getIsoWeekRange(parseDate(items[0].publishedAt))
     const evidence = buildWeeklyEvidenceSkeleton(week, items, year)
     const evidencePath = path.join(PATHS.cacheWeekly, `${week}.json`)
-    await fs.writeFile(evidencePath, JSON.stringify({ ...evidence, week, range: weekRange }, null, 2), "utf-8")
+    await fs.writeFile(
+      evidencePath,
+      JSON.stringify({ ...evidence, week, range: weekRange }, null, 2),
+      "utf-8",
+    )
 
     const title = evidence.workingTitle || `Weekly Market Report ${week}`
     const draftSlug = slugify(`${year}-${week}-market-report`)
@@ -2517,7 +2561,7 @@ const createWeeklyPreflight = async (config, records, year) => {
       tags,
       draft_path: `content/mark-memo/${year}/${draftSlug}.md`,
       evidence_path: evidencePath,
-      image_query: evidence.imageQuery || ""
+      image_query: evidence.imageQuery || "",
     })
   }
 
@@ -2527,7 +2571,7 @@ const createWeeklyPreflight = async (config, records, year) => {
     persona_mix: config.persona.mix,
     count: entries.length,
     year,
-    entries: entries.sort((a, b) => a.week.localeCompare(b.week))
+    entries: entries.sort((a, b) => a.week.localeCompare(b.week)),
   }
 
   return pack
@@ -2656,14 +2700,8 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
         continue
       }
 
-      const focusText = truncateText(
-        focusRecords.map((item) => item.text).join(" \n"),
-        30000
-      )
-      const macroText = truncateText(
-        macroRecords.map((item) => item.text).join(" \n"),
-        20000
-      )
+      const focusText = truncateText(focusRecords.map((item) => item.text).join(" \n"), 30000)
+      const macroText = truncateText(macroRecords.map((item) => item.text).join(" \n"), 20000)
 
       const focusTitles = focusRecords.map((item) => item.record.title).filter(Boolean)
       const macroTitles = macroRecords.map((item) => item.record.title).filter(Boolean)
@@ -2673,7 +2711,7 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
         focusText,
         macroText,
         focusTitles,
-        macroTitles
+        macroTitles,
       )
       const title = `Weekly Market Report ${entry.week}`
 
@@ -2709,39 +2747,62 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
         ? reportData.outlook
         : buildOutlookFromTerms([], "liquidity")
 
-      commentaryLines = ensureMinBullets(commentaryLines, [
-        "I’m treating rallies as tactical until breadth improves.",
-        "Any surprise in rates can flip this fast."
-      ], 3)
+      commentaryLines = ensureMinBullets(
+        commentaryLines,
+        [
+          "I’m treating rallies as tactical until breadth improves.",
+          "Any surprise in rates can flip this fast.",
+        ],
+        3,
+      )
 
-      ratesLines = ensureMinBullets(ratesLines, [
-        "If yields push higher, risk will likely thin out.",
-        "I keep one eye on credit spreads for early stress."
-      ], 2)
+      ratesLines = ensureMinBullets(
+        ratesLines,
+        [
+          "If yields push higher, risk will likely thin out.",
+          "I keep one eye on credit spreads for early stress.",
+        ],
+        2,
+      )
 
-      equityLines = ensureMinBullets(equityLines, [
-        "Dispersion is the signal; chasing weak leaders is costly.",
-        "I prefer quality balance sheets until the tape stabilizes."
-      ], 2)
+      equityLines = ensureMinBullets(
+        equityLines,
+        [
+          "Dispersion is the signal; chasing weak leaders is costly.",
+          "I prefer quality balance sheets until the tape stabilizes.",
+        ],
+        2,
+      )
 
-      commodityLines = ensureMinBullets(commodityLines, [
-        "Gold and energy are still the macro tell.",
-        "FX swings can reprice risk quickly."
-      ], 2)
+      commodityLines = ensureMinBullets(
+        commodityLines,
+        ["Gold and energy are still the macro tell.", "FX swings can reprice risk quickly."],
+        2,
+      )
 
-      cryptoLines = ensureMinBullets(cryptoLines, [
-        "BTC dominance is the risk budget for alts.",
-        "Liquidity pulses still drive the short‑term trend."
-      ], 2)
+      cryptoLines = ensureMinBullets(
+        cryptoLines,
+        [
+          "BTC dominance is the risk budget for alts.",
+          "Liquidity pulses still drive the short‑term trend.",
+        ],
+        2,
+      )
 
-      flowLines = ensureMinBullets(flowLines, [
-        "Positioning looks crowded; I’m wary of squeeze risk.",
-        "I want real buying, not just short‑cover."
-      ], 2)
+      flowLines = ensureMinBullets(
+        flowLines,
+        [
+          "Positioning looks crowded; I’m wary of squeeze risk.",
+          "I want real buying, not just short‑cover.",
+        ],
+        2,
+      )
 
-      outlookLines = ensureMinBullets(outlookLines, [
-        "I’ll watch rates + risk for confirmation, otherwise stay defensive."
-      ], 2)
+      outlookLines = ensureMinBullets(
+        outlookLines,
+        ["I’ll watch rates + risk for confirmation, otherwise stay defensive."],
+        2,
+      )
 
       if (summaryLines.length < 3) {
         summaryLines = summaryLines.concat(ratesLines.slice(0, 1))
@@ -2778,7 +2839,7 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
       ) {
         if (weekRecords.length > 0) {
           evidence = await buildWeeklyEvidencePack(config, entry.week, weekRecords, pack.year, {
-            useTranscripts: true
+            useTranscripts: true,
           })
           await fs.writeFile(evidencePath, JSON.stringify(evidence, null, 2), "utf-8")
         }
@@ -2814,17 +2875,24 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
       const uniqueRefs = dedupeReferences(results, referenceLimit)
       referenceCallouts = formatReferenceCallouts(uniqueRefs)
     }
-      if (focusChannel && macroChannel) {
-        try {
-          const messages = buildFocusedWeeklyDraftPrompt(pack.persona_mix, evidence, weekMeta, imageUrl)
-          rawDraft = await callPplx(config, messages)
-        } catch {
+    if (focusChannel && macroChannel) {
+      try {
+        const messages = buildFocusedWeeklyDraftPrompt(
+          pack.persona_mix,
+          evidence,
+          weekMeta,
+          imageUrl,
+        )
+        rawDraft = await callPplx(config, messages)
+      } catch {
         const summary = evidence.marketSummary || []
         const commentary = evidence.marketCommentary || []
         const crypto = evidence.cryptoMacro || []
         const outlook = evidence.outlookNextWeek || []
         const opener = summary[0] || "Weekly tape notes."
-        const summaryLines = summary.length ? summary : ["Tuần này nhiều lớp câu chuyện chồng lên nhau."]
+        const summaryLines = summary.length
+          ? summary
+          : ["Tuần này nhiều lớp câu chuyện chồng lên nhau."]
         const commentaryLines = commentary.length ? commentary : buildCommentaryFromTerms([])
         const outlookLines = outlook.length ? outlook : buildOutlookFromTerms([], "thanh khoản")
 
@@ -2840,7 +2908,9 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
     }
 
     if (includeCrosslinks) {
-      const previousWeek = weekMeta.range ? getIsoWeekRange(parseDate(weekMeta.range.split(" to ")[0])) : null
+      const previousWeek = weekMeta.range
+        ? getIsoWeekRange(parseDate(weekMeta.range.split(" to ")[0]))
+        : null
       const previousStart = previousWeek ? new Date(parseDate(previousWeek.start)) : null
       let previousSlug = ""
       if (previousStart) {
@@ -2889,11 +2959,7 @@ const generateDrafts = async (config, preflightPath) => {
   const pack = JSON.parse(await fs.readFile(jsonPath, "utf-8"))
   await ensureDir(PATHS.contentSandbox)
 
-  const lines = [
-    `run: ${nowIso()}`,
-    `count: ${pack.entries.length}`,
-    ""
-  ]
+  const lines = [`run: ${nowIso()}`, `count: ${pack.entries.length}`, ""]
 
   for (const entry of pack.entries) {
     const recordPath = path.join(PATHS.cacheNormalized, `${entry.id}.json`)
@@ -2992,7 +3058,7 @@ const main = async () => {
       dateBefore,
       playlistStart,
       playlistEnd,
-      playlistReverse
+      playlistReverse,
     })
     const pack = await createWeeklyPreflight(config, normalized, year)
     const output = await writeWeeklyPreflight(pack)
@@ -3010,7 +3076,7 @@ const main = async () => {
       dateBefore,
       playlistStart,
       playlistEnd,
-      playlistReverse
+      playlistReverse,
     })
     console.log(`Cached ${normalized.length} YouTube records for ${year}.`)
     return
@@ -3046,7 +3112,7 @@ const main = async () => {
       includeCrosslinks,
       crossReason,
       referenceLimit,
-      referenceSites
+      referenceSites,
     })
     console.log(`Weekly reports generated. Report: ${report}`)
     return
@@ -3059,7 +3125,7 @@ const main = async () => {
       weekStart,
       weekEnd,
       referenceLimit,
-      referenceSites
+      referenceSites,
     })
     if (updated.length === 0) {
       console.log("No reports updated.")
@@ -3110,7 +3176,7 @@ const main = async () => {
       `description: ${summary || "News update"}`,
       `created: ${date}`,
       `updated: ${today()}`,
-      "---"
+      "---",
     ].join("\n")
 
     const contentLines = [
@@ -3125,7 +3191,8 @@ const main = async () => {
       "- Note the impact on the original thesis.",
       "",
       "## My Read",
-      body || "I am extending the original note with a new data point and adjusting my risk posture accordingly.",
+      body ||
+        "I am extending the original note with a new data point and adjusting my risk posture accordingly.",
       "",
       "## Links",
       `- [[${sourceSlug}]]`,
@@ -3134,7 +3201,7 @@ const main = async () => {
       "- What breaks if this update is wrong?",
       "- What would confirm the new direction?",
       "",
-      "#"
+      "#",
     ]
 
     const fileSlug = slugify(`${date}-${title}`)
@@ -3156,19 +3223,39 @@ const main = async () => {
   }
 
   console.log("Usage:")
-  console.log("  node automation/pipeline.mjs preflight --limit 100 --persona \"analytical,reflective,warm\"")
-  console.log("  node automation/pipeline.mjs generate --preflight automation/output/preflight/preflight-latest.md")
-  console.log("  node automation/pipeline.mjs weekly-preflight --year 2025 --persona \"analytical,pragmatic,skeptical\"")
-  console.log("  node automation/pipeline.mjs weekly-generate --preflight automation/output/preflight/preflight-weekly-latest.md")
+  console.log(
+    '  node automation/pipeline.mjs preflight --limit 100 --persona "analytical,reflective,warm"',
+  )
+  console.log(
+    "  node automation/pipeline.mjs generate --preflight automation/output/preflight/preflight-latest.md",
+  )
+  console.log(
+    '  node automation/pipeline.mjs weekly-preflight --year 2025 --persona "analytical,pragmatic,skeptical"',
+  )
+  console.log(
+    "  node automation/pipeline.mjs weekly-generate --preflight automation/output/preflight/preflight-weekly-latest.md",
+  )
   console.log("  node automation/pipeline.mjs weekly-generate --week 2025-W01")
-  console.log("  node automation/pipeline.mjs weekly-generate --weekstart 2025-W01 --weekend 2025-W04")
+  console.log(
+    "  node automation/pipeline.mjs weekly-generate --weekstart 2025-W01 --weekend 2025-W04",
+  )
   console.log("  node automation/pipeline.mjs weekly-generate --limit 10 --offset 0")
-  console.log("  node automation/pipeline.mjs weekly-generate --week 2025-W01 --references true --refsources \"bls.gov,bea.gov,federalreserve.gov\"")
-  console.log("  node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources \"bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com\"")
-  console.log("  node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title \"Tariff Pause Update\" --summary \"Policy pause shifted risk premium\"")
+  console.log(
+    '  node automation/pipeline.mjs weekly-generate --week 2025-W01 --references true --refsources "bls.gov,bea.gov,federalreserve.gov"',
+  )
+  console.log(
+    '  node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"',
+  )
+  console.log(
+    '  node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium"',
+  )
   console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --url <channel_url>")
-  console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --dateafter 20250101 --datebefore 20250331 --url <channel_url>")
-  console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --playliststart 1 --playlistend 120 --url <channel_url>")
+  console.log(
+    "  node automation/pipeline.mjs cache-youtube --year 2025 --dateafter 20250101 --datebefore 20250331 --url <channel_url>",
+  )
+  console.log(
+    "  node automation/pipeline.mjs cache-youtube --year 2025 --playliststart 1 --playlistend 120 --url <channel_url>",
+  )
   console.log("  node automation/pipeline.mjs weekly-preflight-cache --year 2025")
   console.log("  node automation/pipeline.mjs archive")
 }

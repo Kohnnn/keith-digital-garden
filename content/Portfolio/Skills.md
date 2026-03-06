@@ -1,54 +1,92 @@
 ---
-title: Skill Matrix
+title: Skills
 tags: [portfolio, skills]
 draft: false
 description: Competencies mapped by domain and practical usage level.
 created: 2026-01-30
 updated: 2026-03-06
 aliases: [Skills]
+cssclasses: [portfolio-page]
 ---
 
-# Skill Matrix
+# Skills
 
-## finance core (advanced)
+Skills are grouped by work output rather than by software category.
 
-- DCF modeling, comparable valuation, financial statement analysis
-- Portfolio construction, allocation design, drawdown-aware risk framing
+## Capability map
 
-## market research (advanced)
+<div class="capability-grid">
+  <div class="capability-card">
+    <span class="casefile-label">Equity research</span>
+    <p>DCF modeling, comparable valuation, financial statement analysis, earnings updates, and management-call synthesis.</p>
+  </div>
+  <div class="capability-card">
+    <span class="casefile-label">Portfolio strategy</span>
+    <p>Allocation design, drawdown-aware risk framing, scenario planning, and regime-based positioning.</p>
+  </div>
+  <div class="capability-card">
+    <span class="casefile-label">Crypto and quant</span>
+    <p>Cycle diagnostics, tokenomics review, stablecoin monitoring, Black-Scholes fundamentals, and option sensitivity interpretation.</p>
+  </div>
+  <div class="capability-card">
+    <span class="casefile-label">Dashboards and tooling</span>
+    <p>SQL-backed analysis, Tableau, Power BI, Looker Studio, and finance interfaces built for fast review loops.</p>
+  </div>
+  <div class="capability-card">
+    <span class="casefile-label">Automation</span>
+    <p>Python scripting, browser monitoring, webhooks, local AI workflows, and human-in-the-loop research ops.</p>
+  </div>
+  <div class="capability-card">
+    <span class="casefile-label">Communication</span>
+    <p>Memo writing, structured note systems, dashboard narration, and casefile-style documentation.</p>
+  </div>
+</div>
 
-- Sector analysis, competitive intelligence, earnings-call synthesis
-- Thesis design, catalyst tracking, scenario framing
+## Tool stack by output
 
-## quant and crypto (working)
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Model reviews</strong>
+    Excel, VBA, SQL, and structured templates for valuation and assumption tracking.
+  </div>
+  <div class="decision-card">
+    <strong>Research dashboards</strong>
+    Tableau, Power BI, Looker Studio, TradingView, and custom product surfaces.
+  </div>
+  <div class="decision-card">
+    <strong>Automation</strong>
+    Python, n8n, browser monitoring, retrieval pipelines, and webhook helpers.
+  </div>
+  <div class="decision-card">
+    <strong>Knowledge system</strong>
+    Obsidian-style note workflows, memo templates, and publishing bridges.
+  </div>
+</div>
 
-- Tokenomics review, stablecoin monitoring, crypto cycle diagnostics
-- Black-Scholes fundamentals, option sensitivity interpretation
-- Systematic pattern discovery for strategy prototyping
+## Languages and tools
 
-## tooling
-
-- Data and analysis: R (working), SQL, Stata (working)
+- Data and analysis: R, SQL, Stata
 - Visualization: Tableau, Power BI, Looker Studio
-- Productivity and modeling: Advanced Excel, VBA, structured templates
-- Automation: AI-agent-assisted monitoring and workflow acceleration
+- Productivity and modeling: advanced Excel, VBA, structured templates
+- Automation: Python scripting, AI-agent-assisted monitoring, browser and webhook workflows
 
-## credentials
+## Credentials
 
 - CFA Level I candidate
 
-## language
+## Language
 
 - Vietnamese (native)
 - English (fluent)
 
-## capability map (skill to outcome)
+## What these skills are used for
 
 - Financial modeling -> faster valuation updates and cleaner sensitivity checks
 - Data workflows -> lower research latency and fewer manual handoff errors
 - Dashboarding -> faster signal triage and better communication of market state
+- Automation -> less manual monitoring and more consistent analyst output cadence
 
-## see also
+## See also
 
 - [[Portfolio/Resume|Experience log]]
 - [[Portfolio/Projects|Casefiles]]

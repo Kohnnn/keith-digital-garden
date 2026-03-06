@@ -17,6 +17,7 @@ import {
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
 import { write } from "./helpers"
+import { rebaseRelativeUrlsForFolderPage } from "./folderPageUtil"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
@@ -36,12 +37,16 @@ async function* processFolderInfo(
     ProcessedContent,
   ][]) {
     const slug = joinSegments(folder, "index") as FullSlug
-    const [tree, file] = folderContent
+    const [rawTree, file] = folderContent
+    const sourceSlug = file.data.slug!
+    const tree =
+      sourceSlug === slug ? rawTree : rebaseRelativeUrlsForFolderPage(rawTree, sourceSlug, slug)
+    const fileData = sourceSlug === slug ? file.data : { ...file.data, slug }
     const cfg = ctx.cfg.configuration
     const externalResources = pageResources(pathToRoot(slug), resources)
     const componentData: QuartzComponentProps = {
       ctx,
-      fileData: file.data,
+      fileData,
       externalResources,
       cfg,
       children: [],

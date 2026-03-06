@@ -49,10 +49,7 @@ export default ((opts?: GridMapOptions) => {
       <div class="grid-map">
         <div class="grid-map-header">
           <h3>{options.title}</h3>
-          <a
-            class="grid-map-link"
-            href={resolveRelative(fileData.slug!, "tags" as FullSlug)}
-          >
+          <a class="grid-map-link" href={resolveRelative(fileData.slug!, "tags" as FullSlug)}>
             All tags
           </a>
         </div>

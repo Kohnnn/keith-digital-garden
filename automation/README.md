@@ -5,9 +5,9 @@ It is optimized for 100 drafts with a single approval step and keeps AI output i
 
 ## Quick start
 
-1) Put URLs into `automation/sources/inbox/*.txt` (one URL per line).
-2) Run preflight to generate the approval pack.
-3) Mark the pack approved and run draft generation.
+1. Put URLs into `automation/sources/inbox/*.txt` (one URL per line).
+2. Run preflight to generate the approval pack.
+3. Mark the pack approved and run draft generation.
 
 ```bash
 node automation/pipeline.mjs preflight --limit 100 --persona "analytical,reflective,warm"

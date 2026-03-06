@@ -6,74 +6,126 @@ description: Case study on a cycle-driven crypto positioning framework.
 created: 2026-01-30
 updated: 2026-03-06
 aliases: [Investment Strategy]
+cssclasses: [portfolio-page, casefile-page, market-report]
 ---
 
 # Market Cycle Playbook
 
-A compact framework for navigating crypto market cycles with explicit risk and signal hygiene.
+A regime-based framework for navigating crypto cycles with explicit phase logic, sizing rules, and review discipline.
 
-## problem
+## Summary
 
-- Narrative-driven positioning often ignored phase context and liquidity conditions.
-- Needed a repeatable framework that could be reviewed and adjusted over time.
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">Role</span>
+    <p>Framework author and portfolio operator</p>
+  </div>
+  <div>
+    <span class="casefile-label">Goal</span>
+    <p>Turn narrative-heavy crypto decisions into a reviewable process</p>
+  </div>
+  <div>
+    <span class="casefile-label">Output</span>
+    <p>Phase map, decision map, risk scoreboard, and dashboard-linked cues</p>
+  </div>
+</div>
 
-## core logic
+## Core logic
 
 - Crypto moves in visible phases. Timing matters more than certainty.
 - Macro liquidity and on-chain activity decide tempo.
 - Risk comes first, returns are a side effect.
 
-## cycle phases
+## Phase track
 
-- **Accumulation**: low volume, early price lift (2011, 2015, 2019, 2023)
-- **Growth**: post-halving expansion (2012, 2016, 2020, 2024)
-- **Bubble**: parabolic behavior (2013, 2017, 2021)
-- **Crash**: reset and regulation shock (2014, 2018, 2024)
+<div class="phase-track">
+  <div class="phase-chip"><span class="phase-label">Phase 01</span><strong>Accumulation</strong><br />Low volume, muted sentiment, early re-rating.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 02</span><strong>Growth</strong><br />Post-halving expansion with improving breadth.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 03</span><strong>Bubble</strong><br />Parabolic behavior, narrative excess, late-beta rotation.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 04</span><strong>Crash</strong><br />Liquidity withdrawal, forced reset, and watchlist rebuild.</div>
+</div>
 
-## execution model
+## Decision map
 
-- Define phase hypothesis.
-- Confirm with technical + macro + on-chain stack.
-- Size positions by risk budget, not conviction alone.
-- Reassess every review window with predefined invalidation conditions.
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Phase hypothesis</strong>
+    Start with a cycle-state call, not an asset-specific narrative.
+  </div>
+  <div class="decision-card">
+    <strong>Confirm</strong>
+    Cross-check with macro liquidity, on-chain activity, and technical structure.
+  </div>
+  <div class="decision-card">
+    <strong>Size</strong>
+    Use risk budget and invalidation points instead of conviction-only sizing.
+  </div>
+  <div class="decision-card">
+    <strong>Review</strong>
+    Reassess on a fixed cadence and log what changed versus what did not.
+  </div>
+</div>
 
-## signal stack
+## Risk scoreboard
 
-**Technical**
+<div class="scoreboard">
+  <div class="score-row">
+    <span class="score-name">Liquidity</span>
+    <div class="score-bar"><div class="score-fill" style="width: 78%;"></div></div>
+    <span>78</span>
+  </div>
+  <div class="score-row">
+    <span class="score-name">Breadth</span>
+    <div class="score-bar"><div class="score-fill" style="width: 66%;"></div></div>
+    <span>66</span>
+  </div>
+  <div class="score-row">
+    <span class="score-name">Risk</span>
+    <div class="score-bar"><div class="score-fill" style="width: 54%;"></div></div>
+    <span>54</span>
+  </div>
+  <div class="score-row">
+    <span class="score-name">Conviction</span>
+    <div class="score-bar"><div class="score-fill" style="width: 72%;"></div></div>
+    <span>72</span>
+  </div>
+</div>
 
-- Halving cadence
-- BTC dominance drift
-- On-chain flow metrics
+## Confirmation stack
 
-**Macro**
+<div class="confidence-grid">
+  <div class="confidence-card">
+    <strong>Macro liquidity</strong>
+    <p>Watch policy, balance-sheet direction, and labor-market pressure for broad risk appetite.</p>
+  </div>
+  <div class="confidence-card">
+    <strong>On-chain activity</strong>
+    <p>Use participation and network activity as confirmation, not as a standalone trade trigger.</p>
+  </div>
+  <div class="confidence-card">
+    <strong>Price structure</strong>
+    <p>Let BTC and breadth confirm phase transition before expanding or shrinking risk.</p>
+  </div>
+  <div class="confidence-card">
+    <strong>Review cadence</strong>
+    <p>Update on a fixed schedule so the framework does not get rewritten by every daily move.</p>
+  </div>
+</div>
 
-- Liquidity and rate shifts
-- Inflation and policy pivots
-- Geopolitical stress
+## Execution cues
 
-## execution cues
+- Accumulation: build watchlists, DCA near key value zones, favor patience over narrative chasing
+- Growth: let BTC confirm, then expand exposure as breadth improves
+- Bubble: rebalance aggressively, shrink narrative risk, document exit rules early
+- Crash: protect capital, move from prediction to observation, rebuild the opportunity set
 
-- Accumulation: DCA near realized price
-- Growth: rotate into alt beta when BTC dominance peaks
-- Bubble: rebalance before sentiment flips
-- Crash: protect capital, keep a watchlist
+## Outcomes
 
-## altcoin filter
+- More disciplined phase-based decision process
+- Cleaner separation between thesis change and noise reaction
+- Easier handoff from intuition to explicit review notes
 
-- Utility, tokenomics, architecture
-- Market cap behavior vs BTC
-
-## outcomes
-
-- More disciplined phase-based decision process.
-- Cleaner separation of thesis changes vs noise reactions.
-
-## next iteration
+## Next iteration
 
 - Add probabilistic phase confidence scoring.
 - Add post-trade review loop linked to dashboard snapshots.
-
-## see also
-
-- [[Portfolio/Projects/Crypto Dashboard|Crypto dashboard]]
-- [[Portfolio/Projects/Tech Docs|Tech docs index]]

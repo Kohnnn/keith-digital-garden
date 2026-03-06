@@ -6,34 +6,37 @@ description: Core entry point for profile, projects, writing, and contact.
 created: 2026-01-30
 updated: 2026-03-06
 aliases: [Portfolio]
+cssclasses: [portfolio-page]
 ---
 
 # Portfolio Hub
 
-I build research-driven investment systems at the intersection of fundamental analysis, quantitative workflows, and crypto market structure.
+This is the hiring-facing route through Keith Kitchen.
+The emphasis is on clear proof: what I worked on, what I built, and how those systems changed research speed or decision quality.
 
-## quick route
+## Start with
 
-- [[Portfolio/Projects|View case studies]]
-- [[Portfolio/Resume|Review experience]]
-- [[Portfolio/Contact|Contact me]]
-
-## selected wins
-
-- Built an AI monitoring workflow for 80+ listed companies to reduce research latency.
-- Shipped recurring earnings-model refreshes and summary updates with institutional-grade cadence.
-- Built crypto dashboards and playbooks to support regime-aware positioning decisions.
-
-## route
-
-- [[Portfolio/Profile|Operator profile]]
-- [[Portfolio/Resume|Experience log]]
-- [[Portfolio/Skills|Skill matrix]]
 - [[Portfolio/Projects|Casefiles]]
-- [[Portfolio/Blog|Market log]]
-- [[Portfolio/Contact|Signal ports]]
+- [[Portfolio/Resume|Experience log]]
+- [[Portfolio/Blog|Research notes]]
 
-## related
+## Selected wins
 
-- [[index|Kiet Vo // Quant Ops]]
+- Fundamental analysis and recommendation support for five consumer companies at Vietcap
+- Three workflow automations shipped, including an AI vision monitor across 80+ listed-company updates
+- Research assistance spanning volatility, Twitter data, Bitcoin, and geopolitical risk indexing
+- A portfolio of finance tooling across dashboards, option pricing, screeners, and research ops
+
+## Navigation
+
+- [[Portfolio/Profile|Profile]]
+- [[Portfolio/Resume|Experience log]]
+- [[Portfolio/Skills|Skills]]
+- [[Portfolio/Projects|Casefiles]]
+- [[Portfolio/Blog|Research notes]]
+- [[Portfolio/Contact|Contact]]
+
+## Related
+
+- [[index|Keith Kitchen]]
 - [[Start Here]]

@@ -6,50 +6,137 @@ description: Case study index for finance, data, and automation projects.
 created: 2026-01-30
 updated: 2026-03-06
 aliases: [Projects]
+cssclasses: [portfolio-page]
 ---
 
 # Casefiles
 
-Project notes are structured as compact case studies: problem, approach, stack, and measurable value.
+Each casefile follows the same structure: problem, role, stack, outcome, and next iteration.
 
-## featured
+## Portfolio lens
 
-- [[Portfolio/Projects/Investment Strategy|Market cycle playbook]]
-  - Focus: regime-based positioning framework for crypto cycles.
-  - Output: phase map, signal stack, execution cues.
-- [[Portfolio/Projects/Crypto Dashboard|Crypto dashboard]]
-  - Focus: monitoring market structure and cycle state in one view.
-  - Output: reusable dashboards for timing and risk context.
-- [[Portfolio/Projects/AI Agents Development|AI agents development]]
-  - Focus: reduce research latency with local-plus-cloud agent workflows.
-  - Output: repeatable ingestion, retrieval, and summary pipeline.
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">North star</span>
+    <p>Finance work that becomes more legible, faster to update, and easier to inspect through tooling.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Primary arc</span>
+    <p>Equity research, crypto market structure, and automation-heavy research infrastructure.</p>
+  </div>
+  <div>
+    <span class="casefile-label">What stands out</span>
+    <p>The combination of analyst judgment, product thinking, and implementation detail.</p>
+  </div>
+</div>
 
-## markets and crypto
+## Featured
 
-- [[Portfolio/Projects/Investment Strategy|Market cycle playbook]]
-- [[Portfolio/Projects/Crypto Dashboard|Crypto dashboard]]
+<div class="casefile-grid">
+  <a class="casefile-card" href="./VNIBB">
+    <span class="casefile-label">Product</span>
+    <h3>VNIBB</h3>
+    <p>Vietnamese financial analytics platform with screeners, widgets, and AI-ready market infrastructure.</p>
+    <ul>
+      <li>Frontend, API, widget system</li>
+      <li>Vietnam market positioning</li>
+      <li>Live demo</li>
+    </ul>
+  </a>
+  <a class="casefile-card" href="./Crypto-Dashboard">
+    <span class="casefile-label">Dashboard</span>
+    <h3>Crypto dashboard</h3>
+    <p>Cycle-aware market monitoring surface that separates structural context from signal noise.</p>
+    <ul>
+      <li>Liquidity and breadth lens</li>
+      <li>Reusable review workflow</li>
+      <li>Risk-aware monitoring</li>
+    </ul>
+  </a>
+  <a class="casefile-card" href="./Investment-Strategy">
+    <span class="casefile-label">Framework</span>
+    <h3>Market cycle playbook</h3>
+    <p>Explicit phase map and execution cues for crypto regime positioning.</p>
+    <ul>
+      <li>Decision map</li>
+      <li>Risk scoreboard</li>
+      <li>Dashboard-linked process</li>
+    </ul>
+  </a>
+  <a class="casefile-card" href="./Option-Pricing">
+    <span class="casefile-label">Quant</span>
+    <h3>Option pricing</h3>
+    <p>Practical derivatives toolkit that extends from baseline models to richer volatility assumptions.</p>
+    <ul>
+      <li>Model comparison</li>
+      <li>Greeks explained</li>
+      <li>Interactive app</li>
+    </ul>
+  </a>
+  <a class="casefile-card" href="./AI-Agents-Development">
+    <span class="casefile-label">Automation</span>
+    <h3>AI agents development</h3>
+    <p>Open-source research workflows for ingestion, monitoring, and retrieval-heavy analysis.</p>
+    <ul>
+      <li>Pipeline architecture</li>
+      <li>Repo cluster</li>
+      <li>Human review loop</li>
+    </ul>
+  </a>
+</div>
 
-## AI and ops
+## What each flagship proves
 
-- [[Portfolio/Projects/AI Agents Development|AI agents development]]
+<div class="portfolio-matrix">
+  <a class="matrix-card" href="./VNIBB">
+    <strong>VNIBB</strong>
+    <p>Proof of finance product design and Vietnam-market positioning.</p>
+  </a>
+  <a class="matrix-card" href="./Crypto-Dashboard">
+    <strong>Crypto dashboard</strong>
+    <p>Proof of dashboard thinking, signal triage, and repeatable review cadence.</p>
+  </a>
+  <a class="matrix-card" href="./Investment-Strategy">
+    <strong>Market cycle playbook</strong>
+    <p>Proof of explicit framework design and risk-first positioning logic.</p>
+  </a>
+  <a class="matrix-card" href="./Option-Pricing">
+    <strong>Option pricing</strong>
+    <p>Proof of quant literacy, modeling depth, and explainable technical output.</p>
+  </a>
+  <a class="matrix-card" href="./AI-Agents-Development">
+    <strong>AI agents development</strong>
+    <p>Proof of workflow automation and research-ops system building.</p>
+  </a>
+</div>
 
-## derivatives and quant
+## Secondary builds
 
-- [[Portfolio/Projects/Option Pricing|Option pricing]]
+<div class="repo-grid">
+  <div class="repo-card">
+    <span class="casefile-label">Screening</span>
+    <h3><a href="https://github.com/Kohnnn/stock-screening" target="_blank" rel="noopener noreferrer">stock-screening</a></h3>
+    <p>Vietnamese market screening workflow and interface layer.</p>
+  </div>
+  <div class="repo-card">
+    <span class="casefile-label">Monitoring</span>
+    <h3><a href="https://github.com/Kohnnn/gemini-vision-AI-website-monitor" target="_blank" rel="noopener noreferrer">gemini-vision-AI-website-monitor</a></h3>
+    <p>Browser-based monitoring pipeline for site or corporate-update changes.</p>
+  </div>
+  <div class="repo-card">
+    <span class="casefile-label">Publishing</span>
+    <h3><a href="https://github.com/Kohnnn/obsidian-post-webhook" target="_blank" rel="noopener noreferrer">obsidian-post-webhook</a></h3>
+    <p>Publishing helper that bridges note systems and public output.</p>
+  </div>
+  <div class="repo-card">
+    <span class="casefile-label">Retrieval ops</span>
+    <h3><a href="https://github.com/Kohnnn/n8n-template-and-documentation-for-RAG" target="_blank" rel="noopener noreferrer">n8n-template-and-documentation-for-RAG</a></h3>
+    <p>Workflow templates for retrieval-heavy automation and analyst support.</p>
+  </div>
+</div>
 
-## documentation
-
-- [[Portfolio/Projects/Tech Docs|Tech docs index]]
-- [[Portfolio/Blog|Market log]]
-
-## project format
-
-- Problem and context
-- Approach and architecture
-- Tooling and constraints
-- Results and next iteration
-
-## see also
+## See also
 
 - [[Portfolio/Portfolio|Portfolio hub]]
-- [[index|Kiet Vo // Quant Ops]]
+- [[Portfolio/Blog|Research notes]]
+- [[Portfolio/Projects/Tech Docs|Tech docs index]]

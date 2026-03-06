@@ -22,10 +22,6 @@
     "maxSubstackItems": 200
   },
   "persona": {
-    "mix": [
-      "analytical",
-      "reflective",
-      "warm"
-    ]
+    "mix": ["analytical", "reflective", "warm"]
   }
 }

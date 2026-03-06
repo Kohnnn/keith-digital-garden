@@ -1,3 +1,10 @@
 public
+public-verification
 node_modules
 .quartz-cache
+automation/output
+automation/sources/archive
+automation/sources/archived
+content/AI_Sandbox
+content/attachments
+content/mark-memo

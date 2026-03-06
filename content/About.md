@@ -1,24 +1,33 @@
 ---
 title: About
-tags: [garden, about]
+tags: [about, portfolio]
 draft: false
-description: What Project Obsidian is and how it will evolve.
+description: What Keith Kitchen is and how the site is organized.
 created: 2026-01-30
-updated: 2026-01-30
+updated: 2026-03-06
+cssclasses: [portfolio-page]
 ---
 
 # About
 
-Project Obsidian is a public digital garden built from an Obsidian vault.
-It prioritizes clarity, backlinks, and incremental refinement over polished essays.
+Keith Kitchen is the public layer of my working research system.
+It is structured as a portfolio first and a note garden second: the homepage and `Portfolio/*` pages explain the work clearly, while the deeper note network stays available in `Notes/*`.
 
-## Principles
-- Notes are living documents.
-- Links matter more than hierarchy.
-- Drafts stay in the sandbox until reviewed.
+## What lives here
 
-## Current status
-- Quartz v4 scaffolding is in place.
-- Content migration is in progress.
+- `Portfolio/*` holds the hiring-facing surfaces: experience, casefiles, research notes, and contact.
+- `Notes/*` holds interactive explainers and longer-form technical notes.
+- `mark-memo/*` holds dated market memos and weekly context logs.
+- `AI_Sandbox/*` remains the internal draft airlock and is not part of the main browsing flow.
 
-#
+## Why the name changed
+
+The old site read like an Obsidian vault with a portfolio attached to it.
+`Keith Kitchen` is a cleaner metaphor: a place where research ideas, market frameworks, and tooling are prepared, tested, and served with more care.
+
+## Working principles
+
+- Evidence before aesthetic language
+- Reusable systems over one-off outputs
+- Human-reviewed automation over blind delegation
+- Writing that stays close to real operating workflows

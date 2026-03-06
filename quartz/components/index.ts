@@ -31,6 +31,7 @@ import DappledLight from "./DappledLight"
 import GridMap from "./GridMap"
 import RelatedNotes from "./RelatedNotes"
 import InteractiveSim from "./InteractiveSim"
+import ArenaEnhancer from "./ArenaEnhancer"
 
 export {
   ArticleTitle,
@@ -66,4 +67,5 @@ export {
   GridMap,
   RelatedNotes,
   InteractiveSim,
+  ArenaEnhancer,
 }

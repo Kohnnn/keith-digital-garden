@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.DappledLight(),
     Component.StackedNotesContainer(),
     Component.InteractiveSim(),
+    Component.ArenaEnhancer(),
     Component.RelatedNotes({ tagFilter: "philosophy" }),
     Component.BacklinksGrid({ tagFilter: "philosophy" }),
   ],
@@ -32,15 +33,21 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+      condition: (page) =>
+        page.fileData.slug !== "index" &&
+        !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+      condition: (page) =>
+        page.fileData.slug !== "index" &&
+        !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
     Component.ConditionalRender({
       component: Component.TagList(),
-      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+      condition: (page) =>
+        page.fileData.slug !== "index" &&
+        !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
   ],
   left: [

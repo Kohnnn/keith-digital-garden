@@ -12,7 +12,42 @@ permalink: /arena
 
 # Arena
 
-A consolidated outbound atlas of links grouped by channel.
+A consolidated outbound atlas for channels, references, and rabbit holes that feed the rest of the garden.
+
+<div class="arena-intro">
+  <p class="kitchen-eyebrow">Reference shelf</p>
+  <p>This page is meant for lateral browsing, not linear reading. Use the jump index to move by category, or filter the shelf when you already know the kind of source you want.</p>
+</div>
+
+<div class="arena-meta-strip" role="list" aria-label="Arena usage notes">
+  <div class="arena-meta-card" role="listitem">
+    <span class="proof-label">Mode</span>
+    <strong data-arena-stat="categories">0 categories</strong>
+    <p>Skim fast, then open selectively.</p>
+  </div>
+  <div class="arena-meta-card" role="listitem">
+    <span class="proof-label">Best for</span>
+    <strong data-arena-stat="links">0 links</strong>
+    <p>People, papers, channels, tools, and essays collected in one place.</p>
+  </div>
+  <div class="arena-meta-card" role="listitem">
+    <span class="proof-label">Navigation</span>
+    <strong data-arena-stat="curated">0 curated shelves</strong>
+    <p>Use the generated controls below to narrow the outbound list.</p>
+  </div>
+</div>
+
+<div class="arena-controls" data-arena-controls>
+  <label class="arena-filter-label" for="arena-filter-input">Filter the shelf</label>
+  <input
+    id="arena-filter-input"
+    class="arena-filter-input"
+    type="search"
+    placeholder="Search categories, domains, or fragments"
+    autocomplete="off"
+  />
+  <p class="arena-filter-meta" data-arena-filter-meta>Type to filter headings and links on this page.</p>
+</div>
 
 ## Additional channels
 

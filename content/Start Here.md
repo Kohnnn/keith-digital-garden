@@ -1,27 +1,28 @@
 ---
 title: Start Here
-tags: [guide, portfolio]
+tags: [guide, navigation]
 draft: false
 description: Orientation for the Keith Kitchen site structure.
 created: 2026-01-30
-updated: 2026-03-06
-cssclasses: [portfolio-page]
+updated: 2026-03-07
+cssclasses: [branch-hub]
 ---
 
 # Start Here
 
-If you are evaluating the portfolio, start with the curated pages first.
+This page is the calmer map after the front door. The homepage is the invitation. This note is the route card.
 
-## Recommended route
+## If you are here for the work
 
-- [[index|Homepage]] for the short positioning statement
+- [[portfolio|Portfolio]] for the concise hiring-facing overview
 - [[Portfolio/Projects|Casefiles]] for product, quant, and automation work
 - [[Portfolio/Resume|Experience log]] for sell-side, research, and credit experience
-- [[Portfolio/Blog|Research notes]] for dated market work and published writing
+- [[Portfolio/Blog|Research notes]] for dated market work and market writing
 - [[Portfolio/Contact|Contact]] if you want to continue the conversation
 
-## If you want the note network
+## If you want the wider kitchen
 
-- `Notes/*` contains interactive explainers and technical curiosities.
+- [[notes|Notes]] contains interactive explainers and technical curiosities.
 - `mark-memo/*` contains weekly market reports and working research artifacts.
-- The broader Quartz mechanics are still available on note pages even though the portfolio surfaces are intentionally cleaner.
+- [[arena|Arena]] is the dense outbound shelf for references and rabbit holes.
+- The broader Quartz mechanics stay available on note pages, so the site can shift from guided reading to exploratory reading without changing tools.

@@ -23,15 +23,61 @@ const placeContainer = (container: HTMLElement) => {
   }
 }
 
-const renderPrimary = (primary: HTMLElement) => {
-  const source = document.querySelector(".center") as HTMLElement | null
-  if (!source) return
-  const clone = source.cloneNode(true) as HTMLElement
-  prefixIds(clone, "stack-primary")
-  primary.replaceChildren(clone)
+const setText = (selector: string, value: string) => {
+  const el = document.querySelector(selector)
+  if (el) {
+    el.textContent = value
+  }
 }
 
-const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTMLElement) => {
+const isEligibleLink = (link: HTMLAnchorElement) => {
+  if (link.getAttribute("target") === "_blank") return false
+  if (link.dataset.routerIgnore !== undefined) return false
+  if (link.dataset.stackControl !== undefined) return false
+  if (link.hasAttribute("download")) return false
+
+  const href = link.getAttribute("href")
+  if (!href || href.startsWith("#")) return false
+
+  const url = new URL(link.href, window.location.href)
+  if (url.origin !== window.location.origin) return false
+  if (url.pathname.endsWith(".pdf")) return false
+  if (url.pathname.includes("/tags/") || url.pathname.endsWith("/tags")) return false
+  if (url.pathname === window.location.pathname && url.hash) return false
+  return link.classList.contains("internal")
+}
+
+const setPaneState = (state: "empty" | "ready") => {
+  const shell = document.querySelector(".stacked-notes-shell") as HTMLElement | null
+  if (!shell) return
+  shell.dataset.stackState = state
+}
+
+const renderEmpty = (message = "Select a note to open in the secondary reader.") => {
+  const secondary = document.querySelector("[data-stack-content='secondary']") as HTMLElement | null
+  const openFull = document.getElementById("stacked-notes-open-full") as HTMLAnchorElement | null
+  const promote = document.getElementById("stacked-notes-promote") as HTMLButtonElement | null
+  if (!secondary) return
+
+  const placeholder = document.createElement("p")
+  placeholder.className = "stacked-note-placeholder"
+  placeholder.textContent = message
+
+  secondary.replaceChildren(placeholder)
+  setText("#stacked-notes-title", "Open a second note")
+  setText("#stacked-notes-meta", "Keep the current page in place while you branch sideways.")
+  if (openFull) {
+    openFull.href = "#"
+    openFull.setAttribute("aria-disabled", "true")
+    openFull.classList.add("disabled")
+  }
+  if (promote) {
+    promote.disabled = true
+  }
+  setPaneState("empty")
+}
+
+const renderSecondary = async (targetUrl: URL, secondary: HTMLElement) => {
   secondary.replaceChildren()
   const loading = document.createElement("p")
   loading.className = "stacked-note-loading"
@@ -51,41 +97,54 @@ const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTM
   const html = parser.parseFromString(contents, "text/html")
   normalizeRelativeURLs(html, targetUrl)
 
-  const popovers = [...html.getElementsByClassName("popover-hint")]
-  if (popovers.length === 0) {
+  const article = html.querySelector(".center article") as HTMLElement | null
+  const pageHeader = html.querySelector(".center .page-header .popover-hint") as HTMLElement | null
+  if (!article && !pageHeader) {
     loading.textContent = "No preview available."
     return
   }
 
   const wrapper = document.createElement("div")
-  popovers.forEach((node) => wrapper.appendChild(node))
+  if (pageHeader) {
+    wrapper.appendChild(pageHeader)
+  }
+  if (article) {
+    wrapper.appendChild(article)
+  }
   prefixIds(wrapper, `stack-secondary-${targetUrl.pathname.replace(/\//g, "-")}`)
 
   const title =
-    html.querySelector("h1")?.textContent ??
+    html.querySelector(".center .article-title")?.textContent ??
+    html.querySelector(".center article h1")?.textContent ??
     html.querySelector("title")?.textContent ??
     targetUrl.pathname.replace(/^\//, "")
 
-  meta.textContent = targetUrl.pathname.replace(/^\//, "")
+  setText("#stacked-notes-title", title)
+  setText("#stacked-notes-meta", targetUrl.pathname.replace(/^\//, "") || "index")
   secondary.replaceChildren(wrapper)
+  setPaneState("ready")
 
-  const header = document.createElement("h1")
-  header.textContent = title
-  secondary.prepend(header)
+  const openFull = document.getElementById("stacked-notes-open-full") as HTMLAnchorElement | null
+  const promote = document.getElementById("stacked-notes-promote") as HTMLButtonElement | null
+  if (openFull) {
+    openFull.href = targetUrl.toString()
+    openFull.setAttribute("aria-disabled", "false")
+    openFull.classList.remove("disabled")
+  }
+  if (promote) {
+    promote.disabled = false
+    promote.dataset.targetUrl = targetUrl.toString()
+  }
 }
 
 const setupStackMode = () => {
   const toggle = document.getElementById("stacked-notes-toggle") as HTMLButtonElement | null
   const container = document.getElementById("stacked-notes-container") as HTMLElement | null
   const closeButton = document.getElementById("stacked-notes-close") as HTMLButtonElement | null
-  const primary = document.querySelector("[data-stack-content='primary']") as HTMLElement | null
   const secondary = document.querySelector("[data-stack-content='secondary']") as HTMLElement | null
-  const secondaryMeta = document.querySelector(
-    "[data-stack-meta='secondary']",
-  ) as HTMLElement | null
-  const primaryMeta = document.querySelector("[data-stack-meta='primary']") as HTMLElement | null
+  const promoteButton = document.getElementById("stacked-notes-promote") as HTMLButtonElement | null
 
-  if (!toggle || !container || !closeButton || !primary || !secondary || !secondaryMeta) return
+  if (!toggle || !container || !closeButton || !secondary || !promoteButton) return
 
   placeContainer(container)
 
@@ -94,11 +153,8 @@ const setupStackMode = () => {
     container.setAttribute("aria-hidden", String(!active))
     toggle.setAttribute("aria-checked", String(active))
     localStorage.setItem(storageKey, active ? "true" : "false")
-    if (active) {
-      renderPrimary(primary)
-      if (primaryMeta) {
-        primaryMeta.textContent = window.location.pathname.replace(/^\//, "") || "index"
-      }
+    if (!active) {
+      renderEmpty()
     }
   }
 
@@ -106,18 +162,29 @@ const setupStackMode = () => {
   setMode(stored)
 
   const onToggle = () => setMode(!document.body.classList.contains("stack-mode"))
-  const onClose = () => setMode(false)
+  const onClose = () => renderEmpty()
+  const onPromote = () => {
+    const targetUrl = promoteButton.dataset.targetUrl
+    if (!targetUrl) return
+    window.location.href = targetUrl
+  }
 
   const onKeyDown = (event: KeyboardEvent) => {
     if (!document.body.classList.contains("stack-mode")) return
     if (event.key === "Escape") {
       event.preventDefault()
-      setMode(false)
+      const shell = document.querySelector(".stacked-notes-shell") as HTMLElement | null
+      if (shell?.dataset.stackState === "ready") {
+        renderEmpty()
+      } else {
+        setMode(false)
+      }
     }
   }
 
   toggle.addEventListener("click", onToggle)
   closeButton.addEventListener("click", onClose)
+  promoteButton.addEventListener("click", onPromote)
   document.addEventListener("keydown", onKeyDown)
 
   const onClick = async (event: MouseEvent) => {
@@ -128,15 +195,10 @@ const setupStackMode = () => {
     if (!target) return
     const link = target.closest("a.internal") as HTMLAnchorElement | null
     if (!link) return
-    if (!container.contains(link)) return
-    if (link.getAttribute("target") === "_blank") return
-    if (link.dataset.routerIgnore !== undefined) return
-
-    const href = link.getAttribute("href")
-    if (!href || href.startsWith("#")) return
+    if (!isEligibleLink(link)) return
 
     event.preventDefault()
-    await renderSecondary(new URL(link.href), secondary, secondaryMeta)
+    await renderSecondary(new URL(link.href), secondary)
   }
 
   document.addEventListener("click", onClick, true)
@@ -144,6 +206,7 @@ const setupStackMode = () => {
   window.addCleanup(() => {
     toggle.removeEventListener("click", onToggle)
     closeButton.removeEventListener("click", onClose)
+    promoteButton.removeEventListener("click", onPromote)
     document.removeEventListener("keydown", onKeyDown)
     document.removeEventListener("click", onClick, true)
   })

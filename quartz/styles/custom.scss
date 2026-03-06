@@ -42,15 +42,41 @@ article h1,
 article h2,
 article h3,
 article h4 {
-  font-weight: 700;
-  letter-spacing: -0.015em;
+  font-weight: 780;
+  letter-spacing: -0.02em;
   color: var(--dark);
+}
+
+article h1 {
+  font-size: clamp(2.3rem, 5vw, 3.6rem);
+  line-height: 0.98;
+  margin-bottom: 0.9rem;
+}
+
+article h2 {
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  line-height: 1.08;
+  margin-top: 2rem;
+  margin-bottom: 0.7rem;
+}
+
+article h3 {
+  font-size: 1.15rem;
+  line-height: 1.18;
+  margin-top: 1.35rem;
+  margin-bottom: 0.45rem;
+}
+
+article h4 {
+  font-size: 1rem;
+  line-height: 1.25;
 }
 
 article strong,
 article b {
-  font-weight: 700;
+  font-weight: 780;
   color: var(--dark);
+  letter-spacing: -0.01em;
 }
 
 article a {
@@ -685,11 +711,12 @@ article.thoughtpiece,
 article.branch-hub,
 .branch-hub article {
   h2 {
-    font-family: var(--codeFont);
-    font-size: 0.9rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--gray);
+    font-family: var(--headerFont);
+    font-size: 1.45rem;
+    line-height: 1.1;
+    letter-spacing: -0.015em;
+    text-transform: none;
+    color: var(--dark);
   }
 
   .callout {
@@ -960,49 +987,104 @@ article.external-canvas-note,
 
 article.arena-hub,
 .arena-hub article {
-  .arena-channel-grid {
+  .arena-intro {
+    margin: 0.85rem 0 1rem;
+    padding: 1rem 1.05rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 20%, var(--lightgray) 80%);
+    border-radius: 16px;
+    background: linear-gradient(
+      155deg,
+      color-mix(in srgb, var(--light) 96%, var(--secondary) 4%),
+      color-mix(in srgb, var(--light) 92%, var(--tertiary) 8%)
+    );
+  }
+
+  .arena-meta-strip {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-    gap: 0.75rem;
-    margin: 1rem 0 1.35rem;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.65rem;
+    margin: 0.95rem 0 1.1rem;
   }
 
-  .arena-channel-card {
+  .arena-meta-card {
+    border: 1px solid color-mix(in srgb, var(--secondary) 20%, var(--lightgray) 80%);
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
+    padding: 0.8rem 0.9rem;
+  }
+
+  .arena-meta-card strong {
     display: block;
-    text-decoration: none;
-    color: var(--dark);
-    border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray) 72%);
-    border-radius: 11px;
-    padding: 0.65rem 0.72rem;
-    background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
-    min-height: 132px;
+    margin-top: 0.15rem;
+    font-size: 1.05rem;
   }
 
-  .arena-channel-card:hover {
-    background: color-mix(in srgb, var(--light) 90%, var(--secondary) 10%);
+  .arena-controls {
+    margin: 1rem 0 1.35rem;
+    padding: 0.95rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 22%, var(--lightgray) 78%);
+    border-radius: 16px;
+    background: color-mix(in srgb, var(--light) 97%, var(--secondary) 3%);
   }
 
-  .arena-channel-label {
-    display: inline-block;
+  .arena-filter-label {
+    display: block;
+    margin-bottom: 0.4rem;
     font-family: var(--codeFont);
-    font-size: 0.62rem;
-    letter-spacing: 0.09em;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--gray);
-    margin-bottom: 0.2rem;
   }
 
-  .arena-channel-card h3 {
-    margin: 0.1rem 0 0.34rem;
-    font-size: 1rem;
-    line-height: 1.25;
+  .arena-filter-input {
+    width: 100%;
+    border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray) 72%);
+    border-radius: 999px;
+    background: var(--light);
+    color: var(--dark);
+    padding: 0.72rem 0.95rem;
+    font-size: 0.95rem;
   }
 
-  .arena-channel-card p {
-    margin: 0;
+  .arena-filter-meta {
+    margin: 0.5rem 0 0;
     font-size: 0.87rem;
-    line-height: 1.35;
-    color: var(--darkgray);
+    color: var(--gray);
+  }
+
+  .arena-index-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.35rem 0.85rem;
+    padding-left: 1rem;
+  }
+
+  h2 {
+    margin-top: 2.1rem;
+  }
+
+  h3 {
+    margin-top: 1.2rem;
+    font-size: 1rem;
+  }
+
+  ul {
+    column-width: 23rem;
+    column-gap: 1.4rem;
+  }
+
+  li {
+    break-inside: avoid;
+    margin-bottom: 0.28rem;
+  }
+
+  a[href^="http"] {
+    text-decoration: none;
+  }
+
+  a[href^="http"]:hover {
+    text-decoration: underline;
   }
 }
 
@@ -1029,6 +1111,7 @@ article.research-notes,
 }
 
 .portfolio-page article {
+  .portfolio-hero,
   .kitchen-hero {
     margin: 0.6rem 0 1.5rem;
     padding: 1.25rem 1.25rem 1.1rem;
@@ -1048,6 +1131,13 @@ article.research-notes,
     box-shadow: 0 24px 60px rgba(45, 33, 20, 0.08);
   }
 
+  .portfolio-hero.with-portrait {
+    display: grid;
+    grid-template-columns: minmax(0, 1.6fr) minmax(240px, 0.9fr);
+    gap: 1rem;
+    align-items: stretch;
+  }
+
   .kitchen-eyebrow,
   .casefile-label,
   .proof-label {
@@ -1064,6 +1154,12 @@ article.research-notes,
   .kitchen-hero h2 {
     margin: 0.35rem 0 0.6rem;
     font-size: clamp(2rem, 4vw, 3.15rem);
+    line-height: 0.98;
+  }
+
+  .portfolio-hero h2 {
+    margin: 0.35rem 0 0.6rem;
+    font-size: clamp(2rem, 4vw, 3.05rem);
     line-height: 0.98;
   }
 
@@ -1164,12 +1260,128 @@ article.research-notes,
   .casefile-summary {
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
+
+  .portrait-placeholder {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 320px;
+    padding: 1rem;
+    border-radius: 18px;
+    border: 1px dashed color-mix(in srgb, var(--secondary) 34%, var(--lightgray) 66%);
+    background: linear-gradient(
+      160deg,
+      color-mix(in srgb, var(--light) 88%, var(--secondary) 12%),
+      color-mix(in srgb, var(--light) 95%, var(--tertiary) 5%)
+    );
+  }
+
+  .portrait-label {
+    display: inline-flex;
+    margin-bottom: 0.35rem;
+    font-family: var(--codeFont);
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  .portrait-placeholder strong {
+    display: block;
+    font-size: 1.15rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .portrait-placeholder p {
+    margin: 0;
+    font-size: 0.93rem;
+  }
 }
 
 article.research-notes,
 .research-notes article {
   .subblog-list {
     margin-top: 1rem;
+  }
+}
+
+article.kitchen-home,
+.kitchen-home article {
+  .orientation-hero {
+    margin: 0.7rem 0 1.25rem;
+    padding: 1.15rem 1.2rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 22%, var(--lightgray) 78%);
+    border-radius: 18px;
+    background:
+      radial-gradient(
+        120% 160% at 100% 0%,
+        color-mix(in srgb, var(--tertiary) 14%, transparent 86%) 0%,
+        transparent 48%
+      ),
+      linear-gradient(
+        150deg,
+        color-mix(in srgb, var(--light) 97%, var(--secondary) 3%),
+        color-mix(in srgb, var(--light) 92%, var(--tertiary) 8%)
+      );
+  }
+
+  .orientation-lede {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: var(--dark);
+  }
+
+  .orientation-grid,
+  .writing-grid,
+  .reading-journey {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.8rem;
+    margin: 1rem 0 1.35rem;
+  }
+
+  .orientation-card,
+  .writing-card,
+  .journey-step {
+    border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
+    border-radius: 16px;
+    background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
+    padding: 0.9rem 1rem;
+    box-shadow: 0 16px 36px rgba(28, 32, 44, 0.05);
+  }
+
+  .orientation-card,
+  .writing-card {
+    display: block;
+    text-decoration: none;
+    color: var(--dark);
+  }
+
+  .orientation-card:hover,
+  .writing-card:hover {
+    transform: translateY(-2px);
+    background: color-mix(in srgb, var(--light) 92%, var(--secondary) 8%);
+  }
+
+  .orientation-card h2,
+  .writing-card h3 {
+    margin-top: 0.35rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .journey-step p {
+    margin: 0.35rem 0 0;
+  }
+
+  .kitchen-eyebrow,
+  .casefile-label,
+  .proof-label {
+    display: inline-flex;
+    font-family: var(--codeFont);
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
   }
 }
 
@@ -1414,6 +1626,10 @@ article.external-canvas-note,
   .portfolio-page article .kitchen-hero {
     padding: 1rem;
     border-radius: 16px;
+  }
+
+  .portfolio-page article .portfolio-hero.with-portrait {
+    grid-template-columns: 1fr;
   }
 
   .portfolio-page article .kitchen-hero h2 {

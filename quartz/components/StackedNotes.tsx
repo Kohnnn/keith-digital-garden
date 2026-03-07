@@ -8,10 +8,10 @@ const StackedNotes: QuartzComponent = () => (
     id="stacked-notes-toggle"
     type="button"
     role="switch"
-    aria-label="Toggle split reader"
+    aria-label="Toggle stacked notes"
     aria-checked="false"
   >
-    Split
+    Stack
     <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <circle
         cx="14"

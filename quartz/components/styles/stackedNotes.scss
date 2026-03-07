@@ -31,47 +31,46 @@
 
 #stacked-notes-container {
   position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: min(38vw, 34rem);
+  inset: 0;
   z-index: 60;
   display: none;
-  padding: 1rem 1rem 1rem 0;
-  pointer-events: none;
+  background: color-mix(in srgb, var(--light) 92%, transparent 8%);
+  backdrop-filter: blur(10px);
+}
+
+:root[saved-theme="dark"] #stacked-notes-container {
+  background: color-mix(in srgb, var(--light) 90%, #000 10%);
 }
 
 body.stack-mode #stacked-notes-container {
-  display: flex;
+  display: block;
 }
 
 body.stack-mode #quartz-root {
-  padding-right: min(38vw, 34rem);
-  transition: padding-right 0.2s ease;
+  opacity: 0.12;
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+body.stack-mode {
+  overflow: hidden;
 }
 
 .stacked-notes-shell {
-  pointer-events: auto;
   height: 100%;
   display: flex;
   flex-direction: column;
-  gap: 0.85rem;
-  padding: 1rem 1rem 1.1rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
-  border-radius: 22px;
-  background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
-  box-shadow: 0 24px 60px rgba(18, 24, 38, 0.18);
-  backdrop-filter: blur(12px);
+  gap: 1rem;
+  padding: 2rem 2.5rem;
 }
 
 .stacked-notes-header {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   gap: 1rem;
 }
 
-.stacked-notes-kicker,
 .stacked-notes-hint {
   margin: 0;
   font-family: var(--codeFont);
@@ -83,16 +82,9 @@ body.stack-mode #quartz-root {
 
 .stacked-notes-title {
   font-family: var(--headerFont);
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   color: var(--dark);
-  margin: 0.1rem 0 0.2rem;
-}
-
-.stacked-notes-meta {
   margin: 0;
-  color: var(--darkgray);
-  font-size: 0.92rem;
-  line-height: 1.45;
 }
 
 .stacked-notes-close {
@@ -108,57 +100,48 @@ body.stack-mode #quartz-root {
   cursor: pointer;
 }
 
-.stacked-notes-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
+.stacked-notes-panels {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  min-height: 0;
 }
 
-.stacked-notes-link {
-  display: inline-flex;
+.stacked-note {
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  box-shadow: 0 24px 48px rgba(15, 20, 30, 0.12);
+  overflow: hidden;
+}
+
+.stacked-note-header {
+  display: flex;
   align-items: center;
-  justify-content: center;
-  border-radius: 999px;
-  padding: 0.38rem 0.72rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray) 72%);
-  background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
-  color: var(--dark);
-  text-decoration: none;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--lightgray);
   font-family: var(--codeFont);
   font-size: 0.68rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  cursor: pointer;
+  color: var(--gray);
 }
 
-.stacked-notes-link.disabled,
-.stacked-notes-link:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+.stacked-note-meta {
+  font-size: 0.65rem;
+  color: var(--gray);
+  letter-spacing: 0.04em;
 }
 
 .stacked-note-content {
-  flex: 1;
-  min-height: 0;
+  padding: 1.2rem 1.4rem 1.6rem;
   overflow: auto;
-  border: 1px solid color-mix(in srgb, var(--secondary) 14%, var(--lightgray) 86%);
-  border-radius: 18px;
-  background: color-mix(in srgb, var(--light) 98%, var(--secondary) 2%);
-  padding: 1rem 1rem 1.15rem;
-}
-
-.stacked-note-content article,
-.stacked-note-content .popover-hint {
-  max-width: none;
-}
-
-.stacked-note-content .page-header {
-  margin-bottom: 1rem;
-}
-
-.stacked-note-content h1 {
-  font-size: 1.7rem;
-  line-height: 1.05;
+  color: var(--darkgray);
 }
 
 .stacked-note-content h1,
@@ -183,18 +166,11 @@ body.stack-mode #quartz-root {
 }
 
 @media (max-width: 900px) {
-  #stacked-notes-container {
-    inset: auto 0 0 0;
-    width: 100%;
-    padding: 0.5rem 0.5rem 0.75rem;
-  }
-
-  body.stack-mode #quartz-root {
-    padding-right: 0;
-  }
-
   .stacked-notes-shell {
-    max-height: min(78vh, 46rem);
-    border-radius: 20px 20px 0 0;
+    padding: 1.5rem;
+  }
+
+  .stacked-notes-panels {
+    grid-template-columns: 1fr;
   }
 }

@@ -13,7 +13,7 @@ cssclasses: [branch-hub, kitchen-home]
 <div class="orientation-hero">
   <p class="kitchen-eyebrow">A research kitchen for markets, models, and curiosity.</p>
   <p class="orientation-lede">This site is arranged like a kitchen pass. The portfolio is the plated work, the notes are the prep counter, the arena is the ingredient shelf, and the research notes are the service log.</p>
-  <p>If you are here to evaluate the work, take the fast route. If you want the wider thinking behind it, wander sideways.</p>
+  <p>If you are here to evaluate the work, take the fast route. If you want the wider thinking behind it, wander sideways. The short-form archive now lives in neutral dispatch shelves rather than an explicit drafting box.</p>
 </div>
 
 <div class="orientation-grid" role="list" aria-label="Primary site routes">
@@ -51,11 +51,15 @@ cssclasses: [branch-hub, kitchen-home]
     <p>Use [[notes|Notes]] when you want simulations, topic clusters, or the wider curiosity trail.</p>
   </div>
   <div class="journey-step">
-    <span class="proof-label">3. Browse laterally</span>
+    <span class="proof-label">3. Skim the shelves</span>
+    <p>Use [[Dispatches]] when you want shorter briefs, digests, and archive fragments without leaving the main reading flow.</p>
+  </div>
+  <div class="journey-step">
+    <span class="proof-label">4. Browse laterally</span>
     <p>Use [[arena|Arena]] as a dense shelf of external references instead of a linear reading path.</p>
   </div>
   <div class="journey-step">
-    <span class="proof-label">4. Re-enter anywhere</span>
+    <span class="proof-label">5. Re-enter anywhere</span>
     <p>Use [[tags|Tag map]] and backlinks when you want the garden mechanics rather than the guided route.</p>
   </div>
 </div>
@@ -82,5 +86,25 @@ cssclasses: [branch-hub, kitchen-home]
     <span class="casefile-label">Map</span>
     <h3>Tag map</h3>
     <p>Useful when you want to stop following the plated route and explore by topic instead.</p>
+  </a>
+</div>
+
+## More branches
+
+<div class="writing-grid">
+  <a class="writing-card" href="./Dispatches">
+    <span class="casefile-label">Archive</span>
+    <h3>Dispatches</h3>
+    <p>Neutral entry into the short-form archive: field notes, research digests, tech journal notes, thoughtpieces, and market snapshots.</p>
+  </a>
+  <a class="writing-card" href="./Visual-Notes">
+    <span class="casefile-label">Interactive archive</span>
+    <h3>Visual notes</h3>
+    <p>The simulation-heavy branch adapted from the Ciechanowski archive and blended with your own analysis.</p>
+  </a>
+  <a class="writing-card" href="./Portfolio/Blog">
+    <span class="casefile-label">Writing</span>
+    <h3>Research notes</h3>
+    <p>The more deliberate market-facing writing layer, separate from the archive shelves.</p>
   </a>
 </div>

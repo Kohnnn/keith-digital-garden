@@ -1,17 +1,16 @@
 ---
-title: AI Sandbox
+title: Dispatches Archive
 tags:
-  - sandbox
-  - ai
+  - dispatches
+  - archive
 draft: false
-description: Draft area for AI-assisted notes.
+description: Archive of short briefs, working notes, and categorized dispatches.
 created: 2026-01-30
-updated: 2026-01-30
+updated: 2026-03-07
+cssclasses: [branch-hub]
 ---
 
-# AI Sandbox
+# Dispatches Archive
 
-Use this folder for AI-assisted drafts and experiments.
-Move finalized notes into the main `content/` tree when ready.
-
-#
+This archive holds short-form dispatches, working notes, and topic snapshots.
+The point is not the tooling used during drafting. The point is the note inventory and the reading trail it creates.

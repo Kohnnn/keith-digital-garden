@@ -18,7 +18,7 @@ It is structured as a portfolio first and a note garden second: the homepage and
 - `Portfolio/*` holds the hiring-facing surfaces: experience, casefiles, research notes, and contact.
 - `Notes/*` holds interactive explainers and longer-form technical notes.
 - `mark-memo/*` holds dated market memos and weekly context logs.
-- `AI_Sandbox/*` remains the internal draft airlock and is not part of the main browsing flow.
+- `Dispatches/*` exposes the short-form archive through neutral public shelves rather than a drafting-branded box.
 
 ## Why the name changed
 

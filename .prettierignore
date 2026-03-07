@@ -1,5 +1,6 @@
 public
 public-verification
+public-verification-*
 node_modules
 .quartz-cache
 automation/output

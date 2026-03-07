@@ -4,17 +4,19 @@ tags: [portfolio, blog, external, ciechanow, interactive, astronomy]
 draft: false
 description: Interactive orbit-tilt model for seasonal illumination and hemispheric contrast intuition.
 created: 2019-10-16
-updated: 2026-02-24
+updated: 2026-03-07
 aliases: [Portfolio/Stuffs/Earth-and-Sun]
 cssclasses: [external-canvas-note, note-lab]
 ---
 
 # Earth and Sun
 
-> [!info] Source
-> Original article: [Earth and Sun](https://ciechanow.ski/earth-and-sun/)
->
-> Archive listing: [Ciechanow Archives](https://ciechanow.ski/archives/)
+<div class="source-card">
+  <span class="casefile-label">Original article</span>
+  <p><a href="https://ciechanow.ski/earth-and-sun/" target="_blank" rel="noopener noreferrer">Earth and Sun by Bartosz Ciechanowski</a></p>
+</div>
+
+<p class="note-lede">Seasonality is a geometry story before it is a climate story. Distance from the sun is the popular explanation, but axial tilt does most of the visual work. The compare states below are meant to make that argument harder to miss.</p>
 
 <div class="interactive-sim" data-sim-scene="earth-and-sun">
   <div class="interactive-sim-stage stage-medium">
@@ -33,44 +35,109 @@ cssclasses: [external-canvas-note, note-lab]
   </div>
 </div>
 
-## Session 1: Intuition
+## Seasonal states
 
-Seasonality is not about distance alone. Orbital position and axis orientation jointly decide illumination geometry over the year.
+<div class="lab-compare-grid">
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare A</span>
+    <h3>Near equinox</h3>
+    <p>Moderate orbital position with standard tilt keeps the hemispheres closer to balance.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="earth-and-sun">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Earth equinox comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>day</label>
+          <input data-control="day" type="range" min="0" max="365" step="1" value="80" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>tilt</label>
+          <input data-control="tilt" type="range" min="0" max="35" step="0.1" value="23.5" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare B</span>
+    <h3>Solstice asymmetry</h3>
+    <p>At the same tilt, a different orbital position makes the hemispheric contrast obvious and dramatic.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="earth-and-sun">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Earth solstice comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>day</label>
+          <input data-control="day" type="range" min="0" max="365" step="1" value="172" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>tilt</label>
+          <input data-control="tilt" type="range" min="0" max="35" step="0.1" value="23.5" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare C</span>
+    <h3>No-tilt stress test</h3>
+    <p>Flatten the axis and the seasonal contrast almost disappears, even though the orbit still advances.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="earth-and-sun">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Zero-tilt Earth comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>day</label>
+          <input data-control="day" type="range" min="0" max="365" step="1" value="172" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>tilt</label>
+          <input data-control="tilt" type="range" min="0" max="35" step="0.1" value="0" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+</div>
 
-## Session 2: Model
+<div class="analysis-panel">
+  <span class="casefile-label">Analysis</span>
+  <p>The best habit to carry over from the original article is resisting the easy story. “Closer means hotter” is tidy, but the tilt comparison exposes why it is incomplete. The useful mental model is not Earth moving nearer or farther. It is a rotating axis presenting each hemisphere to the incoming light at different angles over the year.</p>
+</div>
 
-The simulation draws an elliptical-like orbit and rotates the Earth marker by a configurable tilt angle. Day progression moves the planet around the sun while preserving the selected axial inclination.
+## What to notice
 
-## Session 3: Control Lab
+<div class="note-observation-grid">
+  <div class="observation-card">
+    <h3>Tilt writes the contrast</h3>
+    <p>The stronger the tilt, the easier it is to see why one hemisphere receives a very different lighting story.</p>
+  </div>
+  <div class="observation-card">
+    <h3>Day-of-year is the clock</h3>
+    <p>The orbital day slider is useful because it reveals seasonality as a cycle rather than an isolated snapshot.</p>
+  </div>
+  <div class="observation-card">
+    <h3>Distance is secondary here</h3>
+    <p>The geometry already explains the core visual effect without needing a more complicated energy model.</p>
+  </div>
+</div>
 
-Move the day slider through a full cycle and hold tilt fixed. Then reduce tilt toward zero and compare the change in seasonal asymmetry. Finally exaggerate tilt to test edge-case behavior.
+## Try this reading sequence
 
-## Session 4: What to Observe
+<ol class="experiment-list">
+  <li>Compare equinox and solstice at the same tilt to isolate the seasonal clock.</li>
+  <li>Then compare solstice against the zero-tilt state to isolate the role of axial orientation.</li>
+  <li>Return to the main sim and scrub through the year only after those contrasts feel obvious.</li>
+</ol>
 
-With low tilt, hemispheric contrast weakens. With higher tilt, seasonal contrast sharpens and illumination direction changes become visually explicit.
+## Limits
 
-## Session 5: Limits and Simplifications
-
-The model does not simulate full radiative transfer, eccentricity corrections, atmospheric effects, or solar declination equations. It is intended as a compact geometric interpretation tool.
-
-## Session 6: References
-
-- Primary inspiration: [Earth and Sun](https://ciechanow.ski/earth-and-sun/)
-- Archive index: [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/)
-
-## Original Article Alignment
-
-This page keeps the same conceptual spine as the original article while adapting it into seasonal illumination geometry with repeatable presets for comparison and testing.
-
-## Why this matters
-
-Seasonal geometry explains many climate, energy, and daylight visualization tasks. Axis tilt and orbital position are easier to communicate when users can manipulate them directly.
-
-## Try these experiments
-
-1. Hold axial tilt steady and sweep orbital day from low to high; note where behavior changes from gradual to abrupt.
-2. Reset, then sweep axial tilt while keeping orbital day fixed; compare whether the response is mostly geometric, temporal, or intensity-driven.
-3. Use Interactive Labs 6 and 7 as an A/B pair: run both for a longer interval and compare drift, stability, and repeatability.
+- No atmospheric scattering or radiative transfer
+- Built for orbital geometry intuition, not full climate modeling
+- Keeps the story compact so the tilt effect remains visually central
 
 ## Related Notes
 

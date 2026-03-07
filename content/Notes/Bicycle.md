@@ -4,17 +4,19 @@ tags: [portfolio, blog, external, ciechanow, interactive, mechanics]
 draft: false
 description: Interactive bicycle kinematics sandbox for steering, velocity, and turning radius intuition.
 created: 2023-03-28
-updated: 2026-02-24
+updated: 2026-03-07
 aliases: [Portfolio/Stuffs/Bicycle]
 cssclasses: [external-canvas-note, note-lab]
 ---
 
 # Bicycle
 
-> [!info] Source
-> Original article: [Bicycle](https://ciechanow.ski/bicycle/)
->
-> Archive listing: [Ciechanow Archives](https://ciechanow.ski/archives/)
+<div class="source-card">
+  <span class="casefile-label">Original article</span>
+  <p><a href="https://ciechanow.ski/bicycle/" target="_blank" rel="noopener noreferrer">Bicycle by Bartosz Ciechanowski</a></p>
+</div>
+
+<p class="note-lede">The interesting part of bicycle motion is not the bike icon moving across the screen. It is the way steering angle quietly turns into curvature. This version keeps one main path view up front, then breaks the geometry into smaller comparison states so you can read what changes and what does not.</p>
 
 <div class="interactive-sim" data-sim-scene="bicycle">
   <div class="interactive-sim-stage">
@@ -33,44 +35,135 @@ cssclasses: [external-canvas-note, note-lab]
   </div>
 </div>
 
-## Session 1: Intuition
+## Steering regimes
 
-Bike turning behavior emerges from geometry constraints, not arbitrary arc drawing. Steering angle, wheelbase, and velocity combine to produce curvature over time.
+<div class="lab-compare-grid">
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare A</span>
+    <h3>Gentle carve</h3>
+    <p>Low steering angles reveal how slowly curvature accumulates when geometry stays conservative.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="bicycle">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Gentle bicycle turn comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>steer</label>
+          <input data-control="steer" type="range" min="-35" max="35" step="0.5" value="8" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>speed</label>
+          <input data-control="speed" type="range" min="0.4" max="3.2" step="0.1" value="1.3" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare B</span>
+    <h3>Tight turn</h3>
+    <p>Pushing steering harder makes the path close faster and exposes how sensitive the trail is to small angle changes.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="bicycle">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Tight bicycle turn comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>steer</label>
+          <input data-control="steer" type="range" min="-35" max="35" step="0.5" value="24" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>speed</label>
+          <input data-control="speed" type="range" min="0.4" max="3.2" step="0.1" value="1.3" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+</div>
 
-## Session 2: Model
+<div class="analysis-panel">
+  <span class="casefile-label">Analysis</span>
+  <p>The original article teaches by isolating a single geometric relationship at a time. That is the right reading pattern here too. First hold speed steady and learn what steering alone does to the radius. Only after that should you bring time back into the picture, because most people confuse faster travel with tighter turning when the underlying curvature has not actually changed.</p>
+</div>
 
-This scene integrates a compact kinematic bicycle equation. Heading evolves from steer input and wheelbase, while position advances in heading direction.
+## Same steer, different elapsed path
 
-## Session 3: Control Lab
+<div class="lab-compare-grid">
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare C</span>
+    <h3>Slow accumulation</h3>
+    <p>With the same steering value, lower speed makes the trail feel calmer even though the path logic is unchanged.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="bicycle">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Slow bicycle path comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>steer</label>
+          <input data-control="steer" type="range" min="-35" max="35" step="0.5" value="16" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>speed</label>
+          <input data-control="speed" type="range" min="0.4" max="3.2" step="0.1" value="0.8" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+  <div class="lab-compare-card">
+    <span class="casefile-label">Compare D</span>
+    <h3>Fast accumulation</h3>
+    <p>The curve is not fundamentally different, but the visual path closes much more quickly because time passes over more ground.</p>
+    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="bicycle">
+      <div class="interactive-sim-stage stage-short">
+        <canvas class="sim-canvas" aria-label="Fast bicycle path comparison"></canvas>
+      </div>
+      <div class="interactive-sim-controls">
+        <div class="interactive-sim-control">
+          <label>steer</label>
+          <input data-control="steer" type="range" min="-35" max="35" step="0.5" value="16" />
+        </div>
+        <div class="interactive-sim-control">
+          <label>speed</label>
+          <input data-control="speed" type="range" min="0.4" max="3.2" step="0.1" value="2.6" />
+        </div>
+        <button data-control="reset" type="button">reset compare</button>
+      </div>
+    </div>
+  </div>
+</div>
 
-At low speed, sweep steering to inspect path curvature. Then increase velocity while keeping steering fixed and compare how quickly heading accumulates.
+## What to notice
 
-## Session 4: What to Observe
+<div class="note-observation-grid">
+  <div class="observation-card">
+    <h3>Curvature is geometry</h3>
+    <p>The path shape comes from steering and wheelbase constraints before anything interesting about dynamics enters the picture.</p>
+  </div>
+  <div class="observation-card">
+    <h3>Speed changes pacing</h3>
+    <p>Higher speed mostly changes how quickly the trail is laid down, which is why it often gets mistaken for a different turning rule.</p>
+  </div>
+  <div class="observation-card">
+    <h3>The trail is the teacher</h3>
+    <p>Watching the integrated path is more useful than staring at the vehicle, because the accumulated error and curvature become visible.</p>
+  </div>
+</div>
 
-Identical steering values produce different visual outcomes over different run durations. Trail visualization makes integration effects explicit and easy to compare.
+## Try this reading sequence
 
-## Session 5: Limits and Simplifications
+<ol class="experiment-list">
+  <li>Start at low speed and sweep steering from near-zero to aggressive. Watch when the turn stops feeling like drift and starts feeling like a committed arc.</li>
+  <li>Reset to a middle steering value and compare slow versus fast travel. Separate path geometry from time-on-path.</li>
+  <li>Use a negative steer value after a positive one to make the left/right symmetry explicit.</li>
+</ol>
 
-No tire slip, lean dynamics, or stability controller is modeled. This is a pure planar kinematic interpretation useful for intuition and quick prototyping.
+## Limits
 
-## Session 6: References
-
-- Primary inspiration: [Bicycle](https://ciechanow.ski/bicycle/)
-- Archive index: [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/)
-
-## Original Article Alignment
-
-This page keeps the same conceptual spine as the original article while adapting it into kinematic steering behavior with repeatable presets for comparison and testing.
-
-## Why this matters
-
-Kinematic bicycle models are used in robotics, vehicle planners, and gameplay steering systems. Knowing how steer and speed map to curvature makes controller tuning much faster.
-
-## Try these experiments
-
-1. Hold velocity steady and sweep steering angle from low to high; note where behavior changes from gradual to abrupt.
-2. Reset, then sweep velocity while keeping steering angle fixed; compare whether the response is mostly geometric, temporal, or intensity-driven.
-3. Use Interactive Labs 6 and 7 as an A/B pair: run both for a longer interval and compare drift, stability, and repeatability.
+- No lean, slip angle, tire model, or stability corrections
+- Built for steering intuition rather than full vehicle dynamics
+- Best read as a geometric control toy, not a road-physics simulator
 
 ## Related Notes
 

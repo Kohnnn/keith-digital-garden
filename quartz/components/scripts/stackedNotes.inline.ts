@@ -4,6 +4,9 @@ import { fetchCanonical } from "./util"
 const parser = new DOMParser()
 const storageKey = "stacked-notes-mode"
 
+const defaultSecondaryTitle = "Choose a note"
+let activeSecondaryUrl: URL | null = null
+
 const prefixIds = (root: HTMLElement, prefix: string) => {
   root.querySelectorAll<HTMLElement>("[id]").forEach((el) => {
     const id = el.getAttribute("id")
@@ -23,19 +26,93 @@ const placeContainer = (container: HTMLElement) => {
   }
 }
 
-const renderPrimary = (primary: HTMLElement) => {
+const extractStackContent = (html: Document) => {
+  const popover = html.querySelector(".popover-hint")
+  if (popover instanceof HTMLElement) {
+    const wrapper = document.createElement("div")
+    wrapper.appendChild(popover)
+    return wrapper
+  }
+
+  const article = html.querySelector("article")
+  if (article instanceof HTMLElement) {
+    return article
+  }
+
+  const center = html.querySelector(".center")
+  return center instanceof HTMLElement ? center : null
+}
+
+const setToggleState = (toggle: HTMLButtonElement, active: boolean) => {
+  toggle.setAttribute("aria-checked", String(active))
+
+  const label = toggle.querySelector("[data-stack-toggle-label]")
+  if (label) {
+    label.textContent = active ? "Stack" : "Stack"
+  }
+
+  const state = toggle.querySelector("[data-stack-toggle-state]")
+  if (state) {
+    state.textContent = active ? "On" : "Off"
+  }
+}
+
+const renderPrimary = (
+  primary: HTMLElement,
+  meta: HTMLElement | null,
+  title: HTMLElement | null,
+) => {
   const source = document.querySelector(".center") as HTMLElement | null
   if (!source) return
   const clone = source.cloneNode(true) as HTMLElement
   prefixIds(clone, "stack-primary")
   primary.replaceChildren(clone)
+
+  if (meta) {
+    meta.textContent = window.location.pathname.replace(/^\//, "") || "index"
+  }
+
+  if (title) {
+    title.textContent =
+      document.querySelector("article h1")?.textContent ??
+      document.querySelector(".article-title")?.textContent ??
+      document.title.replace(/\s+\|\s+.*/, "") ??
+      "Current note"
+  }
 }
 
-const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTMLElement) => {
+const resetSecondary = (
+  secondary: HTMLElement,
+  meta: HTMLElement | null,
+  title: HTMLElement | null,
+  clearButton: HTMLButtonElement | null,
+  openButton: HTMLButtonElement | null,
+) => {
+  activeSecondaryUrl = null
+  if (meta) meta.textContent = ""
+  if (title) title.textContent = defaultSecondaryTitle
+  if (clearButton) clearButton.disabled = true
+  if (openButton) openButton.disabled = true
+
+  secondary.replaceChildren()
+  const placeholder = document.createElement("p")
+  placeholder.className = "stacked-note-placeholder"
+  placeholder.textContent = "Select an internal note to compare beside the current page."
+  secondary.appendChild(placeholder)
+}
+
+const renderSecondary = async (
+  targetUrl: URL,
+  secondary: HTMLElement,
+  meta: HTMLElement | null,
+  titleEl: HTMLElement | null,
+  clearButton: HTMLButtonElement | null,
+  openButton: HTMLButtonElement | null,
+) => {
   secondary.replaceChildren()
   const loading = document.createElement("p")
   loading.className = "stacked-note-loading"
-  loading.textContent = "Loading note..."
+  loading.textContent = "Loading note preview..."
   secondary.appendChild(loading)
 
   const response = await fetchCanonical(targetUrl).catch((err) => {
@@ -43,7 +120,7 @@ const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTM
   })
 
   if (!response) {
-    loading.textContent = "Failed to load note."
+    loading.textContent = "Failed to load this note."
     return
   }
 
@@ -51,14 +128,14 @@ const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTM
   const html = parser.parseFromString(contents, "text/html")
   normalizeRelativeURLs(html, targetUrl)
 
-  const popovers = [...html.getElementsByClassName("popover-hint")]
-  if (popovers.length === 0) {
-    loading.textContent = "No preview available."
+  const extracted = extractStackContent(html)
+  if (!extracted) {
+    loading.textContent = "This note does not have a stackable preview yet."
     return
   }
 
   const wrapper = document.createElement("div")
-  popovers.forEach((node) => wrapper.appendChild(node))
+  wrapper.appendChild(extracted)
   prefixIds(wrapper, `stack-secondary-${targetUrl.pathname.replace(/\//g, "-")}`)
 
   const title =
@@ -66,24 +143,46 @@ const renderSecondary = async (targetUrl: URL, secondary: HTMLElement, meta: HTM
     html.querySelector("title")?.textContent ??
     targetUrl.pathname.replace(/^\//, "")
 
-  meta.textContent = targetUrl.pathname.replace(/^\//, "")
+  activeSecondaryUrl = targetUrl
+  if (meta) meta.textContent = targetUrl.pathname.replace(/^\//, "")
+  if (titleEl) titleEl.textContent = title
+  if (clearButton) clearButton.disabled = false
+  if (openButton) openButton.disabled = false
   secondary.replaceChildren(wrapper)
+}
 
-  const header = document.createElement("h1")
-  header.textContent = title
-  secondary.prepend(header)
+const isStackableLink = (link: HTMLAnchorElement) => {
+  if (!link.classList.contains("internal")) return false
+  if (link.getAttribute("target") === "_blank") return false
+  if (link.dataset.routerIgnore !== undefined) return false
+
+  const href = link.getAttribute("href")
+  if (!href || href.startsWith("#")) return false
+
+  const url = new URL(link.href)
+  if (url.origin !== window.location.origin) return false
+  if (url.pathname.endsWith(".pdf")) return false
+  if (url.pathname.includes("/tags/")) return false
+
+  return true
 }
 
 const setupStackMode = () => {
   const toggle = document.getElementById("stacked-notes-toggle") as HTMLButtonElement | null
   const container = document.getElementById("stacked-notes-container") as HTMLElement | null
   const closeButton = document.getElementById("stacked-notes-close") as HTMLButtonElement | null
+  const clearButton = document.getElementById("stacked-notes-clear") as HTMLButtonElement | null
+  const openButton = document.getElementById("stacked-notes-open") as HTMLButtonElement | null
   const primary = document.querySelector("[data-stack-content='primary']") as HTMLElement | null
   const secondary = document.querySelector("[data-stack-content='secondary']") as HTMLElement | null
   const secondaryMeta = document.querySelector(
     "[data-stack-meta='secondary']",
   ) as HTMLElement | null
   const primaryMeta = document.querySelector("[data-stack-meta='primary']") as HTMLElement | null
+  const primaryTitle = document.querySelector("[data-stack-title='primary']") as HTMLElement | null
+  const secondaryTitle = document.querySelector(
+    "[data-stack-title='secondary']",
+  ) as HTMLElement | null
 
   if (!toggle || !container || !closeButton || !primary || !secondary || !secondaryMeta) return
 
@@ -92,13 +191,14 @@ const setupStackMode = () => {
   const setMode = (active: boolean) => {
     document.body.classList.toggle("stack-mode", active)
     container.setAttribute("aria-hidden", String(!active))
-    toggle.setAttribute("aria-checked", String(active))
+    setToggleState(toggle, active)
     localStorage.setItem(storageKey, active ? "true" : "false")
     if (active) {
-      renderPrimary(primary)
-      if (primaryMeta) {
-        primaryMeta.textContent = window.location.pathname.replace(/^\//, "") || "index"
+      renderPrimary(primary, primaryMeta, primaryTitle)
+      if (!activeSecondaryUrl) {
+        resetSecondary(secondary, secondaryMeta, secondaryTitle, clearButton, openButton)
       }
+      closeButton.focus()
     }
   }
 
@@ -107,6 +207,13 @@ const setupStackMode = () => {
 
   const onToggle = () => setMode(!document.body.classList.contains("stack-mode"))
   const onClose = () => setMode(false)
+  const onClear = () =>
+    resetSecondary(secondary, secondaryMeta, secondaryTitle, clearButton, openButton)
+  const onOpen = () => {
+    if (!activeSecondaryUrl) return
+    setMode(false)
+    window.location.assign(activeSecondaryUrl.toString())
+  }
 
   const onKeyDown = (event: KeyboardEvent) => {
     if (!document.body.classList.contains("stack-mode")) return
@@ -116,9 +223,19 @@ const setupStackMode = () => {
     }
   }
 
+  const onBackdropClick = (event: MouseEvent) => {
+    if (event.target === container) {
+      event.preventDefault()
+      setMode(false)
+    }
+  }
+
   toggle.addEventListener("click", onToggle)
   closeButton.addEventListener("click", onClose)
+  clearButton?.addEventListener("click", onClear)
+  openButton?.addEventListener("click", onOpen)
   document.addEventListener("keydown", onKeyDown)
+  container.addEventListener("click", onBackdropClick)
 
   const onClick = async (event: MouseEvent) => {
     if (!document.body.classList.contains("stack-mode")) return
@@ -129,14 +246,17 @@ const setupStackMode = () => {
     const link = target.closest("a.internal") as HTMLAnchorElement | null
     if (!link) return
     if (!container.contains(link)) return
-    if (link.getAttribute("target") === "_blank") return
-    if (link.dataset.routerIgnore !== undefined) return
-
-    const href = link.getAttribute("href")
-    if (!href || href.startsWith("#")) return
+    if (!isStackableLink(link)) return
 
     event.preventDefault()
-    await renderSecondary(new URL(link.href), secondary, secondaryMeta)
+    await renderSecondary(
+      new URL(link.href),
+      secondary,
+      secondaryMeta,
+      secondaryTitle,
+      clearButton,
+      openButton,
+    )
   }
 
   document.addEventListener("click", onClick, true)
@@ -144,7 +264,10 @@ const setupStackMode = () => {
   window.addCleanup(() => {
     toggle.removeEventListener("click", onToggle)
     closeButton.removeEventListener("click", onClose)
+    clearButton?.removeEventListener("click", onClear)
+    openButton?.removeEventListener("click", onOpen)
     document.removeEventListener("keydown", onKeyDown)
+    container.removeEventListener("click", onBackdropClick)
     document.removeEventListener("click", onClick, true)
   })
 }

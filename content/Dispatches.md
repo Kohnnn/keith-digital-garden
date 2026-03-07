@@ -10,7 +10,7 @@ cssclasses: [branch-hub]
 
 # Dispatches
 
-This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time.
+This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The archive now lives inside `Notes/Interactive`, and these shelves are the cleaner public doors into it.
 
 ## Branches
 
@@ -52,5 +52,6 @@ This is the public route into the archived short-form note system. These pages a
 - Start here when you want breadth rather than a single long read.
 - Use the folder pages as shelves, not as a linear sequence.
 - The public branch names stay neutral on purpose; the archive matters more than the drafting workflow behind it.
+- Use [[Notes/Interactive|Interactive]] when you want the archive as a single note branch instead of separate shelves.
 - Move back to [[Visual Notes]] when you want interactive explanations instead of briefs.
 - Move back to [[Portfolio/Blog|Research notes]] when you want more deliberate market writing.

@@ -14,7 +14,7 @@ This shelf is for compressed research notes: evidence reviews, quick syntheses, 
 
 ## Shelf access
 
-- Open the full archive shelf: [[AI_Sandbox/Research_Digests|Research digest archive]]
+- Open the full archive shelf: [[Notes/Interactive/Research_Digests|Research digest shelf]]
 - Move to [[Field Notes]] for broader observations and less structured notes.
 - Move to [[Portfolio/Blog|Research notes]] for more deliberate market-facing writing.
 

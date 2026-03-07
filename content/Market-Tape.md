@@ -14,7 +14,7 @@ This shelf is the quick-response side of the archive: event notes, market snapsh
 
 ## Shelf access
 
-- Open the full archive shelf: [[AI_Sandbox/Market_News|Market news archive]]
+- Open the full archive shelf: [[Notes/Interactive/Market_News|Market news shelf]]
 - Move to [[Portfolio/Blog|Research notes]] for slower market writing and frameworks.
 - Move to [[Field Notes]] when a topic stops being market-specific.
 

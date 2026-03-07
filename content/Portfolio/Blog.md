@@ -71,19 +71,19 @@ This page indexes the writing surfaces that sit closest to the operating workflo
     <span>valuation models, Greeks, scenario analysis</span>
   </a>
 
-  <a class="subblog-row" href="../Notes/Moon">
+  <a class="subblog-row" href="../Notes/Interactive/Moon">
     <span>interactive note</span>
     <span>Moon</span>
     <span>lighting, geometry, visual explanation</span>
   </a>
 
-  <a class="subblog-row" href="../Notes/GPS">
+  <a class="subblog-row" href="../Notes/Interactive/GPS">
     <span>interactive note</span>
     <span>GPS</span>
     <span>trilateration, noise, confidence geometry</span>
   </a>
 
-  <a class="subblog-row" href="../Notes/Color-Spaces">
+  <a class="subblog-row" href="../Notes/Interactive/Color-Spaces">
     <span>interactive note</span>
     <span>Color spaces</span>
     <span>RGB intuition, luminance, perceptual tradeoffs</span>
@@ -121,4 +121,4 @@ This page indexes the writing surfaces that sit closest to the operating workflo
 
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio/Portfolio|Portfolio hub]]
-- [[Notes/Moon|Notes section]]
+- [[Notes/Interactive|Interactive notes]]

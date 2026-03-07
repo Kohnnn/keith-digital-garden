@@ -65,7 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => !["tags", "AI_Sandbox", "attachments"].includes(node.slugSegment),
+      filterFn: (node) => !["tags", "attachments"].includes(node.slugSegment),
     }),
   ],
   right: [
@@ -105,7 +105,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => !["tags", "AI_Sandbox", "attachments"].includes(node.slugSegment),
+      filterFn: (node) => !["tags", "attachments"].includes(node.slugSegment),
     }),
   ],
   right: [],

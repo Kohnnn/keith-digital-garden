@@ -14,7 +14,7 @@ This shelf carries the more opinionated branch of the archive. These notes lean 
 
 ## Shelf access
 
-- Open the full archive shelf: [[AI_Sandbox/Thoughtpieces|Thoughtpieces archive]]
+- Open the full archive shelf: [[Notes/Interactive/Thoughtpieces|Thoughtpieces shelf]]
 - Move to [[Research Digests]] when you want tighter evidence compression.
 - Move to [[Field Notes]] when you want shorter observations instead of thesis-driven pieces.
 

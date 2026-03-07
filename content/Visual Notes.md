@@ -10,37 +10,37 @@ cssclasses: [branch-hub]
 
 # Visual Notes
 
-These are the simulation-heavy notes adapted from Bartosz Ciechanowski’s archive. The goal is not to copy the originals beat for beat. It is to keep the visual teaching energy, then blend it with your own analysis and note structure.
+These are the simulation-heavy notes adapted from Bartosz Ciechanowski’s archive. The goal is not to copy the originals beat for beat. It is to keep the visual teaching energy, then blend it with your own analysis and note structure. This branch now lives inside `Notes/Interactive`, which makes the visual pieces part of the broader notes system rather than a separate sandbox.
 
 ## Best entry points
 
 <div class="writing-grid">
-  <a class="writing-card" href="./Notes/Moon">
+  <a class="writing-card" href="./Notes/Interactive/Moon">
     <span class="casefile-label">Astronomy</span>
     <h3>Moon</h3>
     <p>Lighting, terminator motion, and phase intuition through a main renderer plus compare views.</p>
   </a>
-  <a class="writing-card" href="./Notes/GPS">
+  <a class="writing-card" href="./Notes/Interactive/GPS">
     <span class="casefile-label">Geometry</span>
     <h3>GPS</h3>
     <p>Satellite spread, noise, and uncertainty regions explained through trilateration.</p>
   </a>
-  <a class="writing-card" href="./Notes/Bicycle">
+  <a class="writing-card" href="./Notes/Interactive/Bicycle">
     <span class="casefile-label">Mechanics</span>
     <h3>Bicycle</h3>
     <p>Steering geometry and path curvature with direct control over velocity and turning behavior.</p>
   </a>
-  <a class="writing-card" href="./Notes/Sound">
+  <a class="writing-card" href="./Notes/Interactive/Sound">
     <span class="casefile-label">Waves</span>
     <h3>Sound</h3>
     <p>Frequency, amplitude, and damping broken into a more readable progression.</p>
   </a>
-  <a class="writing-card" href="./Notes/Tesseract">
+  <a class="writing-card" href="./Notes/Interactive/Tesseract">
     <span class="casefile-label">Math</span>
     <h3>Tesseract</h3>
     <p>Projection, adjacency, and distortion framed as a camera problem rather than a mystic object.</p>
   </a>
-  <a class="writing-card" href="./Notes/Alpha-Compositing">
+  <a class="writing-card" href="./Notes/Interactive/Alpha-Compositing">
     <span class="casefile-label">Graphics</span>
     <h3>Alpha compositing</h3>
     <p>Transparency, overlap, and layer order made visible through repeatable test setups.</p>

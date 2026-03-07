@@ -11,7 +11,12 @@ const StackedNotes: QuartzComponent = () => (
     aria-label="Toggle stacked notes"
     aria-checked="false"
   >
-    Stack
+    <span class="stacked-notes-toggle-label" data-stack-toggle-label>
+      Stack
+    </span>
+    <span class="stacked-notes-toggle-state" data-stack-toggle-state>
+      Off
+    </span>
     <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <circle
         cx="14"

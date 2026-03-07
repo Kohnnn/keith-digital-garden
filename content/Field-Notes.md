@@ -14,7 +14,7 @@ This shelf holds the broadest part of the archive: cross-domain observations, sm
 
 ## Shelf access
 
-- Open the full archive shelf: [[AI_Sandbox/General_Notes|General notes archive]]
+- Open the full archive shelf: [[Notes/Interactive/General_Notes|General notes shelf]]
 - Move sideways into [[Research Digests]] when you want tighter source synthesis.
 - Move sideways into [[Visual Notes]] when you want simulations instead of short briefs.
 

@@ -14,7 +14,7 @@ This shelf tracks the engineering side of the archive: tools, interfaces, produc
 
 ## Shelf access
 
-- Open the full archive shelf: [[AI_Sandbox/Tech_Journal|Tech journal archive]]
+- Open the full archive shelf: [[Notes/Interactive/Tech_Journal|Tech journal shelf]]
 - Move to [[Field Notes]] for broader fragments and non-engineering topics.
 - Move to [[Visual Notes]] for the simulation-heavy side of the technical writing.
 

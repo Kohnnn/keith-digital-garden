@@ -13,7 +13,7 @@ cssclasses: [branch-hub, kitchen-home]
 <div class="orientation-hero">
   <p class="kitchen-eyebrow">A research kitchen for markets, models, and curiosity.</p>
   <p class="orientation-lede">This site is arranged like a kitchen pass. The portfolio is the plated work, the notes are the prep counter, the arena is the ingredient shelf, and the research notes are the service log.</p>
-  <p>If you are here to evaluate the work, take the fast route. If you want the wider thinking behind it, wander sideways. The short-form archive now lives in neutral dispatch shelves rather than an explicit drafting box.</p>
+  <p>If you are here to evaluate the work, take the fast route. If you want the wider thinking behind it, wander sideways. The short-form archive now lives inside <code>Notes/Interactive</code> and is surfaced through neutral shelves rather than a drafting-branded box.</p>
 </div>
 
 <div class="orientation-grid" role="list" aria-label="Primary site routes">
@@ -44,23 +44,23 @@ cssclasses: [branch-hub, kitchen-home]
 <div class="reading-journey">
   <div class="journey-step">
     <span class="proof-label">1. Start narrow</span>
-    <p>Open [[portfolio|Portfolio]] if you want the shortest path to proof, context, and contact.</p>
+    <p>Open <a href="./portfolio">Portfolio</a> if you want the shortest path to proof, context, and contact.</p>
   </div>
   <div class="journey-step">
     <span class="proof-label">2. Then branch</span>
-    <p>Use [[notes|Notes]] when you want simulations, topic clusters, or the wider curiosity trail.</p>
+    <p>Use <a href="./notes">Notes</a> when you want simulations, topic clusters, or the wider curiosity trail.</p>
   </div>
   <div class="journey-step">
     <span class="proof-label">3. Skim the shelves</span>
-    <p>Use [[Dispatches]] when you want shorter briefs, digests, and archive fragments without leaving the main reading flow.</p>
+    <p>Use <a href="./Notes/Interactive">Interactive</a> when you want the full archive branch, or <a href="./Dispatches">Dispatches</a> when you want those shelves pre-sorted into cleaner public doors.</p>
   </div>
   <div class="journey-step">
     <span class="proof-label">4. Browse laterally</span>
-    <p>Use [[arena|Arena]] as a dense shelf of external references instead of a linear reading path.</p>
+    <p>Use <a href="./arena">Arena</a> as a dense shelf of external references instead of a linear reading path.</p>
   </div>
   <div class="journey-step">
     <span class="proof-label">5. Re-enter anywhere</span>
-    <p>Use [[tags|Tag map]] and backlinks when you want the garden mechanics rather than the guided route.</p>
+    <p>Use <a href="./tags">Tag map</a> and backlinks when you want the garden mechanics rather than the guided route.</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ cssclasses: [branch-hub, kitchen-home]
     <h3>VNIBB</h3>
     <p>The clearest intersection of finance product thinking, data surfaces, and technical execution.</p>
   </a>
-  <a class="writing-card" href="./Notes/Moon">
+  <a class="writing-card" href="./Notes/Interactive/Moon">
     <span class="casefile-label">Interactive</span>
     <h3>Moon</h3>
     <p>A good example of how the note side of the site turns technical material into a more visual reading experience.</p>
@@ -93,9 +93,14 @@ cssclasses: [branch-hub, kitchen-home]
 
 <div class="writing-grid">
   <a class="writing-card" href="./Dispatches">
-    <span class="casefile-label">Archive</span>
+    <span class="casefile-label">Shelves</span>
     <h3>Dispatches</h3>
     <p>Neutral entry into the short-form archive: field notes, research digests, tech journal notes, thoughtpieces, and market snapshots.</p>
+  </a>
+  <a class="writing-card" href="./Notes/Interactive">
+    <span class="casefile-label">Archive branch</span>
+    <h3>Interactive</h3>
+    <p>The moved note archive now sits under Notes, with visual notes and shelf folders living in one branch.</p>
   </a>
   <a class="writing-card" href="./Visual-Notes">
     <span class="casefile-label">Interactive archive</span>

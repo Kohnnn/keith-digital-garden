@@ -22,6 +22,7 @@ import {
   type SceneDefinition,
   type SimController,
 } from "./interactive/storyRuntime"
+import { buildGeneratedSceneRegistry, setupModuleArticles } from "./interactive/moduleRuntime"
 
 const DEG = Math.PI / 180
 
@@ -3145,6 +3146,8 @@ const mountExploringGPGPUOnIOS = (root: HTMLElement): SimController | null => {
   }
 }
 
+const generatedModuleSceneRegistry = buildGeneratedSceneRegistry()
+
 const sceneRegistry: Record<string, SceneDefinition> = {
   moon: {
     id: "moon",
@@ -3374,6 +3377,7 @@ const sceneRegistry: Record<string, SceneDefinition> = {
     mount: mountTrainValidationScene,
     presets: GENERATED_SCENE_PRESETS["train-test-and-validation-sets"] ?? {},
   },
+  ...generatedModuleSceneRegistry,
 }
 
 const mountByScene = (root: HTMLElement): SimController | null => {
@@ -3391,6 +3395,7 @@ const setupInteractiveSims = () => {
     if (controller) mounted.push(controller)
   }
 
+  setupModuleArticles()
   setupStoryArticles(sceneRegistry)
 
   window.addCleanup(() => {

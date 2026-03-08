@@ -204,6 +204,117 @@ article.external-canvas-note,
     color: #131920;
   }
 
+  .interactive-module-stack {
+    display: grid;
+    gap: 1rem;
+    margin-top: 1.35rem;
+  }
+
+  .interactive-module {
+    display: grid;
+    grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem;
+    border-radius: 14px;
+    border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
+    background: linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--light) 97%, var(--secondary) 3%),
+      color-mix(in srgb, var(--light) 92%, var(--secondary) 8%)
+    );
+    box-shadow: 0 14px 32px rgba(9, 12, 17, 0.06);
+  }
+
+  .interactive-module[data-layout="chart"] {
+    grid-template-columns: minmax(0, 0.88fr) minmax(0, 1.12fr);
+  }
+
+  .interactive-module[data-layout="compare"] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .interactive-module.is-reversed {
+    grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
+  }
+
+  .interactive-module-copy {
+    display: grid;
+    gap: 0.55rem;
+    align-content: start;
+  }
+
+  .interactive-module-copy h2 {
+    margin: 0;
+  }
+
+  .interactive-module-copy p {
+    margin: 0;
+  }
+
+  .interactive-module-meta {
+    color: var(--darkgray);
+    font-size: 0.92rem;
+  }
+
+  .interactive-module-figure {
+    display: grid;
+    gap: 0.65rem;
+  }
+
+  .interactive-module-figure .interactive-sim {
+    margin: 0;
+  }
+
+  .interactive-module-note {
+    padding: 0.9rem 1rem;
+    border-radius: 12px;
+    border: 1px dashed color-mix(in srgb, var(--secondary) 24%, var(--lightgray) 76%);
+    background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+  }
+
+  .interactive-module-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    align-items: center;
+  }
+
+  .interactive-choice-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+
+  .interactive-choice-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray) 76%);
+    border-radius: 999px;
+    padding: 0.4rem 0.65rem;
+    background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+    font-family: var(--codeFont);
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .interactive-choice-pill input {
+    margin: 0;
+  }
+
+  .interactive-toggle-row {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    font-family: var(--codeFont);
+    font-size: 0.74rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
   .sim-svg {
     display: block;
     width: 100%;
@@ -237,6 +348,13 @@ article.external-canvas-note,
 
     .interactive-sim-stage {
       min-height: 54vh;
+    }
+
+    .interactive-module,
+    .interactive-module[data-layout="chart"],
+    .interactive-module[data-layout="compare"],
+    .interactive-module.is-reversed {
+      grid-template-columns: 1fr;
     }
   }
 }

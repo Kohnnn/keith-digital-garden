@@ -9,18 +9,18 @@ tags:
   - mlu
 draft: false
 description: >-
-  Interactive ranking notebook for ROC curves, threshold motion, and AUC
-  interpretation.
-created: "2026-03-08"
-updated: "2026-03-08"
+  Model-evaluation explainer for ROC curves and AUC interpretation under
+  changing classification thresholds.
+created: '2026-03-08'
+updated: '2026-03-08'
 aliases:
   - Portfolio/Stuffs/ROC-AUC
 cssclasses:
   - external-canvas-note
   - note-lab
   - story-lab
+  - module-lab
 ---
-
 # ROC & AUC
 
 <div class="source-card">
@@ -31,72 +31,161 @@ cssclasses:
 <p class="note-lede">Model-evaluation explainer for ROC curves and AUC interpretation under changing classification thresholds.</p>
 
 <div class="interactive-article" data-interactive-article="roc-auc">
-  <div class="interactive-story">
-    <div class="interactive-story-rail">
-<div class="interactive-sim interactive-story-sim" data-sim-scene="roc-auc" data-sync-group="roc-auc-main">
-  <div class="interactive-sim-stage stage-medium">
-    <canvas class="sim-canvas" aria-label="ROC and AUC curve"></canvas>
+  <div class="interactive-module-stack">
+<section class="interactive-module" data-layout="chart" data-module-id="module-01">
+  <div class="interactive-module-copy">
+    <span class="casefile-label">Module 01 · chart/plot module</span>
+    <h2>ROC curve canvas</h2>
+    <p>Plots TPR vs FPR as threshold sweeps across classifier scores.</p>
+    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range controls. <strong>Response:</strong> active point moves on ROC curve while TPR/FPR values update</p>
   </div>
-
+  <div class="interactive-module-figure">
+<div class="interactive-sim" data-sim-scene="roc-auc:module-01" data-sim-module="roc-auc:module-01">
+  <div class="interactive-sim-stage stage-short">
+    <svg class="sim-svg" aria-label="ROC curve canvas interactive module"></svg>
+  </div>
   <div class="interactive-sim-controls">
     <div class="interactive-sim-control">
-      <label for="roc-auc-threshold">threshold</label>
-      <input id="roc-auc-threshold" data-control="threshold" type="range" min="0.05" max="0.95" step="0.01" value="0.5" />
+      <label for="roc-auc-module-01-threshold">threshold</label>
+      <input id="roc-auc-module-01-threshold" data-control="threshold" type="range" min="0.05" max="0.95" step="0.01" value="0.52" />
     </div>
     <div class="interactive-sim-control">
-      <label for="roc-auc-separation">class separation</label>
-      <input id="roc-auc-separation" data-control="separation" type="range" min="0.1" max="1.2" step="0.01" value="0.75" />
+      <label for="roc-auc-module-01-imbalance">imbalance</label>
+      <input id="roc-auc-module-01-imbalance" data-control="imbalance" type="range" min="0.1" max="0.9" step="0.01" value="0.35" />
     </div>
     <div class="interactive-sim-control">
-      <label for="roc-auc-noise">score noise</label>
-      <input id="roc-auc-noise" data-control="noise" type="range" min="0" max="0.45" step="0.01" value="0.1" />
+      <label for="roc-auc-module-01-noise">noise</label>
+      <input id="roc-auc-module-01-noise" data-control="noise" type="range" min="0" max="0.5" step="0.01" value="0.12" />
     </div>
-    <button data-control="reset" type="button">reset view</button>
+    <button data-control="reset" type="button">reset threshold</button>
   </div>
 </div>
-      <div class="interactive-step-caption" data-step-caption>
-        <span class="casefile-label">Story sync</span>
-        <p>The visual state follows the active step so the note reads like an explorable system rather than a detached summary.</p>
-      </div>
-      <div class="interactive-preset-shelf" data-preset-shelf="roc-auc">
-        <button type="button" data-preset-id="baseline">baseline</button>
-        <button type="button" data-preset-id="explore">explore</button>
-        <button type="button" data-preset-id="stress">stress</button>
-        <button type="button" data-preset-id="contrast">contrast</button>
-      </div>
+  </div>
+</section>
+
+<section class="interactive-module is-reversed" data-layout="chart" data-module-id="module-02">
+  <div class="interactive-module-copy">
+    <span class="casefile-label">Module 02 · interactive simulation/diagram module</span>
+    <h2>AUC interpretation overlay</h2>
+    <p>Shades area under the ROC curve and ties it to ranking quality intuition.</p>
+    <p class="interactive-module-meta"><strong>Controls:</strong> step navigation, threshold control. <strong>Response:</strong> highlighted area and explanatory annotations change with scenario</p>
+  </div>
+  <div class="interactive-module-figure">
+<div class="interactive-sim" data-sim-scene="roc-auc:module-02" data-sim-module="roc-auc:module-02">
+  <div class="interactive-sim-stage stage-short">
+    <svg class="sim-svg" aria-label="AUC interpretation overlay interactive module"></svg>
+  </div>
+  <div class="interactive-sim-controls">
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-02-threshold">threshold</label>
+      <input id="roc-auc-module-02-threshold" data-control="threshold" type="range" min="0.05" max="0.95" step="0.01" value="0.52" />
     </div>
-    <div class="interactive-story-steps">
-    <section class="story-step" data-story-step="module-01" data-step-scene="roc-auc" data-step-preset="module-01" data-sync-group="roc-auc-main">
-      <span class="casefile-label">Module 01</span>
-      <h2>ROC curve canvas</h2>
-      <p>Plots TPR vs FPR as threshold sweeps across classifier scores.</p>
-      <p class="story-step-meta"><strong>Controls:</strong> slider/range controls. <strong>Response:</strong> active point moves on ROC curve while TPR/FPR values update</p>
-    </section>
-    <section class="story-step" data-story-step="module-02" data-step-scene="roc-auc" data-step-preset="module-02" data-sync-group="roc-auc-main">
-      <span class="casefile-label">Module 02</span>
-      <h2>AUC interpretation overlay</h2>
-      <p>Shades area under the ROC curve and ties it to ranking quality intuition.</p>
-      <p class="story-step-meta"><strong>Controls:</strong> step navigation, threshold control. <strong>Response:</strong> highlighted area and explanatory annotations change with scenario</p>
-    </section>
-    <section class="story-step" data-story-step="module-03" data-step-scene="roc-auc" data-step-preset="module-03" data-sync-group="roc-auc-main">
-      <span class="casefile-label">Module 03</span>
-      <h2>Classifier comparison view</h2>
-      <p>Compares multiple ROC traces to show stronger/weaker classifier behavior.</p>
-      <p class="story-step-meta"><strong>Controls:</strong> toggle/select control. <strong>Response:</strong> selected model trace and corresponding AUC readout update</p>
-    </section>
-    <section class="story-step" data-story-step="module-04" data-step-scene="roc-auc" data-step-preset="module-04" data-sync-group="roc-auc-main">
-      <span class="casefile-label">Module 04</span>
-      <h2>Threshold sweep panel</h2>
-      <p>Shows how moving threshold changes confusion behavior and curve location.</p>
-      <p class="story-step-meta"><strong>Controls:</strong> slider/range controls. <strong>Response:</strong> point trajectory and confusion-derived metrics animate through threshold space</p>
-    </section>
-    <section class="story-step" data-story-step="module-05" data-step-scene="roc-auc" data-step-preset="module-05" data-sync-group="roc-auc-main">
-      <span class="casefile-label">Module 05</span>
-      <h2>Scrollytelling transitions</h2>
-      <p>Controls teaching sequence from raw confusion concepts to ROC/AUC interpretation.</p>
-      <p class="story-step-meta"><strong>Controls:</strong> scroll. <strong>Response:</strong> scene state and highlights switch at each narrative step</p>
-    </section>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-02-imbalance">imbalance</label>
+      <input id="roc-auc-module-02-imbalance" data-control="imbalance" type="range" min="0.1" max="0.9" step="0.01" value="0.35" />
     </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-02-noise">noise</label>
+      <input id="roc-auc-module-02-noise" data-control="noise" type="range" min="0" max="0.5" step="0.01" value="0.12" />
+    </div>
+    <button data-control="reset" type="button">reset threshold</button>
+  </div>
+</div>
+  </div>
+</section>
+
+<section class="interactive-module" data-layout="chart" data-module-id="module-03">
+  <div class="interactive-module-copy">
+    <span class="casefile-label">Module 03 · chart/plot module</span>
+    <h2>Classifier comparison view</h2>
+    <p>Compares multiple ROC traces to show stronger/weaker classifier behavior.</p>
+    <p class="interactive-module-meta"><strong>Controls:</strong> toggle/select control. <strong>Response:</strong> selected model trace and corresponding AUC readout update</p>
+  </div>
+  <div class="interactive-module-figure">
+<div class="interactive-sim" data-sim-scene="roc-auc:module-03" data-sim-module="roc-auc:module-03">
+  <div class="interactive-sim-stage stage-short">
+    <svg class="sim-svg" aria-label="Classifier comparison view interactive module"></svg>
+  </div>
+  <div class="interactive-sim-controls">
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-03-threshold">threshold</label>
+      <input id="roc-auc-module-03-threshold" data-control="threshold" type="range" min="0.05" max="0.95" step="0.01" value="0.52" />
+    </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-03-imbalance">imbalance</label>
+      <input id="roc-auc-module-03-imbalance" data-control="imbalance" type="range" min="0.1" max="0.9" step="0.01" value="0.35" />
+    </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-03-noise">noise</label>
+      <input id="roc-auc-module-03-noise" data-control="noise" type="range" min="0" max="0.5" step="0.01" value="0.12" />
+    </div>
+    <button data-control="reset" type="button">reset threshold</button>
+  </div>
+</div>
+  </div>
+</section>
+
+<section class="interactive-module is-reversed" data-layout="chart" data-module-id="module-04">
+  <div class="interactive-module-copy">
+    <span class="casefile-label">Module 04 · interactive simulation/diagram module</span>
+    <h2>Threshold sweep panel</h2>
+    <p>Shows how moving threshold changes confusion behavior and curve location.</p>
+    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range controls. <strong>Response:</strong> point trajectory and confusion-derived metrics animate through threshold space</p>
+  </div>
+  <div class="interactive-module-figure">
+<div class="interactive-sim" data-sim-scene="roc-auc:module-04" data-sim-module="roc-auc:module-04">
+  <div class="interactive-sim-stage stage-short">
+    <svg class="sim-svg" aria-label="Threshold sweep panel interactive module"></svg>
+  </div>
+  <div class="interactive-sim-controls">
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-04-threshold">threshold</label>
+      <input id="roc-auc-module-04-threshold" data-control="threshold" type="range" min="0.05" max="0.95" step="0.01" value="0.52" />
+    </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-04-imbalance">imbalance</label>
+      <input id="roc-auc-module-04-imbalance" data-control="imbalance" type="range" min="0.1" max="0.9" step="0.01" value="0.35" />
+    </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-04-noise">noise</label>
+      <input id="roc-auc-module-04-noise" data-control="noise" type="range" min="0" max="0.5" step="0.01" value="0.12" />
+    </div>
+    <button data-control="reset" type="button">reset threshold</button>
+  </div>
+</div>
+  </div>
+</section>
+
+<section class="interactive-module" data-layout="chart" data-module-id="module-05">
+  <div class="interactive-module-copy">
+    <span class="casefile-label">Module 05 · interactive simulation/diagram module</span>
+    <h2>Scrollytelling transitions</h2>
+    <p>Controls teaching sequence from raw confusion concepts to ROC/AUC interpretation.</p>
+    <p class="interactive-module-meta"><strong>Controls:</strong> scroll. <strong>Response:</strong> scene state and highlights switch at each narrative step</p>
+  </div>
+  <div class="interactive-module-figure">
+<div class="interactive-sim" data-sim-scene="roc-auc:module-05" data-sim-module="roc-auc:module-05" data-sim-pause-group="roc-auc-motion">
+  <div class="interactive-sim-stage stage-short">
+    <svg class="sim-svg" aria-label="Scrollytelling transitions interactive module"></svg>
+  </div>
+  <div class="interactive-sim-controls">
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-05-threshold">threshold</label>
+      <input id="roc-auc-module-05-threshold" data-control="threshold" type="range" min="0.05" max="0.95" step="0.01" value="0.52" />
+    </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-05-imbalance">imbalance</label>
+      <input id="roc-auc-module-05-imbalance" data-control="imbalance" type="range" min="0.1" max="0.9" step="0.01" value="0.35" />
+    </div>
+    <div class="interactive-sim-control">
+      <label for="roc-auc-module-05-noise">noise</label>
+      <input id="roc-auc-module-05-noise" data-control="noise" type="range" min="0" max="0.5" step="0.01" value="0.12" />
+    </div>
+    <button data-control="reset" type="button">reset threshold</button>
+  </div>
+</div>
+  </div>
+</section>
   </div>
 </div>
 
@@ -113,15 +202,9 @@ cssclasses:
   </div>
   <div class="observation-card">
     <h3>Reading cue</h3>
-    <p>The ROC & AUC article works because the explanation stays attached to visible state changes instead of abstract narration.</p>
+    <p>ROC & AUC works because the explanation stays attached to visible state changes.</p>
   </div>
 </div>
-
-## Limits
-
-- This note keeps Quartz-native prose and structure rather than cloning the source page byte for byte.
-- Repeated source variants are collapsed into presets and step-driven states where the behavior is materially the same.
-- The interactive layer is tuned for conceptual fidelity and readable browser performance, not a literal runtime port.
 
 ## Related notes
 

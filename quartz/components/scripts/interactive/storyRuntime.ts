@@ -13,15 +13,36 @@ export type SceneDefinition = {
   id: string
   renderer: "canvas" | "svg"
   mount: (root: HTMLElement) => SimController | null
-  presets: Record<string, Record<string, number>>
+  presets: Record<string, Record<string, boolean | number | string>>
 }
 
-const applyPresetToRoot = (root: HTMLElement, preset: Record<string, number>) => {
+const applyPresetToRoot = (
+  root: HTMLElement,
+  preset: Record<string, boolean | number | string>,
+) => {
   for (const [controlId, value] of Object.entries(preset)) {
-    const input = root.querySelector<HTMLInputElement>(`[data-control="${controlId}"]`)
-    if (!input) continue
-    input.value = String(value)
-    input.dispatchEvent(new Event("input", { bubbles: true }))
+    const nodes = root.querySelectorAll<HTMLInputElement | HTMLSelectElement>(
+      `[data-control="${controlId}"]`,
+    )
+    if (nodes.length === 0) continue
+    for (const input of nodes) {
+      if (input instanceof HTMLInputElement && input.type === "checkbox") {
+        input.checked = Boolean(value)
+        input.dispatchEvent(new Event("change", { bubbles: true }))
+        continue
+      }
+
+      if (input instanceof HTMLInputElement && input.type === "radio") {
+        input.checked = input.value === String(value)
+        if (input.checked) {
+          input.dispatchEvent(new Event("change", { bubbles: true }))
+        }
+        continue
+      }
+
+      input.value = String(value)
+      input.dispatchEvent(new Event("input", { bubbles: true }))
+    }
   }
 }
 

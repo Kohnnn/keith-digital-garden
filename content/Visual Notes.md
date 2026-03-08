@@ -2,7 +2,7 @@
 title: Visual Notes
 tags: [notes, interactive, explorable]
 draft: false
-description: Quartz-native visual notes rebuilt from explorable source compilations.
+description: Quartz-native visual notes rebuilt module by module from explorable source compilations.
 created: 2026-03-07
 updated: 2026-03-08
 cssclasses: [branch-hub]
@@ -10,7 +10,7 @@ cssclasses: [branch-hub]
 
 # Visual Notes
 
-This shelf now behaves like a true explorable branch. The visual surface is Quartz-native, but the storytelling and module coverage track the compilation set much more closely than the earlier adaptation pass.
+This shelf now tracks the source articles at the module level. Each note uses ordered inline demos instead of a single hero simulation with preset jumps.
 
 ## Ciechanowski set
 
@@ -39,7 +39,7 @@ This shelf now behaves like a true explorable branch. The visual surface is Quar
 - [[Notes/Interactive/Reading-QR-Codes-without-a-Computer|Reading QR codes without a computer!]]
 - [[Notes/Interactive/Rigid-Body-Collisions|Rigid Body Collisions]]
 
-## MLU scrollytelling
+## MLU explainers
 
 - [[Notes/Interactive/Decision-Trees|Decision Trees]]
 - [[Notes/Interactive/Double-Descent-2|Double Descent 2]]
@@ -51,9 +51,3 @@ This shelf now behaves like a true explorable branch. The visual surface is Quar
 - [[Notes/Interactive/ROC-AUC|ROC & AUC]]
 - [[Notes/Interactive/The-Bias-Variance-Tradeoff|The Bias Variance Tradeoff]]
 - [[Notes/Interactive/Train-Test-and-Validation-Sets|Train, Test, and Validation Sets]]
-
-## Reading pattern
-
-- Start with a note when you want the visual system and the prose to stay locked together.
-- Use the preset shelf for quick state jumps, then read the sticky story steps in order.
-- Move back to [[Interactive]] for the wider branch and the non-visual shelves.

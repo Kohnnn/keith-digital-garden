@@ -8,52 +8,65 @@ const StackedNotesContainer: QuartzComponent = ({ displayClass }: QuartzComponen
     id="stacked-notes-container"
     aria-hidden="true"
   >
-    <div class="stacked-notes-shell" role="complementary" aria-labelledby="stacked-notes-heading">
+    <div
+      class="stacked-notes-shell"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="stacked-notes-heading"
+    >
       <div class="stacked-notes-header">
         <div>
-          <p class="stacked-notes-kicker">Side reader</p>
+          <p class="stacked-notes-kicker">Dedicated reader</p>
           <h2 class="stacked-notes-title" id="stacked-notes-heading">
             Stacked notes
           </h2>
         </div>
         <div class="stacked-notes-toolbar">
           <p class="stacked-notes-hint">
-            Stack mode is on. Open internal note links and they will load here.
+            Freeze this note on the left. Open internal note links into the compare pane on the
+            right.
           </p>
           <button class="stacked-notes-close" id="stacked-notes-close" type="button">
             Close
           </button>
         </div>
       </div>
-      <section class="stacked-note-current">
-        <span class="stacked-note-kicker">Current note</span>
-        <strong class="stacked-note-current-title" data-stack-title="primary">
-          Loading...
-        </strong>
-        <span class="stacked-note-meta" data-stack-meta="primary"></span>
-      </section>
-      <section class="stacked-note" data-stack="secondary">
-        <div class="stacked-note-header">
-          <div class="stacked-note-heading">
-            <span class="stacked-note-kicker">Stacked note</span>
-            <strong class="stacked-note-name" data-stack-title="secondary">
-              Choose a note
-            </strong>
+      <div class="stacked-notes-panels">
+        <section class="stacked-note" data-stack="primary">
+          <div class="stacked-note-header">
+            <div class="stacked-note-heading">
+              <span class="stacked-note-kicker">Current note</span>
+              <strong class="stacked-note-name" data-stack-title="primary">
+                Loading...
+              </strong>
+            </div>
+            <span class="stacked-note-meta" data-stack-meta="primary"></span>
           </div>
-          <div class="stacked-note-header-tools">
-            <span class="stacked-note-meta" data-stack-meta="secondary"></span>
-            <button class="stacked-note-action" id="stacked-notes-clear" type="button">
-              Clear
-            </button>
-            <button class="stacked-note-action" id="stacked-notes-open" type="button">
-              Open full page
-            </button>
+          <div class="stacked-note-content" data-stack-content="primary"></div>
+        </section>
+        <section class="stacked-note" data-stack="secondary">
+          <div class="stacked-note-header">
+            <div class="stacked-note-heading">
+              <span class="stacked-note-kicker">Stacked note</span>
+              <strong class="stacked-note-name" data-stack-title="secondary">
+                Choose a note
+              </strong>
+            </div>
+            <div class="stacked-note-header-tools">
+              <span class="stacked-note-meta" data-stack-meta="secondary"></span>
+              <button class="stacked-note-action" id="stacked-notes-clear" type="button">
+                Clear
+              </button>
+              <button class="stacked-note-action" id="stacked-notes-open" type="button">
+                Open full page
+              </button>
+            </div>
           </div>
-        </div>
-        <div class="stacked-note-content" data-stack-content="secondary">
-          <p class="stacked-note-placeholder">Select a note to stack.</p>
-        </div>
-      </section>
+          <div class="stacked-note-content" data-stack-content="secondary">
+            <p class="stacked-note-placeholder">Select an internal link from the left pane.</p>
+          </div>
+        </section>
+      </div>
     </div>
   </div>
 )

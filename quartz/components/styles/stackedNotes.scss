@@ -56,49 +56,47 @@
   color: var(--light);
 }
 
-:root {
-  --stack-dock-width: min(34vw, 470px);
-}
-
 #stacked-notes-container {
   position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: calc(var(--stack-dock-width) + 1.1rem);
+  inset: 0;
   z-index: 60;
   display: none;
-  padding: 1rem 1rem 1rem 0;
-  pointer-events: none;
+  padding: 1.5rem;
+  background: color-mix(in srgb, var(--dark) 28%, transparent 72%);
+  backdrop-filter: blur(14px);
+}
+
+:root[saved-theme="dark"] #stacked-notes-container {
+  background: color-mix(in srgb, #000 46%, transparent 54%);
 }
 
 body.stack-mode #stacked-notes-container {
-  display: block;
-  pointer-events: auto;
+  display: grid;
+  place-items: center;
 }
 
-body.stack-mode #quartz-body {
-  box-sizing: border-box;
-  padding-right: calc(var(--stack-dock-width) + 1.1rem);
-  transition: padding-right 180ms ease;
+body.stack-mode #quartz-root {
+  opacity: 0.14;
+  filter: blur(6px);
+  pointer-events: none;
 }
 
-body:not(.stack-mode) #quartz-body {
-  transition: padding-right 180ms ease;
+body.stack-mode {
+  overflow: hidden;
 }
 
 .stacked-notes-shell {
-  width: 100%;
-  height: calc(100dvh - 2rem);
+  width: min(1520px, 100%);
+  height: min(92vh, 980px);
   display: flex;
   flex-direction: column;
-  gap: 0.9rem;
-  padding: 1rem;
-  border-radius: 26px 0 0 26px;
+  gap: 1rem;
+  padding: 1.2rem;
+  border-radius: 28px;
   border: 1px solid color-mix(in srgb, var(--lightgray) 76%, var(--light) 24%);
-  background: color-mix(in srgb, var(--light) 98%, var(--secondary) 2%);
+  background: color-mix(in srgb, var(--light) 95%, transparent 5%);
   box-shadow:
-    -16px 20px 60px rgba(12, 20, 35, 0.18),
+    0 28px 80px rgba(12, 20, 35, 0.22),
     inset 0 1px 0 rgba(255, 255, 255, 0.45);
 }
 
@@ -120,14 +118,13 @@ body:not(.stack-mode) #quartz-body {
 
 .stacked-notes-toolbar {
   display: flex;
-  align-items: flex-start;
-  flex-direction: column;
+  align-items: center;
   gap: 0.9rem;
 }
 
 .stacked-notes-hint {
   margin: 0;
-  max-width: 28ch;
+  max-width: 32ch;
   font-size: 0.86rem;
   line-height: 1.45;
   color: var(--darkgray);
@@ -153,27 +150,18 @@ body:not(.stack-mode) #quartz-body {
   cursor: pointer;
 }
 
-.stacked-note-current {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  padding: 0.85rem 1rem;
-  border-radius: 18px;
-  border: 1px solid color-mix(in srgb, var(--lightgray) 80%, var(--secondary) 20%);
-  background: color-mix(in srgb, var(--light) 91%, var(--secondary) 9%);
-}
-
-.stacked-note-current-title {
-  color: var(--dark);
-  font-size: 1rem;
-  line-height: 1.25;
+.stacked-notes-panels {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  min-height: 0;
 }
 
 .stacked-note {
   display: flex;
   flex-direction: column;
-  min-height: 14rem;
-  flex: 1;
+  min-height: 0;
   border-radius: 20px;
   border: 1px solid color-mix(in srgb, var(--lightgray) 82%, var(--secondary) 18%);
   background: var(--light);
@@ -219,7 +207,6 @@ body:not(.stack-mode) #quartz-body {
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 0.45rem;
-  max-width: 100%;
 }
 
 .stacked-note-meta {
@@ -248,7 +235,7 @@ body:not(.stack-mode) #quartz-body {
 }
 
 .stacked-note-content {
-  padding: 1rem 1.15rem 1.35rem;
+  padding: 1.2rem 1.35rem 1.6rem;
   overflow: auto;
   color: var(--darkgray);
 }
@@ -311,11 +298,8 @@ body:not(.stack-mode) #quartz-body {
 
 @media (max-width: 900px) {
   #stacked-notes-container {
-    inset: 0;
-    width: auto;
     padding: 0.8rem;
-    background: color-mix(in srgb, var(--dark) 28%, transparent 72%);
-    backdrop-filter: blur(14px);
+    align-items: stretch;
   }
 
   .stacked-notes-shell {
@@ -331,17 +315,13 @@ body:not(.stack-mode) #quartz-body {
     align-items: flex-start;
   }
 
-  .stacked-note-current {
-    display: none;
+  .stacked-notes-panels {
+    grid-template-columns: 1fr;
   }
 
   .stacked-note-header,
   .stacked-note-header-tools {
     align-items: flex-start;
     justify-content: flex-start;
-  }
-
-  body.stack-mode #quartz-body {
-    padding-right: 0;
   }
 }

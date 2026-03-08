@@ -79,7 +79,17 @@ const setToggleState = (toggle: HTMLButtonElement, active: boolean) => {
   }
 }
 
-const renderPrimaryMeta = (meta: HTMLElement | null, title: HTMLElement | null) => {
+const renderPrimary = (
+  primary: HTMLElement,
+  meta: HTMLElement | null,
+  title: HTMLElement | null,
+) => {
+  const preview = extractStackContent(document)
+  if (!preview) return
+
+  prefixIds(preview, "stack-primary")
+  primary.replaceChildren(preview)
+
   if (meta) {
     meta.textContent = window.location.pathname.replace(/^\//, "") || "index"
   }
@@ -109,7 +119,7 @@ const resetSecondary = (
   secondary.replaceChildren()
   const placeholder = document.createElement("p")
   placeholder.className = "stacked-note-placeholder"
-  placeholder.textContent = "Select an internal note to compare beside the current page."
+  placeholder.textContent = "Select an internal link from the left pane to compare it here."
   secondary.appendChild(placeholder)
 }
 
@@ -183,6 +193,7 @@ const setupStackMode = () => {
   const closeButton = document.getElementById("stacked-notes-close") as HTMLButtonElement | null
   const clearButton = document.getElementById("stacked-notes-clear") as HTMLButtonElement | null
   const openButton = document.getElementById("stacked-notes-open") as HTMLButtonElement | null
+  const primary = document.querySelector("[data-stack-content='primary']") as HTMLElement | null
   const secondary = document.querySelector("[data-stack-content='secondary']") as HTMLElement | null
   const secondaryMeta = document.querySelector(
     "[data-stack-meta='secondary']",
@@ -193,7 +204,7 @@ const setupStackMode = () => {
     "[data-stack-title='secondary']",
   ) as HTMLElement | null
 
-  if (!toggle || !container || !closeButton || !secondary || !secondaryMeta) return
+  if (!toggle || !container || !closeButton || !primary || !secondary || !secondaryMeta) return
 
   placeContainer(container)
 
@@ -203,10 +214,11 @@ const setupStackMode = () => {
     setToggleState(toggle, active)
     localStorage.setItem(storageKey, active ? "true" : "false")
     if (active) {
-      renderPrimaryMeta(primaryMeta, primaryTitle)
+      renderPrimary(primary, primaryMeta, primaryTitle)
       if (!activeSecondaryUrl) {
         resetSecondary(secondary, secondaryMeta, secondaryTitle, clearButton, openButton)
       }
+      closeButton.focus()
     }
   }
 
@@ -231,11 +243,19 @@ const setupStackMode = () => {
     }
   }
 
+  const onBackdropClick = (event: MouseEvent) => {
+    if (event.target === container) {
+      event.preventDefault()
+      setMode(false)
+    }
+  }
+
   toggle.addEventListener("click", onToggle)
   closeButton.addEventListener("click", onClose)
   clearButton?.addEventListener("click", onClear)
   openButton?.addEventListener("click", onOpen)
   document.addEventListener("keydown", onKeyDown)
+  container.addEventListener("click", onBackdropClick)
 
   const onClick = async (event: MouseEvent) => {
     if (!document.body.classList.contains("stack-mode")) return
@@ -245,6 +265,7 @@ const setupStackMode = () => {
     if (!target) return
     const link = target.closest("a.internal") as HTMLAnchorElement | null
     if (!link) return
+    if (!container.contains(link)) return
     if (!isStackableLink(link)) return
 
     event.preventDefault()
@@ -266,6 +287,7 @@ const setupStackMode = () => {
     clearButton?.removeEventListener("click", onClear)
     openButton?.removeEventListener("click", onOpen)
     document.removeEventListener("keydown", onKeyDown)
+    container.removeEventListener("click", onBackdropClick)
     document.removeEventListener("click", onClick, true)
   })
 }

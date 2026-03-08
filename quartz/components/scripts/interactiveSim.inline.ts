@@ -1,6 +1,27 @@
-type SimController = {
-  destroy: () => void
-}
+import {
+  mountBiasVarianceScene,
+  mountDecisionTreesScene,
+  mountDoubleDescent2Scene,
+  mountDoubleDescentScene,
+  mountHysteresisSlackScene,
+  mountImmersiveLinearAlgebraScene,
+  mountLinearRegressionScene,
+  mountLoadBalancingScene,
+  mountLogisticRegressionScene,
+  mountMemoryAllocationScene,
+  mountPrecisionRecallScene,
+  mountRandomForestScene,
+  mountReadingQrCodesScene,
+  mountRigidBodyCollisionsScene,
+  mountRocAucScene,
+  mountTrainValidationScene,
+} from "./interactive/additionalScenes"
+import { GENERATED_SCENE_PRESETS } from "./interactive/generatedPresets"
+import {
+  setupStoryArticles,
+  type SceneDefinition,
+  type SimController,
+} from "./interactive/storyRuntime"
 
 const DEG = Math.PI / 180
 
@@ -3124,31 +3145,241 @@ const mountExploringGPGPUOnIOS = (root: HTMLElement): SimController | null => {
   }
 }
 
+const sceneRegistry: Record<string, SceneDefinition> = {
+  moon: {
+    id: "moon",
+    renderer: "canvas",
+    mount: mountMoon,
+    presets: GENERATED_SCENE_PRESETS.moon ?? {},
+  },
+  airfoil: {
+    id: "airfoil",
+    renderer: "canvas",
+    mount: mountAirfoil,
+    presets: GENERATED_SCENE_PRESETS.airfoil ?? {},
+  },
+  bicycle: {
+    id: "bicycle",
+    renderer: "canvas",
+    mount: mountBicycle,
+    presets: GENERATED_SCENE_PRESETS.bicycle ?? {},
+  },
+  sound: {
+    id: "sound",
+    renderer: "canvas",
+    mount: mountSound,
+    presets: GENERATED_SCENE_PRESETS.sound ?? {},
+  },
+  "mechanical-watch": {
+    id: "mechanical-watch",
+    renderer: "canvas",
+    mount: mountMechanicalWatch,
+    presets: GENERATED_SCENE_PRESETS["mechanical-watch"] ?? {},
+  },
+  gps: {
+    id: "gps",
+    renderer: "canvas",
+    mount: mountGPS,
+    presets: GENERATED_SCENE_PRESETS.gps ?? {},
+  },
+  "curves-and-surfaces": {
+    id: "curves-and-surfaces",
+    renderer: "canvas",
+    mount: mountCurvesAndSurfaces,
+    presets: GENERATED_SCENE_PRESETS["curves-and-surfaces"] ?? {},
+  },
+  gears: {
+    id: "gears",
+    renderer: "canvas",
+    mount: mountGears,
+    presets: GENERATED_SCENE_PRESETS.gears ?? {},
+  },
+  "earth-and-sun": {
+    id: "earth-and-sun",
+    renderer: "canvas",
+    mount: mountEarthAndSun,
+    presets: GENERATED_SCENE_PRESETS["earth-and-sun"] ?? {},
+  },
+  tesseract: {
+    id: "tesseract",
+    renderer: "canvas",
+    mount: mountTesseract,
+    presets: GENERATED_SCENE_PRESETS.tesseract ?? {},
+  },
+  "color-spaces": {
+    id: "color-spaces",
+    renderer: "canvas",
+    mount: mountColorSpaces,
+    presets: GENERATED_SCENE_PRESETS["color-spaces"] ?? {},
+  },
+  "alpha-compositing": {
+    id: "alpha-compositing",
+    renderer: "canvas",
+    mount: mountAlphaCompositing,
+    presets: GENERATED_SCENE_PRESETS["alpha-compositing"] ?? {},
+  },
+  "floating-point": {
+    id: "floating-point",
+    renderer: "canvas",
+    mount: mountFloatingPoint,
+    presets: GENERATED_SCENE_PRESETS["floating-point"] ?? {},
+  },
+  "naval-architecture": {
+    id: "naval-architecture",
+    renderer: "canvas",
+    mount: mountNavalArchitecture,
+    presets: GENERATED_SCENE_PRESETS["naval-architecture"] ?? {},
+  },
+  "internal-combustion-engine": {
+    id: "internal-combustion-engine",
+    renderer: "canvas",
+    mount: mountInternalCombustionEngine,
+    presets: GENERATED_SCENE_PRESETS["internal-combustion-engine"] ?? {},
+  },
+  "cameras-and-lenses": {
+    id: "cameras-and-lenses",
+    renderer: "canvas",
+    mount: mountCamerasAndLenses,
+    presets: GENERATED_SCENE_PRESETS["cameras-and-lenses"] ?? {},
+  },
+  "lights-and-shadows": {
+    id: "lights-and-shadows",
+    renderer: "canvas",
+    mount: mountLightsAndShadows,
+    presets: GENERATED_SCENE_PRESETS["lights-and-shadows"] ?? {},
+  },
+  "mesh-transforms": {
+    id: "mesh-transforms",
+    renderer: "canvas",
+    mount: mountMeshTransforms,
+    presets: GENERATED_SCENE_PRESETS["mesh-transforms"] ?? {},
+  },
+  "drawing-bezier-curves": {
+    id: "drawing-bezier-curves",
+    renderer: "canvas",
+    mount: mountDrawingBezierCurves,
+    presets: GENERATED_SCENE_PRESETS["drawing-bezier-curves"] ?? {},
+  },
+  "exposing-nsdictionary": {
+    id: "exposing-nsdictionary",
+    renderer: "canvas",
+    mount: mountExposingNSDictionary,
+    presets: GENERATED_SCENE_PRESETS["exposing-nsdictionary"] ?? {},
+  },
+  "exposing-nsmutablearray": {
+    id: "exposing-nsmutablearray",
+    renderer: "canvas",
+    mount: mountExposingNSMutableArray,
+    presets: GENERATED_SCENE_PRESETS["exposing-nsmutablearray"] ?? {},
+  },
+  "exploring-gpgpu-on-ios": {
+    id: "exploring-gpgpu-on-ios",
+    renderer: "canvas",
+    mount: mountExploringGPGPUOnIOS,
+    presets: GENERATED_SCENE_PRESETS["exploring-gpgpu-on-ios"] ?? {},
+  },
+  "hysteresis-slack": {
+    id: "hysteresis-slack",
+    renderer: "svg",
+    mount: mountHysteresisSlackScene,
+    presets: GENERATED_SCENE_PRESETS["hysteresis-slack"] ?? {},
+  },
+  "immersive-linear-algebra": {
+    id: "immersive-linear-algebra",
+    renderer: "svg",
+    mount: mountImmersiveLinearAlgebraScene,
+    presets: GENERATED_SCENE_PRESETS["immersive-linear-algebra"] ?? {},
+  },
+  "load-balancing": {
+    id: "load-balancing",
+    renderer: "svg",
+    mount: mountLoadBalancingScene,
+    presets: GENERATED_SCENE_PRESETS["load-balancing"] ?? {},
+  },
+  "memory-allocation": {
+    id: "memory-allocation",
+    renderer: "svg",
+    mount: mountMemoryAllocationScene,
+    presets: GENERATED_SCENE_PRESETS["memory-allocation"] ?? {},
+  },
+  "reading-qr-codes-without-a-computer": {
+    id: "reading-qr-codes-without-a-computer",
+    renderer: "canvas",
+    mount: mountReadingQrCodesScene,
+    presets: GENERATED_SCENE_PRESETS["reading-qr-codes-without-a-computer"] ?? {},
+  },
+  "rigid-body-collisions": {
+    id: "rigid-body-collisions",
+    renderer: "canvas",
+    mount: mountRigidBodyCollisionsScene,
+    presets: GENERATED_SCENE_PRESETS["rigid-body-collisions"] ?? {},
+  },
+  "decision-trees": {
+    id: "decision-trees",
+    renderer: "svg",
+    mount: mountDecisionTreesScene,
+    presets: GENERATED_SCENE_PRESETS["decision-trees"] ?? {},
+  },
+  "double-descent": {
+    id: "double-descent",
+    renderer: "svg",
+    mount: mountDoubleDescentScene,
+    presets: GENERATED_SCENE_PRESETS["double-descent"] ?? {},
+  },
+  "double-descent-2": {
+    id: "double-descent-2",
+    renderer: "svg",
+    mount: mountDoubleDescent2Scene,
+    presets: GENERATED_SCENE_PRESETS["double-descent-2"] ?? {},
+  },
+  "linear-regression": {
+    id: "linear-regression",
+    renderer: "svg",
+    mount: mountLinearRegressionScene,
+    presets: GENERATED_SCENE_PRESETS["linear-regression"] ?? {},
+  },
+  "logistic-regression": {
+    id: "logistic-regression",
+    renderer: "svg",
+    mount: mountLogisticRegressionScene,
+    presets: GENERATED_SCENE_PRESETS["logistic-regression"] ?? {},
+  },
+  "precision-recall": {
+    id: "precision-recall",
+    renderer: "svg",
+    mount: mountPrecisionRecallScene,
+    presets: GENERATED_SCENE_PRESETS["precision-recall"] ?? {},
+  },
+  "random-forest": {
+    id: "random-forest",
+    renderer: "svg",
+    mount: mountRandomForestScene,
+    presets: GENERATED_SCENE_PRESETS["random-forest"] ?? {},
+  },
+  "roc-auc": {
+    id: "roc-auc",
+    renderer: "svg",
+    mount: mountRocAucScene,
+    presets: GENERATED_SCENE_PRESETS["roc-auc"] ?? {},
+  },
+  "the-bias-variance-tradeoff": {
+    id: "the-bias-variance-tradeoff",
+    renderer: "svg",
+    mount: mountBiasVarianceScene,
+    presets: GENERATED_SCENE_PRESETS["the-bias-variance-tradeoff"] ?? {},
+  },
+  "train-test-and-validation-sets": {
+    id: "train-test-and-validation-sets",
+    renderer: "svg",
+    mount: mountTrainValidationScene,
+    presets: GENERATED_SCENE_PRESETS["train-test-and-validation-sets"] ?? {},
+  },
+}
+
 const mountByScene = (root: HTMLElement): SimController | null => {
-  const scene = root.dataset.simScene
-  if (scene === "moon") return mountMoon(root)
-  if (scene === "airfoil") return mountAirfoil(root)
-  if (scene === "bicycle") return mountBicycle(root)
-  if (scene === "sound") return mountSound(root)
-  if (scene === "mechanical-watch") return mountMechanicalWatch(root)
-  if (scene === "gps") return mountGPS(root)
-  if (scene === "curves-and-surfaces") return mountCurvesAndSurfaces(root)
-  if (scene === "gears") return mountGears(root)
-  if (scene === "earth-and-sun") return mountEarthAndSun(root)
-  if (scene === "tesseract") return mountTesseract(root)
-  if (scene === "color-spaces") return mountColorSpaces(root)
-  if (scene === "alpha-compositing") return mountAlphaCompositing(root)
-  if (scene === "floating-point") return mountFloatingPoint(root)
-  if (scene === "naval-architecture") return mountNavalArchitecture(root)
-  if (scene === "internal-combustion-engine") return mountInternalCombustionEngine(root)
-  if (scene === "cameras-and-lenses") return mountCamerasAndLenses(root)
-  if (scene === "lights-and-shadows") return mountLightsAndShadows(root)
-  if (scene === "mesh-transforms") return mountMeshTransforms(root)
-  if (scene === "drawing-bezier-curves") return mountDrawingBezierCurves(root)
-  if (scene === "exposing-nsdictionary") return mountExposingNSDictionary(root)
-  if (scene === "exposing-nsmutablearray") return mountExposingNSMutableArray(root)
-  if (scene === "exploring-gpgpu-on-ios") return mountExploringGPGPUOnIOS(root)
-  return null
+  const sceneId = root.dataset.simScene
+  if (!sceneId) return null
+  return sceneRegistry[sceneId]?.mount(root) ?? null
 }
 
 const setupInteractiveSims = () => {
@@ -3159,6 +3390,8 @@ const setupInteractiveSims = () => {
     const controller = mountByScene(root)
     if (controller) mounted.push(controller)
   }
+
+  setupStoryArticles(sceneRegistry)
 
   window.addCleanup(() => {
     for (const controller of mounted) {

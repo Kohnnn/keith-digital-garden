@@ -2,24 +2,32 @@
 title: Interactive
 tags: [notes, archive, interactive]
 draft: false
-description: Main note branch for visual explainers, archive shelves, and the moved short-form note system.
+description: Main branch for explorable notes, visual explainers, and related shelves.
 created: 2026-03-07
-updated: 2026-03-07
+updated: 2026-03-08
 aliases: [AI_Sandbox/AI Sandbox]
 cssclasses: [branch-hub]
 ---
 
 # Interactive
 
-This branch holds the moved note system: visual explainers up front, archive shelves behind them, and working branches that still belong inside the wider notes graph. It is the same inventory as before, but with less drafting theater around it.
+This branch now holds the rebuilt explorable note system: Quartz-native notes with sticky visual rails, step-driven storytelling, and broader source coverage than the previous adaptation pass.
 
-## Start with the visual side
+## Start with the visual explainers
 
-- [[Notes/Interactive/Moon|Moon]]
-- [[Notes/Interactive/GPS|GPS]]
-- [[Notes/Interactive/Cameras-and-Lenses|Cameras and Lenses]]
-- [[Notes/Interactive/Mechanical-Watch|Mechanical Watch]]
 - [[Visual Notes]]
+- [[Notes/Interactive/Airfoil|Airfoil]]
+- [[Notes/Interactive/GPS|GPS]]
+- [[Notes/Interactive/Mechanical-Watch|Mechanical Watch]]
+- [[Notes/Interactive/Linear-Regression|Linear Regression]]
+
+## Scrollytelling notes
+
+- [[Notes/Interactive/Decision-Trees|Decision Trees]]
+- [[Notes/Interactive/Double-Descent-2|Double Descent 2]]
+- [[Notes/Interactive/Double-Descent|Double Descent]]
+- [[Notes/Interactive/Linear-Regression|Linear Regression]]
+- [[Notes/Interactive/Logistic-Regression|Logistic Regression]]
 
 ## Then open the shelves
 
@@ -28,10 +36,3 @@ This branch holds the moved note system: visual explainers up front, archive she
 - [[Notes/Interactive/Tech_Journal|Tech journal]]
 - [[Notes/Interactive/Market_News|Market news]]
 - [[Notes/Interactive/Thoughtpieces|Thoughtpieces]]
-
-## How to read this branch
-
-- Start with a visual note when you want the strongest teaching surface.
-- Start with a shelf when you want breadth, patterns, and shorter entries.
-- Use tags and backlinks once a topic starts branching beyond a single folder.
-- Move back to [[Notes]] when you want the wider map instead of this concentrated branch.

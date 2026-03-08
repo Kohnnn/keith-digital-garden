@@ -7,31 +7,27 @@ const StackedNotes: QuartzComponent = () => (
     class="stacked-notes-toggle"
     id="stacked-notes-toggle"
     type="button"
-    role="switch"
-    aria-label="Toggle stacked notes"
-    aria-checked="false"
+    aria-label="Open stacked notes"
+    aria-pressed="false"
+    title="Open stacked notes"
   >
-    <span class="stacked-notes-toggle-label" data-stack-toggle-label>
-      Stack
-    </span>
-    <span class="stacked-notes-toggle-state" data-stack-toggle-state>
-      Off
-    </span>
     <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <circle
-        cx="14"
-        cy="12"
-        r="5"
-        opacity="0.9"
+      <rect
+        x="4"
+        y="7"
+        width="11"
+        height="11"
+        rx="2"
         fill="none"
         stroke="currentColor"
         stroke-width="2"
       />
-      <circle
-        cx="10"
-        cy="12"
-        r="5"
-        opacity="0.5"
+      <rect
+        x="9"
+        y="4"
+        width="11"
+        height="11"
+        rx="2"
         fill="none"
         stroke="currentColor"
         stroke-width="2"

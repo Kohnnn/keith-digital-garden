@@ -3,14 +3,12 @@
   background: var(--light);
   color: var(--darkgray);
   border-radius: 999px;
-  padding: 0.3rem 0.45rem 0.3rem 0.65rem;
-  font-family: var(--codeFont);
-  font-size: 0.7rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  display: inline-flex;
+  width: 2.4rem;
+  height: 2.4rem;
+  padding: 0;
+  display: inline-grid;
+  place-items: center;
   align-items: center;
-  gap: 0.4rem;
   cursor: pointer;
   transition:
     background-color 0.2s ease,
@@ -20,40 +18,18 @@
 }
 
 .stacked-notes-toggle svg {
-  width: 14px;
-  height: 14px;
-}
-
-.stacked-notes-toggle-label {
-  white-space: nowrap;
-}
-
-.stacked-notes-toggle-state {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2.3rem;
-  padding: 0.16rem 0.4rem;
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--lightgray) 55%, var(--light) 45%);
-  color: var(--gray);
-  font-size: 0.62rem;
-  letter-spacing: 0.1em;
+  width: 1.05rem;
+  height: 1.05rem;
 }
 
 .stacked-notes-toggle:hover {
   transform: translateY(-1px);
 }
 
-.stacked-notes-toggle[aria-checked="true"] {
+.stacked-notes-toggle[aria-pressed="true"] {
   background: var(--secondary);
   color: var(--light);
   border-color: var(--secondary);
-}
-
-.stacked-notes-toggle[aria-checked="true"] .stacked-notes-toggle-state {
-  background: color-mix(in srgb, var(--light) 18%, transparent 82%);
-  color: var(--light);
 }
 
 #stacked-notes-container {

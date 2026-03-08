@@ -66,17 +66,9 @@ const extractStackContent = (root: ParentNode | Document) => {
 }
 
 const setToggleState = (toggle: HTMLButtonElement, active: boolean) => {
-  toggle.setAttribute("aria-checked", String(active))
-
-  const label = toggle.querySelector("[data-stack-toggle-label]")
-  if (label) {
-    label.textContent = active ? "Stack" : "Stack"
-  }
-
-  const state = toggle.querySelector("[data-stack-toggle-state]")
-  if (state) {
-    state.textContent = active ? "On" : "Off"
-  }
+  toggle.setAttribute("aria-pressed", String(active))
+  toggle.setAttribute("aria-label", active ? "Close stacked notes" : "Open stacked notes")
+  toggle.setAttribute("title", active ? "Close stacked notes" : "Open stacked notes")
 }
 
 const renderPrimary = (
@@ -265,7 +257,7 @@ const setupStackMode = () => {
     if (!target) return
     const link = target.closest("a.internal") as HTMLAnchorElement | null
     if (!link) return
-    if (!container.contains(link)) return
+    if (!primary.contains(link) && !secondary.contains(link)) return
     if (!isStackableLink(link)) return
 
     event.preventDefault()

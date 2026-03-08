@@ -26,21 +26,43 @@ const placeContainer = (container: HTMLElement) => {
   }
 }
 
-const extractStackContent = (html: Document) => {
-  const popover = html.querySelector(".popover-hint")
-  if (popover instanceof HTMLElement) {
-    const wrapper = document.createElement("div")
-    wrapper.appendChild(popover)
-    return wrapper
-  }
+const sanitizeArticlePreview = (article: HTMLElement) => {
+  const clone = article.cloneNode(true) as HTMLElement
 
-  const article = html.querySelector("article")
-  if (article instanceof HTMLElement) {
-    return article
-  }
+  clone.querySelector("h1")?.remove()
 
-  const center = html.querySelector(".center")
-  return center instanceof HTMLElement ? center : null
+  clone
+    .querySelectorAll<HTMLElement>(
+      ".interactive-sim, canvas, iframe, .graph, .mermaid, .page-footer, .stacked-notes-container",
+    )
+    .forEach((node) => {
+      if (node.classList.contains("interactive-sim")) {
+        const placeholder = document.createElement("div")
+        placeholder.className = "stacked-note-sim-placeholder"
+        placeholder.innerHTML =
+          "<strong>Interactive module</strong><p>Open the full page to use the live simulation.</p>"
+        node.replaceWith(placeholder)
+        return
+      }
+
+      node.remove()
+    })
+
+  return clone
+}
+
+const extractStackContent = (root: ParentNode | Document) => {
+  const article =
+    (root.querySelector(".center article.popover-hint") as HTMLElement | null) ??
+    (root.querySelector("article.popover-hint") as HTMLElement | null) ??
+    (root.querySelector(".center article") as HTMLElement | null) ??
+    (root.querySelector("article") as HTMLElement | null)
+
+  if (!article) return null
+
+  const wrapper = document.createElement("div")
+  wrapper.appendChild(sanitizeArticlePreview(article))
+  return wrapper
 }
 
 const setToggleState = (toggle: HTMLButtonElement, active: boolean) => {
@@ -57,17 +79,7 @@ const setToggleState = (toggle: HTMLButtonElement, active: boolean) => {
   }
 }
 
-const renderPrimary = (
-  primary: HTMLElement,
-  meta: HTMLElement | null,
-  title: HTMLElement | null,
-) => {
-  const source = document.querySelector(".center") as HTMLElement | null
-  if (!source) return
-  const clone = source.cloneNode(true) as HTMLElement
-  prefixIds(clone, "stack-primary")
-  primary.replaceChildren(clone)
-
+const renderPrimaryMeta = (meta: HTMLElement | null, title: HTMLElement | null) => {
   if (meta) {
     meta.textContent = window.location.pathname.replace(/^\//, "") || "index"
   }
@@ -134,9 +146,7 @@ const renderSecondary = async (
     return
   }
 
-  const wrapper = document.createElement("div")
-  wrapper.appendChild(extracted)
-  prefixIds(wrapper, `stack-secondary-${targetUrl.pathname.replace(/\//g, "-")}`)
+  prefixIds(extracted, `stack-secondary-${targetUrl.pathname.replace(/\//g, "-")}`)
 
   const title =
     html.querySelector("h1")?.textContent ??
@@ -148,7 +158,7 @@ const renderSecondary = async (
   if (titleEl) titleEl.textContent = title
   if (clearButton) clearButton.disabled = false
   if (openButton) openButton.disabled = false
-  secondary.replaceChildren(wrapper)
+  secondary.replaceChildren(extracted)
 }
 
 const isStackableLink = (link: HTMLAnchorElement) => {
@@ -173,7 +183,6 @@ const setupStackMode = () => {
   const closeButton = document.getElementById("stacked-notes-close") as HTMLButtonElement | null
   const clearButton = document.getElementById("stacked-notes-clear") as HTMLButtonElement | null
   const openButton = document.getElementById("stacked-notes-open") as HTMLButtonElement | null
-  const primary = document.querySelector("[data-stack-content='primary']") as HTMLElement | null
   const secondary = document.querySelector("[data-stack-content='secondary']") as HTMLElement | null
   const secondaryMeta = document.querySelector(
     "[data-stack-meta='secondary']",
@@ -184,7 +193,7 @@ const setupStackMode = () => {
     "[data-stack-title='secondary']",
   ) as HTMLElement | null
 
-  if (!toggle || !container || !closeButton || !primary || !secondary || !secondaryMeta) return
+  if (!toggle || !container || !closeButton || !secondary || !secondaryMeta) return
 
   placeContainer(container)
 
@@ -194,11 +203,10 @@ const setupStackMode = () => {
     setToggleState(toggle, active)
     localStorage.setItem(storageKey, active ? "true" : "false")
     if (active) {
-      renderPrimary(primary, primaryMeta, primaryTitle)
+      renderPrimaryMeta(primaryMeta, primaryTitle)
       if (!activeSecondaryUrl) {
         resetSecondary(secondary, secondaryMeta, secondaryTitle, clearButton, openButton)
       }
-      closeButton.focus()
     }
   }
 
@@ -223,19 +231,11 @@ const setupStackMode = () => {
     }
   }
 
-  const onBackdropClick = (event: MouseEvent) => {
-    if (event.target === container) {
-      event.preventDefault()
-      setMode(false)
-    }
-  }
-
   toggle.addEventListener("click", onToggle)
   closeButton.addEventListener("click", onClose)
   clearButton?.addEventListener("click", onClear)
   openButton?.addEventListener("click", onOpen)
   document.addEventListener("keydown", onKeyDown)
-  container.addEventListener("click", onBackdropClick)
 
   const onClick = async (event: MouseEvent) => {
     if (!document.body.classList.contains("stack-mode")) return
@@ -245,7 +245,6 @@ const setupStackMode = () => {
     if (!target) return
     const link = target.closest("a.internal") as HTMLAnchorElement | null
     if (!link) return
-    if (!container.contains(link)) return
     if (!isStackableLink(link)) return
 
     event.preventDefault()
@@ -267,7 +266,6 @@ const setupStackMode = () => {
     clearButton?.removeEventListener("click", onClear)
     openButton?.removeEventListener("click", onOpen)
     document.removeEventListener("keydown", onKeyDown)
-    container.removeEventListener("click", onBackdropClick)
     document.removeEventListener("click", onClick, true)
   })
 }

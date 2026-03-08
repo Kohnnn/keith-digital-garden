@@ -8,7 +8,37 @@ updated: 2026-03-07
 cssclasses: [branch-hub, kitchen-home]
 ---
 
-# Keith Kitchen
+<h1 class="visually-hidden">Keith Kitchen</h1>
+
+<div class="kitchen-pass-board" role="group" aria-label="Kitchen pass">
+  <div class="kitchen-pass-copy">
+    <p class="kitchen-eyebrow">Research kitchen</p>
+    <p class="kitchen-pass-title">Pull a ticket and decide how you want to read.</p>
+    <p class="kitchen-pass-note">The portfolio is plated work. Notes are prep. Arena is the shelf. Research notes are the service log.</p>
+  </div>
+  <div class="kitchen-pass-grid" role="list" aria-label="Kitchen routes">
+    <a class="kitchen-ticket" href="./Portfolio" role="listitem">
+      <span class="kitchen-ticket-status">Plated</span>
+      <strong>Portfolio</strong>
+      <p>Casefiles, experience, and the shortest proof path.</p>
+    </a>
+    <a class="kitchen-ticket" href="./notes" role="listitem">
+      <span class="kitchen-ticket-status">Prep</span>
+      <strong>Notes</strong>
+      <p>Interactive explainers, archive shelves, and branching trails.</p>
+    </a>
+    <a class="kitchen-ticket" href="./arena" role="listitem">
+      <span class="kitchen-ticket-status">Shelf</span>
+      <strong>Arena</strong>
+      <p>External references, channels, and rabbit holes.</p>
+    </a>
+    <a class="kitchen-ticket" href="./Portfolio/Blog" role="listitem">
+      <span class="kitchen-ticket-status">Service</span>
+      <strong>Research notes</strong>
+      <p>Frameworks, market writing, and the written operating log.</p>
+    </a>
+  </div>
+</div>
 
 <div class="orientation-hero">
   <p class="kitchen-eyebrow">A research kitchen for markets, models, and curiosity.</p>

@@ -1323,6 +1323,115 @@ article.research-notes,
 
 article.kitchen-home,
 .kitchen-home article {
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .kitchen-pass-board {
+    display: grid;
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 1.35fr);
+    gap: 1rem;
+    margin: 0.4rem 0 1rem;
+    padding: 1.15rem 1.2rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray) 76%);
+    border-radius: 22px;
+    background:
+      linear-gradient(
+        120deg,
+        color-mix(in srgb, var(--light) 96%, var(--secondary) 4%),
+        color-mix(in srgb, var(--light) 88%, var(--tertiary) 12%)
+      ),
+      radial-gradient(
+        90% 120% at 100% 0%,
+        color-mix(in srgb, var(--secondary) 18%, transparent 82%) 0%,
+        transparent 58%
+      );
+    box-shadow: 0 22px 52px rgba(28, 26, 20, 0.08);
+  }
+
+  .kitchen-pass-copy {
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    justify-content: space-between;
+  }
+
+  .kitchen-pass-title {
+    margin: 0;
+    font-family: var(--titleFont);
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 0.98;
+    color: var(--dark);
+    text-wrap: balance;
+  }
+
+  .kitchen-pass-note {
+    margin: 0;
+    max-width: 36ch;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--darkgray);
+  }
+
+  .kitchen-pass-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .kitchen-ticket {
+    display: block;
+    min-height: 100%;
+    padding: 0.85rem 0.95rem;
+    border-radius: 16px;
+    border: 1px solid color-mix(in srgb, var(--secondary) 22%, var(--lightgray) 78%);
+    background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+    color: var(--dark);
+    text-decoration: none;
+    transition:
+      transform 180ms ease,
+      border-color 180ms ease,
+      background 180ms ease;
+  }
+
+  .kitchen-ticket:hover {
+    transform: translateY(-2px);
+    border-color: color-mix(in srgb, var(--secondary) 36%, var(--lightgray) 64%);
+    background: color-mix(in srgb, var(--light) 90%, var(--secondary) 10%);
+  }
+
+  .kitchen-ticket-status {
+    display: inline-flex;
+    margin-bottom: 0.35rem;
+    font-family: var(--codeFont);
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  .kitchen-ticket strong {
+    display: block;
+    font-size: 1.08rem;
+    line-height: 1.15;
+    color: var(--dark);
+  }
+
+  .kitchen-ticket p {
+    margin: 0.3rem 0 0;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: var(--darkgray);
+  }
+
   .orientation-hero {
     margin: 0.7rem 0 1.25rem;
     padding: 1.15rem 1.2rem;
@@ -1675,6 +1784,34 @@ article.external-canvas-note,
   }
 }
 
+@media all and (min-width: 800px) and (max-width: 1199px) {
+  body[data-slug="index"] .page > #quartz-body {
+    grid-template-columns: 320px minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+
+  body[data-slug="index"] .page > #quartz-body > .sidebar.right {
+    display: none;
+  }
+}
+
+@media all and (min-width: 1200px) {
+  body[data-slug="index"] .page > #quartz-body {
+    grid-template-columns: 320px minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+
+  body[data-slug="index"] .page > #quartz-body > .sidebar.right {
+    display: none;
+  }
+}
+
 @media all and (max-width: 800px) {
   .portfolio-page article .kitchen-hero {
     padding: 1rem;
@@ -1687,5 +1824,13 @@ article.external-canvas-note,
 
   .portfolio-page article .kitchen-hero h2 {
     font-size: 2rem;
+  }
+
+  .kitchen-home article .kitchen-pass-board {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-home article .kitchen-pass-grid {
+    grid-template-columns: 1fr;
   }
 }

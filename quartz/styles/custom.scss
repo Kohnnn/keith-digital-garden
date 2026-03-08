@@ -1117,6 +1117,10 @@ article.research-notes,
 }
 
 .portfolio-page article {
+  .page-listing {
+    display: none;
+  }
+
   .portfolio-hero,
   .kitchen-hero {
     margin: 0.6rem 0 1.5rem;
@@ -1207,6 +1211,7 @@ article.research-notes,
   .casefile-grid,
   .writing-grid,
   .casefile-summary,
+  .portfolio-route-grid,
   .lab-compare-grid,
   .note-observation-grid {
     display: grid;
@@ -1219,6 +1224,7 @@ article.research-notes,
   .casefile-card,
   .writing-card,
   .casefile-summary > div,
+  .portfolio-route-grid > div,
   .note-card,
   .observation-card {
     border: 1px solid color-mix(in srgb, var(--secondary) 20%, var(--lightgray) 80%);
@@ -1233,6 +1239,10 @@ article.research-notes,
     display: block;
     color: var(--dark);
     text-decoration: none;
+  }
+
+  .portfolio-route-grid > div {
+    min-height: 100%;
   }
 
   .casefile-card:hover,

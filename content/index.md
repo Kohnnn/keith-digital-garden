@@ -17,7 +17,7 @@ cssclasses: [branch-hub, kitchen-home]
 </div>
 
 <div class="orientation-grid" role="list" aria-label="Primary site routes">
-  <a class="orientation-card" href="./portfolio" role="listitem">
+  <a class="orientation-card" href="./Portfolio" role="listitem">
     <span class="casefile-label">Fast route</span>
     <h2>Portfolio</h2>
     <p>Casefiles, experience, and the finance-and-tooling work that is easiest to evaluate quickly.</p>
@@ -44,7 +44,7 @@ cssclasses: [branch-hub, kitchen-home]
 <div class="reading-journey">
   <div class="journey-step">
     <span class="proof-label">1. Start narrow</span>
-    <p>Open <a href="./portfolio">Portfolio</a> if you want the shortest path to proof, context, and contact.</p>
+    <p>Open <a href="./Portfolio">Portfolio</a> if you want the shortest path to proof, context, and contact.</p>
   </div>
   <div class="journey-step">
     <span class="proof-label">2. Then branch</span>

@@ -11,7 +11,11 @@ cssclasses: [portfolio-page]
 
 # Casefiles
 
-Each casefile follows the same structure: problem, role, stack, outcome, and next iteration.
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Flagship builds</p>
+  <h2>Casefiles that connect finance judgment, product execution, and research infrastructure.</h2>
+  <p>Start with VNIBB if you want the broadest proof. Move to the dashboard, cycle playbook, and option-pricing work if you want to inspect specific reasoning surfaces.</p>
+</div>
 
 ## Portfolio lens
 
@@ -85,6 +89,26 @@ Each casefile follows the same structure: problem, role, stack, outcome, and nex
   </a>
 </div>
 
+## Best reading order
+
+<div class="writing-grid">
+  <a class="writing-card" href="./VNIBB">
+    <span class="casefile-label">Start here</span>
+    <h3>VNIBB</h3>
+    <p>The strongest combined proof of product design, finance context, and implementation depth.</p>
+  </a>
+  <a class="writing-card" href="./Crypto-Dashboard">
+    <span class="casefile-label">Then check</span>
+    <h3>Crypto dashboard</h3>
+    <p>A clean example of signal triage, review cadence, and market-state framing.</p>
+  </a>
+  <a class="writing-card" href="./Option-Pricing">
+    <span class="casefile-label">Technical depth</span>
+    <h3>Option pricing</h3>
+    <p>Modeling depth, explainability, and a stronger quant-facing surface than a static note.</p>
+  </a>
+</div>
+
 ## What each flagship proves
 
 <div class="portfolio-matrix">
@@ -137,6 +161,6 @@ Each casefile follows the same structure: problem, role, stack, outcome, and nex
 
 ## See also
 
-- [[Portfolio/Portfolio|Portfolio hub]]
+- [[Portfolio|Portfolio hub]]
 - [[Portfolio/Blog|Research notes]]
 - [[Portfolio/Projects/Tech Docs|Tech docs index]]

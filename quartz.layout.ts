@@ -69,9 +69,18 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.GraphMapToggle(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.GraphMapToggle(),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+    }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
+    }),
   ],
 }
 

@@ -120,5 +120,5 @@ This page indexes the writing surfaces that sit closest to the operating workflo
 ## Links
 
 - [[Portfolio/Projects|Casefiles]]
-- [[Portfolio/Portfolio|Portfolio hub]]
+- [[Portfolio|Portfolio hub]]
 - [[Notes/Interactive|Interactive notes]]

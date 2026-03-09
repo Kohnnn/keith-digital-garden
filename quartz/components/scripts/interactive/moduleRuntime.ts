@@ -1,11 +1,12 @@
-import { GENERATED_MODULE_SCENE_MAP } from "./generatedModuleRegistry"
-import type { ModuleSceneDescriptor } from "./moduleRegistry"
+import { INTERACTIVE_ARTICLES, INTERACTIVE_MODULE_SCENE_MAP } from "./articleRegistry"
+import type { ModuleControlDefinition, ModuleSceneDescriptor } from "./moduleRegistry"
 import { mountGeneratedModuleScene } from "./richModuleScenes"
 import type { SceneDefinition, SimController } from "./storyRuntime"
 
 type ControlElement = HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement
 
 const ACTION_CONTROL_IDS = new Set(["reset", "pause-toggle", "cycle", "shuffle"])
+const MODULE_RESET_EVENT = "interactive-sim-reset"
 
 const isControlElement = (node: Element | null): node is ControlElement =>
   !!node &&
@@ -14,7 +15,9 @@ const isControlElement = (node: Element | null): node is ControlElement =>
     node instanceof HTMLTextAreaElement)
 
 const getControlElements = (root: HTMLElement, controlId: string) =>
-  Array.from(root.querySelectorAll<Element>(`[data-control="${controlId}"]`)).filter(isControlElement)
+  Array.from(root.querySelectorAll<Element>(`[data-control="${controlId}"]`)).filter(
+    isControlElement,
+  )
 
 const dispatchControlUpdate = (element: ControlElement) => {
   const eventName =
@@ -81,9 +84,177 @@ const updatePauseButtons = (pauseGroup: string, paused: boolean) => {
   }
 }
 
+const updateRootPauseButton = (root: HTMLElement, paused: boolean) => {
+  root.dataset.paused = paused ? "true" : "false"
+  const button = root.querySelector<HTMLButtonElement>('button[data-control="pause-toggle"]')
+  if (!button) return
+  button.textContent = paused ? "resume motion" : "pause motion"
+  button.setAttribute("aria-pressed", paused ? "true" : "false")
+}
+
+const sanitizeDomToken = (value: string) =>
+  value.replace(/[^a-z0-9]+/gi, "-").replace(/^-+|-+$/g, "")
+
+const controlDomId = (sceneId: string, controlId: string) =>
+  `${sanitizeDomToken(sceneId)}-${controlId}`
+
+const buildControlNode = (sceneId: string, control: ModuleControlDefinition) => {
+  if (control.kind === "action") {
+    const button = document.createElement("button")
+    button.type = "button"
+    button.dataset.control = control.id
+    button.textContent = control.label
+    return button
+  }
+
+  if (control.kind === "choice") {
+    const wrapper = document.createElement("div")
+    wrapper.className = "interactive-sim-control"
+    const label = document.createElement("label")
+    label.textContent = control.label
+    wrapper.appendChild(label)
+
+    const choices = document.createElement("div")
+    choices.className = "interactive-choice-group"
+    const name = controlDomId(sceneId, control.id)
+    control.options.forEach((option, index) => {
+      const choiceLabel = document.createElement("label")
+      choiceLabel.className = "interactive-choice-pill"
+      choiceLabel.htmlFor = `${name}-${index}`
+
+      const input = document.createElement("input")
+      input.id = `${name}-${index}`
+      input.type = "radio"
+      input.name = name
+      input.value = option
+      input.dataset.control = control.id
+      input.checked = option === control.value
+
+      const text = document.createElement("span")
+      text.textContent = option
+
+      choiceLabel.append(input, text)
+      choices.appendChild(choiceLabel)
+    })
+
+    wrapper.appendChild(choices)
+    return wrapper
+  }
+
+  const wrapper = document.createElement("div")
+  wrapper.className = "interactive-sim-control"
+  const id = controlDomId(sceneId, control.id)
+
+  if (control.kind === "toggle") {
+    const label = document.createElement("label")
+    label.className = "interactive-toggle-row"
+    label.htmlFor = id
+
+    const input = document.createElement("input")
+    input.id = id
+    input.type = "checkbox"
+    input.dataset.control = control.id
+    input.checked = control.value
+
+    const text = document.createElement("span")
+    text.textContent = control.label
+    label.append(input, text)
+    wrapper.appendChild(label)
+    return wrapper
+  }
+
+  const label = document.createElement("label")
+  label.htmlFor = id
+  label.textContent = control.label
+
+  const input = document.createElement("input")
+  input.id = id
+  input.type = "range"
+  input.dataset.control = control.id
+  input.min = String(control.min)
+  input.max = String(control.max)
+  input.step = String(control.step)
+  input.value = String(control.value)
+
+  wrapper.append(label, input)
+  return wrapper
+}
+
+const stageClassForScene = (scene: ModuleSceneDescriptor) =>
+  scene.layout === "chart" ? "stage-short" : "stage-medium"
+
+const ensureModuleMedia = (stage: HTMLElement, scene: ModuleSceneDescriptor) => {
+  if (scene.renderer === "canvas") {
+    stage.querySelector("svg.sim-svg")?.remove()
+    if (!stage.querySelector("canvas.sim-canvas")) {
+      const canvas = document.createElement("canvas")
+      canvas.className = "sim-canvas"
+      canvas.setAttribute("aria-label", `${scene.title} interactive module`)
+      stage.appendChild(canvas)
+    }
+    return
+  }
+
+  stage.querySelector("canvas.sim-canvas")?.remove()
+  if (!stage.querySelector("svg.sim-svg")) {
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg")
+    svg.classList.add("sim-svg")
+    svg.setAttribute("aria-label", `${scene.title} interactive module`)
+    stage.appendChild(svg)
+  }
+}
+
+export const ensureModuleSceneShell = (root: HTMLElement) => {
+  const sceneId = root.dataset.simScene
+  if (!sceneId) return null
+
+  const scene = INTERACTIVE_MODULE_SCENE_MAP[sceneId]
+  if (!scene || scene.noteOnly) return null
+
+  root.dataset.simModule = scene.sceneId
+  if (scene.sharedGroup) root.dataset.simShared = scene.sharedGroup
+  else delete root.dataset.simShared
+
+  if (scene.pauseGroup) {
+    root.dataset.simPauseGroup = scene.pauseGroup
+    root.dataset.paused ||= "false"
+  } else {
+    delete root.dataset.simPauseGroup
+  }
+
+  let stage = root.querySelector<HTMLElement>(".interactive-sim-stage")
+  if (!stage) {
+    stage = document.createElement("div")
+    root.prepend(stage)
+  }
+  stage.className = `interactive-sim-stage ${stageClassForScene(scene)}`
+  ensureModuleMedia(stage, scene)
+
+  let controls = root.querySelector<HTMLElement>(".interactive-sim-controls")
+  if (!controls && scene.controls.length > 0) {
+    controls = document.createElement("div")
+    root.appendChild(controls)
+  }
+
+  if (controls) {
+    controls.className = "interactive-sim-controls"
+    if (controls.childElementCount === 0) {
+      scene.controls.forEach((control) =>
+        controls!.appendChild(buildControlNode(scene.sceneId, control)),
+      )
+    }
+  }
+
+  return scene
+}
+
 let propagatingSharedControls = false
 
-const syncSharedControl = (sourceRoot: HTMLElement, controlId: string, value: boolean | number | string) => {
+const syncSharedControl = (
+  sourceRoot: HTMLElement,
+  controlId: string,
+  value: boolean | number | string,
+) => {
   if (propagatingSharedControls || ACTION_CONTROL_IDS.has(controlId)) return
   const sharedGroup = sourceRoot.dataset.simShared
   if (!sharedGroup) return
@@ -106,20 +277,58 @@ const syncSharedControl = (sourceRoot: HTMLElement, controlId: string, value: bo
   }
 }
 
-const restoreModuleDefaults = (root: HTMLElement, scene: ModuleSceneDescriptor) => {
-  applyPresetToRoot(root, scene.defaultPreset)
+const resolveResetTargets = (root: HTMLElement, scene: ModuleSceneDescriptor) => {
+  if (scene.resetScope === "shared" && scene.sharedGroup) {
+    return Array.from(
+      document.querySelectorAll<HTMLElement>(
+        `.interactive-sim[data-sim-shared="${scene.sharedGroup}"]`,
+      ),
+    )
+  }
+
+  if (scene.resetScope === "pause-group" && scene.pauseGroup) {
+    return Array.from(
+      document.querySelectorAll<HTMLElement>(
+        `.interactive-sim[data-sim-pause-group="${scene.pauseGroup}"]`,
+      ),
+    )
+  }
+
+  return [root]
 }
 
-export const buildGeneratedSceneRegistry = (): Record<string, SceneDefinition> =>
+const restoreModuleDefaults = (root: HTMLElement, scene: ModuleSceneDescriptor) => {
+  const targets = resolveResetTargets(root, scene)
+  for (const target of targets) {
+    const sceneId = target.dataset.simScene
+    const targetScene = (sceneId && INTERACTIVE_MODULE_SCENE_MAP[sceneId]) || scene
+    applyPresetToRoot(target, targetScene.defaultPreset)
+    target.dispatchEvent(new CustomEvent(MODULE_RESET_EVENT))
+  }
+
+  if (scene.pauseGroup && scene.resetScope === "pause-group") {
+    updatePauseButtons(scene.pauseGroup, false)
+  } else if (
+    scene.controls.some((control) => control.kind === "action" && control.id === "pause-toggle")
+  ) {
+    updateRootPauseButton(root, false)
+  }
+}
+
+export const buildGeneratedSceneRegistry = (
+  articles = INTERACTIVE_ARTICLES,
+): Record<string, SceneDefinition> =>
   Object.fromEntries(
-    Object.values(GENERATED_MODULE_SCENE_MAP)
+    articles
+      .flatMap((article) => article.modules)
       .filter((scene) => !scene.noteOnly)
       .map((scene) => [
         scene.sceneId,
         {
           id: scene.sceneId,
           renderer: scene.renderer,
-          mount: (root: HTMLElement): SimController | null => mountGeneratedModuleScene(root, scene),
+          mount: (root: HTMLElement): SimController | null =>
+            mountGeneratedModuleScene(root, scene),
           presets: {
             baseline: scene.defaultPreset,
           },
@@ -132,13 +341,17 @@ export const setupModuleArticles = () => {
   for (const root of roots) {
     const sceneId = root.dataset.simScene
     if (!sceneId) continue
-    const scene = GENERATED_MODULE_SCENE_MAP[sceneId]
+    const scene = INTERACTIVE_MODULE_SCENE_MAP[sceneId]
     if (!scene) continue
 
     applyPresetToRoot(root, scene.defaultPreset, false)
 
     if (scene.pauseGroup) {
       updatePauseButtons(scene.pauseGroup, root.dataset.paused === "true")
+    } else if (
+      scene.controls.some((control) => control.kind === "action" && control.id === "pause-toggle")
+    ) {
+      updateRootPauseButton(root, root.dataset.paused === "true")
     }
 
     const onInput = (event: Event) => {
@@ -160,9 +373,13 @@ export const setupModuleArticles = () => {
       }
 
       const pauseButton = target.closest<HTMLButtonElement>('button[data-control="pause-toggle"]')
-      if (pauseButton && scene.pauseGroup) {
+      if (pauseButton) {
         const paused = root.dataset.paused === "true"
-        updatePauseButtons(scene.pauseGroup, !paused)
+        if (scene.pauseGroup) {
+          updatePauseButtons(scene.pauseGroup, !paused)
+        } else {
+          updateRootPauseButton(root, !paused)
+        }
       }
     }
 
@@ -176,3 +393,5 @@ export const setupModuleArticles = () => {
     })
   }
 }
+
+export const getModuleResetEventName = () => MODULE_RESET_EVENT

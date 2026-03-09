@@ -22,7 +22,11 @@ import {
   type SceneDefinition,
   type SimController,
 } from "./interactive/storyRuntime"
-import { buildGeneratedSceneRegistry, setupModuleArticles } from "./interactive/moduleRuntime"
+import {
+  buildGeneratedSceneRegistry,
+  ensureModuleSceneShell,
+  setupModuleArticles,
+} from "./interactive/moduleRuntime"
 
 const DEG = Math.PI / 180
 
@@ -3390,6 +3394,7 @@ const setupInteractiveSims = () => {
   const mounted: SimController[] = []
   const nodes = document.querySelectorAll<HTMLElement>(".interactive-sim[data-sim-scene]")
   for (const root of nodes) {
+    ensureModuleSceneShell(root)
     setupRangeOutputs(root)
     const controller = mountByScene(root)
     if (controller) mounted.push(controller)

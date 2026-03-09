@@ -110,6 +110,60 @@ article.external-canvas-note,
     margin: 1.4rem 0 1.75rem;
   }
 
+  .interactive-narrative {
+    display: grid;
+    gap: 1.35rem;
+  }
+
+  .interactive-embed-grid {
+    display: grid;
+    gap: 1rem;
+    margin: 1rem 0 1.4rem;
+  }
+
+  .interactive-embed-grid[data-columns="2"] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .interactive-embed-grid[data-columns="3"] {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .interactive-embed {
+    margin: 0;
+    display: grid;
+    gap: 0.55rem;
+  }
+
+  .interactive-embed > .interactive-sim {
+    margin: 0;
+  }
+
+  .interactive-embed figcaption {
+    color: var(--darkgray);
+    font-size: 0.93rem;
+    line-height: 1.55;
+  }
+
+  .interactive-sim--compact .interactive-sim-stage.stage-medium {
+    min-height: 38vh;
+  }
+
+  .interactive-sim--compact .interactive-sim-stage.stage-short {
+    min-height: 32vh;
+  }
+
+  .interactive-narrative-callout {
+    padding: 0.95rem 1rem;
+    border-radius: 12px;
+    border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
+    background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
+  }
+
+  .interactive-narrative-callout p {
+    margin: 0;
+  }
+
   .interactive-story {
     display: grid;
     grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
@@ -339,6 +393,11 @@ article.external-canvas-note,
 
   @media all and (max-width: 800px) {
     .interactive-story {
+      grid-template-columns: 1fr;
+    }
+
+    .interactive-embed-grid[data-columns="2"],
+    .interactive-embed-grid[data-columns="3"] {
       grid-template-columns: 1fr;
     }
 

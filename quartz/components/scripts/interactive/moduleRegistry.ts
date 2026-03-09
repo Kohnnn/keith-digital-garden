@@ -31,6 +31,8 @@ export type ModuleControlDefinition =
 
 export type ModuleSceneLayout = "inline" | "chart" | "compare" | "sticky" | "note"
 
+export type ModuleResetScope = "module" | "shared" | "pause-group"
+
 export type ModuleSceneDescriptor = {
   sceneId: string
   articleId: string
@@ -48,6 +50,9 @@ export type ModuleSceneDescriptor = {
   noteOnly: boolean
   controls: ModuleControlDefinition[]
   defaultPreset: Record<string, boolean | number | string>
+  implementationKey?: string
+  proseAnchor?: string
+  resetScope?: ModuleResetScope
   sharedGroup?: string
   pauseGroup?: string
   gestures: string[]
@@ -66,7 +71,9 @@ export type InteractiveArticleDescriptor = {
 
 export const buildModuleSceneMap = (articles: InteractiveArticleDescriptor[]) =>
   Object.fromEntries(
-    articles.flatMap((article) => article.modules.map((module) => [module.sceneId, module] as const)),
+    articles.flatMap((article) =>
+      article.modules.map((module) => [module.sceneId, module] as const),
+    ),
   ) as Record<string, ModuleSceneDescriptor>
 
 export const getArticleModuleCount = (article: InteractiveArticleDescriptor) =>

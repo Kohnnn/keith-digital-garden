@@ -117,7 +117,7 @@ This page indexes the writing surfaces that sit closest to the operating workflo
 - Interactive notes are kept because they show how I think through systems, not just what I trade or model.
 - `Notes/*` now replaces the old `Portfolio/Stuffs/*` path, with redirects preserved for old links.
 
-## Links
+## See also
 
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio|Portfolio hub]]

@@ -65,26 +65,67 @@ Skills are grouped by work output rather than by software category.
 
 ## Languages and tools
 
-- Data and analysis: R, SQL, Stata
-- Visualization: Tableau, Power BI, Looker Studio
-- Productivity and modeling: advanced Excel, VBA, structured templates
-- Automation: Python scripting, AI-agent-assisted monitoring, browser and webhook workflows
+<div class="portfolio-matrix">
+  <div class="matrix-card">
+    <strong>Data and analysis</strong>
+    <p>R, SQL, and Stata for research queries, diagnostics, and structured evidence checks.</p>
+  </div>
+  <div class="matrix-card">
+    <strong>Visualization</strong>
+    <p>Tableau, Power BI, and Looker Studio for decision surfaces and reporting cadence.</p>
+  </div>
+  <div class="matrix-card">
+    <strong>Modeling and productivity</strong>
+    <p>Advanced Excel, VBA, and structured templates for valuation and assumption hygiene.</p>
+  </div>
+  <div class="matrix-card">
+    <strong>Automation stack</strong>
+    <p>Python, browser workflows, and webhooks for monitoring and recurring research ops.</p>
+  </div>
+</div>
 
 ## Credentials
 
-- CFA Level I candidate
+<div class="signal-grid">
+  <div class="signal-card">
+    <div class="signal-label">Credential track</div>
+    <p>CFA Level I candidate.</p>
+  </div>
+</div>
 
 ## Language
 
-- Vietnamese (native)
-- English (fluent)
+<div class="signal-grid">
+  <div class="signal-card">
+    <div class="signal-label">Vietnamese</div>
+    <p>Native.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">English</div>
+    <p>Fluent.</p>
+  </div>
+</div>
 
 ## What these skills are used for
 
-- Financial modeling -> faster valuation updates and cleaner sensitivity checks
-- Data workflows -> lower research latency and fewer manual handoff errors
-- Dashboarding -> faster signal triage and better communication of market state
-- Automation -> less manual monitoring and more consistent analyst output cadence
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Financial modeling</strong>
+    Faster valuation refreshes and cleaner sensitivity checks.
+  </div>
+  <div class="decision-card">
+    <strong>Data workflows</strong>
+    Lower research latency and fewer manual handoff errors.
+  </div>
+  <div class="decision-card">
+    <strong>Dashboarding</strong>
+    Better signal triage and clearer market-state communication.
+  </div>
+  <div class="decision-card">
+    <strong>Automation</strong>
+    Reduced monitoring drag with steadier output cadence.
+  </div>
+</div>
 
 ## See also
 

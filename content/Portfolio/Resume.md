@@ -13,6 +13,23 @@ cssclasses: [portfolio-page]
 
 Selected experience, rewritten for scan speed and evidence instead of CV density.
 
+## How to read this page
+
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">Format</span>
+    <p>Each role highlights scope, proof points, and measurable operating impact.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Lens</span>
+    <p>Focus on research quality, decision-system design, and automation leverage.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Best cross-check</span>
+    <p>Pair this with [[Portfolio/Projects|Casefiles]] for build-level implementation detail.</p>
+  </div>
+</div>
+
 ## Snapshot
 
 <div class="casefile-summary">
@@ -56,10 +73,10 @@ Selected experience, rewritten for scan speed and evidence instead of CV density
       </div>
     </div>
     <ul>
-      <li>Conduct bottom-up research and support investment recommendations across five listed consumer companies with the senior analyst.</li>
-      <li>Refresh models and quarterly updates for active coverage, with emphasis on clean assumption tracking and fast turnaround.</li>
-      <li>Attend AGMs and earnings calls, convert management commentary into decision-relevant updates, and summarize takeaways for institutional workflows.</li>
-      <li>Automated three research workflows, including an AI vision monitor that tracks corporate updates across an 80-company universe.</li>
+      <li>Supported bottom-up research and recommendation workflows across five listed consumer names.</li>
+      <li>Refreshed coverage models and quarterly updates with strict assumption-tracking discipline.</li>
+      <li>Converted AGM and earnings-call commentary into decision-relevant updates for institutional workflows.</li>
+      <li>Automated three recurring research workflows, including an AI vision monitor for an 80-company universe.</li>
     </ul>
     <p><strong>Impact:</strong> lower monitoring time, faster update cycles, and more consistent research hygiene during earnings-heavy periods.</p>
   </section>
@@ -83,9 +100,9 @@ Selected experience, rewritten for scan speed and evidence instead of CV density
       </div>
     </div>
     <ul>
-      <li>Built a personal crypto and macro workflow around cycle analysis, on-chain research, and scenario-driven portfolio review.</li>
+      <li>Built a personal macro and crypto process around cycle analysis, on-chain context, and scenario review.</li>
       <li>Used dashboards, market memos, and risk checkpoints to separate structural signals from narrative noise.</li>
-      <li>This period produced the foundations for the market cycle playbook, crypto dashboard, and several current tooling projects.</li>
+      <li>Established the base architecture for the market cycle playbook, crypto dashboard, and current tooling projects.</li>
     </ul>
   </section>
 
@@ -108,9 +125,9 @@ Selected experience, rewritten for scan speed and evidence instead of CV density
       </div>
     </div>
     <ul>
-      <li>Performed comparable valuation of mortgage collateral using historical residential price data.</li>
-      <li>Ran financial statement analysis to support internal credit rating work.</li>
-      <li>Standardized records for 100+ borrowers and automated repetitive data-entry steps with VBA.</li>
+      <li>Performed mortgage-collateral comp analysis using historical residential price datasets.</li>
+      <li>Supported internal credit-rating reviews with financial statement analysis.</li>
+      <li>Standardized records for 100+ borrowers and automated repetitive data-entry flows with VBA.</li>
     </ul>
     <p><strong>Impact:</strong> improved data consistency and reduced manual processing load.</p>
   </section>
@@ -134,9 +151,9 @@ Selected experience, rewritten for scan speed and evidence instead of CV density
       </div>
     </div>
     <ul>
-      <li>Researched search intensity and stock volatility in Vietnam.</li>
-      <li>Crawled Twitter data in R, linked it to Bitcoin and market behavior, and tested alternative-data signals against volatility patterns.</li>
-      <li>Built a geopolitical risk index from Vietnamese news sources and State Bank data scraped with Python.</li>
+      <li>Researched links between search intensity and stock volatility in Vietnam.</li>
+      <li>Crawled Twitter data in R and tested alternative-data signals against Bitcoin and volatility behavior.</li>
+      <li>Built a geopolitical risk index from Vietnamese news and State Bank data scraped with Python.</li>
     </ul>
     <p><strong>Impact:</strong> translated unstructured inputs into testable market signals.</p>
   </section>
@@ -178,9 +195,20 @@ Selected experience, rewritten for scan speed and evidence instead of CV density
 
 ## Production tools
 
-- Research and modeling: Excel, VBA, R, SQL
-- Dashboards and reporting: Tableau, Power BI, Looker Studio
-- Automation and ops: Python-based scripting, AI-agent workflows, browser monitoring, webhook-based automations
+<div class="portfolio-matrix">
+  <div class="matrix-card">
+    <strong>Research and modeling</strong>
+    <p>Excel, VBA, R, SQL.</p>
+  </div>
+  <div class="matrix-card">
+    <strong>Dashboards and reporting</strong>
+    <p>Tableau, Power BI, Looker Studio.</p>
+  </div>
+  <div class="matrix-card">
+    <strong>Automation and ops</strong>
+    <p>Python scripting, AI-agent workflows, browser monitoring, and webhook automations.</p>
+  </div>
+</div>
 
 ## See also
 

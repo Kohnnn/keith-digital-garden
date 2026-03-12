@@ -13,6 +13,29 @@ cssclasses: [portfolio-page, casefile-page]
 
 This page holds the supporting engineering surface behind the main casefiles.
 
+## Problem
+
+- Flagship casefiles show outcomes, but they cannot carry every implementation detail.
+- Supporting repositories were harder to scan without a single index and role-based framing.
+- This page closes that gap by mapping supporting builds to concrete workflow functions.
+
+## Approach
+
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">Purpose</span>
+    <p>Make the engineering layer legible without overloading flagship narratives.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Method</span>
+    <p>Group repositories by workflow role: screening, monitoring, retrieval, publishing.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Usage</span>
+    <p>Use this as the implementation index when a casefile needs deeper technical context.</p>
+  </div>
+</div>
+
 ## Tooling clusters
 
 <div class="repo-grid">
@@ -38,11 +61,37 @@ This page holds the supporting engineering surface behind the main casefiles.
   </div>
 </div>
 
-## Why it exists
+## What this evidence supports
+
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Operational depth</strong>
+    Demonstrates recurring implementation habits behind research outputs.
+  </div>
+  <div class="decision-card">
+    <strong>System thinking</strong>
+    Shows how tooling pieces connect to one working research pipeline.
+  </div>
+  <div class="decision-card">
+    <strong>Reusability</strong>
+    Confirms outputs are built as reusable systems, not one-off experiments.
+  </div>
+  <div class="decision-card">
+    <strong>Portfolio coherence</strong>
+    Keeps finance and tooling narratives aligned across casefiles.
+  </div>
+</div>
+
+## Outcomes
 
 - The flagship pages show end-to-end outcomes.
 - These supporting repos show the implementation habits underneath them.
 - Together they make the portfolio more legible as finance plus tooling, not finance or tooling.
+
+## Next iteration
+
+- Add short architecture snapshots for each cluster.
+- Add stronger cross-links into relevant sections of flagship casefiles.
 
 ## See also
 

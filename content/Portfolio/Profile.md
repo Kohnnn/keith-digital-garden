@@ -11,8 +11,11 @@ cssclasses: [portfolio-page]
 
 # Profile
 
-A finance-first operator who also builds the tooling around the work.
-The common thread is decision support: make the research loop faster, make the assumptions easier to inspect, and keep risk explicit.
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Operating profile</p>
+  <h2>Finance-first operator who builds the systems around the work.</h2>
+  <p>The throughline is decision support: faster research loops, inspectable assumptions, and explicit risk framing.</p>
+</div>
 
 ## Snapshot
 
@@ -75,10 +78,28 @@ The common thread is decision support: make the research loop faster, make the a
 
 ## Operating areas
 
-- Faster earnings-monitoring loops with AI agents and structured templates
-- Better signal hygiene between macro liquidity, on-chain metrics, and positioning
-- More useful finance products for Vietnamese investors and research teams
-- Cleaner translation from raw research into reviewable outputs
+<div class="writing-grid">
+  <div class="writing-card">
+    <span class="casefile-label">Coverage ops</span>
+    <h3>Earnings monitoring loops</h3>
+    <p>Faster update cycles through structured templates and AI-assisted monitoring.</p>
+  </div>
+  <div class="writing-card">
+    <span class="casefile-label">Signal quality</span>
+    <h3>Macro-to-positioning hygiene</h3>
+    <p>Cleaner linkage between liquidity context, on-chain metrics, and sizing decisions.</p>
+  </div>
+  <div class="writing-card">
+    <span class="casefile-label">Product lens</span>
+    <h3>Vietnam-market tools</h3>
+    <p>Investor-facing products that make local-market analysis easier to run and explain.</p>
+  </div>
+  <div class="writing-card">
+    <span class="casefile-label">Communication</span>
+    <h3>Reviewable outputs</h3>
+    <p>Convert raw research into memos, dashboards, and casefiles that stand up to review.</p>
+  </div>
+</div>
 
 ## Institutional footprint
 

@@ -4,14 +4,18 @@ tags: [portfolio, research, writing]
 draft: false
 description: Writing index for market memos, frameworks, and selected note labs.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Blog]
 cssclasses: [portfolio-page, research-notes]
 ---
 
 # Research Notes
 
-This page indexes the writing surfaces that sit closest to the operating workflow: weekly market context, framework notes, and selected interactive labs.
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Research notes shelf</p>
+  <h2>Writing surfaces that turn weekly observation, frameworks, and explainers into a visible operating record.</h2>
+  <p>This is the narrative layer behind the dashboards and casefiles: recurring market memos, standing frameworks, and note labs that show how concepts get clarified and reused.</p>
+</div>
 
 ## Writing system
 

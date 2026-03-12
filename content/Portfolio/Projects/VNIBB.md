@@ -4,13 +4,13 @@ tags: [portfolio, project, product, finance]
 draft: false
 description: Flagship finance product casefile for a Vietnam-first analytics platform.
 created: 2026-03-06
-updated: 2026-03-06
+updated: 2026-03-12
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # VNIBB
 
-VNIBB is the clearest expression of the portfolio direction: a Vietnam-first financial analytics platform built like a product, not just a notebook.
+Flagship casefile for a Vietnam-first financial analytics platform built like a product, not just a notebook.
 
 <div class="proof-strip">
   <div class="proof-card">

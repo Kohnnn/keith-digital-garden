@@ -4,7 +4,7 @@ tags: [portfolio, profile, finance]
 draft: false
 description: Role focus, domain coverage, and operating style.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Profile]
 cssclasses: [portfolio-page]
 ---
@@ -12,9 +12,9 @@ cssclasses: [portfolio-page]
 # Profile
 
 <div class="kitchen-hero">
-  <p class="kitchen-eyebrow">Operating profile</p>
-  <h2>Finance-first operator who builds the systems around the work.</h2>
-  <p>The throughline is decision support: faster research loops, inspectable assumptions, and explicit risk framing.</p>
+  <p class="kitchen-eyebrow">Role-fit map</p>
+  <h2>Finance-first operator who builds the systems, dashboards, and documentation around the work.</h2>
+  <p>This page maps the portfolio fit: domains, working style, and the research environments where the edge compounds most cleanly.</p>
 </div>
 
 ## Snapshot

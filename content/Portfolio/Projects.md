@@ -4,7 +4,7 @@ tags: [portfolio, projects]
 draft: false
 description: Case study index for finance, data, and automation projects.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Projects]
 cssclasses: [portfolio-page]
 ---
@@ -12,9 +12,9 @@ cssclasses: [portfolio-page]
 # Casefiles
 
 <div class="kitchen-hero">
-  <p class="kitchen-eyebrow">Flagship builds</p>
-  <h2>Casefiles that connect finance judgment, product execution, and research infrastructure.</h2>
-  <p>Start with VNIBB if you want the broadest proof. Move to the dashboard, cycle playbook, and option-pricing work if you want to inspect specific reasoning surfaces.</p>
+  <p class="kitchen-eyebrow">Casefile shelf</p>
+  <h2>Flagship builds that turn finance judgment into products, dashboards, and reusable research systems.</h2>
+  <p>Start with VNIBB for the broadest proof. Then move into the dashboard, playbook, option-pricing toolkit, and automation stack depending on which layer of the work you want to inspect.</p>
 </div>
 
 ## Portfolio lens
@@ -22,7 +22,7 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">North star</span>
-    <p>Finance work that becomes more legible, faster to update, and easier to inspect through tooling.</p>
+    <p>Finance work that becomes more legible, faster to update, and easier to inspect because the surface is deliberately designed.</p>
   </div>
   <div>
     <span class="casefile-label">Primary arc</span>
@@ -30,7 +30,7 @@ cssclasses: [portfolio-page]
   </div>
   <div>
     <span class="casefile-label">What stands out</span>
-    <p>The combination of analyst judgment, product thinking, and implementation detail.</p>
+    <p>The combination of analyst judgment, product thinking, and implementation detail inside the same proof set.</p>
   </div>
 </div>
 

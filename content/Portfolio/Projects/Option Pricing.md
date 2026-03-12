@@ -4,13 +4,13 @@ tags: [portfolio, project, finance, derivatives]
 draft: false
 description: Case study note on Black-Scholes assumptions and practical extensions.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # Option Pricing
 
-A practical derivatives toolkit that moves from baseline valuation to richer volatility and jump assumptions.
+Quant casefile for a derivatives toolkit that moves from baseline valuation to richer volatility and jump assumptions.
 
 <div class="proof-strip">
   <div class="proof-card">

@@ -4,14 +4,18 @@ tags: [portfolio, contact]
 draft: false
 description: Contact channels and collaboration preferences.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Contact]
 cssclasses: [portfolio-page]
 ---
 
 # Contact
 
-Open to conversations around research analyst, quant research, and portfolio strategy roles where finance judgment and tooling both matter.
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Contact lane</p>
+  <h2>Open to roles and collaborations where finance judgment and tooling both matter.</h2>
+  <p>Best fit is research analyst, quant-adjacent research, or finance-product work with explicit review loops, measurable output, and room to build better systems.</p>
+</div>
 
 ## Contact lanes
 

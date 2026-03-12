@@ -4,14 +4,32 @@ tags: [portfolio, project, documentation]
 draft: false
 description: Secondary tooling index for supporting documentation and engineering-adjacent builds.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Tech Docs]
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # Tech Docs Index
 
-This page holds the supporting engineering surface behind the main casefiles.
+Support shelf for the engineering layer behind the flagship casefiles.
+
+<div class="proof-strip">
+  <div class="proof-card">
+    <span class="proof-label">Purpose</span>
+    <strong>Implementation depth without clutter</strong>
+    <p>It keeps the flagship narratives clean while still exposing the technical scaffolding underneath them.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Clusters</span>
+    <strong>Screening, monitoring, retrieval, publishing</strong>
+    <p>The repos are grouped by workflow role so the supporting system reads like one desk, not a random list.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Use</span>
+    <strong>Cross-check casefiles with code</strong>
+    <p>Use this page when you want the implementation index behind VNIBB, the automation stack, or the monitoring workflows.</p>
+  </div>
+</div>
 
 ## Problem
 

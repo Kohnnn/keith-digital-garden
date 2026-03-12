@@ -4,13 +4,31 @@ tags: [portfolio, project, ai]
 draft: false
 description: Case study on AI-agent workflows for research automation.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # AI Agents Development
 
-A set of open workflows for turning research intake, monitoring, and retrieval into faster analyst operations.
+Automation casefile for turning research intake, monitoring, and retrieval into faster analyst operations.
+
+<div class="proof-strip">
+  <div class="proof-card">
+    <span class="proof-label">Workflow</span>
+    <strong>Research ops over novelty</strong>
+    <p>Designed to reduce analyst drag, not to chase full autonomy for its own sake.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Guardrail</span>
+    <strong>Human review stays in the loop</strong>
+    <p>Every investment-facing output keeps an explicit gate before it leaves the system.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Surface</span>
+    <strong>Retrieval, monitoring, publishing</strong>
+    <p>The stack is useful because it connects recurring tasks instead of solving a single isolated prompt.</p>
+  </div>
+</div>
 
 ## Summary
 

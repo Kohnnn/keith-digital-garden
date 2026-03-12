@@ -4,14 +4,32 @@ tags: [portfolio, project, crypto, strategy]
 draft: false
 description: Case study on a cycle-driven crypto positioning framework.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Investment Strategy]
 cssclasses: [portfolio-page, casefile-page, market-report]
 ---
 
 # Market Cycle Playbook
 
-A regime-based framework for navigating crypto cycles with explicit phase logic, sizing rules, and review discipline.
+Framework casefile for navigating crypto cycles with explicit phase logic, sizing rules, and review discipline.
+
+<div class="proof-strip">
+  <div class="proof-card">
+    <span class="proof-label">Framework</span>
+    <strong>Four visible phases</strong>
+    <p>The market is framed as a cycle map so timing and posture are explicit from the start.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Risk</span>
+    <strong>Positioning starts with invalidation</strong>
+    <p>Sizing rules and review cadence matter more than conviction-heavy storytelling.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Reuse</span>
+    <strong>Linked to the dashboard loop</strong>
+    <p>The playbook is built to feed directly into recurring dashboard reads and memo updates.</p>
+  </div>
+</div>
 
 ## Summary
 

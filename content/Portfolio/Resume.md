@@ -4,14 +4,18 @@ tags: [portfolio, resume]
 draft: false
 description: Experience timeline with measurable impact.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Resume]
 cssclasses: [portfolio-page]
 ---
 
 # Experience Log
 
-Selected experience, rewritten for scan speed and evidence instead of CV density.
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Operating log</p>
+  <h2>Roles, proof points, and working habits behind the portfolio surface.</h2>
+  <p>This is the timeline view of the portfolio: where the research muscle, automation bias, and documentation habits were built and tested in real work.</p>
+</div>
 
 ## How to read this page
 

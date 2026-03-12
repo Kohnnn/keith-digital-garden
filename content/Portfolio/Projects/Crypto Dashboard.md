@@ -4,13 +4,31 @@ tags: [portfolio, project, crypto, dashboard]
 draft: false
 description: Case study on cycle-aware crypto dashboards and signal monitoring.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 cssclasses: [portfolio-page, casefile-page, market-report]
 ---
 
 # Crypto Dashboard
 
-A dashboard suite for tracking cycle context, liquidity pressure, and market-state transitions in one review surface.
+A casefile for the desk surface used to track cycle context, liquidity pressure, and market-state transitions in one review loop.
+
+<div class="proof-strip">
+  <div class="proof-card">
+    <span class="proof-label">Cadence</span>
+    <strong>Weekly and monthly review surface</strong>
+    <p>Built for recurring state checks instead of one-off chart snapshots.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Lens</span>
+    <strong>Structure over noise</strong>
+    <p>The dashboard is organized to separate regime change from local volatility.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Reuse</span>
+    <strong>Memo-linked output</strong>
+    <p>Reads can be folded straight back into the playbook, watchlists, and market reports.</p>
+  </div>
+</div>
 
 ## Summary
 

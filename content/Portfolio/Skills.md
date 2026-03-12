@@ -4,14 +4,18 @@ tags: [portfolio, skills]
 draft: false
 description: Competencies mapped by domain and practical usage level.
 created: 2026-01-30
-updated: 2026-03-06
+updated: 2026-03-12
 aliases: [Skills]
 cssclasses: [portfolio-page]
 ---
 
 # Skills
 
-Skills are grouped by work output rather than by software category.
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Capability shelf</p>
+  <h2>Skills grouped by the work they unlock, not by software brand names.</h2>
+  <p>The mix is deliberate: finance judgment, modeling depth, dashboard communication, and automation that reduces research friction.</p>
+</div>
 
 ## Capability map
 

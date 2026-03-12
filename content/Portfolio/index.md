@@ -4,50 +4,64 @@ tags: [portfolio, hub]
 draft: false
 description: Hiring-facing overview of Keith Vo's finance, research, and tooling work.
 created: 2026-01-30
-updated: 2026-03-07
+updated: 2026-03-12
 aliases: [portfolio, Portfolio/Portfolio]
 cssclasses: [portfolio-page]
 ---
 
 # Portfolio
 
-<div class="portfolio-hero with-portrait">
-  <div class="portfolio-hero-copy">
-    <p class="kitchen-eyebrow">Equity research, crypto market structure, and research automation</p>
-    <h2>Keith Vo builds analyst workflows for markets, models, and decision systems.</h2>
-    <p>Currently working in sell-side research at Vietcap Securities, with a portfolio that combines consumer equity coverage, crypto regime work, and automation-heavy tooling.</p>
-    <div class="kitchen-cta-row">
-      <a class="kitchen-cta primary" href="./Projects">View casefiles</a>
-      <a class="kitchen-cta" href="./Resume">Review experience</a>
-      <a class="kitchen-cta" href="./Blog">Research notes</a>
-      <a class="kitchen-cta" href="./Contact">Contact</a>
-    </div>
-  </div>
-  <div class="portrait-placeholder" aria-label="Portrait placeholder">
-    <span class="portrait-label">Portrait slot</span>
-    <strong>Drop photo here later</strong>
-    <p>Use this area for a headshot or an editorial portrait once you are ready.</p>
+<div class="kitchen-hero">
+  <p class="kitchen-eyebrow">Portfolio dashboard</p>
+  <h2>Finance research plus product systems for faster, cleaner decisions.</h2>
+  <p>Current focus: consumer equity coverage, crypto market-structure diagnostics, and automation workflows that improve analyst throughput.</p>
+  <div class="kitchen-cta-row">
+    <a class="kitchen-cta primary" href="./Projects">View casefiles</a>
+    <a class="kitchen-cta" href="./Resume">Experience log</a>
+    <a class="kitchen-cta" href="./Blog">Research notes</a>
+    <a class="kitchen-cta" href="./Contact">Contact</a>
   </div>
 </div>
 
-## Quick read
+## Snapshot
 
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Current seat</span>
-    <p>Sell-side research intern at Vietcap, supporting consumer coverage and update workflows.</p>
+    <p>Sell-side research intern at Vietcap, supporting consumer coverage and earnings updates.</p>
   </div>
   <div>
-    <span class="casefile-label">Best fit</span>
-    <p>Research, quant-adjacent, and product-minded finance roles where tooling improves decision quality.</p>
+    <span class="casefile-label">Target fit</span>
+    <p>Research and quant-adjacent roles where tooling improves decision quality.</p>
   </div>
   <div>
     <span class="casefile-label">Operating edge</span>
-    <p>Finance judgment plus dashboards, automation, and public documentation that make the work easier to inspect.</p>
+    <p>Finance judgment plus dashboards, automation, and reviewable documentation.</p>
   </div>
 </div>
 
-## Selected proof
+## Dashboard loop
+
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Observe</strong>
+    Track market state with structured dashboards and recurring memo flows.
+  </div>
+  <div class="decision-card">
+    <strong>Interpret</strong>
+    Convert raw data into explicit thesis, risk framing, and decision cues.
+  </div>
+  <div class="decision-card">
+    <strong>Build</strong>
+    Ship product surfaces and automation that reduce research cycle time.
+  </div>
+  <div class="decision-card">
+    <strong>Reuse</strong>
+    Feed outputs back into casefiles, review logs, and future positioning.
+  </div>
+</div>
+
+## Proof grid
 
 <div class="proof-strip" role="list" aria-label="Selected proof points">
   <div class="proof-card" role="listitem">
@@ -68,57 +82,57 @@ cssclasses: [portfolio-page]
   <div class="proof-card" role="listitem">
     <span class="proof-label">Stack</span>
     <strong>Finance plus product</strong>
-    <p>Valuation, dashboards, option models, data workflows, and front-end delivery in one working set.</p>
+    <p>Valuation, dashboards, option models, and workflow automation in one working set.</p>
   </div>
 </div>
 
-## Start here
+## Start lanes
 
 <div class="writing-grid">
   <a class="writing-card" href="./Projects">
-    <span class="casefile-label">Best first stop</span>
+    <span class="casefile-label">Primary route</span>
     <h3>Casefiles</h3>
-    <p>Flagship builds like VNIBB, the crypto dashboard, the market cycle playbook, and option pricing.</p>
+    <p>Flagship builds: VNIBB, crypto dashboard, cycle playbook, and option pricing.</p>
   </a>
   <a class="writing-card" href="./Resume">
     <span class="casefile-label">Experience</span>
     <h3>Experience log</h3>
-    <p>Vietcap coverage work, BIDV workflow support, and UEH research with clearer proof points than a CV.</p>
+    <p>Vietcap, BIDV, and UEH experience rewritten for scan speed and evidence.</p>
   </a>
   <a class="writing-card" href="./Blog">
     <span class="casefile-label">Writing</span>
     <h3>Research notes</h3>
-    <p>Weekly market writing, frameworks, and selected interactive note labs that support the portfolio work.</p>
+    <p>Weekly market writing, framework notes, and selected interactive explainers.</p>
   </a>
-  <a class="writing-card" href="./Skills">
-    <span class="casefile-label">Tooling</span>
-    <h3>Skills and stack</h3>
-    <p>How the research, dashboard, automation, and communication layers fit together in practice.</p>
+  <a class="writing-card" href="./Contact">
+    <span class="casefile-label">Hiring route</span>
+    <h3>Contact</h3>
+    <p>Best channel, role-fit context, and collaboration preferences.</p>
   </a>
 </div>
 
-## What the portfolio covers
+## Capability grid
 
-<div class="portfolio-route-grid">
-  <div class="writing-card">
-    <span class="casefile-label">Equity research</span>
-    <p>Bottom-up consumer work, earnings updates, assumption tracking, and recommendation support.</p>
+<div class="portfolio-matrix">
+  <div class="matrix-card">
+    <strong>Equity research</strong>
+    <p>Bottom-up consumer analysis, model maintenance, and recommendation support.</p>
   </div>
-  <div class="writing-card">
-    <span class="casefile-label">Market systems</span>
-    <p>Crypto regime mapping, signal triage, and dashboard surfaces for repeatable review loops.</p>
+  <div class="matrix-card">
+    <strong>Market systems</strong>
+    <p>Crypto regime logic, signal triage, and dashboard-led review cadence.</p>
   </div>
-  <div class="writing-card">
-    <span class="casefile-label">Product thinking</span>
-    <p>Interfaces and tools that make research output more legible, faster to update, and easier to reuse.</p>
+  <div class="matrix-card">
+    <strong>Product thinking</strong>
+    <p>Research surfaces designed for legibility, reuse, and faster updates.</p>
   </div>
-  <div class="writing-card">
-    <span class="casefile-label">Automation</span>
-    <p>Monitoring, retrieval, and workflow tooling that reduce manual research overhead without removing human review.</p>
+  <div class="matrix-card">
+    <strong>Automation</strong>
+    <p>Monitoring and retrieval workflows that reduce manual research overhead.</p>
   </div>
 </div>
 
-## Portfolio map
+## See also
 
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio/Profile|Profile]]
@@ -126,9 +140,3 @@ cssclasses: [portfolio-page]
 - [[Portfolio/Skills|Skills]]
 - [[Portfolio/Blog|Research notes]]
 - [[Portfolio/Contact|Contact]]
-
-## Related
-
-- [[index|Home]]
-- [[notes|Notes]]
-- [[Start Here]]

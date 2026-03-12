@@ -1454,11 +1454,13 @@ article.portfolio-hub,
   .portfolio-route-card {
     display: flex;
     flex-direction: column;
-    gap: 0.65rem;
-    padding: 1rem 1.05rem;
+    align-items: flex-start;
+    gap: 0.6rem;
+    min-width: 0;
+    padding: 1.05rem 1.1rem 1rem;
     border-radius: 20px;
     color: var(--dark);
-    text-decoration: none;
+    text-decoration: none !important;
     background: linear-gradient(
       165deg,
       color-mix(in srgb, var(--light) 92%, var(--secondary) 8%),
@@ -1470,48 +1472,109 @@ article.portfolio-hub,
       box-shadow 180ms ease;
   }
 
+  .portfolio-route-card.internal,
+  .portfolio-route-card :is(span, p, li) {
+    text-decoration: none !important;
+  }
+
   .portfolio-route-card:hover {
     transform: translateY(-2px);
     border-color: color-mix(in srgb, var(--secondary) 38%, var(--lightgray) 62%);
     box-shadow: 0 22px 42px rgba(23, 27, 35, 0.11);
   }
 
-  .portfolio-route-card--wide {
-    grid-column: span 6;
-  }
-
-  .portfolio-route-card--deep {
+  .portfolio-route-card--primary {
     grid-column: span 7;
+    min-height: 100%;
+    padding: 1.15rem 1.15rem 1.05rem;
+    background:
+      radial-gradient(
+        130% 170% at 100% 0%,
+        color-mix(in srgb, var(--secondary) 18%, transparent 82%) 0%,
+        transparent 52%
+      ),
+      linear-gradient(
+        165deg,
+        color-mix(in srgb, var(--light) 91%, var(--secondary) 9%),
+        color-mix(in srgb, var(--light) 98%, var(--tertiary) 2%)
+      );
   }
 
-  .portfolio-route-card--compact {
+  .portfolio-route-stack {
     grid-column: span 5;
+    display: grid;
+    gap: 0.75rem;
+    align-content: start;
+    min-width: 0;
   }
 
-  .portfolio-route-step,
+  .portfolio-route-card--secondary {
+    min-height: 0;
+    padding: 0.95rem 1rem;
+  }
+
+  .portfolio-route-kicker,
   .portfolio-loop-step {
     display: inline-flex;
     align-items: center;
     justify-content: center;
     font-family: var(--codeFont);
-    font-size: 0.72rem;
+    font-size: 0.7rem;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--gray);
   }
 
-  .portfolio-route-card h3 {
+  .portfolio-route-title {
+    display: block;
     margin: 0;
-    font-size: 1.22rem;
-    line-height: 1.08;
-    overflow-wrap: anywhere;
+    max-width: 14ch;
+    font-family: var(--titleFont);
+    font-size: 1.18rem;
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    color: var(--dark);
+    text-wrap: balance;
+  }
+
+  .portfolio-route-card--primary .portfolio-route-title {
+    max-width: 9ch;
+    font-size: clamp(1.95rem, 3.8vw, 2.55rem);
+    line-height: 0.92;
   }
 
   .portfolio-route-card p {
     margin: 0;
-    font-size: 0.95rem;
-    line-height: 1.55;
+    max-width: 40ch;
+    font-size: 0.93rem;
+    line-height: 1.52;
     color: var(--darkgray);
+    text-wrap: pretty;
+  }
+
+  .portfolio-route-card--secondary p {
+    max-width: 32ch;
+  }
+
+  .portfolio-route-points {
+    list-style: none;
+    padding: 0;
+    margin: 0.15rem 0 0;
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  .portfolio-route-points li {
+    padding-top: 0.5rem;
+    border-top: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: var(--darkgray);
+  }
+
+  .portfolio-route-points li:first-child {
+    padding-top: 0;
+    border-top: none;
   }
 
   .portfolio-chip-row {
@@ -1534,6 +1597,19 @@ article.portfolio-hub,
     line-height: 1.35;
     color: var(--gray);
     overflow-wrap: anywhere;
+  }
+
+  .portfolio-route-meta {
+    display: inline-flex;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 0.15rem;
+    font-family: var(--codeFont);
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    line-height: 1.45;
+    text-transform: uppercase;
+    color: var(--gray);
   }
 
   .portfolio-loop-card {
@@ -2185,12 +2261,10 @@ article.external-canvas-note,
   .portfolio-hub article .portfolio-status-tile--seat,
   article.portfolio-hub .portfolio-status-tile--focus,
   .portfolio-hub article .portfolio-status-tile--focus,
-  article.portfolio-hub .portfolio-route-card--wide,
-  .portfolio-hub article .portfolio-route-card--wide,
-  article.portfolio-hub .portfolio-route-card--deep,
-  .portfolio-hub article .portfolio-route-card--deep,
-  article.portfolio-hub .portfolio-route-card--compact,
-  .portfolio-hub article .portfolio-route-card--compact {
+  article.portfolio-hub .portfolio-route-card--primary,
+  .portfolio-hub article .portfolio-route-card--primary,
+  article.portfolio-hub .portfolio-route-stack,
+  .portfolio-hub article .portfolio-route-stack {
     grid-column: span 6;
   }
 
@@ -2231,6 +2305,8 @@ article.external-canvas-note,
   .portfolio-hub article .portfolio-status-tile,
   article.portfolio-hub .portfolio-route-card,
   .portfolio-hub article .portfolio-route-card,
+  article.portfolio-hub .portfolio-route-stack,
+  .portfolio-hub article .portfolio-route-stack,
   article.portfolio-hub .portfolio-loop-card,
   .portfolio-hub article .portfolio-loop-card {
     padding: 0.95rem 1rem;
@@ -2264,6 +2340,7 @@ article.external-canvas-note,
     :is(
       .portfolio-anchor-card,
       .portfolio-status-tile,
+      .portfolio-route-stack,
       .portfolio-route-card,
       .portfolio-loop-card
     ),
@@ -2272,10 +2349,31 @@ article.external-canvas-note,
     :is(
       .portfolio-anchor-card,
       .portfolio-status-tile,
+      .portfolio-route-stack,
       .portfolio-route-card,
       .portfolio-loop-card
     ) {
     grid-column: 1 / -1;
+  }
+
+  article.portfolio-hub .portfolio-route-stack,
+  .portfolio-hub article .portfolio-route-stack {
+    gap: 0.65rem;
+    padding: 0;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  article.portfolio-hub .portfolio-route-card--primary .portfolio-route-title,
+  .portfolio-hub article .portfolio-route-card--primary .portfolio-route-title {
+    max-width: 11ch;
+    font-size: clamp(1.7rem, 8vw, 2.2rem);
+  }
+
+  article.portfolio-hub .portfolio-route-points,
+  .portfolio-hub article .portfolio-route-points {
+    gap: 0.42rem;
   }
 
   .portfolio-page article .proof-strip,

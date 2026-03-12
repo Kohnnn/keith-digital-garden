@@ -4,7 +4,7 @@ tags: [portfolio, hub]
 draft: false
 description: Hiring-facing overview of Keith Vo's finance, research, and tooling work.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [portfolio, Portfolio/Portfolio]
 cssclasses: [portfolio-page, portfolio-hub]
 ---
@@ -52,46 +52,42 @@ cssclasses: [portfolio-page, portfolio-hub]
 ## Route board
 
 <div class="portfolio-route-board">
-  <a class="portfolio-route-card portfolio-route-card--wide" href="./Projects">
-    <span class="portfolio-route-step">Chapter 01</span>
-    <h3>Casefiles</h3>
-    <p>The strongest proof path: products, dashboards, frameworks, and automation surfaces that show how the work is built.</p>
+  <a class="portfolio-route-card portfolio-route-card--primary" href="./Projects">
+    <span class="portfolio-route-kicker">Fast proof path</span>
+    <span class="portfolio-route-title">Casefiles</span>
+    <p>Start here for the clearest proof: finance products, market dashboards, option tools, and research automation built as working surfaces.</p>
+    <ul class="portfolio-route-points">
+      <li>VNIBB shows the product and Vietnam-market angle.</li>
+      <li>Crypto dashboard and cycle playbook show the recurring research loop.</li>
+      <li>Option pricing and AI workflows show quant and automation range.</li>
+    </ul>
     <div class="portfolio-chip-row">
       <span>VNIBB</span>
       <span>Crypto dashboard</span>
       <span>Option pricing</span>
+      <span>AI workflows</span>
     </div>
   </a>
-  <a class="portfolio-route-card portfolio-route-card--wide" href="./Resume">
-    <span class="portfolio-route-step">Chapter 02</span>
-    <h3>Experience log</h3>
-    <p>The institutional timeline behind the portfolio: Vietcap, BIDV, UEH research, and the operating habits that carried forward.</p>
-    <div class="portfolio-chip-row">
-      <span>Coverage</span>
-      <span>Monitoring</span>
-      <span>Impact</span>
-    </div>
-  </a>
-  <a class="portfolio-route-card portfolio-route-card--deep" href="./Blog">
-    <span class="portfolio-route-step">Chapter 03</span>
-    <h3>Research notes</h3>
-    <p>The written operating log: weekly memos, standing frameworks, and interactive notes that show how ideas get clarified and reused.</p>
-    <div class="portfolio-chip-row">
-      <span>Weekly market reports</span>
-      <span>Framework notes</span>
-      <span>Interactive explainers</span>
-    </div>
-  </a>
-  <a class="portfolio-route-card portfolio-route-card--compact" href="./Contact">
-    <span class="portfolio-route-step">Chapter 04</span>
-    <h3>Contact</h3>
-    <p>The fastest path for role fit, collaboration context, and direct outreach.</p>
-    <div class="portfolio-chip-row">
-      <span>Email</span>
-      <span>LinkedIn</span>
-      <span>GMT+7</span>
-    </div>
-  </a>
+  <div class="portfolio-route-stack">
+    <a class="portfolio-route-card portfolio-route-card--secondary" href="./Resume">
+      <span class="portfolio-route-kicker">Timeline</span>
+      <span class="portfolio-route-title">Experience log</span>
+      <p>Vietcap, BIDV, and UEH rewritten as scope, impact, and operating leverage.</p>
+      <span class="portfolio-route-meta">Coverage, monitoring, automation</span>
+    </a>
+    <a class="portfolio-route-card portfolio-route-card--secondary" href="./Blog">
+      <span class="portfolio-route-kicker">Writing layer</span>
+      <span class="portfolio-route-title">Research notes</span>
+      <p>Weekly reports, standing frameworks, and note labs that make the thinking visible.</p>
+      <span class="portfolio-route-meta">Weekly memos, frameworks, explainers</span>
+    </a>
+    <a class="portfolio-route-card portfolio-route-card--secondary" href="./Contact">
+      <span class="portfolio-route-kicker">Direct line</span>
+      <span class="portfolio-route-title">Contact</span>
+      <p>The shortest route for role fit, collaboration context, and outreach.</p>
+      <span class="portfolio-route-meta">Email, LinkedIn, GMT+7</span>
+    </a>
+  </div>
 </div>
 
 ## Support rails

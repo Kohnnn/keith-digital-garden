@@ -2,15 +2,15 @@
 title: Option Pricing
 tags: [portfolio, project, finance, derivatives]
 draft: false
-description: Case study note on Black-Scholes assumptions and practical extensions.
+description: Case study on option-pricing models, Greeks, and practical comparison tools.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # Option Pricing
 
-Quant casefile for a derivatives toolkit that moves from baseline valuation to richer volatility and jump assumptions.
+Quant casefile for a derivatives toolkit that moves from Black-Scholes fundamentals to richer model assumptions and practical scenario checks.
 
 <div class="proof-strip">
   <div class="proof-card">
@@ -21,12 +21,12 @@ Quant casefile for a derivatives toolkit that moves from baseline valuation to r
   <div class="proof-card">
     <span class="proof-label">Output</span>
     <strong>Live Streamlit app</strong>
-    <p>Scenario checks and fast comparisons without opening a notebook.</p>
+    <p>Interactive checks for spot, strike, time, rates, and volatility without opening a notebook.</p>
   </div>
   <div class="proof-card">
     <span class="proof-label">Use case</span>
     <strong>Explainer plus tool</strong>
-    <p>Built to teach, compare assumptions, and support quick review decisions.</p>
+    <p>Built to teach, compare assumptions, and support fast review decisions.</p>
   </div>
 </div>
 
@@ -35,11 +35,11 @@ Quant casefile for a derivatives toolkit that moves from baseline valuation to r
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Role</span>
-    <p>Model builder and explainer</p>
+    <p>Model builder, explainer, and interface designer for a compact derivatives reference.</p>
   </div>
   <div>
     <span class="casefile-label">Stack</span>
-    <p>Python, Streamlit, numerical methods, simulation</p>
+    <p>Python, Streamlit, numerical methods, model comparison, and scenario experimentation.</p>
   </div>
   <div>
     <span class="casefile-label">Demo</span>
@@ -47,11 +47,11 @@ Quant casefile for a derivatives toolkit that moves from baseline valuation to r
   </div>
 </div>
 
-## Problem
+## Why I built it
 
-- Needed a reusable options reference that connects theory to actual trading and risk decisions.
-- Wanted a faster way to compare model assumptions instead of treating Black-Scholes as the only lens.
-- The project became both a learning tool and a live app for scenario checks.
+- Black-Scholes is widely taught, but in practice it is only the entry point for how traders and analysts think about options.
+- I wanted one place to compare baseline assumptions, practical limitations, and richer alternatives without hiding inside theory-only notes.
+- The result became both a learning surface and a quick scenario-check tool.
 
 ## Model comparison
 
@@ -63,28 +63,57 @@ Quant casefile for a derivatives toolkit that moves from baseline valuation to r
 | Heston                | Stochastic volatility context               | More calibration overhead                          |
 | Merton jump diffusion | Gap-risk and jump intuition                 | Added model complexity                             |
 
+## Core inputs
+
+- Spot price
+- Strike price
+- Time to expiration
+- Risk-free rate
+- Volatility
+
 ## Greeks in practice
 
 <div class="confidence-grid">
   <div class="confidence-card">
     <strong>Delta</strong>
-    <p>Directional exposure and hedge intuition.</p>
+    <p>Sensitivity to underlying-price changes and the simplest read on directional exposure.</p>
   </div>
   <div class="confidence-card">
     <strong>Gamma</strong>
-    <p>Convexity and how quickly delta can change.</p>
+    <p>How quickly delta changes as the underlying moves, which matters for convexity and hedge stability.</p>
   </div>
   <div class="confidence-card">
     <strong>Theta</strong>
-    <p>Time decay and the cost of waiting.</p>
+    <p>Time decay and the cost of waiting while an option position remains open.</p>
   </div>
   <div class="confidence-card">
     <strong>Vega</strong>
-    <p>Sensitivity to volatility repricing.</p>
+    <p>Sensitivity to volatility changes and how repricing can move the option even without a directional move.</p>
   </div>
   <div class="confidence-card">
     <strong>Rho</strong>
-    <p>Rate sensitivity in longer-dated contracts.</p>
+    <p>Rate sensitivity, most relevant when contracts are longer-dated or rates are moving materially.</p>
+  </div>
+</div>
+
+## Where it helps in practice
+
+<div class="signal-grid">
+  <div class="signal-card">
+    <div class="signal-label">Financial trading</div>
+    <p>Frame relative-value checks and compare what different assumptions imply for the same option.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Risk management</div>
+    <p>Use Greeks and scenario comparisons to understand how directional and volatility risk interact.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Investment analysis</div>
+    <p>Turn a pricing question into explicit drivers instead of treating the output as a black box.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Algorithmic thinking</div>
+    <p>Build intuition for when simple closed forms are enough and when richer simulation or tree methods matter.</p>
   </div>
 </div>
 
@@ -94,36 +123,26 @@ Quant casefile for a derivatives toolkit that moves from baseline valuation to r
   <div class="repo-card">
     <span class="casefile-label">App</span>
     <h3><a href="https://kietvo-option-pricing-model.streamlit.app/" target="_blank" rel="noopener noreferrer">Streamlit demo</a></h3>
-    <p>Interactive valuation surface for spot, strike, time, rates, and volatility inputs.</p>
+    <p>Interactive valuation surface for comparing inputs, model behavior, and pricing outcomes.</p>
   </div>
   <div class="repo-card">
     <span class="casefile-label">Code</span>
     <h3><a href="https://github.com/Kohnnn/option-pricing-model" target="_blank" rel="noopener noreferrer">GitHub repo</a></h3>
-    <p>Implementation for model comparison, numerical methods, and scenario experimentation.</p>
+    <p>Implementation for model comparison, numerical methods, and sensitivity experimentation.</p>
   </div>
 </div>
 
-## Inputs tracked
-
-- Spot price
-- Strike
-- Time to expiry
-- Risk-free rate
-- Volatility
-
-## Where it helps in practice
-
-- Quick relative-value checks
-- Sensitivity framing via Greeks
-- Stress-testing directional and volatility exposures
-
 ## Limits and extensions
 
-- Constant-volatility assumptions break under real surfaces
-- Jump risk and skew matter during event-driven periods
-- Extensions include implied-volatility work, stochastic volatility, and jump-aware processes
+- Constant-volatility assumptions break under real surfaces.
+- Jump risk, skew, and market frictions matter during event-driven periods.
+- The natural extension path is implied-volatility work, richer stochastic-volatility treatment, and more visual sensitivity analysis.
 
-## Next iteration
+## References used in the study path
 
-- Add worked examples with parameter sweeps and Greek interpretation.
-- Add a compact notebook for sensitivity visualization.
+- Black and Scholes, 1973
+- Merton, 1973
+- Cox, Ross, and Rubinstein, 1979
+- Hull, 2017
+- Gatheral, 2006
+- Cont and Tankov, 2009

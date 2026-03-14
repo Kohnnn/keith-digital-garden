@@ -2,9 +2,9 @@
 title: Experience Log
 tags: [portfolio, resume]
 draft: false
-description: Experience timeline with measurable impact.
+description: Experience timeline with concrete responsibilities, outputs, and supporting proof.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Resume]
 cssclasses: [portfolio-page]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Operating log</p>
-  <h2>Roles, proof points, and working habits behind the portfolio surface.</h2>
-  <p>This is the timeline view of the portfolio: where the research muscle, automation bias, and documentation habits were built and tested in real work.</p>
+  <h2>A grounded timeline from research assistant to sell-side intern, with the systems work visible at every stop.</h2>
+  <p>This page is the professional spine behind the portfolio. It shows where the research discipline came from, where the workflow-building habit started, and how the current project stack connects back to actual roles.</p>
 </div>
 
 ## How to read this page
@@ -22,15 +22,15 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Format</span>
-    <p>Each role highlights scope, proof points, and measurable operating impact.</p>
+    <p>Each role highlights scope, repeated tasks, and the part of the operating style that still shows up in the portfolio.</p>
   </div>
   <div>
-    <span class="casefile-label">Lens</span>
-    <p>Focus on research quality, decision-system design, and automation leverage.</p>
+    <span class="casefile-label">Cross-check</span>
+    <p>Pair this page with [[Portfolio/Projects|Casefiles]] if you want to see the tools and systems that grew out of the same work.</p>
   </div>
   <div>
-    <span class="casefile-label">Best cross-check</span>
-    <p>Pair this with [[Portfolio/Projects|Casefiles]] for build-level implementation detail.</p>
+    <span class="casefile-label">Read for</span>
+    <p>Bottom-up research, reporting discipline, workflow cleanup, and evidence that the tooling is built on top of real finance work.</p>
   </div>
 </div>
 
@@ -39,15 +39,19 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Coverage</span>
-    <p>Five listed consumer companies with recurring model and update support at Vietcap</p>
+    <p>Five listed consumer companies with recurring model work and update support at Vietcap.</p>
   </div>
   <div>
     <span class="casefile-label">Automation</span>
-    <p>Three shipped workflows, including an AI vision monitor across an 80-company universe</p>
+    <p>Three automated workflows, including an AI vision monitor across an 80-company universe.</p>
   </div>
   <div>
-    <span class="casefile-label">Research</span>
-    <p>Alternative-data and volatility research recognized with the Young Scholar Award</p>
+    <span class="casefile-label">Research line</span>
+    <p>Volatility, Twitter sentiment, Bitcoin, and geopolitical-risk projects from the UEH research period.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Output bias</span>
+    <p>Dashboards, casefiles, and process notes are treated as part of the work product, not as afterthoughts.</p>
   </div>
 </div>
 
@@ -69,45 +73,46 @@ cssclasses: [portfolio-page]
       </div>
       <div class="mini-card">
         <span class="casefile-label">Monitoring</span>
-        <p>80-company update universe</p>
+        <p>80-company corporate-update universe</p>
       </div>
       <div class="mini-card">
         <span class="casefile-label">Ops</span>
-        <p>Three research workflows automated</p>
+        <p>Three recurring workflows automated</p>
       </div>
     </div>
     <ul>
-      <li>Supported bottom-up research and recommendation workflows across five listed consumer names.</li>
-      <li>Refreshed coverage models and quarterly updates with strict assumption-tracking discipline.</li>
+      <li>Conducted original, bottom-up research with the senior analyst across five consumer-sector companies.</li>
+      <li>Supported investment recommendations through model updates, assumption tracking, and quarterly refresh work.</li>
       <li>Converted AGM and earnings-call commentary into decision-relevant updates for institutional workflows.</li>
-      <li>Automated three recurring research workflows, including an AI vision monitor for an 80-company universe.</li>
+      <li>Improved team productivity by automating three workflows, including an AI vision monitor for corporate updates across an 80-company universe.</li>
     </ul>
-    <p><strong>Impact:</strong> lower monitoring time, faster update cycles, and more consistent research hygiene during earnings-heavy periods.</p>
+    <p><strong>Impact:</strong> faster monitoring, cleaner update cycles, and better research hygiene during earnings-heavy periods.</p>
   </section>
 
   <section class="resume-entry">
     <div class="resume-head">
       <div>
-        <div class="resume-role">Independent investor and builder</div>
-        <div class="resume-org">Self-directed</div>
+        <div class="resume-role">Self-directed investor and builder</div>
+        <div class="resume-org">Independent work</div>
       </div>
       <div class="resume-date">Aug 2023 - Mar 2025</div>
     </div>
     <div class="resume-proof">
       <div class="mini-card">
-        <span class="casefile-label">Outputs</span>
-        <p>Cycle playbook, crypto dashboard, pricing tools</p>
+        <span class="casefile-label">Research line</span>
+        <p>On-chain context, macro signals, market-cycle work</p>
       </div>
       <div class="mini-card">
-        <span class="casefile-label">Focus</span>
-        <p>Macro context, on-chain signals, scenario review</p>
+        <span class="casefile-label">Outputs</span>
+        <p>Cycle playbook, crypto dashboard, pricing and automation builds</p>
       </div>
     </div>
     <ul>
-      <li>Built a personal macro and crypto process around cycle analysis, on-chain context, and scenario review.</li>
-      <li>Used dashboards, market memos, and risk checkpoints to separate structural signals from narrative noise.</li>
-      <li>Established the base architecture for the market cycle playbook, crypto dashboard, and current tooling projects.</li>
+      <li>Conducted in-depth on-chain research to explore market trends and forecast price movement in crypto markets.</li>
+      <li>Used AI and data analysis to sharpen trading decisions, review cadence, and scenario framing.</li>
+      <li>Built the first versions of the crypto dashboard, market-cycle playbook, and tool-driven workflow now documented in the casefiles.</li>
     </ul>
+    <p><strong>Impact:</strong> turned a discretionary research process into an explicit system with dashboards, framework notes, and review loops.</p>
   </section>
 
   <section class="resume-entry">
@@ -120,20 +125,20 @@ cssclasses: [portfolio-page]
     </div>
     <div class="resume-proof">
       <div class="mini-card">
-        <span class="casefile-label">Records</span>
-        <p>100+ borrower files standardized</p>
+        <span class="casefile-label">Analysis</span>
+        <p>Mortgage comps and financial-statement review</p>
       </div>
       <div class="mini-card">
-        <span class="casefile-label">Tooling</span>
-        <p>Excel and VBA workflow cleanup</p>
+        <span class="casefile-label">Workflow</span>
+        <p>Reporting support plus Excel and VBA cleanup</p>
       </div>
     </div>
     <ul>
-      <li>Performed mortgage-collateral comp analysis using historical residential price datasets.</li>
-      <li>Supported internal credit-rating reviews with financial statement analysis.</li>
-      <li>Standardized records for 100+ borrowers and automated repetitive data-entry flows with VBA.</li>
+      <li>Performed comparable-market analysis and mortgage valuation using historical residential-price trends.</li>
+      <li>Conducted financial-statement analysis to support internal credit-rating work.</li>
+      <li>Synthesized findings into reports and standardized repetitive data tasks with Excel and VBA.</li>
     </ul>
-    <p><strong>Impact:</strong> improved data consistency and reduced manual processing load.</p>
+    <p><strong>Impact:</strong> improved data consistency and reduced manual processing load inside a structured credit workflow.</p>
   </section>
 
   <section class="resume-entry">
@@ -146,8 +151,12 @@ cssclasses: [portfolio-page]
     </div>
     <div class="resume-proof">
       <div class="mini-card">
-        <span class="casefile-label">Research areas</span>
-        <p>Volatility, Twitter data, Bitcoin, geopolitical risk</p>
+        <span class="casefile-label">Project line</span>
+        <p>Search intensity and stock volatility in Vietnam</p>
+      </div>
+      <div class="mini-card">
+        <span class="casefile-label">Methods</span>
+        <p>R sentiment work, Python scraping, alternative-data testing</p>
       </div>
       <div class="mini-card">
         <span class="casefile-label">Recognition</span>
@@ -155,11 +164,11 @@ cssclasses: [portfolio-page]
       </div>
     </div>
     <ul>
-      <li>Researched links between search intensity and stock volatility in Vietnam.</li>
-      <li>Crawled Twitter data in R and tested alternative-data signals against Bitcoin and volatility behavior.</li>
-      <li>Built a geopolitical risk index from Vietnamese news and State Bank data scraped with Python.</li>
+      <li>Worked on the research project <em>Search Intensity and Stock Volatility: The Case of Vietnam</em>.</li>
+      <li>Crawled Twitter data against Bitcoin prices using sentiment analysis and natural language processing in R.</li>
+      <li>Built a Vietnam geopolitical-risk index using Vietnamese newspapers and State Bank data scraped with Python.</li>
     </ul>
-    <p><strong>Impact:</strong> translated unstructured inputs into testable market signals.</p>
+    <p><strong>Impact:</strong> translated unstructured information into testable signals and publishable research output.</p>
   </section>
 </div>
 
@@ -168,15 +177,15 @@ cssclasses: [portfolio-page]
 <div class="signal-grid">
   <div class="signal-card">
     <div class="signal-label">BBA in Finance</div>
-    <p>University of Economics HCMC, International School of Business. GPA 8.2/10, top 10 percent of the 2023 class.</p>
+    <p>University of Economics HCMC, International School of Business. GPA 8.2/10 and top 10 percent of the 2023 class.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">Coursework</div>
-    <p>Corporate Finance, Financial Modeling and Valuation, Managerial Accounting, Problem Solving in Organizations.</p>
+    <p>Corporate Finance, Financial Modeling and Valuation, Managerial Accounting, and Problem Solving in Organizations.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">Credential track</div>
-    <p>CFA Level I candidate, focused on valuation, portfolio framing, and risk literacy.</p>
+    <p>CFA Level I candidate with emphasis on valuation, portfolio framing, and risk literacy.</p>
   </div>
 </div>
 
@@ -185,7 +194,7 @@ cssclasses: [portfolio-page]
 <div class="signal-grid">
   <div class="signal-card">
     <div class="signal-label">Research</div>
-    <p>UEH Young Researcher (2022) and Young Scholar Award at VBER HCMC.</p>
+    <p>UEH Young Researcher 2022 and Young Scholar Award at VBER HCMC.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">Scholarship</div>
@@ -193,7 +202,7 @@ cssclasses: [portfolio-page]
   </div>
   <div class="signal-card">
     <div class="signal-label">Leadership</div>
-    <p>UTC - UEH ISB Toastmasters Club, including Best Prepared Speech and workshop organization.</p>
+    <p>UTC - UEH ISB Toastmasters Club, including workshop organization and Best Prepared Speech recognition.</p>
   </div>
 </div>
 
@@ -202,15 +211,15 @@ cssclasses: [portfolio-page]
 <div class="portfolio-matrix">
   <div class="matrix-card">
     <strong>Research and modeling</strong>
-    <p>Excel, VBA, R, SQL.</p>
+    <p>Excel, VBA, R, SQL, and financial-model templates for valuation and assumption tracking.</p>
   </div>
   <div class="matrix-card">
     <strong>Dashboards and reporting</strong>
-    <p>Tableau, Power BI, Looker Studio.</p>
+    <p>Tableau, Power BI, Looker Studio, and TradingView for repeatable monitoring and review.</p>
   </div>
   <div class="matrix-card">
     <strong>Automation and ops</strong>
-    <p>Python scripting, AI-agent workflows, browser monitoring, and webhook automations.</p>
+    <p>Python, AI-agent workflows, browser monitoring, and webhook-based publishing or update pipelines.</p>
   </div>
 </div>
 

@@ -2,9 +2,9 @@
 title: Research Notes
 tags: [portfolio, research, writing]
 draft: false
-description: Writing index for market memos, frameworks, and selected note labs.
+description: Writing index for market updates, framework notes, and selected technical explainers.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Blog]
 cssclasses: [portfolio-page, research-notes]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page, research-notes]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Research notes shelf</p>
-  <h2>Writing surfaces that turn weekly observation, frameworks, and explainers into a visible operating record.</h2>
-  <p>This is the narrative layer behind the dashboards and casefiles: recurring market memos, standing frameworks, and note labs that show how concepts get clarified and reused.</p>
+  <h2>Weekly market updates, framework notes, and explainer labs that keep the research process visible.</h2>
+  <p>This is the writing layer behind the dashboards and casefiles. It carries the same job the old personal blog tried to do, but in a more useful format: recurring market observations, standing frameworks, and note labs that can be reused later.</p>
 </div>
 
 ## Writing system
@@ -22,15 +22,15 @@ cssclasses: [portfolio-page, research-notes]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Recurring output</span>
-    <p>Weekly market memos and standing framework notes tied to actual review loops.</p>
+    <p>Weekly market updates and recurring financial insights tied to real review loops, not one-off hot takes.</p>
   </div>
   <div>
     <span class="casefile-label">Why it matters</span>
-    <p>Writing is used to clarify positioning, preserve context, and keep research decisions auditable.</p>
+    <p>Writing is used to preserve context, clarify the current call, and keep decisions auditable after the market moves on.</p>
   </div>
   <div>
-    <span class="casefile-label">Secondary layer</span>
-    <p>Interactive notes show how I break down technical systems, not just how I trade or model.</p>
+    <span class="casefile-label">What shows up here</span>
+    <p>Market memos, cycle frameworks, technical explainers, and interactive note labs for systems I want to understand deeply.</p>
   </div>
 </div>
 
@@ -40,17 +40,22 @@ cssclasses: [portfolio-page, research-notes]
   <a class="writing-card" href="../mark-memo/2026/weekly-market-report-2026-W05">
     <span class="casefile-label">Weekly memo</span>
     <h3>Market report, week 05 of 2026</h3>
-    <p>Latest published memo in the archive, combining charts, X-sourced context, and market observations.</p>
+    <p>Recent public memo combining charts, market context, and the signals that mattered that week.</p>
   </a>
   <a class="writing-card" href="../mark-memo/2026/weekly-market-report-2026-W04">
     <span class="casefile-label">Weekly memo</span>
     <h3>Market report, week 04 of 2026</h3>
-    <p>Follow-up market context note with the same reporting structure and chart library.</p>
+    <p>Another example of the recurring note format used to keep market-state language consistent.</p>
   </a>
   <a class="writing-card" href="./Projects/Investment-Strategy">
     <span class="casefile-label">Framework</span>
     <h3>Market cycle playbook</h3>
-    <p>Standing framework note for cycle state, sizing logic, and invalidation rules.</p>
+    <p>Standing crypto framework for timing, sizing, invalidation, and altcoin selection.</p>
+  </a>
+  <a class="writing-card" href="./Projects/Tech-Docs">
+    <span class="casefile-label">Technical archive</span>
+    <h3>Tech docs index</h3>
+    <p>Supporting notes on momentum research, AI setup, option references, and implementation detail.</p>
   </a>
 </div>
 
@@ -66,13 +71,19 @@ cssclasses: [portfolio-page, research-notes]
   <a class="subblog-row" href="./Projects/Crypto-Dashboard">
     <span>dashboard</span>
     <span>Crypto dashboard</span>
-    <span>signal triage, cycle state, liquidity context</span>
+    <span>BTC structure, liquidity, breadth, and dominance review</span>
   </a>
 
   <a class="subblog-row" href="./Projects/Option-Pricing">
     <span>quant</span>
     <span>Option pricing</span>
     <span>valuation models, Greeks, scenario analysis</span>
+  </a>
+
+  <a class="subblog-row" href="./Projects/AI-Agents-Development">
+    <span>workflow</span>
+    <span>AI agents development</span>
+    <span>local RAG, monitoring, retrieval, publishing</span>
   </a>
 
   <a class="subblog-row" href="../Notes/Interactive/Moon">
@@ -99,27 +110,27 @@ cssclasses: [portfolio-page, research-notes]
 <div class="decision-map">
   <div class="decision-card">
     <strong>Observe</strong>
-    Weekly memos and dashboards preserve market-state changes as they happen.
+    Weekly notes and dashboards preserve market-state changes as they happen.
   </div>
   <div class="decision-card">
     <strong>Frame</strong>
-    Standing framework notes convert recurring questions into reusable logic.
+    Framework notes turn recurring questions into reusable decision logic.
   </div>
   <div class="decision-card">
-    <strong>Test</strong>
-    Interactive note labs force concepts to become concrete and inspectable.
+    <strong>Explain</strong>
+    Technical and interactive notes force concepts to become concrete enough to teach.
   </div>
   <div class="decision-card">
     <strong>Reuse</strong>
-    Outputs feed back into future memos, dashboards, and portfolio decisions.
+    Outputs feed directly back into casefiles, watchlists, and future market reviews.
   </div>
 </div>
 
 ## Notes policy
 
-- Published research stays close to actual working questions or tools.
-- Interactive notes are kept because they show how I think through systems, not just what I trade or model.
-- `Notes/*` now replaces the old `Portfolio/Stuffs/*` path, with redirects preserved for old links.
+- Published research stays close to actual market questions, frameworks, or tools I actively use.
+- Weekly updates matter because they show the operating record, not just the final conclusion.
+- Interactive notes stay in the portfolio because they reveal how I break down systems, not only what I trade or model.
 
 ## See also
 

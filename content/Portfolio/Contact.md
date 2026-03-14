@@ -2,9 +2,9 @@
 title: Contact
 tags: [portfolio, contact]
 draft: false
-description: Contact channels and collaboration preferences.
+description: Contact channels, role fit, and collaboration preferences.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Contact]
 cssclasses: [portfolio-page]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Contact lane</p>
-  <h2>Open to roles and collaborations where finance judgment and tooling both matter.</h2>
-  <p>Best fit is research analyst, quant-adjacent research, or finance-product work with explicit review loops, measurable output, and room to build better systems.</p>
+  <h2>Open to research, finance-product, and workflow-heavy roles where better systems improve decision quality.</h2>
+  <p>The strongest fit is work that sits near analysis and execution at the same time: equity research, quant-adjacent research, research operations, or market-data product roles where evidence and tooling both matter.</p>
 </div>
 
 ## Contact lanes
@@ -33,7 +33,7 @@ cssclasses: [portfolio-page]
   <a class="writing-card" href="https://linkedin.com/in/kiet-vo-097" target="_blank" rel="noopener noreferrer">
     <span class="casefile-label">Professional profile</span>
     <h3>LinkedIn</h3>
-    <p>Role context, timeline, and institutional profile.</p>
+    <p>Timeline, background, and role context.</p>
   </a>
   <div class="writing-card">
     <span class="casefile-label">Location</span>
@@ -46,16 +46,16 @@ cssclasses: [portfolio-page]
 
 <div class="casefile-summary">
   <div>
-    <span class="casefile-label">Role fit</span>
-    <p>Share the role type and team context first so I can map relevance quickly.</p>
+    <span class="casefile-label">Role context</span>
+    <p>Share the team, role type, and whether the work is research, product, or research-ops heavy.</p>
   </div>
   <div>
-    <span class="casefile-label">Scope</span>
-    <p>Include expected scope, key responsibilities, and decision surface.</p>
+    <span class="casefile-label">Decision surface</span>
+    <p>Tell me what the team is trying to improve: coverage quality, monitoring speed, tooling, or communication clarity.</p>
   </div>
   <div>
     <span class="casefile-label">Timing</span>
-    <p>Add timeline and process expectations so follow-up can stay efficient.</p>
+    <p>Include expected timeline and interview process so the follow-up can stay efficient.</p>
   </div>
 </div>
 
@@ -63,20 +63,20 @@ cssclasses: [portfolio-page]
 
 <div class="decision-map">
   <div class="decision-card">
-    <strong>Research analyst tracks</strong>
-    Equity, macro, and cross-asset research roles with repeatable review workflows.
+    <strong>Equity and market research</strong>
+    Roles where bottom-up work, model updates, and evidence-based communication are central.
   </div>
   <div class="decision-card">
     <strong>Quant-adjacent research</strong>
-    Strategy and signal work where explicit framework logic matters.
+    Work where explicit framework logic, pricing intuition, and signal design matter.
   </div>
   <div class="decision-card">
-    <strong>Finance product and tooling</strong>
-    Roles where dashboards and automation improve analyst throughput.
+    <strong>Finance product and data tooling</strong>
+    Teams building research surfaces, investor dashboards, market-data products, or workflow infrastructure.
   </div>
   <div class="decision-card">
-    <strong>Operating preference</strong>
-    Evidence-first teams with clear review loops and explicit risk language.
+    <strong>Research operations</strong>
+    Environments where automation, monitoring, retrieval, and publishing systems improve analyst throughput.
   </div>
 </div>
 

@@ -2,9 +2,9 @@
 title: Skills
 tags: [portfolio, skills]
 draft: false
-description: Competencies mapped by domain and practical usage level.
+description: Competencies grouped by the work they support, with concrete tools and methods.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Skills]
 cssclasses: [portfolio-page]
 ---
@@ -13,36 +13,36 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Capability shelf</p>
-  <h2>Skills grouped by the work they unlock, not by software brand names.</h2>
-  <p>The mix is deliberate: finance judgment, modeling depth, dashboard communication, and automation that reduces research friction.</p>
+  <h2>The strongest throughline is not one tool. It is the ability to move from analysis to system design without losing financial rigor.</h2>
+  <p>The skill mix comes from real overlap: equity research, crypto market work, quantitative study, dashboard communication, and automation used to reduce research friction.</p>
 </div>
 
 ## Capability map
 
 <div class="capability-grid">
   <div class="capability-card">
-    <span class="casefile-label">Equity research</span>
-    <p>DCF modeling, comparable valuation, financial statement analysis, earnings updates, and management-call synthesis.</p>
+    <span class="casefile-label">Financial analysis</span>
+    <p>DCF modeling, comparative analysis, financial statements, valuation metrics, and recommendation support.</p>
   </div>
   <div class="capability-card">
-    <span class="casefile-label">Portfolio strategy</span>
-    <p>Allocation design, drawdown-aware risk framing, scenario planning, and regime-based positioning.</p>
+    <span class="casefile-label">Portfolio and strategy</span>
+    <p>Asset allocation, risk optimization, market-cycle positioning, scenario planning, and drawdown-aware portfolio decisions.</p>
   </div>
   <div class="capability-card">
-    <span class="casefile-label">Crypto and quant</span>
-    <p>Cycle diagnostics, tokenomics review, stablecoin monitoring, Black-Scholes fundamentals, and option sensitivity interpretation.</p>
+    <span class="casefile-label">Market research</span>
+    <p>Sector analysis, competitive intelligence, trend forecasting, industry reports, and management-update synthesis.</p>
   </div>
   <div class="capability-card">
-    <span class="casefile-label">Dashboards and tooling</span>
-    <p>SQL-backed analysis, Tableau, Power BI, Looker Studio, and finance interfaces built for fast review loops.</p>
+    <span class="casefile-label">Blockchain analysis</span>
+    <p>Tokenomic analysis, stablecoin protocol monitoring, real-world-asset modeling, and tokenization valuation work.</p>
   </div>
   <div class="capability-card">
-    <span class="casefile-label">Automation</span>
-    <p>Python scripting, browser monitoring, webhooks, local AI workflows, and human-in-the-loop research ops.</p>
+    <span class="casefile-label">Quantitative finance</span>
+    <p>Stochastic-differential intuition, Black-Scholes modeling, algorithmic-trading concepts, and statistical-arbitrage thinking.</p>
   </div>
   <div class="capability-card">
-    <span class="casefile-label">Communication</span>
-    <p>Memo writing, structured note systems, dashboard narration, and casefile-style documentation.</p>
+    <span class="casefile-label">Business intelligence</span>
+    <p>Tableau, Power BI, Looker Studio, SQL databases, interactive dashboards, and finance reporting surfaces.</p>
   </div>
 </div>
 
@@ -50,20 +50,20 @@ cssclasses: [portfolio-page]
 
 <div class="decision-map">
   <div class="decision-card">
-    <strong>Model reviews</strong>
-    Excel, VBA, SQL, and structured templates for valuation and assumption tracking.
+    <strong>Model work</strong>
+    Excel, VBA, SQL, and structured templates for valuation, assumptions, and review discipline.
   </div>
   <div class="decision-card">
-    <strong>Research dashboards</strong>
-    Tableau, Power BI, Looker Studio, TradingView, and custom product surfaces.
+    <strong>Market dashboards</strong>
+    Tableau, Power BI, Looker Studio, TradingView, and custom interface work for recurring signal checks.
   </div>
   <div class="decision-card">
-    <strong>Automation</strong>
-    Python, n8n, browser monitoring, retrieval pipelines, and webhook helpers.
+    <strong>Research automation</strong>
+    Python, browser monitoring, n8n, webhooks, and local RAG workflows for monitoring or memo acceleration.
   </div>
   <div class="decision-card">
-    <strong>Knowledge system</strong>
-    Obsidian-style note workflows, memo templates, and publishing bridges.
+    <strong>Communication surfaces</strong>
+    Obsidian-style note systems, casefiles, technical docs, and narrative dashboards that preserve reasoning in public.
   </div>
 </div>
 
@@ -72,19 +72,19 @@ cssclasses: [portfolio-page]
 <div class="portfolio-matrix">
   <div class="matrix-card">
     <strong>Data and analysis</strong>
-    <p>R, SQL, and Stata for research queries, diagnostics, and structured evidence checks.</p>
-  </div>
-  <div class="matrix-card">
-    <strong>Visualization</strong>
-    <p>Tableau, Power BI, and Looker Studio for decision surfaces and reporting cadence.</p>
+    <p>R, SQL, Stata, and Python for research queries, diagnostics, scraping, and signal testing.</p>
   </div>
   <div class="matrix-card">
     <strong>Modeling and productivity</strong>
-    <p>Advanced Excel, VBA, and structured templates for valuation and assumption hygiene.</p>
+    <p>Advanced Excel and VBA for valuation, record cleanup, reporting, and assumption tracking.</p>
+  </div>
+  <div class="matrix-card">
+    <strong>Visualization</strong>
+    <p>Tableau, Power BI, Looker Studio, and TradingView for monitorable decision surfaces rather than one-off charts.</p>
   </div>
   <div class="matrix-card">
     <strong>Automation stack</strong>
-    <p>Python, browser workflows, and webhooks for monitoring and recurring research ops.</p>
+    <p>Ollama, Postgres or Supabase, Docker, n8n, browser automation, and webhooks for local AI and workflow orchestration.</p>
   </div>
 </div>
 
@@ -114,20 +114,20 @@ cssclasses: [portfolio-page]
 
 <div class="decision-map">
   <div class="decision-card">
-    <strong>Financial modeling</strong>
-    Faster valuation refreshes and cleaner sensitivity checks.
+    <strong>Coverage updates</strong>
+    Faster model refreshes, cleaner company-update synthesis, and more disciplined recommendation support.
   </div>
   <div class="decision-card">
-    <strong>Data workflows</strong>
-    Lower research latency and fewer manual handoff errors.
+    <strong>Market monitoring</strong>
+    Better separation between structural signals and noise through dashboards, indicator stacks, and review cadence.
   </div>
   <div class="decision-card">
-    <strong>Dashboarding</strong>
-    Better signal triage and clearer market-state communication.
+    <strong>Pricing and quant explainers</strong>
+    Stronger intuition around derivatives, sensitivities, and scenario comparison without hiding behind jargon.
   </div>
   <div class="decision-card">
-    <strong>Automation</strong>
-    Reduced monitoring drag with steadier output cadence.
+    <strong>Research operations</strong>
+    Lower monitoring drag, faster first drafts, and more reusable research output through automation.
   </div>
 </div>
 

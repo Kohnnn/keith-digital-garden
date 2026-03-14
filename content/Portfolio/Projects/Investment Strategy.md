@@ -2,32 +2,32 @@
 title: Market Cycle Playbook
 tags: [portfolio, project, crypto, strategy]
 draft: false
-description: Case study on a cycle-driven crypto positioning framework.
+description: Case study on a cycle-driven crypto positioning framework with explicit phase logic.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Investment Strategy]
 cssclasses: [portfolio-page, casefile-page, market-report]
 ---
 
 # Market Cycle Playbook
 
-Framework casefile for navigating crypto cycles with explicit phase logic, sizing rules, and review discipline.
+Framework casefile for turning crypto investing into a reviewable process built around phase logic, risk control, and explicit confirmation rules.
 
 <div class="proof-strip">
   <div class="proof-card">
     <span class="proof-label">Framework</span>
     <strong>Four visible phases</strong>
-    <p>The market is framed as a cycle map so timing and posture are explicit from the start.</p>
+    <p>The market is framed as accumulation, growth, bubble, and crash so posture changes are explicit from the start.</p>
+  </div>
+  <div class="proof-card">
+    <span class="proof-label">Inputs</span>
+    <strong>Macro plus on-chain confirmation</strong>
+    <p>Halving cycles, dominance, liquidity, and network activity are used together instead of in isolation.</p>
   </div>
   <div class="proof-card">
     <span class="proof-label">Risk</span>
     <strong>Positioning starts with invalidation</strong>
-    <p>Sizing rules and review cadence matter more than conviction-heavy storytelling.</p>
-  </div>
-  <div class="proof-card">
-    <span class="proof-label">Reuse</span>
-    <strong>Linked to the dashboard loop</strong>
-    <p>The playbook is built to feed directly into recurring dashboard reads and memo updates.</p>
+    <p>The framework is meant to discipline exposure, not justify a story after the fact.</p>
   </div>
 </div>
 
@@ -36,114 +36,119 @@ Framework casefile for navigating crypto cycles with explicit phase logic, sizin
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Role</span>
-    <p>Framework author and portfolio operator</p>
+    <p>Framework author and portfolio operator.</p>
   </div>
   <div>
     <span class="casefile-label">Goal</span>
-    <p>Turn narrative-heavy crypto decisions into a reviewable process</p>
+    <p>Replace narrative-heavy crypto decisions with a process that can be checked, updated, and reused.</p>
   </div>
   <div>
-    <span class="casefile-label">Output</span>
-    <p>Phase map, decision map, risk scoreboard, and dashboard-linked cues</p>
+    <span class="casefile-label">Outputs</span>
+    <p>Phase map, indicator stack, execution cues, and an altcoin evaluation framework.</p>
   </div>
 </div>
 
 ## Core logic
 
-- Crypto moves in visible phases. Timing matters more than certainty.
-- Macro liquidity and on-chain activity decide tempo.
-- Risk comes first, returns are a side effect.
+- Crypto markets move in visible phases, and timing matters more than conviction theater.
+- Macro liquidity, on-chain participation, and technical structure help confirm which phase is actually in play.
+- Risk management has to come first because a good story is never enough on its own.
 
 ## Phase track
 
 <div class="phase-track">
-  <div class="phase-chip"><span class="phase-label">Phase 01</span><strong>Accumulation</strong><br />Low volume, muted sentiment, early re-rating.</div>
-  <div class="phase-chip"><span class="phase-label">Phase 02</span><strong>Growth</strong><br />Post-halving expansion with improving breadth.</div>
-  <div class="phase-chip"><span class="phase-label">Phase 03</span><strong>Bubble</strong><br />Parabolic behavior, narrative excess, late-beta rotation.</div>
-  <div class="phase-chip"><span class="phase-label">Phase 04</span><strong>Crash</strong><br />Liquidity withdrawal, forced reset, and watchlist rebuild.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 01</span><strong>Accumulation</strong><br />Low volume, early price appreciation. Legacy examples: 2011, 2015, 2019, 2023.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 02</span><strong>Growth</strong><br />Post-halving expansion with rising prices and improving participation. Legacy examples: 2012, 2016, 2020, 2024.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 03</span><strong>Bubble</strong><br />Speculative buying, narrative excess, and parabolic behavior. Legacy examples: 2013, 2017, 2021.</div>
+  <div class="phase-chip"><span class="phase-label">Phase 04</span><strong>Crash</strong><br />Correction, liquidity withdrawal, and market reset. Legacy examples: 2014, 2018, 2024.</div>
 </div>
 
-## Decision map
-
-<div class="decision-map">
-  <div class="decision-card">
-    <strong>Phase hypothesis</strong>
-    Start with a cycle-state call, not an asset-specific narrative.
-  </div>
-  <div class="decision-card">
-    <strong>Confirm</strong>
-    Cross-check with macro liquidity, on-chain activity, and technical structure.
-  </div>
-  <div class="decision-card">
-    <strong>Size</strong>
-    Use risk budget and invalidation points instead of conviction-only sizing.
-  </div>
-  <div class="decision-card">
-    <strong>Review</strong>
-    Reassess on a fixed cadence and log what changed versus what did not.
-  </div>
-</div>
-
-## Risk scoreboard
-
-<div class="scoreboard">
-  <div class="score-row">
-    <span class="score-name">Liquidity</span>
-    <div class="score-bar"><div class="score-fill" style="width: 78%;"></div></div>
-    <span>78</span>
-  </div>
-  <div class="score-row">
-    <span class="score-name">Breadth</span>
-    <div class="score-bar"><div class="score-fill" style="width: 66%;"></div></div>
-    <span>66</span>
-  </div>
-  <div class="score-row">
-    <span class="score-name">Risk</span>
-    <div class="score-bar"><div class="score-fill" style="width: 54%;"></div></div>
-    <span>54</span>
-  </div>
-  <div class="score-row">
-    <span class="score-name">Conviction</span>
-    <div class="score-bar"><div class="score-fill" style="width: 72%;"></div></div>
-    <span>72</span>
-  </div>
-</div>
-
-## Confirmation stack
+## Indicators for market phase
 
 <div class="confidence-grid">
   <div class="confidence-card">
-    <strong>Macro liquidity</strong>
-    <p>Watch policy, balance-sheet direction, and labor-market pressure for broad risk appetite.</p>
+    <strong>Bitcoin halving cycles</strong>
+    <p>Use halving timing and post-halving price behavior to anchor the cycle backdrop.</p>
+  </div>
+  <div class="confidence-card">
+    <strong>Market dominance</strong>
+    <p>Track Bitcoin dominance and market-cap rotation to see when leadership is broadening or narrowing.</p>
   </div>
   <div class="confidence-card">
     <strong>On-chain activity</strong>
-    <p>Use participation and network activity as confirmation, not as a standalone trade trigger.</p>
+    <p>Watch transaction activity, network participation, and realized metrics for confirmation rather than prediction.</p>
   </div>
   <div class="confidence-card">
-    <strong>Price structure</strong>
-    <p>Let BTC and breadth confirm phase transition before expanding or shrinking risk.</p>
+    <strong>Macro liquidity</strong>
+    <p>Policy, rates, and liquidity conditions help explain when risk appetite is expanding or compressing.</p>
+  </div>
+  <div class="confidence-card">
+    <strong>Geopolitical risk</strong>
+    <p>Macro and geopolitical shocks matter as potential regime interrupters even inside otherwise bullish structures.</p>
   </div>
   <div class="confidence-card">
     <strong>Review cadence</strong>
-    <p>Update on a fixed schedule so the framework does not get rewritten by every daily move.</p>
+    <p>Fixed updates keep the framework stable and stop it from being rewritten by every daily move.</p>
   </div>
 </div>
 
-## Execution cues
+## Strategy by phase
 
-- Accumulation: build watchlists, DCA near key value zones, favor patience over narrative chasing
-- Growth: let BTC confirm, then expand exposure as breadth improves
-- Bubble: rebalance aggressively, shrink narrative risk, document exit rules early
-- Crash: protect capital, move from prediction to observation, rebuild the opportunity set
+<div class="decision-map">
+  <div class="decision-card">
+    <strong>Accumulation</strong>
+    Dollar-cost average near value zones, rebuild watchlists, and prioritize patience over narrative chasing.
+  </div>
+  <div class="decision-card">
+    <strong>Growth</strong>
+    Let Bitcoin and breadth confirm the expansion phase, then widen exposure as participation improves.
+  </div>
+  <div class="decision-card">
+    <strong>Bubble</strong>
+    Rebalance aggressively, reduce narrative risk, and document exit rules before euphoria becomes the process.
+  </div>
+  <div class="decision-card">
+    <strong>Crash</strong>
+    Protect capital, shift from prediction to observation, and prepare for the next cycle reset.
+  </div>
+</div>
+
+## Altcoin evaluation framework
+
+<div class="signal-grid">
+  <div class="signal-card">
+    <div class="signal-label">Application potential</div>
+    <p>Evaluate real-world utility, blockchain use case, and whether the project solves a meaningful problem.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Tokenomics</div>
+    <p>Assess supply dynamics, incentive design, market positioning, and dilution risk.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Architecture</div>
+    <p>Check scalability, protocol design, and whether the technical base can survive long-term competition.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Historical price dynamics</div>
+    <p>Review ALTUSD structure and prior market behavior instead of relying on current narrative momentum alone.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Market-cap trends</div>
+    <p>Compare altcoin capitalization against Bitcoin history to judge whether rotation is early, mature, or stretched.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Technical patterns</div>
+    <p>Look for confirmation in ALTBTC structure before acting on a fundamentally interesting story.</p>
+  </div>
+</div>
 
 ## Outcomes
 
-- More disciplined phase-based decision process
-- Cleaner separation between thesis change and noise reaction
-- Easier handoff from intuition to explicit review notes
+- A clearer phase-based decision process for crypto exposure.
+- Better separation between structural thesis change and local price noise.
+- Stronger linkage between dashboard reads, written notes, and actual positioning decisions.
 
 ## Next iteration
 
-- Add probabilistic phase confidence scoring.
-- Add post-trade review loop linked to dashboard snapshots.
+- Add probabilistic phase-confidence scoring.
+- Tie the execution notes more tightly to dashboard snapshots and weekly market reports.

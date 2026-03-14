@@ -2,9 +2,9 @@
 title: Profile
 tags: [portfolio, profile, finance]
 draft: false
-description: Role focus, domain coverage, and operating style.
+description: Role fit, domain coverage, and working style grounded in actual experience.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Profile]
 cssclasses: [portfolio-page]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Role-fit map</p>
-  <h2>Finance-first operator who builds the systems, dashboards, and documentation around the work.</h2>
-  <p>This page maps the portfolio fit: domains, working style, and the research environments where the edge compounds most cleanly.</p>
+  <h2>Research builder with institutional finance training and a bias toward dashboards, systems, and explicit documentation.</h2>
+  <p>The portfolio fits best in environments where analysis is only half the job and the other half is designing a better surface to observe, update, and communicate that analysis.</p>
 </div>
 
 ## Snapshot
@@ -22,15 +22,15 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Current seat</span>
-    <p>Sell-side research intern supporting consumer coverage at Vietcap Securities</p>
+    <p>Research intern supporting consumer-equity coverage at Vietcap Securities.</p>
   </div>
   <div>
-    <span class="casefile-label">Target fit</span>
-    <p>Equity research, buy-side research, quant research, and portfolio strategy roles</p>
+    <span class="casefile-label">Build lane</span>
+    <p>Dashboards, option tools, Vietnam-market products, and local AI workflows built around real research habits.</p>
   </div>
   <div>
-    <span class="casefile-label">Edge</span>
-    <p>Finance judgment plus product, dashboard, and automation execution</p>
+    <span class="casefile-label">Best fit</span>
+    <p>Equity research, quant-adjacent research, research operations, and finance-product roles where systems leverage matters.</p>
   </div>
 </div>
 
@@ -39,19 +39,19 @@ cssclasses: [portfolio-page]
 <div class="focus-grid">
   <div class="focus-card">
     <span class="casefile-label">Consumer equities</span>
-    <p>Coverage support, model updates, earnings-call synthesis, and recommendation hygiene.</p>
+    <p>Bottom-up research, recommendation support, earnings updates, AGM synthesis, and disciplined model maintenance.</p>
   </div>
   <div class="focus-card">
     <span class="casefile-label">Vietnam market tooling</span>
-    <p>Investor-facing analytics and market infrastructure with VNIBB and screener-style builds.</p>
+    <p>VNIBB, screening builds, and product design for local investors who need better surfaces than generic broker tooling.</p>
   </div>
   <div class="focus-card">
     <span class="casefile-label">Crypto market structure</span>
-    <p>Cycle logic, breadth, liquidity context, and position sizing under uncertainty.</p>
+    <p>Cycle logic, macro liquidity, BTC dominance, on-chain context, and altcoin selection under uncertainty.</p>
   </div>
   <div class="focus-card">
     <span class="casefile-label">Research automation</span>
-    <p>Monitoring, retrieval, and memo support systems that reduce analyst turnaround time.</p>
+    <p>AI vision monitoring, local RAG, webhooks, and browser workflows built to reduce analyst turnaround time.</p>
   </div>
 </div>
 
@@ -59,20 +59,20 @@ cssclasses: [portfolio-page]
 
 <div class="decision-map">
   <div class="decision-card">
-    <strong>Start with thesis</strong>
-    I want the question and variant perception clear before collecting more data.
+    <strong>Start from the decision question</strong>
+    I want the key judgment clear first, whether it is a stock call, a market-phase read, or a workflow bottleneck.
   </div>
   <div class="decision-card">
-    <strong>Build the surface</strong>
-    If the workflow is repetitive, I turn it into a dashboard, template, or monitoring system.
+    <strong>Make the surface legible</strong>
+    If the work repeats, I turn it into a dashboard, a note template, or a product surface instead of leaving it scattered across tabs.
   </div>
   <div class="decision-card">
-    <strong>Keep risk visible</strong>
-    Positioning, invalidation, and review cadence stay in the loop from the start.
+    <strong>Cross-check narratives with structure</strong>
+    I rely on model updates, signal stacks, and explicit indicator sets rather than story-first conviction.
   </div>
   <div class="decision-card">
-    <strong>Document outputs</strong>
-    Notes, memos, and casefiles are part of the work product, not afterthoughts.
+    <strong>Leave a written trail</strong>
+    Casefiles, memos, and technical notes are part of the operating system because future review matters.
   </div>
 </div>
 
@@ -81,23 +81,23 @@ cssclasses: [portfolio-page]
 <div class="writing-grid">
   <div class="writing-card">
     <span class="casefile-label">Coverage ops</span>
-    <h3>Earnings monitoring loops</h3>
-    <p>Faster update cycles through structured templates and AI-assisted monitoring.</p>
+    <h3>Five-name consumer coverage</h3>
+    <p>Research support, model upkeep, and decision-ready updates inside a live institutional workflow.</p>
   </div>
   <div class="writing-card">
-    <span class="casefile-label">Signal quality</span>
-    <h3>Macro-to-positioning hygiene</h3>
-    <p>Cleaner linkage between liquidity context, on-chain metrics, and sizing decisions.</p>
+    <span class="casefile-label">Monitoring systems</span>
+    <h3>80-company update checks</h3>
+    <p>Automation-first thinking applied to corporate monitoring, memo prep, and recurring review tasks.</p>
+  </div>
+  <div class="writing-card">
+    <span class="casefile-label">Market systems</span>
+    <h3>Dashboards and playbooks</h3>
+    <p>Crypto dashboard, cycle framework, and option-pricing tools that turn research logic into inspectable interfaces.</p>
   </div>
   <div class="writing-card">
     <span class="casefile-label">Product lens</span>
-    <h3>Vietnam-market tools</h3>
-    <p>Investor-facing products that make local-market analysis easier to run and explain.</p>
-  </div>
-  <div class="writing-card">
-    <span class="casefile-label">Communication</span>
-    <h3>Reviewable outputs</h3>
-    <p>Convert raw research into memos, dashboards, and casefiles that stand up to review.</p>
+    <h3>Vietnam-market surfaces</h3>
+    <p>VNIBB and related tooling show how finance research instincts can become user-facing products.</p>
   </div>
 </div>
 
@@ -106,19 +106,19 @@ cssclasses: [portfolio-page]
 <div class="signal-grid">
   <div class="signal-card">
     <div class="signal-label">Vietcap Securities</div>
-    <p>Consumer equity coverage, model maintenance, AGMs, and earnings-call support.</p>
+    <p>Consumer-equity research support, model maintenance, AGM notes, and workflow automation.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">BIDV</div>
-    <p>Credit-management workflow support, collateral comps, and VBA process cleanup.</p>
+    <p>Credit-management process work, mortgage comps, reporting support, and spreadsheet cleanup.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">UEH research assistant</div>
-    <p>Alternative-data work across volatility, Twitter data, Bitcoin, and geopolitical risk.</p>
+    <p>Search intensity, stock volatility, Twitter sentiment, Bitcoin, and geopolitical-risk research using R and Python.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">Independent builder</div>
-    <p>Dashboards, pricing tools, and market products that push the portfolio beyond note-taking.</p>
+    <p>Dashboards, pricing tools, local AI workflows, and market products that push the portfolio beyond static note-taking.</p>
   </div>
 </div>
 

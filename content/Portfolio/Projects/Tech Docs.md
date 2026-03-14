@@ -2,55 +2,49 @@
 title: Tech Docs Index
 tags: [portfolio, project, documentation]
 draft: false
-description: Secondary tooling index for supporting documentation and engineering-adjacent builds.
+description: Supporting archive for repo clusters, implementation notes, and secondary research threads.
 created: 2026-01-30
-updated: 2026-03-12
+updated: 2026-03-13
 aliases: [Tech Docs]
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # Tech Docs Index
 
-Support shelf for the engineering layer behind the flagship casefiles.
+Support shelf for the engineering layer and secondary research archive behind the flagship casefiles.
 
 <div class="proof-strip">
   <div class="proof-card">
     <span class="proof-label">Purpose</span>
     <strong>Implementation depth without clutter</strong>
-    <p>It keeps the flagship narratives clean while still exposing the technical scaffolding underneath them.</p>
+    <p>It keeps the flagship narratives readable while still exposing the scaffolding underneath them.</p>
   </div>
   <div class="proof-card">
-    <span class="proof-label">Clusters</span>
-    <strong>Screening, monitoring, retrieval, publishing</strong>
-    <p>The repos are grouped by workflow role so the supporting system reads like one desk, not a random list.</p>
+    <span class="proof-label">Archive</span>
+    <strong>Momentum, macro, AI, and options notes</strong>
+    <p>The page holds the research and implementation threads that are useful but too detailed for the main casefiles.</p>
   </div>
   <div class="proof-card">
     <span class="proof-label">Use</span>
-    <strong>Cross-check casefiles with code</strong>
-    <p>Use this page when you want the implementation index behind VNIBB, the automation stack, or the monitoring workflows.</p>
+    <strong>Cross-check builds with code and notes</strong>
+    <p>Use this index when you want more proof behind VNIBB, the AI workflows, or the quantitative study path.</p>
   </div>
 </div>
 
-## Problem
-
-- Flagship casefiles show outcomes, but they cannot carry every implementation detail.
-- Supporting repositories were harder to scan without a single index and role-based framing.
-- This page closes that gap by mapping supporting builds to concrete workflow functions.
-
-## Approach
+## Summary
 
 <div class="casefile-summary">
   <div>
-    <span class="casefile-label">Purpose</span>
-    <p>Make the engineering layer legible without overloading flagship narratives.</p>
+    <span class="casefile-label">Included here</span>
+    <p>Repo clusters, implementation notes, option-pricing references, and older strategy research worth preserving.</p>
   </div>
   <div>
-    <span class="casefile-label">Method</span>
-    <p>Group repositories by workflow role: screening, monitoring, retrieval, publishing.</p>
+    <span class="casefile-label">Not included</span>
+    <p>This is not a new flagship page. It is the support shelf for material that strengthens the main portfolio without crowding it.</p>
   </div>
   <div>
-    <span class="casefile-label">Usage</span>
-    <p>Use this as the implementation index when a casefile needs deeper technical context.</p>
+    <span class="casefile-label">Why it matters</span>
+    <p>The portfolio reads more honestly when the supporting research and implementation depth are visible somewhere.</p>
   </div>
 </div>
 
@@ -60,22 +54,48 @@ Support shelf for the engineering layer behind the flagship casefiles.
   <div class="repo-card">
     <span class="casefile-label">Screening</span>
     <h3><a href="https://github.com/Kohnnn/stock-screening" target="_blank" rel="noopener noreferrer">stock-screening</a></h3>
-    <p>Vietnamese market screener project and interface layer.</p>
+    <p>Vietnamese market screener project and interface layer that supports the broader product direction.</p>
   </div>
   <div class="repo-card">
     <span class="casefile-label">Monitoring</span>
     <h3><a href="https://github.com/Kohnnn/gemini-vision-AI-website-monitor" target="_blank" rel="noopener noreferrer">gemini-vision-AI-website-monitor</a></h3>
-    <p>Site-change monitoring workflow for recurring research coverage.</p>
+    <p>Site-change monitoring workflow for recurring coverage and research checks.</p>
   </div>
   <div class="repo-card">
     <span class="casefile-label">Retrieval</span>
     <h3><a href="https://github.com/Kohnnn/n8n-template-and-documentation-for-RAG" target="_blank" rel="noopener noreferrer">n8n-template-and-documentation-for-RAG</a></h3>
-    <p>Retrieval workflow templates and implementation notes.</p>
+    <p>Retrieval workflow templates and implementation notes for research-support tasks.</p>
   </div>
   <div class="repo-card">
     <span class="casefile-label">Publishing</span>
     <h3><a href="https://github.com/Kohnnn/obsidian-post-webhook" target="_blank" rel="noopener noreferrer">obsidian-post-webhook</a></h3>
     <p>Note-publishing helper for moving finished work into public surfaces.</p>
+  </div>
+  <div class="repo-card">
+    <span class="casefile-label">Local AI</span>
+    <h3><a href="https://github.com/Kohnnn/deepseek-local-ai-starter-kit" target="_blank" rel="noopener noreferrer">deepseek-local-ai-starter-kit</a></h3>
+    <p>Starter stack for self-hosted retrieval, model serving, and local AI experimentation.</p>
+  </div>
+</div>
+
+## Secondary research archive
+
+<div class="signal-grid">
+  <div class="signal-card">
+    <div class="signal-label">Option-pricing references</div>
+    <p>Background notes spanning Black-Scholes, binomial trees, implied volatility, stochastic-volatility context, and jump processes.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Local AI guide</div>
+    <p>Setup notes for Ollama, Docker, Open WebUI, Postgres or Supabase, and webhook-style local agent workflows.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Vietnam macro proposal</div>
+    <p>Archived research note framing a 10 billion VND model allocation around 2023 Vietnam macro conditions and sector opportunities.</p>
+  </div>
+  <div class="signal-card">
+    <div class="signal-label">Momentum research</div>
+    <p>Backtest notes comparing cross-sectional and time-series momentum, including a recorded Sharpe-ratio gap in favor of the time-series variant.</p>
   </div>
 </div>
 
@@ -84,32 +104,26 @@ Support shelf for the engineering layer behind the flagship casefiles.
 <div class="decision-map">
   <div class="decision-card">
     <strong>Operational depth</strong>
-    Demonstrates recurring implementation habits behind research outputs.
+    Demonstrates recurring implementation habits behind the cleaner flagship narratives.
+  </div>
+  <div class="decision-card">
+    <strong>Research continuity</strong>
+    Shows that the portfolio has an older trail of quantitative and macro work, not just recent aesthetic rewrites.
   </div>
   <div class="decision-card">
     <strong>System thinking</strong>
-    Shows how tooling pieces connect to one working research pipeline.
+    Confirms that the projects are built as connected tools and notes rather than as isolated demos.
   </div>
   <div class="decision-card">
-    <strong>Reusability</strong>
-    Confirms outputs are built as reusable systems, not one-off experiments.
-  </div>
-  <div class="decision-card">
-    <strong>Portfolio coherence</strong>
-    Keeps finance and tooling narratives aligned across casefiles.
+    <strong>Honest archive</strong>
+    Keeps useful secondary material visible without pretending it should sit at the center of the portfolio.
   </div>
 </div>
 
-## Outcomes
+## External references
 
-- The flagship pages show end-to-end outcomes.
-- These supporting repos show the implementation habits underneath them.
-- Together they make the portfolio more legible as finance plus tooling, not finance or tooling.
-
-## Next iteration
-
-- Add short architecture snapshots for each cluster.
-- Add stronger cross-links into relevant sections of flagship casefiles.
+- Momentum research archive: https://drive.google.com/drive/folders/1BnzONbt6HKohkKcj-yzb8F9i1NGwJvl6?usp=drive_link
+- Option-pricing app: https://kietvo-option-pricing-model.streamlit.app/
 
 ## See also
 

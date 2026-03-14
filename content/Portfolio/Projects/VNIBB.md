@@ -2,31 +2,31 @@
 title: VNIBB
 tags: [portfolio, project, product, finance]
 draft: false
-description: Flagship finance product casefile for a Vietnam-first analytics platform.
+description: Flagship finance-product casefile for a Vietnam-first analytics platform.
 created: 2026-03-06
-updated: 2026-03-12
+updated: 2026-03-13
 cssclasses: [portfolio-page, casefile-page]
 ---
 
 # VNIBB
 
-Flagship casefile for a Vietnam-first financial analytics platform built like a product, not just a notebook.
+Flagship casefile for the Vietnam-market product layer that grew out of the same dashboard, screening, and research habits shown elsewhere in this portfolio.
 
 <div class="proof-strip">
   <div class="proof-card">
     <span class="proof-label">Product</span>
     <strong>Vietnam-first market surface</strong>
-    <p>Built for local investors instead of adapting a generic US-market template.</p>
+    <p>Built for local investors instead of forcing a generic US-market template onto Vietnamese workflows.</p>
   </div>
   <div class="proof-card">
     <span class="proof-label">System</span>
     <strong>Multi-repo architecture</strong>
-    <p>Web app, API, widget library, and product shell separated cleanly.</p>
+    <p>Core product, web app, API, and widget layer are split cleanly so the platform can expand without becoming brittle.</p>
   </div>
   <div class="proof-card">
     <span class="proof-label">Surface</span>
-    <strong>40+ widgets</strong>
-    <p>Reusable components for analytics, comparison, and navigation.</p>
+    <strong>40-plus widgets</strong>
+    <p>Reusable analytics components for comparison, navigation, and research-heavy market review.</p>
   </div>
 </div>
 
@@ -35,11 +35,11 @@ Flagship casefile for a Vietnam-first financial analytics platform built like a 
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Role</span>
-    <p>Product designer, frontend builder, and research-surface architect</p>
+    <p>Product designer, frontend builder, and research-surface architect.</p>
   </div>
   <div>
-    <span class="casefile-label">Product focus</span>
-    <p>Vietnam market data, reusable widgets, and investor-facing analytics surfaces</p>
+    <span class="casefile-label">Product thesis</span>
+    <p>A better Vietnam-market interface should feel like a research tool, not a broker page with extra widgets.</p>
   </div>
   <div>
     <span class="casefile-label">Live surface</span>
@@ -47,51 +47,51 @@ Flagship casefile for a Vietnam-first financial analytics platform built like a 
   </div>
 </div>
 
-## Problem
+## Why this project exists
 
-- Vietnamese investors and analysts still face a fragmented analytics experience compared with US-market tooling.
-- Generic dashboard tools do not encode local market needs well enough.
-- The product goal was to build a stronger market surface for Vietnam-first analysis and eventual AI-assisted workflows.
+- Earlier finance-dashboard and screening work made the problem obvious: local-market analysis was still fragmented across tabs, spreadsheets, and weak retail interfaces.
+- Vietnamese investors and analysts need faster comparison, clearer navigation, and surfaces built around how local-market research actually happens.
+- VNIBB is the product answer: a Vietnam-first platform built from the same instinct that drove the earlier dashboard and casefile work.
 
-## Architecture map
+## Product arc
 
 <div class="decision-map">
   <div class="decision-card">
+    <strong>Legacy starting point</strong>
+    Earlier dashboard and screening work proved the need for better investor-facing surfaces.
+  </div>
+  <div class="decision-card">
     <strong>VNIBB core</strong>
-    Product direction, platform framing, and integration strategy.
+    The product shell defines positioning, user flow, and how the modules fit into one platform.
   </div>
   <div class="decision-card">
-    <strong>vnibb-web</strong>
-    Frontend application layer and user-facing analytics experience.
+    <strong>Data and service layer</strong>
+    The API separates data access and backend logic from the interface so the surface can evolve cleanly.
   </div>
   <div class="decision-card">
-    <strong>vnibb-api</strong>
-    Data access, service layer, and backend wiring.
-  </div>
-  <div class="decision-card">
-    <strong>vnibb-widgets</strong>
-    Reusable chart and analytics components for multiple surfaces.
+    <strong>Widget system</strong>
+    Reusable components make it possible to build new analytics views without rebuilding the whole interface.
   </div>
 </div>
 
-## Widget and surface gallery
+## What shipped
 
 <div class="signal-grid">
   <div class="signal-card">
     <div class="signal-label">Widget library</div>
-    <p>40+ widgets designed for Vietnamese market workflows and reusable analytics surfaces.</p>
+    <p>40-plus widgets designed for Vietnamese market workflows and reusable analytics surfaces.</p>
   </div>
   <div class="signal-card">
-    <div class="signal-label">Screener</div>
-    <p>Equity filtering and comparison workflow aimed at local-market discovery.</p>
+    <div class="signal-label">Screener layer</div>
+    <p>Equity filtering and comparison flow that reflects how local investors actually shortlist ideas.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">Analytics layer</div>
-    <p>Research-ready charts and tables built for speed and interpretability.</p>
+    <p>Charts and tables built for fast interpretation rather than raw data dumping.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">AI-ready direction</div>
-    <p>Product structure designed to support future AI-assisted research and navigation.</p>
+    <p>Architecture and navigation designed so future AI-assisted research can sit on top of the same product spine.</p>
   </div>
 </div>
 
@@ -116,39 +116,33 @@ Flagship casefile for a Vietnam-first financial analytics platform built like a 
   <div class="repo-card">
     <span class="casefile-label">Components</span>
     <h3><a href="https://github.com/Kohnnn/vnibb-widgets" target="_blank" rel="noopener noreferrer">vnibb-widgets</a></h3>
-    <p>Reusable chart and analytics widgets for multiple finance surfaces.</p>
+    <p>Reusable chart and analytics widgets for finance surfaces that need to scale.</p>
   </div>
 </div>
 
-## What shipped
+## Why it matters in this portfolio
 
 <div class="portfolio-matrix">
   <div class="matrix-card">
-    <strong>Screener layer</strong>
-    <p>Discovery and comparison workflow for listed Vietnamese equities.</p>
+    <strong>Finance product design</strong>
+    <p>Moves the portfolio from research notes and dashboards into an investor-facing product with its own logic.</p>
   </div>
   <div class="matrix-card">
-    <strong>Analytics layer</strong>
-    <p>Charts and tables aimed at fast interpretation rather than raw data dumping.</p>
+    <strong>Vietnam-market positioning</strong>
+    <p>Shows a concrete commitment to local-market needs rather than repackaging imported market conventions.</p>
   </div>
   <div class="matrix-card">
-    <strong>Widget system</strong>
-    <p>Componentized building blocks so new surfaces do not start from zero.</p>
+    <strong>System thinking</strong>
+    <p>Proves the build is architected as a reusable platform, not as a single-page demo.</p>
   </div>
   <div class="matrix-card">
-    <strong>AI-ready direction</strong>
-    <p>Architecture shaped to support future research assistance and guided navigation.</p>
+    <strong>Continuation of the earlier arc</strong>
+    <p>Connects legacy dashboard and screening instincts to a more serious product direction.</p>
   </div>
 </div>
 
-## Why it matters
-
-- It moves the portfolio from static analysis toward finance product building.
-- It shows a credible intersection of markets, interface design, and engineering.
-- It is the strongest proof of the "techy finance guy" direction because the output is a platform, not a single dashboard.
-
 ## Next iteration
 
-- Expand the public product narrative with screenshots and user flows.
-- Harden the API and widget documentation.
-- Connect the strongest analytics surfaces to the rest of the research workflow.
+- Add stronger public screenshots and user-flow documentation.
+- Harden API and widget documentation for external review.
+- Connect the strongest analytics surfaces to the rest of the research-note workflow.

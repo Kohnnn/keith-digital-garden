@@ -2681,10 +2681,11 @@ article.interactive-bridge,
 
 .kitchen-home article {
   .kitchen-pass-board {
-    grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
-    gap: 1.3rem;
+    grid-template-columns: minmax(0, 1.16fr) minmax(17.5rem, 0.84fr);
+    gap: 1.05rem;
     padding: 1.2rem;
     border-radius: 28px;
+    overflow: clip;
   }
 
   .kitchen-pass-copy {
@@ -2703,6 +2704,9 @@ article.interactive-bridge,
   }
 
   .kitchen-pass-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.62rem;
     min-width: 0;
     align-content: start;
   }
@@ -2834,6 +2838,26 @@ article.interactive-bridge,
     font-size: 0.95rem;
     line-height: 1.15;
   }
+
+  .kitchen-ticket {
+    min-height: 0;
+    padding: 0.76rem 0.82rem;
+  }
+
+  .kitchen-ticket-status {
+    margin-bottom: 0.26rem;
+  }
+
+  .kitchen-ticket strong {
+    font-size: 1rem;
+  }
+
+  .kitchen-ticket p {
+    margin-top: 0.22rem;
+    max-width: 28ch;
+    font-size: 0.84rem;
+    line-height: 1.4;
+  }
 }
 
 footer {
@@ -2888,6 +2912,7 @@ footer .footer-links a {
 
   .kitchen-home article .kitchen-pass-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.68rem;
   }
 
   .kitchen-home article .kitchen-start-grid {
@@ -2985,6 +3010,7 @@ footer .footer-links a {
   .kitchen-home article .kitchen-ticket p {
     font-size: 0.84rem;
     line-height: 1.38;
+    max-width: none;
   }
 
   .kitchen-home article .reading-journey {

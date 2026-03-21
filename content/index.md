@@ -14,7 +14,7 @@ cssclasses: [branch-hub, kitchen-home]
   <div class="kitchen-pass-copy">
     <p class="kitchen-eyebrow">The Kitchen</p>
     <p class="kitchen-pass-title">Pick the lane that matches your intent.</p>
-    <p class="kitchen-pass-note">The Bar is the fastest proof path. The Pantry holds the wider archive. Arena is the outbound shelf. The Service Counter is the dated public log.</p>
+    <p class="kitchen-pass-note">The Bar is the fastest proof path. The Pantry holds the wider archive. Arena is the outbound shelf. The Service Counter is the dated public log.<br /></p>
   </div>
   <div class="kitchen-pass-grid" role="list" aria-label="Kitchen routes">
     <a class="kitchen-ticket" href="./Portfolio" role="listitem">

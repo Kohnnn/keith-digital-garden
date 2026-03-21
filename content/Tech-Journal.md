@@ -4,7 +4,7 @@ tags: [dispatches, systems, archive]
 draft: false
 description: Public shelf for tooling, systems, interfaces, and engineering observations.
 created: 2026-03-07
-updated: 2026-03-07
+updated: 2026-03-21
 cssclasses: [branch-hub, tech-journal]
 ---
 
@@ -16,7 +16,7 @@ This shelf tracks the engineering side of the archive: tools, interfaces, produc
 
 - Open the full archive shelf: [[Notes/Interactive/Tech_Journal|Tech journal shelf]]
 - Move to [[Field Notes]] for broader fragments and non-engineering topics.
-- Move to [[Visual Notes]] for the simulation-heavy side of the technical writing.
+- Move to [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) for the simulation-heavy side of the technical writing.
 
 ## Reading posture
 

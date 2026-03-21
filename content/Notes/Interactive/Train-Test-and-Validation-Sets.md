@@ -1,5 +1,5 @@
 ---
-title: 'Train, Test, and Validation Sets'
+title: "Train, Test, and Validation Sets"
 tags:
   - portfolio
   - blog
@@ -11,8 +11,8 @@ draft: false
 description: >-
   Data-splitting lesson that demonstrates training, validation, and testing
   roles through interactive examples.
-created: '2026-03-08'
-updated: '2026-03-08'
+created: "2026-03-08"
+updated: 2026-03-21
 aliases:
   - Portfolio/Stuffs/Train-Test-and-Validation-Sets
 cssclasses:
@@ -20,203 +20,40 @@ cssclasses:
   - note-lab
   - story-lab
   - module-lab
+  - interactive-bridge
 ---
-# Train, Test, and Validation Sets
 
-<div class="source-card">
-  <span class="casefile-label">Original article</span>
-  <p><a href="https://mlu-explain.github.io/train-test-validation/" target="_blank" rel="noopener noreferrer">Train, Test, and Validation Sets by AWS Machine Learning University team</a></p>
-</div>
+# 'Train, Test, and Validation Sets'
 
-<p class="note-lede">Data-splitting lesson that demonstrates training, validation, and testing roles through interactive examples.</p>
-
-<div class="interactive-article" data-interactive-article="train-test-and-validation-sets">
-  <div class="interactive-module-stack">
-<section class="interactive-module" data-layout="chart" data-module-id="module-01">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 01 · interactive simulation/diagram module</span>
-    <h2>MLU-EXPL AI N</h2>
-    <p>Explains MLU-EXPL AI N within Train, Test, and Validation Sets using a parameterized scene that updates calculations and visuals as controls change.</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range, drag, click/tap. <strong>Response:</strong> moving sliders continuously updates model parameters and redraws the scene; dragging manipulates object/camera state and recomputes geometry instantly; click/tap actions switch ...</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-01" data-sim-module="train-test-and-validation-sets:module-01">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="MLU-EXPL AI N interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module is-reversed" data-layout="chart" data-module-id="module-02">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 02 · algorithm walkthrough module</span>
-    <h2>Train , Test , and Validation Sets</h2>
-    <p>Drag each animal in the training set to a new position to see how the boundary updates!</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> drag. <strong>Response:</strong> dragging repositions objects/camera and recomputes geometry instantly</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-02" data-sim-module="train-test-and-validation-sets:module-02">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="Train , Test , and Validation Sets interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module" data-layout="chart" data-module-id="module-03">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 03 · interactive simulation/diagram module</span>
-    <h2>The Importance of Data Splitting</h2>
-    <p>Shows candidate split boundaries and how node partitioning changes class purity and downstream tree structure.</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range, drag, click/tap. <strong>Response:</strong> moving sliders continuously updates model parameters and redraws the scene; dragging manipulates object/camera state and recomputes geometry instantly; click/tap actions switch ...</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-03" data-sim-module="train-test-and-validation-sets:module-03">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="The Importance of Data Splitting interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module is-reversed" data-layout="chart" data-module-id="module-04">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 04 · algorithm walkthrough module</span>
-    <h2>Train, Test, and Validation Splits</h2>
-    <p>Drag each animal in the training set to a new position to see how the boundary updates!</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> drag. <strong>Response:</strong> dragging repositions objects/camera and recomputes geometry instantly</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-04" data-sim-module="train-test-and-validation-sets:module-04">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="Train, Test, and Validation Splits interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module" data-layout="chart" data-module-id="module-05">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 05 · algorithm walkthrough module</span>
-    <h2>The Training Set</h2>
-    <p>Drag each animal in the training set to a new position to see how the boundary updates!</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> drag. <strong>Response:</strong> dragging repositions objects/camera and recomputes geometry instantly</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-05" data-sim-module="train-test-and-validation-sets:module-05">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="The Training Set interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module is-reversed" data-layout="chart" data-module-id="module-06">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 06 · algorithm walkthrough module</span>
-    <h2>Building Our Model</h2>
-    <p>Drag the pets across the line to see how the model performance updates!</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> drag. <strong>Response:</strong> dragging repositions objects/camera and recomputes geometry instantly</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-06" data-sim-module="train-test-and-validation-sets:module-06">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="Building Our Model interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module" data-layout="chart" data-module-id="module-07">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 07 · algorithm walkthrough module</span>
-    <h2>The Validation Set</h2>
-    <p>Shows data split roles and how model selection/evaluation differs across train, validation, and test partitions.</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range, drag, click/tap. <strong>Response:</strong> moving sliders continuously updates model parameters and redraws the scene; dragging manipulates object/camera state and recomputes geometry instantly; click/tap actions switch ...</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-07" data-sim-module="train-test-and-validation-sets:module-07">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="The Validation Set interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module is-reversed" data-layout="chart" data-module-id="module-08">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 08 · algorithm walkthrough module</span>
-    <h2>The Testing Set</h2>
-    <p>Shows data split roles and how model selection/evaluation differs across train, validation, and test partitions.</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range, drag, click/tap. <strong>Response:</strong> moving sliders continuously updates model parameters and redraws the scene; dragging manipulates object/camera state and recomputes geometry instantly; click/tap actions switch ...</p>
-  </div>
-  <div class="interactive-module-figure">
-<div class="interactive-sim" data-sim-scene="train-test-and-validation-sets:module-08" data-sim-module="train-test-and-validation-sets:module-08">
-  <div class="interactive-sim-stage stage-short">
-    <svg class="sim-svg" aria-label="The Testing Set interactive module"></svg>
-  </div>
-  <div class="interactive-sim-controls">
-    <button data-control="reset" type="button">reset split</button>
-  </div>
-</div>
-  </div>
-</section>
-
-<section class="interactive-module" data-layout="note" data-module-id="module-09">
-  <div class="interactive-module-copy">
-    <span class="casefile-label">Module 09 · reference/narrative section</span>
-    <h2>Summary</h2>
-    <p>Narrative/reference section in Train, Test, and Validation Sets that summarizes results and links supporting resources.</p>
-    <p class="interactive-module-meta"><strong>Controls:</strong> slider/range, drag, click/tap. <strong>Response:</strong> moving sliders continuously updates model parameters and redraws the scene; dragging manipulates object/camera state and recomputes geometry instantly; click/tap actions switch ...</p>
-  </div>
-  <div class="interactive-module-note">
-    <p>This section is narrative in the source article, so it stays Quartz-native while the adjacent interactive modules carry the live simulation state.</p>
-  </div>
-</section>
+<div class="interactive-bridge-hero">
+  <p class="kitchen-eyebrow">Legacy bridge</p>
+  <h2>'Train, Test, and Validation Sets' now lives on the dedicated interactive site.</h2>
+  <p>Data-splitting lesson that demonstrates training, validation, and testing roles through interactive examples. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <div class="kitchen-cta-row">
+    <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/train-test-and-validation-sets/" target="_blank" rel="noopener noreferrer">Open 'Train, Test, and Validation Sets'</a>
+    <a class="kitchen-cta" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">Browse all interactives</a>
   </div>
 </div>
 
-## What to notice
+## What changed
 
-<div class="note-observation-grid">
-  <div class="observation-card">
-    <h3>System behavior</h3>
-    <p>Data-splitting lesson that demonstrates training, validation, and testing roles through interactive examples.</p>
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">Canonical home</span>
+    <p>The live simulation, polish passes, and future updates now ship from the external interactive-explanation site.</p>
   </div>
-  <div class="observation-card">
-    <h3>Control surface</h3>
-    <p>The teaching pattern is direct manipulation: user input changes model parameters and the visual system responds immediately.</p>
+  <div>
+    <span class="casefile-label">Why keep this URL</span>
+    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
   </div>
-  <div class="observation-card">
-    <h3>Reading cue</h3>
-    <p>Train, Test, and Validation Sets works because the explanation stays attached to visible state changes.</p>
+  <div>
+    <span class="casefile-label">How to use it</span>
+    <p>Open the external version for the interactive itself, then return here only when you need the legacy note path inside the garden.</p>
   </div>
 </div>
 
-## Related notes
+## Reading path
 
-- [[Decision Trees]]
-- [[Random Forest]]
-- [[Precision Recall]]
+- Open the canonical interactive: <https://kohnnn.github.io/interactive-explanation/train-test-and-validation-sets/>
+- Browse the full lab: <https://kohnnn.github.io/interactive-explanation/>
+- Move through the local archive via [[Interactive]] or [[Visual Notes]]

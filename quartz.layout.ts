@@ -11,14 +11,18 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.DappledLight(),
     Component.StackedNotesContainer(),
-    Component.InteractiveSim(),
     Component.ArenaEnhancer(),
     Component.RelatedNotes({ tagFilter: "philosophy" }),
     Component.BacklinksGrid({ tagFilter: "philosophy" }),
   ],
   footer: Component.Footer({
+    blurb:
+      "Keith Kitchen is a curated atheneum for market systems, research notes, and working ideas.",
     links: {
       Home: "index",
+      Notes: "notes",
+      Portfolio: "Portfolio",
+      "Interactive Lab": "https://kohnnn.github.io/interactive-explanation/",
       GitHub: "https://github.com/Kohnnn/keith-digital-garden",
     },
   }),

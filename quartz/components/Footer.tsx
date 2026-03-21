@@ -16,7 +16,8 @@ export default ((opts?: Options) => {
     const blurb = opts?.blurb
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
+        <p class="footer-kicker">Service Counter</p>
+        <p class="footer-blurb">
           {blurb ? (
             `${blurb} © ${year}`
           ) : (
@@ -26,7 +27,7 @@ export default ((opts?: Options) => {
             </>
           )}
         </p>
-        <ul>
+        <ul class="footer-links">
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a

@@ -4,100 +4,42 @@ tags: [portfolio, blog, external, ciechanow, interactive, astronomy]
 draft: false
 description: Interactive lunar phase renderer for directional lighting, terminator motion, and contrast.
 created: 2024-12-17
-updated: 2026-03-06
+updated: 2026-03-21
 aliases: [Portfolio/Stuffs/Moon]
-cssclasses: [external-canvas-note, note-lab]
+cssclasses: [external-canvas-note, note-lab, interactive-bridge]
 ---
 
 # Moon
 
-<div class="source-card">
-  <span class="casefile-label">Original article</span>
-  <p><a href="https://ciechanow.ski/moon/" target="_blank" rel="noopener noreferrer">Moon by Bartosz Ciechanowski</a></p>
-</div>
-
-<p class="note-lede">This version keeps one main phase scrubber up front, then uses smaller compare views to make the terminator movement easier to read. The goal is not astronomical precision. It is lighting intuition.</p>
-
-<div class="interactive-sim" data-sim-scene="moon">
-  <div class="interactive-sim-stage">
-    <canvas class="sim-webgl" aria-label="Moon WebGL renderer"></canvas>
-    <canvas class="sim-overlay" aria-hidden="true"></canvas>
-  </div>
-  <div class="interactive-sim-controls">
-    <div class="interactive-sim-control">
-      <label for="moon-phase">phase scrubber</label>
-      <input id="moon-phase" data-control="phase" type="range" min="0" max="1" step="0.001" value="0.15" />
-    </div>
-    <button data-control="reset" type="button">reset phase</button>
+<div class="interactive-bridge-hero">
+  <p class="kitchen-eyebrow">Legacy bridge</p>
+  <h2>Moon now lives on the dedicated interactive site.</h2>
+  <p>Interactive lunar phase renderer for directional lighting, terminator motion, and contrast. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <div class="kitchen-cta-row">
+    <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/moon/" target="_blank" rel="noopener noreferrer">Open Moon</a>
+    <a class="kitchen-cta" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">Browse all interactives</a>
   </div>
 </div>
 
-## Terminator compare
+## What changed
 
-<div class="lab-compare-grid">
-  <div class="lab-compare-card">
-    <span class="casefile-label">Compare A</span>
-    <h3>Crescent lighting</h3>
-    <p>Start near the edge of illumination to see how grazing light exaggerates local relief.</p>
-    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="moon">
-      <div class="interactive-sim-stage stage-short">
-        <canvas class="sim-webgl" aria-label="Crescent moon comparison"></canvas>
-        <canvas class="sim-overlay" aria-hidden="true"></canvas>
-      </div>
-      <div class="interactive-sim-controls">
-        <div class="interactive-sim-control">
-          <label>phase</label>
-          <input data-control="phase" type="range" min="0" max="1" step="0.001" value="0.08" />
-        </div>
-        <button data-control="reset" type="button">reset compare</button>
-      </div>
-    </div>
+<div class="casefile-summary">
+  <div>
+    <span class="casefile-label">Canonical home</span>
+    <p>The live simulation, polish passes, and future updates now ship from the external interactive-explanation site.</p>
   </div>
-  <div class="lab-compare-card">
-    <span class="casefile-label">Compare B</span>
-    <h3>Gibbous lighting</h3>
-    <p>Shift toward a fuller phase to watch contrast flatten and the lit area broaden.</p>
-    <div class="interactive-sim interactive-sim-secondary" data-sim-scene="moon">
-      <div class="interactive-sim-stage stage-short">
-        <canvas class="sim-webgl" aria-label="Gibbous moon comparison"></canvas>
-        <canvas class="sim-overlay" aria-hidden="true"></canvas>
-      </div>
-      <div class="interactive-sim-controls">
-        <div class="interactive-sim-control">
-          <label>phase</label>
-          <input data-control="phase" type="range" min="0" max="1" step="0.001" value="0.72" />
-        </div>
-        <button data-control="reset" type="button">reset compare</button>
-      </div>
-    </div>
+  <div>
+    <span class="casefile-label">Why keep this URL</span>
+    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
+  </div>
+  <div>
+    <span class="casefile-label">How to use it</span>
+    <p>Open the external version for the interactive itself, then return here only when you need the legacy note path inside the garden.</p>
   </div>
 </div>
 
-## What to notice
+## Reading path
 
-<div class="note-observation-grid">
-  <div class="observation-card">
-    <h3>Lighting, not shape</h3>
-    <p>The moon does not change form. The light direction changes what surface information becomes visible.</p>
-  </div>
-  <div class="observation-card">
-    <h3>Terminator motion</h3>
-    <p>Most of the drama comes from the moving boundary between lit and dark regions.</p>
-  </div>
-  <div class="observation-card">
-    <h3>Relief encoding</h3>
-    <p>Near-crescent views make shallow surface detail feel deeper because the lighting is more oblique.</p>
-  </div>
-</div>
-
-## Limits
-
-- No real ephemeris or libration model
-- Procedural texture instead of mapped lunar terrain
-- Tuned for browser readability, not physical photometry
-
-## Related notes
-
-- [[Earth and Sun]]
-- [[GPS]]
-- [[Lights and Shadows]]
+- Open the canonical interactive: <https://kohnnn.github.io/interactive-explanation/moon/>
+- Browse the full lab: <https://kohnnn.github.io/interactive-explanation/>
+- Move through the local archive via [[Interactive]] or [[Visual Notes]]

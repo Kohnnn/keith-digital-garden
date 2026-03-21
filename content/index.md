@@ -4,7 +4,7 @@ tags: [home, guide]
 draft: false
 description: Orientation note for the Keith Kitchen garden, portfolio, and link atlas.
 created: 2026-01-30
-updated: 2026-03-07
+updated: 2026-03-21
 cssclasses: [branch-hub, kitchen-home]
 ---
 
@@ -25,7 +25,7 @@ cssclasses: [branch-hub, kitchen-home]
     <a class="kitchen-ticket" href="./notes" role="listitem">
       <span class="kitchen-ticket-status">Prep</span>
       <strong>Notes</strong>
-      <p>Interactive explainers, archive shelves, and branching trails.</p>
+      <p>Archive shelves, branching trails, and bridge pages into the external explainer lab.</p>
     </a>
     <a class="kitchen-ticket" href="./arena" role="listitem">
       <span class="kitchen-ticket-status">Shelf</span>
@@ -57,7 +57,7 @@ cssclasses: [branch-hub, kitchen-home]
   </div>
   <div class="journey-step">
     <span class="proof-label">Archive shelf</span>
-    <p>The older short-form archive lives under <a href="./Notes/Interactive">Notes/Interactive</a> and the cleaner public doors live in <a href="./Dispatches">Dispatches</a>.</p>
+    <p>The short-form archive lives behind <a href="./Dispatches">Dispatches</a>. The simulation-heavy explainers now live in <a href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">Interactive Explanation</a>.</p>
   </div>
 </div>
 
@@ -69,10 +69,10 @@ cssclasses: [branch-hub, kitchen-home]
     <h3>Portfolio</h3>
     <p>The shortest route to casefiles, experience, and contact.</p>
   </a>
-  <a class="writing-card" href="./Notes/Interactive/Moon">
-    <span class="casefile-label">Interactive</span>
-    <h3>Moon</h3>
-    <p>A good example of the visual-note branch: simulation first, analysis in between.</p>
+  <a class="writing-card" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">
+    <span class="casefile-label">Explanation lab</span>
+    <h3>Interactive Explanation</h3>
+    <p>The dedicated home for simulations and step-by-step visual explainers, now separated from the main garden.</p>
   </a>
   <a class="writing-card" href="./Portfolio/Blog">
     <span class="casefile-label">Writing</span>

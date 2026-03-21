@@ -2,15 +2,19 @@
 title: Visual Notes
 tags: [notes, interactive, explorable]
 draft: false
-description: Quartz-native visual notes rebuilt module by module from explorable source compilations.
+description: Legacy index for visual-note bridge pages that now point to the external interactive-explanation site.
 created: 2026-03-07
-updated: 2026-03-08
+updated: 2026-03-21
 cssclasses: [branch-hub]
 ---
 
 # Visual Notes
 
-This shelf now tracks the source articles at the module level. Each note uses ordered inline demos instead of a single hero simulation with preset jumps.
+This shelf is now an index of legacy bridge pages. The live simulations and polished interactive experiences moved to the external lab.
+
+## Open the canonical site
+
+- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
 
 ## Ciechanowski set
 

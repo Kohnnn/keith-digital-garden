@@ -4,13 +4,13 @@ tags: [dispatches, archive, notes]
 draft: false
 description: Neutral public entry into the archived briefings, research digests, and topic snapshots.
 created: 2026-03-07
-updated: 2026-03-07
+updated: 2026-03-21
 cssclasses: [branch-hub]
 ---
 
 # Dispatches
 
-This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The archive now lives inside `Notes/Interactive`, and these shelves are the cleaner public doors into it.
+This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The short-form archive stays in the garden, while the simulation-heavy explainers moved to their own dedicated site.
 
 ## Branches
 
@@ -40,10 +40,10 @@ This is the public route into the archived short-form note system. These pages a
     <h3>Thoughtpieces</h3>
     <p>Opinionated framing notes that sit closer to essays than briefs.</p>
   </a>
-  <a class="writing-card" href="./Visual-Notes">
-    <span class="casefile-label">Visual branch</span>
-    <h3>Visual notes</h3>
-    <p>The simulation-heavy side of the archive, adapted from Bartosz Ciechanowski’s article set.</p>
+  <a class="writing-card" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">
+    <span class="casefile-label">Explanation lab</span>
+    <h3>Interactive Explanation</h3>
+    <p>The simulation-heavy side now lives on its own site, with each legacy note acting as a bridge back to the canonical interactive.</p>
   </a>
 </div>
 
@@ -52,6 +52,5 @@ This is the public route into the archived short-form note system. These pages a
 - Start here when you want breadth rather than a single long read.
 - Use the folder pages as shelves, not as a linear sequence.
 - The public branch names stay neutral on purpose; the archive matters more than the drafting workflow behind it.
-- Use [[Notes/Interactive|Interactive]] when you want the archive as a single note branch instead of separate shelves.
-- Move back to [[Visual Notes]] when you want interactive explanations instead of briefs.
+- Use [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) when you want simulations and explorable visual explanations.
 - Move back to [[Portfolio/Blog|Research notes]] when you want more deliberate market writing.

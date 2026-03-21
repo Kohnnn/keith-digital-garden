@@ -4,7 +4,7 @@ tags: [portfolio, research, writing]
 draft: false
 description: Writing index for market updates, framework notes, and selected technical explainers.
 created: 2026-01-30
-updated: 2026-03-13
+updated: 2026-03-21
 aliases: [Blog]
 cssclasses: [portfolio-page, research-notes]
 ---
@@ -30,7 +30,7 @@ cssclasses: [portfolio-page, research-notes]
   </div>
   <div>
     <span class="casefile-label">What shows up here</span>
-    <p>Market memos, cycle frameworks, technical explainers, and interactive note labs for systems I want to understand deeply.</p>
+    <p>Market memos, cycle frameworks, technical explainers, and outbound bridges to the dedicated interactive-explanation site.</p>
   </div>
 </div>
 
@@ -86,22 +86,10 @@ cssclasses: [portfolio-page, research-notes]
     <span>local RAG, monitoring, retrieval, publishing</span>
   </a>
 
-  <a class="subblog-row" href="../Notes/Interactive/Moon">
-    <span>interactive note</span>
-    <span>Moon</span>
-    <span>lighting, geometry, visual explanation</span>
-  </a>
-
-  <a class="subblog-row" href="../Notes/Interactive/GPS">
-    <span>interactive note</span>
-    <span>GPS</span>
-    <span>trilateration, noise, confidence geometry</span>
-  </a>
-
-  <a class="subblog-row" href="../Notes/Interactive/Color-Spaces">
-    <span>interactive note</span>
-    <span>Color spaces</span>
-    <span>RGB intuition, luminance, perceptual tradeoffs</span>
+  <a class="subblog-row" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">
+    <span>external lab</span>
+    <span>Interactive Explanation</span>
+    <span>canonical home for Moon, GPS, Mechanical Watch, Color Spaces, and future visual explainers</span>
   </a>
 </div>
 
@@ -118,7 +106,7 @@ cssclasses: [portfolio-page, research-notes]
   </div>
   <div class="decision-card">
     <strong>Explain</strong>
-    Technical and interactive notes force concepts to become concrete enough to teach.
+    Technical notes and dedicated interactive explainers force concepts to become concrete enough to teach.
   </div>
   <div class="decision-card">
     <strong>Reuse</strong>
@@ -130,10 +118,10 @@ cssclasses: [portfolio-page, research-notes]
 
 - Published research stays close to actual market questions, frameworks, or tools I actively use.
 - Weekly updates matter because they show the operating record, not just the final conclusion.
-- Interactive notes stay in the portfolio because they reveal how I break down systems, not only what I trade or model.
+- Interactive explainers now live on their own site so the garden can stay editorial while the simulations stay product-like.
 
 ## See also
 
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio|Portfolio hub]]
-- [[Notes/Interactive|Interactive notes]]
+- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)

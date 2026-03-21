@@ -2681,15 +2681,16 @@ article.interactive-bridge,
 
 .kitchen-home article {
   .kitchen-pass-board {
-    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
-    gap: 1.15rem;
-    padding: 1.15rem;
+    grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
+    gap: 1.3rem;
+    padding: 1.2rem;
     border-radius: 28px;
   }
 
   .kitchen-pass-copy {
     justify-content: flex-start;
     padding-right: 0.8rem;
+    min-width: 0;
   }
 
   .kitchen-pass-title {
@@ -2697,17 +2698,141 @@ article.interactive-bridge,
     font-size: clamp(2rem, 4.5vw, 3.2rem);
   }
 
+  .kitchen-pass-note {
+    max-width: 30ch;
+  }
+
   .kitchen-pass-grid {
+    min-width: 0;
     align-content: start;
   }
 
-  .writing-grid {
+  .kitchen-ticket.internal,
+  .kitchen-start-card.internal {
+    background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+    padding: 0.95rem 1rem;
+    line-height: normal;
+    border-radius: 18px;
+  }
+
+  .kitchen-ticket strong,
+  .kitchen-ticket p,
+  .kitchen-start-card h3,
+  .kitchen-start-card p {
+    overflow-wrap: anywhere;
+  }
+
+  .kitchen-start-grid {
+    display: grid;
     grid-template-columns: minmax(0, 1.25fr) repeat(3, minmax(0, 1fr));
+    gap: 0.9rem;
+    margin: 1rem 0 1.35rem;
     align-items: stretch;
   }
 
-  .writing-grid > :first-child {
-    grid-column: span 1;
+  .kitchen-start-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 0;
+    min-height: 210px;
+    padding: 1rem 1.05rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
+    border-radius: 20px;
+    background:
+      linear-gradient(
+        160deg,
+        color-mix(in srgb, var(--light) 97%, var(--secondary) 3%),
+        color-mix(in srgb, var(--light) 92%, var(--tertiary) 8%)
+      ),
+      radial-gradient(
+        110% 140% at 100% 0%,
+        color-mix(in srgb, var(--secondary) 12%, transparent 88%) 0%,
+        transparent 55%
+      );
+    color: var(--dark);
+    text-decoration: none;
+    box-shadow: 0 18px 36px rgba(28, 32, 44, 0.05);
+    transition:
+      transform 180ms ease,
+      border-color 180ms ease,
+      background 180ms ease,
+      box-shadow 180ms ease;
+  }
+
+  .kitchen-start-card:hover {
+    transform: translateY(-2px);
+    border-color: color-mix(in srgb, var(--secondary) 32%, var(--lightgray) 68%);
+    background:
+      linear-gradient(
+        160deg,
+        color-mix(in srgb, var(--light) 94%, var(--secondary) 6%),
+        color-mix(in srgb, var(--light) 89%, var(--tertiary) 11%)
+      ),
+      radial-gradient(
+        110% 140% at 100% 0%,
+        color-mix(in srgb, var(--secondary) 18%, transparent 82%) 0%,
+        transparent 55%
+      );
+    box-shadow: 0 20px 40px rgba(28, 32, 44, 0.08);
+  }
+
+  .kitchen-start-card--primary {
+    grid-column: span 2;
+    min-height: 250px;
+  }
+
+  .kitchen-start-card--external {
+    background:
+      linear-gradient(
+        160deg,
+        color-mix(in srgb, var(--light) 96%, var(--tertiary) 4%),
+        color-mix(in srgb, var(--light) 91%, var(--secondary) 9%)
+      ),
+      radial-gradient(
+        110% 140% at 100% 0%,
+        color-mix(in srgb, var(--tertiary) 16%, transparent 84%) 0%,
+        transparent 55%
+      );
+  }
+
+  .kitchen-start-card h3 {
+    margin: 0.45rem 0 0.55rem;
+    font-size: clamp(1.3rem, 2vw, 1.9rem);
+    line-height: 1.02;
+    text-wrap: balance;
+  }
+
+  .kitchen-start-card p {
+    margin: 0;
+    max-width: 28ch;
+    font-size: 0.96rem;
+    line-height: 1.55;
+  }
+
+  .kitchen-mobile-summary {
+    display: none;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.65rem;
+    margin: 0.4rem 0 1.15rem;
+  }
+
+  .kitchen-mobile-chip {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    min-width: 0;
+    padding: 0.8rem 0.85rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 16%, var(--lightgray) 84%);
+    border-radius: 16px;
+    background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
+    box-shadow: 0 12px 24px rgba(20, 24, 32, 0.04);
+  }
+
+  .kitchen-mobile-chip strong {
+    overflow-wrap: anywhere;
+    font-size: 0.95rem;
+    line-height: 1.15;
   }
 }
 
@@ -2757,8 +2882,62 @@ footer .footer-links a {
 }
 
 @media all and (max-width: 1200px) {
-  .kitchen-home article .writing-grid {
+  .kitchen-home article .kitchen-pass-board {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-home article .kitchen-pass-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .kitchen-home article .kitchen-start-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .kitchen-home article .kitchen-start-card--primary {
+    grid-column: span 2;
+  }
+}
+
+@media all and (max-width: 960px) {
+  .kitchen-home article .kitchen-pass-board {
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .kitchen-home article .kitchen-pass-copy {
+    padding-right: 0;
+  }
+
+  .kitchen-home article .kitchen-pass-title {
+    max-width: 11ch;
+    font-size: clamp(1.9rem, 7vw, 2.7rem);
+  }
+
+  .kitchen-home article .kitchen-pass-note,
+  .kitchen-home article .kitchen-start-card p,
+  .kitchen-home article .journey-step p {
+    max-width: none;
+    font-size: 0.93rem;
+  }
+
+  .kitchen-home article .reading-journey {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.7rem;
+  }
+
+  .kitchen-home article .journey-step,
+  .kitchen-home article .kitchen-ticket,
+  .kitchen-home article .kitchen-start-card {
+    padding: 0.9rem;
+  }
+
+  .kitchen-home article .kitchen-start-card {
+    min-height: 180px;
+  }
+
+  .kitchen-home article .kitchen-start-card h3 {
+    font-size: clamp(1.16rem, 3.2vw, 1.55rem);
   }
 }
 
@@ -2786,7 +2965,109 @@ footer .footer-links a {
     max-width: 12ch;
   }
 
-  .kitchen-home article .writing-grid {
+  .kitchen-home article .kitchen-mobile-summary {
+    display: grid;
+  }
+
+  .kitchen-home article .kitchen-pass-grid {
+    gap: 0.6rem;
+  }
+
+  .kitchen-home article .kitchen-ticket {
+    padding: 0.78rem 0.82rem;
+    border-radius: 14px;
+  }
+
+  .kitchen-home article .kitchen-ticket strong {
+    font-size: 1rem;
+  }
+
+  .kitchen-home article .kitchen-ticket p {
+    font-size: 0.84rem;
+    line-height: 1.38;
+  }
+
+  .kitchen-home article .reading-journey {
     grid-template-columns: 1fr;
+    margin-top: 0.85rem;
+  }
+
+  .kitchen-home article .journey-step {
+    padding: 0.82rem 0.88rem;
+  }
+
+  .kitchen-home article .kitchen-pass-grid,
+  .kitchen-home article .kitchen-start-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-home article .kitchen-start-card,
+  .kitchen-home article .kitchen-start-card--primary {
+    grid-column: 1 / -1;
+    min-height: 0;
+  }
+
+  .kitchen-home article .kitchen-start-card {
+    gap: 0.85rem;
+    padding: 0.9rem;
+    border-radius: 18px;
+  }
+
+  .kitchen-home article .kitchen-start-card h3 {
+    margin: 0.32rem 0 0.4rem;
+    font-size: 1.2rem;
+    line-height: 1.05;
+  }
+
+  .kitchen-home article h2 {
+    margin-top: 1.45rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+  }
+}
+
+@media all and (max-width: 520px) {
+  .kitchen-home article .kitchen-pass-board {
+    margin-top: 0.15rem;
+    padding: 0.88rem;
+    border-radius: 22px;
+  }
+
+  .kitchen-home article .kitchen-pass-title {
+    max-width: 9.5ch;
+    font-size: clamp(1.7rem, 9vw, 2.2rem);
+    line-height: 0.98;
+  }
+
+  .kitchen-home article .kitchen-pass-note {
+    font-size: 0.88rem;
+    line-height: 1.46;
+  }
+
+  .kitchen-home article .kitchen-mobile-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-home article .kitchen-mobile-chip {
+    padding: 0.72rem 0.78rem;
+  }
+
+  .kitchen-home article .kitchen-ticket-status,
+  .kitchen-home article .casefile-label,
+  .kitchen-home article .proof-label,
+  .kitchen-home article .kitchen-eyebrow {
+    font-size: 0.64rem;
+    letter-spacing: 0.07em;
+  }
+
+  .kitchen-home article .journey-step,
+  .kitchen-home article .kitchen-start-card {
+    padding: 0.8rem;
+  }
+
+  .kitchen-home article .kitchen-start-card p,
+  .kitchen-home article .journey-step p {
+    font-size: 0.88rem;
+    line-height: 1.45;
   }
 }

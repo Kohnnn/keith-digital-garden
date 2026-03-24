@@ -16,7 +16,7 @@ This shelf tracks the engineering side of the archive: tools, interfaces, produc
 
 - Open the full archive shelf: [[Notes/Interactive/Tech_Journal|Tech journal shelf]]
 - Move to [[Field Notes]] for broader fragments and non-engineering topics.
-- Move to [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) for the simulation-heavy side of the technical writing.
+- Move to [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/) for the flagship interactive on the simulation-heavy side of the technical writing.
 
 ## Reading posture
 

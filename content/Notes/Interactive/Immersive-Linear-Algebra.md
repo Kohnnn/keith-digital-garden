@@ -27,12 +27,11 @@ cssclasses:
 # Immersive Linear Algebra
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Legacy bridge</p>
+  <p class="kitchen-eyebrow">Interactive note</p>
   <h2>Immersive Linear Algebra now lives on the dedicated interactive site.</h2>
   <p>Immersive linear algebra learning site (access currently unavailable from this audit environment) intended to teach vectors, transforms, and geometric intuition interactively. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/immersive-linear-algebra/" target="_blank" rel="noopener noreferrer">Open Immersive Linear Algebra</a>
-    <a class="kitchen-cta" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">Browse all interactives</a>
   </div>
 </div>
 
@@ -40,8 +39,8 @@ cssclasses:
 
 <div class="casefile-summary">
   <div>
-    <span class="casefile-label">Canonical home</span>
-    <p>The live simulation, polish passes, and future updates now ship from the external interactive-explanation site.</p>
+    <span class="casefile-label">Live interactive</span>
+    <p>The maintained version lives at the route linked here, with this garden note keeping the embed and editorial framing.</p>
   </div>
   <div>
     <span class="casefile-label">Why keep this URL</span>
@@ -49,12 +48,11 @@ cssclasses:
   </div>
   <div>
     <span class="casefile-label">How to use it</span>
-    <p>Open the external version for the interactive itself, then return here only when you need the legacy note path inside the garden.</p>
+    <p>Use the live route for the full experience, then use this note when you want the embed, context, and garden backlinks in one place.</p>
   </div>
 </div>
 
 ## Reading path
 
-- Open the canonical interactive: <https://kohnnn.github.io/interactive-explanation/immersive-linear-algebra/>
-- Browse the full lab: <https://kohnnn.github.io/interactive-explanation/>
+- Open the live interactive: <https://kohnnn.github.io/interactive-explanation/immersive-linear-algebra/>
 - Move through the local archive via [[Interactive]] or [[Visual Notes]]

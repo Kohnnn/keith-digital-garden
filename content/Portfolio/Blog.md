@@ -30,7 +30,7 @@ cssclasses: [portfolio-page, research-notes]
   </div>
   <div>
     <span class="casefile-label">What shows up here</span>
-    <p>Market memos, cycle frameworks, technical explainers, and outbound bridges to the dedicated interactive-explanation site.</p>
+    <p>Market memos, cycle frameworks, technical explainers, and direct bridges into the live interactive notes.</p>
   </div>
 </div>
 
@@ -86,10 +86,10 @@ cssclasses: [portfolio-page, research-notes]
     <span>local RAG, monitoring, retrieval, publishing</span>
   </a>
 
-  <a class="subblog-row" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">
-    <span>external lab</span>
-    <span>Interactive Explanation</span>
-    <span>canonical home for Moon, GPS, Mechanical Watch, Color Spaces, and future visual explainers</span>
+  <a class="subblog-row" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer">
+    <span>flagship interactive</span>
+    <span>Mechanical Watch</span>
+    <span>lead visual explainer for the garden: power flow, escapement timing, and mechanical systems intuition</span>
   </a>
 </div>
 
@@ -118,10 +118,10 @@ cssclasses: [portfolio-page, research-notes]
 
 - Published research stays close to actual market questions, frameworks, or tools I actively use.
 - Weekly updates matter because they show the operating record, not just the final conclusion.
-- Interactive explainers now live on their own site so the garden can stay editorial while the simulations stay product-like.
+- Interactive notes now link straight to their live routes so the garden stays editorial while the simulations stay product-like.
 
 ## See also
 
 - [[Portfolio/Projects|Casefiles]]
 - [[Portfolio|Portfolio hub]]
-- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
+- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)

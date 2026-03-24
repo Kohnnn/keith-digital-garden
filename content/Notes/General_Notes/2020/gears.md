@@ -25,7 +25,7 @@ cssclasses:
 
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
-Gears surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://ciechanow.ski/gears/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Gears surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([interactive note](https://kohnnn.github.io/interactive-explanation/gears/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The story puts a spotlight on gears, which matters because it reframes where teams allocate attention. My claim: this is less about a single win and more about how the stack and the market are rebalancing around trust and durability.

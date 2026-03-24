@@ -26,7 +26,7 @@ cssclasses:
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
 ## scene cut
-The Cameras and Lenses interactive showed how optics work through direct manipulation ([source](https://ciechanow.ski/cameras-and-lenses/)). It translated abstract physics into hands-on intuition.
+The Cameras and Lenses interactive showed how optics work through direct manipulation ([interactive note](https://kohnnn.github.io/interactive-explanation/cameras-and-lenses/)). It translated abstract physics into hands-on intuition.
 
 ## signal braid
 - Optics concepts are teachable with visuals.

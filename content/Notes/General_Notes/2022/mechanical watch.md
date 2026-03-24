@@ -25,7 +25,7 @@ cssclasses:
 
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
-mechanical watch is a pressure test for how this stack behaves in the real world ([source](https://ciechanow.ski/mechanical-watch/)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
+mechanical watch is a pressure test for how this stack behaves in the real world ([interactive note](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)). I read it less as a headline and more as a constraint reveal. The interesting part is what it forces teams to stop pretending about.
 
 ## context + claim
 mechanical watch shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.

@@ -14,11 +14,11 @@ cssclasses:
 
 # Visual Notes
 
-This page indexes the interactive notes I reference the most, grouped by what they teach. The simulations live in the external lab; these local pages keep the backlinks, short editorial summaries, and embedded canvases that make it easy to revisit a concept without hunting for the route.
+This page indexes the interactive notes I reference the most, grouped by what they teach. Each local page keeps the backlinks, short editorial summaries, and embedded canvas so the live route stays attached to the idea it explains.
 
-## Open the lab
+## Featured route
 
-- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
+- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
 
 ## Visual explainers
 
@@ -76,6 +76,6 @@ Simulations that make feedback loops, voting systems, and cryptography tangible.
 
 ## How these pages work
 
-- Each note includes an embedded iframe for the interactive, plus short editorial context about what to try first.
-- Canonical routes live on the external site; local pages preserve archive URLs and backlinks.
-- If a route 404s, check the route inventory on the [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) home page and open the correct slug from there.
+- Each note includes an embedded iframe for its live interactive, plus short editorial context about what to try first.
+- Each note links directly to its own live route; local pages preserve archive URLs and backlinks.
+- If an embed fails, open the direct route linked inside that note.

@@ -16,7 +16,7 @@ This shelf holds the broadest part of the archive: cross-domain observations, sm
 
 - Open the full archive shelf: [[Notes/Interactive/General_Notes|General notes shelf]]
 - Move sideways into [[Research Digests]] when you want tighter source synthesis.
-- Move sideways into [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) when you want simulations instead of short briefs.
+- Move sideways into [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/) when you want the flagship interactive note instead of short briefs.
 
 ## Reading posture
 

@@ -16,11 +16,11 @@ cssclasses:
 
 # Interactive
 
-This page collects the interactive explainers I keep returning to. The simulation-heavy labs now live in a dedicated site; this index groups them by the questions they answer rather than by the original creators.
+This page collects the interactive explainers I keep returning to. Each note points straight to its live route, so this index can stay focused on the questions each piece helps answer.
 
-## Open the lab
+## Featured route
 
-- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
+- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
 
 ## Explore by theme
 
@@ -60,6 +60,6 @@ Hashing, signatures, and zero-knowledge proofs explored as interactive labs rath
 
 ## How these notes work
 
-- Each theme page includes an embedded iframe where the interactive lives, plus short editorial notes about what to try first.
-- Canonical routes live on the external site. Local pages stay as stable archive URLs, backlink anchors, and entry points into this garden.
-- If a link lands on a 404, check the route inventory on the [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) home page and open the correct slug from there.
+- Each theme page includes an embedded iframe for the live interactive, plus short editorial notes about what to try first.
+- Each note links directly to its own live route. Local pages stay as stable archive URLs, backlink anchors, and entry points into this garden.
+- If an embed fails, use the direct route linked inside the note header or reading path.

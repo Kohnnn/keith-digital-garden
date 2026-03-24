@@ -10,7 +10,7 @@ cssclasses: [branch-hub]
 
 # Dispatches
 
-This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The short-form archive stays in the garden, while the simulation-heavy explainers moved to their own dedicated site.
+This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The short-form archive stays in the garden, while the flagship interactive notes open directly on their live routes.
 
 ## Branches
 
@@ -40,10 +40,10 @@ This is the public route into the archived short-form note system. These pages a
     <h3>Thoughtpieces</h3>
     <p>Opinionated framing notes that sit closer to essays than briefs.</p>
   </a>
-  <a class="writing-card" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">
-    <span class="casefile-label">Explanation lab</span>
-    <h3>Interactive Explanation</h3>
-    <p>The simulation-heavy side now lives on its own site, with each legacy note acting as a bridge back to the canonical interactive.</p>
+  <a class="writing-card" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer">
+    <span class="casefile-label">Flagship interactive</span>
+    <h3>Mechanical Watch</h3>
+    <p>Open the lead visual explainer directly when you want a high-signal interactive instead of a short archive note.</p>
   </a>
 </div>
 
@@ -52,5 +52,5 @@ This is the public route into the archived short-form note system. These pages a
 - Start here when you want breadth rather than a single long read.
 - Use the folder pages as shelves, not as a linear sequence.
 - The public branch names stay neutral on purpose; the archive matters more than the drafting workflow behind it.
-- Use [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) when you want simulations and explorable visual explanations.
+- Use [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/) when you want a direct route into the visual-explainer side of the work.
 - Move back to [[Portfolio/Blog|Research notes]] when you want more deliberate market writing.

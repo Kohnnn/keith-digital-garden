@@ -25,7 +25,7 @@ cssclasses:
 
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
-Mechanical Watch surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://ciechanow.ski/mechanical-watch/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Mechanical Watch surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([interactive note](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Mechanical Watch signals an engineering shift that will ripple through tooling and workflows. My claim: the technical change matters because it reshapes defaults more than it adds features.

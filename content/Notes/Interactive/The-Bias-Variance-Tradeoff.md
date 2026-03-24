@@ -30,7 +30,6 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/bias-variance/" target="_blank" rel="noopener noreferrer">Open The Bias-Variance Tradeoff</a>
-    <a class="kitchen-cta" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">Browse all interactives</a>
   </div>
 </div>
 
@@ -47,7 +46,7 @@ cssclasses:
   </div>
   <div>
     <span class="casefile-label">Where it lives</span>
-    <p>The canonical simulation ships from the external lab; this local page preserves the garden path and backlinks.</p>
+    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
   </div>
 </div>
 
@@ -65,6 +64,5 @@ cssclasses:
 
 ## Reading path
 
-- Open the canonical interactive: <https://kohnnn.github.io/interactive-explanation/bias-variance/>
-- Browse the full lab: <https://kohnnn.github.io/interactive-explanation/>
+- Open the live interactive: <https://kohnnn.github.io/interactive-explanation/bias-variance/>
 - Continue via [[Interactive]] or [[Visual Notes]]

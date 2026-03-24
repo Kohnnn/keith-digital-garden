@@ -27,11 +27,11 @@ cssclasses:
 
 <div class="inline-ref">
   <span class="inline-note">ref</span>
-  <a class="ref-link" href="https://ciechanow.ski/bicycle/">ciechanow.ski</a>
+  <a class="ref-link" href="https://kohnnn.github.io/interactive-explanation/bicycle/">interactive note</a>
   <span class="ref-title">Bicycle</span>
 </div>
 
-Bicycle is a pressure test for how this cycle behaves ([source](https://ciechanow.ski/bicycle/)). I care less about the headline and more about the constraints it reveals. The interesting part is what defaults this makes feel inevitable.
+Bicycle is a pressure test for how this cycle behaves ([interactive note](https://kohnnn.github.io/interactive-explanation/bicycle/)). I care less about the headline and more about the constraints it reveals. The interesting part is what defaults this makes feel inevitable.
 
 ## context + claim
 bicycle shifts the center of gravity toward a new default. My claim is simple: this is a habit-forming change, not a one-off event. If teams internalize the behavior, the market follows.

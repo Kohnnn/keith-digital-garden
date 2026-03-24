@@ -60,9 +60,9 @@ The best technical content is often interface design. This kind of work sets a h
 </ul>
 
 ## sources
-> [!ref] Ciechanow.ski - Mechanical Watch
-> https://ciechanow.ski/mechanical-watch/
-> Why it matters: Primary interactive explainer and reference.
+> [!ref] Interactive Note - Mechanical Watch
+> https://kohnnn.github.io/interactive-explanation/mechanical-watch/
+> Why it matters: Live route for the maintained interactive experience.
 
 ## linkage
 <div class="linkage-tree">

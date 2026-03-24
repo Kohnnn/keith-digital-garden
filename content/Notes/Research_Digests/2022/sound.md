@@ -25,7 +25,7 @@ cssclasses:
 
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
-Sound surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://ciechanow.ski/sound/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Sound surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([interactive note](https://kohnnn.github.io/interactive-explanation/sound/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 The piece aggregates evidence around sound, giving a snapshot of how the trend is moving. My claim: the data shows a structural shift that operators should treat as baseline, not a temporary spike.

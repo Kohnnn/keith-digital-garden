@@ -25,7 +25,7 @@ cssclasses:
 
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
-GPS surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://ciechanow.ski/gps/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+GPS surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([interactive note](https://kohnnn.github.io/interactive-explanation/gps/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 This reads as a cultural signal wrapped in gps, not just a news item. My claim: we are watching a shift in narrative power, where the story people tell about the work becomes the work.

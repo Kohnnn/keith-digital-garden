@@ -25,7 +25,7 @@ cssclasses:
 
 *see also:* [[Latency Budget]] · [[Platform Risk]]
 
-Mechanical Watch surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([source](https://ciechanow.ski/mechanical-watch/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
+Mechanical Watch surfaced as a high-signal public thread and points to a broader shift in how builders respond to the current cycle ([interactive note](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)). I see it as a hinge between immediate outcomes and longer-term incentives. The headline is not just the event but the behavior it reveals.
 
 ## context + claim
 Mechanical Watch sits inside the market narrative for this period and reflects changing risk appetites. My claim: pricing is reacting to regime expectations more than fundamentals.

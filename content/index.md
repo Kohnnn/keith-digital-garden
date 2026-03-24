@@ -28,7 +28,7 @@ cssclasses: [branch-hub, kitchen-home]
     <a class="kitchen-ticket" href="./notes" role="listitem">
       <span class="kitchen-ticket-status">Prep</span>
       <strong>The Pantry</strong>
-      <p>Archive shelves, branching trails, and bridge pages into the external explainer lab.</p>
+      <p>Archive shelves, branching trails, and bridge pages into the live interactive notes.</p>
     </a>
     <a class="kitchen-ticket" href="./arena" role="listitem">
       <span class="kitchen-ticket-status">Shelf</span>
@@ -79,7 +79,7 @@ cssclasses: [branch-hub, kitchen-home]
   </div>
   <div class="journey-step">
     <span class="proof-label">Explainer lab</span>
-    <p>The short-form archive lives behind <a href="./Dispatches">Dispatches</a>. The simulation-heavy explainers now live in <a href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer">Interactive Explanation</a>.</p>
+    <p>The short-form archive lives behind <a href="./Dispatches">Dispatches</a>. Mechanical Watch is the flagship interactive note, with the rest of the visual explainers linked from their own garden pages.</p>
   </div>
 </div>
 
@@ -101,9 +101,9 @@ cssclasses: [branch-hub, kitchen-home]
     <h3>Browse Dispatches</h3>
     <p>Enter the short-form archive through cleaner branch doors instead of raw folder sprawl.</p>
   </a>
-  <a class="kitchen-start-card kitchen-start-card--external" href="https://kohnnn.github.io/interactive-explanation/" target="_blank" rel="noopener noreferrer" role="listitem">
-    <span class="casefile-label">External lab</span>
-    <h3>Open Interactive Explanation</h3>
-    <p>Use the dedicated explainer site for simulations, mechanics, and step-by-step visual intuition.</p>
+  <a class="kitchen-start-card kitchen-start-card--external" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer" role="listitem">
+    <span class="casefile-label">Flagship interactive</span>
+    <h3>Open Mechanical Watch</h3>
+    <p>Start with the lead visual explainer for the garden: escapements, gear trains, torque flow, and mechanical timing.</p>
   </a>
 </div>

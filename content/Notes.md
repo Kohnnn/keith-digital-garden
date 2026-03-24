@@ -12,7 +12,7 @@ cssclasses: [branch-hub]
 
 # Notes
 
-This is the wider garden: archive shelves, topic notes, explainers, and branches that sit outside the portfolio casefiles. The live simulations now live on a separate site. Use tags, backlinks, and stacked reading when you want to move laterally.
+This is the wider garden: archive shelves, topic notes, explainers, and branches that sit outside the portfolio casefiles. The live simulations now open on direct note routes. Use tags, backlinks, and stacked reading when you want to move laterally.
 
 ## Start here
 
@@ -20,11 +20,11 @@ This is the wider garden: archive shelves, topic notes, explainers, and branches
 - [[Dispatches]]
 - [[Field Notes]]
 - [[Tech Journal]]
-- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
+- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
 
 ## Archive shelves
 
-- [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
+- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
 - [[Field Notes]]
 - [[Research Digests]]
 - [[Tech Journal]]

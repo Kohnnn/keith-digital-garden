@@ -60,9 +60,9 @@ This is the kind of work that changes how people think about infrastructure. It 
 </ul>
 
 ## sources
-> [!ref] Ciechanow.ski - GPS
-> https://ciechanow.ski/gps/
-> Why it matters: Primary interactive reference and explanation.
+> [!ref] Interactive Note - GPS
+> https://kohnnn.github.io/interactive-explanation/gps/
+> Why it matters: Live route for the maintained interactive experience.
 
 ## linkage
 <div class="linkage-tree">

@@ -60,8 +60,8 @@ These pieces set the bar for technical education. The main takeaway is that inte
 </ul>
 
 ## sources
-> [!ref] Ciechanow.ski - Sound
-> https://ciechanow.ski/sound/
+> [!ref] Interactive Note - Sound
+> https://kohnnn.github.io/interactive-explanation/sound/
 > Why it matters: Primary interactive reference.
 
 ## linkage

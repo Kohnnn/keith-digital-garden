@@ -1,57 +1,81 @@
 ---
 title: Visual Notes
-tags: [notes, interactive, explorable]
+tags:
+  - portfolio
+  - interactive
+  - curiosity
 draft: false
-description: Legacy index for visual-note bridge pages that now point to the external interactive-explanation site.
-created: 2026-03-07
-updated: 2026-03-21
-cssclasses: [branch-hub]
+description: Theme-first index of the visual explainers and simulations I keep returning to.
+created: "2026-03-07"
+updated: "2026-03-24"
+cssclasses:
+  - branch-hub
 ---
 
 # Visual Notes
 
-This shelf is now an index of legacy bridge pages. The live simulations and polished interactive experiences moved to the external lab.
+This page indexes the interactive notes I reference the most, grouped by what they teach. The simulations live in the external lab; these local pages keep the backlinks, short editorial summaries, and embedded canvases that make it easy to revisit a concept without hunting for the route.
 
-## Open the canonical site
+## Open the lab
 
 - [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/)
 
-## Ciechanowski set
+## Visual explainers
 
-- [[Notes/Interactive/Airfoil|Airfoil]]
-- [[Notes/Interactive/Alpha-Compositing|Alpha Compositing]]
-- [[Notes/Interactive/Bicycle|Bicycle]]
-- [[Notes/Interactive/Cameras-and-Lenses|Cameras and Lenses]]
-- [[Notes/Interactive/Color-Spaces|Color Spaces]]
-- [[Notes/Interactive/Curves-and-Surfaces|Curves and Surfaces]]
-- [[Notes/Interactive/Earth-and-Sun|Earth and Sun]]
-- [[Notes/Interactive/Gears|Gears]]
-- [[Notes/Interactive/GPS|GPS]]
-- [[Notes/Interactive/Internal-Combustion-Engine|Internal Combustion Engine]]
-- [[Notes/Interactive/Lights-and-Shadows|Lights and Shadows]]
-- [[Notes/Interactive/Mechanical-Watch|Mechanical Watch]]
-- [[Notes/Interactive/Naval-Architecture|Naval Architecture]]
-- [[Notes/Interactive/Sound|Sound]]
-- [[Notes/Interactive/Tesseract|Tesseract]]
+### Physical intuition
 
-## Additional explainers
+Ciechanowski-style explainers that turn physics, optics, and geometry into interactive play.
 
-- [[Notes/Interactive/Hysteresis-and-Slack|Hysteresis & Slack]]
-- [[Notes/Interactive/Immersive-Linear-Algebra|Immersive Linear Algebra]]
-- [[Notes/Interactive/Load-Balancing|Load Balancing]]
-- [[Notes/Interactive/Memory-Allocation|Memory Allocation]]
-- [[Notes/Interactive/Reading-QR-Codes-without-a-Computer|Reading QR codes without a computer!]]
-- [[Notes/Interactive/Rigid-Body-Collisions|Rigid Body Collisions]]
+- [[Notes/Interactive/Airfoil|Airfoil]] — lift, pressure, and flow around a wing.
+- [[Notes/Interactive/Bicycle|Bicycle]] — gearing, cadence, and mechanical advantage.
+- [[Notes/Interactive/Cameras-and-Lenses|Cameras and Lenses]] — focal length, aperture, and depth-of-field intuition.
+- [[Notes/Interactive/Gears|Gears]] — meshing ratios, torque transfer, and mechanical systems.
+- [[Notes/Interactive/GPS|GPS]] — trilateration, timing, and satellite geometry.
+- [[Notes/Interactive/Internal-Combustion-Engine|Internal Combustion Engine]] — four-stroke cycles and energy conversion.
+- [[Notes/Interactive/Mechanical-Watch|Mechanical Watch]] — escapements, gear trains, and timing.
+- [[Notes/Interactive/Naval-Architecture|Naval Architecture]] — buoyancy, stability, and hull shapes.
+- [[Notes/Interactive/Sound|Sound]] — particle motion, pressure waves, and superposition.
+- [[Notes/Interactive/Tesseract|Tesseract]] — 4D geometry via projections and rotations.
 
-## MLU explainers
+### Signal, color, and light
 
-- [[Notes/Interactive/Decision-Trees|Decision Trees]]
-- [[Notes/Interactive/Double-Descent-2|Double Descent 2]]
-- [[Notes/Interactive/Double-Descent|Double Descent]]
-- [[Notes/Interactive/Linear-Regression|Linear Regression]]
-- [[Notes/Interactive/Logistic-Regression|Logistic Regression]]
-- [[Notes/Interactive/Precision-Recall|Precision & Recall]]
-- [[Notes/Interactive/Random-Forest|Random Forest]]
-- [[Notes/Interactive/ROC-AUC|ROC & AUC]]
-- [[Notes/Interactive/The-Bias-Variance-Tradeoff|The Bias Variance Tradeoff]]
-- [[Notes/Interactive/Train-Test-and-Validation-Sets|Train, Test, and Validation Sets]]
+Explorations of color spaces, compositing, and shadow mechanics.
+
+- [[Notes/Interactive/Alpha-Compositing|Alpha Compositing]] — blending math and coverage.
+- [[Notes/Interactive/Color-Spaces|Color Spaces]] — perceptual models and conversions.
+- [[Notes/Interactive/Curves-and-Surfaces|Curves and Surfaces]] — parametric geometry.
+- [[Notes/Interactive/Drawing-Bezier-Curves|Drawing Bezier Curves]] — control-point intuition.
+- [[Notes/Interactive/Earth-and-Sun|Earth and Sun]] — light, shadow, and orbital geometry.
+- [[Notes/Interactive/Lights-and-Shadows|Lights and Shadows]] — projection, penumbra, and occlusion.
+
+### Data and model intuition
+
+Interactive drills that connect data splits, evaluation metrics, and model behavior.
+
+- [[Notes/Interactive/Train-Test-and-Validation-Sets|Train, Test, and Validation Sets]] — drag data, update boundaries, feel why the test set stays untouched.
+- [[Notes/Interactive/The-Bias-Variance-Tradeoff|The Bias-Variance Tradeoff]] — underfitting vs. overfitting as a complexity knob.
+- [[Notes/Interactive/ROC-AUC|ROC & AUC]] — threshold sweeps and AUC interpretation.
+- [[Notes/Interactive/Principal-Component-Analysis|Principal Component Analysis]] — rotate your attention, not just your axes.
+- [[Notes/Interactive/Linear-Regression|Linear Regression]] — least squares and residual intuition.
+- [[Notes/Interactive/Logistic-Regression|Logistic Regression]] — decision boundaries and probability.
+- [[Notes/Interactive/Random-Forest|Random Forest]] — bagging, feature randomness, majority vote.
+- [[Notes/Interactive/Decision-Trees|Decision Trees]] — splits, impurity, and greedy growth.
+- [[Notes/Interactive/Precision-Recall|Precision & Recall]] — confusion matrix tradeoffs.
+
+### Systems and proof playgrounds
+
+Simulations that make feedback loops, voting systems, and cryptography tangible.
+
+- [[Notes/Interactive/The-Evolution-of-Trust|The Evolution of Trust]] — repeated-game cooperation, noise, and repair.
+- [[Notes/Interactive/Parable-of-the-Polygons|Parable of the Polygons]] — small biases, tipping points, and segregation.
+- [[Notes/Interactive/To-Build-a-Better-Ballot|To Build a Better Ballot]] — voting systems with draggable electorates.
+- [[Notes/Interactive/LOOPY|LOOPY]] — draw, tune, and simulate feedback systems.
+- [[Notes/Interactive/Blockchain|Blockchain]] — chained state, nonce updates, and tamper cascades.
+- [[Notes/Interactive/Public-Private-Keys|Public / Private Keys]] — key generation, signing, verification.
+- [[Notes/Interactive/Zero-Knowledge-Proof-Demo|Zero-Knowledge Proof Demo]] — proof without disclosure.
+
+## How these pages work
+
+- Each note includes an embedded iframe for the interactive, plus short editorial context about what to try first.
+- Canonical routes live on the external site; local pages preserve archive URLs and backlinks.
+- If a route 404s, check the route inventory on the [Interactive Explanation](https://kohnnn.github.io/interactive-explanation/) home page and open the correct slug from there.

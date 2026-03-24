@@ -4,7 +4,7 @@ tags: [portfolio, hub]
 draft: false
 description: Hiring-facing overview grounded in real research work, shipped tools, and operating history.
 created: 2026-01-30
-updated: 2026-03-13
+updated: 2026-03-24
 aliases: [portfolio, Portfolio/Portfolio]
 cssclasses: [portfolio-page, portfolio-hub]
 ---
@@ -14,39 +14,40 @@ cssclasses: [portfolio-page, portfolio-hub]
 <div class="portfolio-storyboard">
   <section class="portfolio-anchor-card">
     <p class="kitchen-eyebrow">Portfolio atlas</p>
-    <h2>Sell-side research, market systems, and analyst tooling built from real coverage work.</h2>
-    <p class="portfolio-anchor-note">The base layer is institutional: bottom-up consumer coverage at Vietcap, credit and reporting work at BIDV, and alternative-data research at UEH. The builds on this site are what grew out of that training: dashboards, pricing tools, Vietnam-market products, and automation that make research faster to run and easier to review.</p>
+    <h2>I build research systems that stay grounded in real finance work.</h2>
+    <p class="portfolio-anchor-note">My base layer is institutional: consumer coverage work at Vietcap, credit-process work at BIDV, and award-winning research at UEH. The portfolio grows out of that training: casefiles, dashboards, GitHub builds, and interactive notes that make analysis easier to run, review, and explain.</p>
     <div class="kitchen-cta-row">
       <a class="kitchen-cta primary" href="./Projects">Start with casefiles</a>
       <a class="kitchen-cta" href="./Resume">Experience log</a>
-      <a class="kitchen-cta" href="./Blog">Research notes</a>
+      <a class="kitchen-cta" href="https://github.com/Kohnnn" target="_blank" rel="noopener noreferrer">GitHub work</a>
+      <a class="kitchen-cta" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer">Mechanical Watch</a>
       <a class="kitchen-cta" href="./Contact">Contact</a>
     </div>
   </section>
   <div class="portfolio-status-tile portfolio-status-tile--seat">
     <span class="proof-label">Current seat</span>
     <strong>Research intern at Vietcap Securities</strong>
-    <p>Consumer coverage support, model maintenance, AGM and earnings updates, and workflow cleanup during live reporting cycles.</p>
+    <p>I support consumer coverage, update financial models, join AGM and earnings-call work, and now help lead quarterly earnings research during live reporting cycles.</p>
   </div>
   <div class="portfolio-status-tile portfolio-status-tile--fit">
     <span class="proof-label">Institutional base</span>
     <strong>Vietcap, BIDV, and UEH</strong>
-    <p>The portfolio is backed by sell-side coverage work, credit-management process exposure, and award-winning academic research on volatility and alternative data.</p>
+    <p>I bring together sell-side coverage work, credit-process discipline, and academic research on volatility, sentiment, and alternative data.</p>
   </div>
   <div class="portfolio-status-tile portfolio-status-tile--proof">
     <span class="proof-label">Proof stack</span>
     <strong>Fastest read on the operating edge</strong>
     <ul class="portfolio-proof-list">
-      <li><strong>5 consumer names</strong><span>bottom-up research and recommendation support with the Vietcap consumer team</span></li>
-      <li><strong>3 workflows automated</strong><span>research operations rebuilt for faster monitoring and memo prep</span></li>
-      <li><strong>80-company universe</strong><span>AI vision monitoring for recurring corporate-update checks</span></li>
-      <li><strong>UEH research track</strong><span>volatility, Twitter sentiment, and geopolitical-risk work recognized at VBER HCMC</span></li>
+      <li><strong>5 consumer names</strong><span>I support bottom-up research and recommendation work with the Vietcap consumer team</span></li>
+      <li><strong>7+ management touchpoints</strong><span>I synthesize AGM and earnings-call updates into cleaner decision notes</span></li>
+      <li><strong>3 workflows automated</strong><span>I built monitoring and memo-prep systems, including an 80-company corporate-update monitor</span></li>
+      <li><strong>Top 10% finance graduate</strong><span>I finished UEH ISB with an 8.2/10 GPA and a Young Scholar research award</span></li>
     </ul>
   </div>
   <div class="portfolio-status-tile portfolio-status-tile--focus">
     <span class="proof-label">Best fit</span>
     <strong>Research roles where systems leverage matters</strong>
-    <p>Best fit is analyst, quant-adjacent, or finance-product work where better dashboards, automation, and documentation improve decision quality.</p>
+    <p>I fit best in analyst, quant-adjacent, and finance-product roles where better dashboards, automation, and documentation improve decision quality.</p>
   </div>
 </div>
 
@@ -56,7 +57,7 @@ cssclasses: [portfolio-page, portfolio-hub]
   <a class="portfolio-route-card portfolio-route-card--primary" href="./Projects">
     <span class="portfolio-route-kicker">Fast proof path</span>
     <span class="portfolio-route-title">Casefiles</span>
-    <p>The clearest read on how I work: VNIBB turns finance-tooling instincts into a Vietnam-first product, the crypto stack shows the recurring review loop, and the option plus AI builds show quant and automation depth.</p>
+    <p>This is the clearest read on how I work: VNIBB turns my finance-tooling instinct into a Vietnam-first product, the crypto stack shows the recurring review loop, and the option plus AI builds show quant and automation depth.</p>
     <ul class="portfolio-route-points">
       <li><strong>VNIBB</strong> extends the old dashboard and screening instinct into a 40-plus-widget market product.</li>
       <li><strong>Crypto dashboard and playbook</strong> show how I frame halving cycles, liquidity, dominance, and altcoin selection.</li>
@@ -73,20 +74,20 @@ cssclasses: [portfolio-page, portfolio-hub]
     <a class="portfolio-route-card portfolio-route-card--secondary" href="./Resume">
       <span class="portfolio-route-kicker">Timeline</span>
       <span class="portfolio-route-title">Experience log</span>
-      <p>Follow the institutional line: Vietcap consumer coverage, BIDV credit work, and UEH research projects, with the systems work visible inside each role.</p>
+      <p>Follow the institutional line from UEH research to BIDV credit work to Vietcap consumer coverage, with the systems habit visible inside each role.</p>
       <span class="portfolio-route-meta">Bottom-up research, reporting, automation</span>
     </a>
-    <a class="portfolio-route-card portfolio-route-card--secondary" href="./Blog">
-      <span class="portfolio-route-kicker">Writing layer</span>
-      <span class="portfolio-route-title">Research notes</span>
-      <p>Weekly market updates, standing frameworks, and explainer notes that keep the thinking process reviewable in public.</p>
-      <span class="portfolio-route-meta">Market updates, frameworks, note labs</span>
+    <a class="portfolio-route-card portfolio-route-card--secondary" href="https://github.com/Kohnnn" target="_blank" rel="noopener noreferrer">
+      <span class="portfolio-route-kicker">Public build log</span>
+      <span class="portfolio-route-title">GitHub work</span>
+      <p>I use GitHub to ship the repo layer behind VNIBB, option pricing, research automation, and local-AI workflow experiments.</p>
+      <span class="portfolio-route-meta">49 repos, public build history, reusable tooling</span>
     </a>
-    <a class="portfolio-route-card portfolio-route-card--secondary" href="./Contact">
-      <span class="portfolio-route-kicker">Direct line</span>
-      <span class="portfolio-route-title">Contact</span>
-      <p>The shortest route for role context, collaboration fit, and outreach if you want the finance plus tooling combination on your team.</p>
-      <span class="portfolio-route-meta">Email, LinkedIn, Ho Chi Minh City</span>
+    <a class="portfolio-route-card portfolio-route-card--secondary" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer">
+      <span class="portfolio-route-kicker">Flagship interactive</span>
+      <span class="portfolio-route-title">Mechanical Watch</span>
+      <p>This is my lead visual explainer: a clean proof that I care about clarity, systems intuition, and making technical ideas easier to explore.</p>
+      <span class="portfolio-route-meta">Interactive explanation, teaching surface, flagship note</span>
     </a>
   </div>
 </div>

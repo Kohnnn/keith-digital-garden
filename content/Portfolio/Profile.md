@@ -4,7 +4,7 @@ tags: [portfolio, profile, finance]
 draft: false
 description: Role fit, domain coverage, and working style grounded in actual experience.
 created: 2026-01-30
-updated: 2026-03-13
+updated: 2026-03-24
 aliases: [Profile]
 cssclasses: [portfolio-page]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Role-fit map</p>
-  <h2>Research builder with institutional finance training and a bias toward dashboards, systems, and explicit documentation.</h2>
-  <p>The portfolio fits best in environments where analysis is only half the job and the other half is designing a better surface to observe, update, and communicate that analysis.</p>
+  <h2>I am a research builder with institutional finance training and a bias toward dashboards, systems, and explicit documentation.</h2>
+  <p>I do my best work in environments where analysis is only half the job and the other half is designing a better surface to observe, update, and communicate that analysis.</p>
 </div>
 
 ## Snapshot
@@ -22,15 +22,15 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Current seat</span>
-    <p>Research intern supporting consumer-equity coverage at Vietcap Securities.</p>
+    <p>I currently work as a research intern supporting consumer-equity coverage at Vietcap Securities.</p>
   </div>
   <div>
     <span class="casefile-label">Build lane</span>
-    <p>Dashboards, option tools, Vietnam-market products, and local AI workflows built around real research habits.</p>
+    <p>I build dashboards, option tools, Vietnam-market products, and local-AI workflows around real research habits.</p>
   </div>
   <div>
     <span class="casefile-label">Best fit</span>
-    <p>Equity research, quant-adjacent research, research operations, and finance-product roles where systems leverage matters.</p>
+    <p>I fit best in equity research, quant-adjacent research, research operations, and finance-product roles where systems leverage matters.</p>
   </div>
 </div>
 
@@ -53,6 +53,21 @@ cssclasses: [portfolio-page]
     <span class="casefile-label">Research automation</span>
     <p>AI vision monitoring, local RAG, webhooks, and browser workflows built to reduce analyst turnaround time.</p>
   </div>
+</div>
+
+## Public proof
+
+<div class="writing-grid">
+  <a class="writing-card" href="https://github.com/Kohnnn" target="_blank" rel="noopener noreferrer">
+    <span class="casefile-label">GitHub work</span>
+    <h3>Public repos</h3>
+    <p>I use GitHub as the public build layer behind VNIBB, option pricing, local AI automation, and publishing workflows.</p>
+  </a>
+  <a class="writing-card" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer">
+    <span class="casefile-label">Flagship interactive</span>
+    <h3>Mechanical Watch</h3>
+    <p>I feature Mechanical Watch because it shows the same thing I want from research work: precision, legibility, and systems intuition.</p>
+  </a>
 </div>
 
 ## How I operate
@@ -106,19 +121,19 @@ cssclasses: [portfolio-page]
 <div class="signal-grid">
   <div class="signal-card">
     <div class="signal-label">Vietcap Securities</div>
-    <p>Consumer-equity research support, model maintenance, AGM notes, and workflow automation.</p>
+    <p>I support consumer-equity research, maintain models, synthesize AGM notes, and automate recurring workflow steps.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">BIDV</div>
-    <p>Credit-management process work, mortgage comps, reporting support, and spreadsheet cleanup.</p>
+    <p>I learned credit-process discipline through mortgage comps, reporting support, and spreadsheet cleanup at BIDV.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">UEH research assistant</div>
-    <p>Search intensity, stock volatility, Twitter sentiment, Bitcoin, and geopolitical-risk research using R and Python.</p>
+    <p>I worked on search intensity, stock volatility, Twitter sentiment, Bitcoin, and geopolitical-risk research using R and Python workflows.</p>
   </div>
   <div class="signal-card">
     <div class="signal-label">Independent builder</div>
-    <p>Dashboards, pricing tools, local AI workflows, and market products that push the portfolio beyond static note-taking.</p>
+    <p>I extend that institutional base with dashboards, pricing tools, local-AI workflows, and market products that go beyond static note-taking.</p>
   </div>
 </div>
 

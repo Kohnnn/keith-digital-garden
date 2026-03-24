@@ -11,7 +11,7 @@ description: >-
   End-to-end GPS explainer including trilateration, clock bias, orbital motion,
   satellite visibility, and signal propagation constraints.
 created: "2022-01-18"
-updated: 2026-03-21
+updated: 2026-03-24
 aliases:
   - Portfolio/Stuffs/GPS
 cssclasses:
@@ -24,15 +24,19 @@ cssclasses:
 # GPS
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Interactive note</p>
-  <h2>GPS now lives on the dedicated interactive site.</h2>
-  <p>End-to-end GPS explainer including trilateration, clock bias, orbital motion, satellite visibility, and signal propagation constraints. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <p class="kitchen-eyebrow">Flagship-adjacent · invisible systems</p>
+  <h2>Timing error, trilateration, and orbital geometry in one mental model.</h2>
+  <p>
+    GPS feels like magic until you can see the timing problem underneath it. This note connects
+    satellites, clock bias, line-of-sight geometry, and signal travel time so the system reads like
+    engineering instead of mystery.
+  </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/gps/" target="_blank" rel="noopener noreferrer">Open GPS</a>
   </div>
 </div>
 
-## What changed
+## What you'll notice
 
 <div class="casefile-summary">
   <div>
@@ -40,16 +44,29 @@ cssclasses:
     <p>The maintained version lives at the route linked here, with this garden note keeping the embed and editorial framing.</p>
   </div>
   <div>
-    <span class="casefile-label">Why keep this URL</span>
-    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
+    <span class="casefile-label">Why this matters</span>
+    <p>Positioning systems usually get reduced to a map dot. This shows the hidden timing and geometry that make the map dot possible.</p>
   </div>
   <div>
-    <span class="casefile-label">How to use it</span>
-    <p>Use the live route for the full experience, then use this note when you want the embed, context, and garden backlinks in one place.</p>
+    <span class="casefile-label">What to try first</span>
+    <p>Start with trilateration, then add clock bias and satellite motion. The big jump happens when you see how a tiny timing error turns into a large positioning error.</p>
   </div>
+</div>
+
+## Embed
+
+<div class="external-canvas-wrap">
+  <iframe
+    src="https://kohnnn.github.io/interactive-explanation/gps/"
+    title="GPS interactive"
+    loading="lazy"
+    allow="fullscreen"
+    referrerpolicy="no-referrer"
+  ></iframe>
 </div>
 
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/gps/>
-- Move through the local archive via [[Interactive]] or [[Visual Notes]]
+- Continue through [[Visual Notes]] for more geometry and systems explainers
+- Pair it with [[Mechanical-Watch]] if you want another precision-timing system from a completely different domain

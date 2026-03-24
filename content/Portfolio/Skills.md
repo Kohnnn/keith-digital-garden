@@ -4,7 +4,7 @@ tags: [portfolio, skills]
 draft: false
 description: Competencies grouped by the work they support, with concrete tools and methods.
 created: 2026-01-30
-updated: 2026-03-13
+updated: 2026-03-24
 aliases: [Skills]
 cssclasses: [portfolio-page]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Capability shelf</p>
-  <h2>The strongest throughline is not one tool. It is the ability to move from analysis to system design without losing financial rigor.</h2>
-  <p>The skill mix comes from real overlap: equity research, crypto market work, quantitative study, dashboard communication, and automation used to reduce research friction.</p>
+  <h2>My strongest throughline is not one tool. It is the ability to move from analysis to system design without losing financial rigor.</h2>
+  <p>My skill mix comes from real overlap: equity research, crypto market work, quantitative study, dashboard communication, and automation used to reduce research friction.</p>
 </div>
 
 ## Capability map
@@ -51,19 +51,19 @@ cssclasses: [portfolio-page]
 <div class="decision-map">
   <div class="decision-card">
     <strong>Model work</strong>
-    Excel, VBA, SQL, and structured templates for valuation, assumptions, and review discipline.
+    I use Excel, VBA, SQL, and structured templates for valuation, assumptions, and review discipline.
   </div>
   <div class="decision-card">
     <strong>Market dashboards</strong>
-    Tableau, Power BI, Looker Studio, TradingView, and custom interface work for recurring signal checks.
+    I use Tableau, Power BI, Looker Studio, TradingView, and custom interface work for recurring signal checks.
   </div>
   <div class="decision-card">
     <strong>Research automation</strong>
-    Python, browser monitoring, n8n, webhooks, and local RAG workflows for monitoring or memo acceleration.
+    I use Python, browser monitoring, n8n, webhooks, and local RAG workflows for monitoring or memo acceleration.
   </div>
   <div class="decision-card">
     <strong>Communication surfaces</strong>
-    Obsidian-style note systems, casefiles, technical docs, and narrative dashboards that preserve reasoning in public.
+    I use note systems, casefiles, technical docs, and narrative dashboards to preserve reasoning in public.
   </div>
 </div>
 
@@ -115,19 +115,19 @@ cssclasses: [portfolio-page]
 <div class="decision-map">
   <div class="decision-card">
     <strong>Coverage updates</strong>
-    Faster model refreshes, cleaner company-update synthesis, and more disciplined recommendation support.
+    I use these skills for faster model refreshes, cleaner company-update synthesis, and more disciplined recommendation support.
   </div>
   <div class="decision-card">
     <strong>Market monitoring</strong>
-    Better separation between structural signals and noise through dashboards, indicator stacks, and review cadence.
+    I use them to separate structural signals from noise through dashboards, indicator stacks, and review cadence.
   </div>
   <div class="decision-card">
     <strong>Pricing and quant explainers</strong>
-    Stronger intuition around derivatives, sensitivities, and scenario comparison without hiding behind jargon.
+    I use them to build stronger intuition around derivatives, sensitivities, and scenario comparison without hiding behind jargon.
   </div>
   <div class="decision-card">
     <strong>Research operations</strong>
-    Lower monitoring drag, faster first drafts, and more reusable research output through automation.
+    I use them to lower monitoring drag, speed up first drafts, and make research output more reusable through automation.
   </div>
 </div>
 

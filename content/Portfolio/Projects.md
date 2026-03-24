@@ -4,7 +4,7 @@ tags: [portfolio, projects]
 draft: false
 description: Case study index for finance, market-research, and automation projects.
 created: 2026-01-30
-updated: 2026-03-13
+updated: 2026-03-24
 aliases: [Projects]
 cssclasses: [portfolio-page]
 ---
@@ -14,7 +14,7 @@ cssclasses: [portfolio-page]
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Casefile shelf</p>
   <h2>Each casefile ties a real research question to the surface I built to run it better.</h2>
-  <p>The throughline is practical rather than decorative: consumer coverage support, crypto market review, derivatives study, Vietnam-market product design, and automation that reduces manual drag.</p>
+  <p>I care about practical leverage more than decorative projects: consumer coverage support, crypto market review, derivatives study, Vietnam-market product design, and automation that reduces manual drag.</p>
 </div>
 
 ## Portfolio lens
@@ -22,15 +22,15 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Institutional base</span>
-    <p>Sell-side research at Vietcap, credit and reporting work at BIDV, and academic research at UEH shape the standards behind the builds.</p>
+    <p>My standards come from sell-side research at Vietcap, credit and reporting work at BIDV, and academic research at UEH.</p>
   </div>
   <div>
     <span class="casefile-label">Independent build lane</span>
-    <p>Dashboards, pricing tools, and automation projects extend that training into products and reusable analyst infrastructure.</p>
+    <p>I extend that training into dashboards, pricing tools, and automation projects that behave like reusable analyst infrastructure.</p>
   </div>
   <div>
     <span class="casefile-label">Best place to start</span>
-    <p>Read VNIBB first, then the crypto stack, then option pricing and AI workflows for the technical range.</p>
+    <p>I would start with VNIBB, then the crypto stack, then option pricing and AI workflows for the technical range.</p>
   </div>
 </div>
 
@@ -153,23 +153,28 @@ cssclasses: [portfolio-page]
   </a>
 </div>
 
-## Secondary builds
+## GitHub work
 
 <div class="repo-grid">
   <div class="repo-card">
-    <span class="casefile-label">Screening</span>
-    <h3><a href="https://github.com/Kohnnn/stock-screening" target="_blank" rel="noopener noreferrer">stock-screening</a></h3>
-    <p>Vietnamese market screener and interface layer that sits close to the VNIBB direction.</p>
+    <span class="casefile-label">Profile</span>
+    <h3><a href="https://github.com/Kohnnn" target="_blank" rel="noopener noreferrer">Kohnnn on GitHub</a></h3>
+    <p>I use GitHub as the public build log behind my casefiles, research tooling, local AI workflows, and product experiments.</p>
+  </div>
+  <div class="repo-card">
+    <span class="casefile-label">Platform</span>
+    <h3><a href="https://github.com/Kohnnn/vnibb" target="_blank" rel="noopener noreferrer">vnibb</a></h3>
+    <p>The public repo footprint behind my Vietnam-first financial analytics direction.</p>
+  </div>
+  <div class="repo-card">
+    <span class="casefile-label">Quant</span>
+    <h3><a href="https://github.com/Kohnnn/option-pricing-model" target="_blank" rel="noopener noreferrer">option-pricing-model</a></h3>
+    <p>The repo behind my option-pricing explainer and practical derivatives tooling.</p>
   </div>
   <div class="repo-card">
     <span class="casefile-label">Local AI</span>
-    <h3><a href="https://github.com/Kohnnn/deepseek-local-ai-starter-kit" target="_blank" rel="noopener noreferrer">deepseek-local-ai-starter-kit</a></h3>
-    <p>Local-first starter stack for model serving, retrieval, and self-hosted AI experiments.</p>
-  </div>
-  <div class="repo-card">
-    <span class="casefile-label">Monitoring</span>
-    <h3><a href="https://github.com/Kohnnn/gemini-vision-AI-website-monitor" target="_blank" rel="noopener noreferrer">gemini-vision-AI-website-monitor</a></h3>
-    <p>Visual website-monitoring workflow developed for recurring corporate-update checks.</p>
+    <h3><a href="https://github.com/Kohnnn/deepseek-n8n-automate-workflow" target="_blank" rel="noopener noreferrer">deepseek-n8n-automate-workflow</a></h3>
+    <p>A public starter environment for self-hosted AI, workflow automation, and low-code experimentation.</p>
   </div>
   <div class="repo-card">
     <span class="casefile-label">Retrieval ops</span>
@@ -179,7 +184,7 @@ cssclasses: [portfolio-page]
   <div class="repo-card">
     <span class="casefile-label">Publishing</span>
     <h3><a href="https://github.com/Kohnnn/obsidian-post-webhook" target="_blank" rel="noopener noreferrer">obsidian-post-webhook</a></h3>
-    <p>Bridge between working notes and public output so research can move cleanly into finished surfaces.</p>
+    <p>A bridge between working notes and public output so research can move cleanly into finished surfaces.</p>
   </div>
 </div>
 

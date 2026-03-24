@@ -4,7 +4,7 @@ tags: [portfolio, research, writing]
 draft: false
 description: Writing index for market updates, framework notes, and selected technical explainers.
 created: 2026-01-30
-updated: 2026-03-21
+updated: 2026-03-24
 aliases: [Blog]
 cssclasses: [portfolio-page, research-notes]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page, research-notes]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Research notes shelf</p>
-  <h2>Weekly market updates, framework notes, and explainer labs that keep the research process visible.</h2>
-  <p>This is the writing layer behind the dashboards and casefiles. It carries the same job the old personal blog tried to do, but in a more useful format: recurring market observations, standing frameworks, and note labs that can be reused later.</p>
+  <h2>I use this shelf for weekly market updates, framework notes, and explainer labs that keep my research process visible.</h2>
+  <p>This is the writing layer behind my dashboards and casefiles. It does the job my old personal blog tried to do, but in a more useful format: recurring market observations, standing frameworks, and note labs I can reuse later.</p>
 </div>
 
 ## Writing system
@@ -22,15 +22,15 @@ cssclasses: [portfolio-page, research-notes]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Recurring output</span>
-    <p>Weekly market updates and recurring financial insights tied to real review loops, not one-off hot takes.</p>
+    <p>I publish weekly market updates and recurring financial notes tied to real review loops, not one-off hot takes.</p>
   </div>
   <div>
     <span class="casefile-label">Why it matters</span>
-    <p>Writing is used to preserve context, clarify the current call, and keep decisions auditable after the market moves on.</p>
+    <p>I use writing to preserve context, clarify the current call, and keep decisions auditable after the market moves on.</p>
   </div>
   <div>
     <span class="casefile-label">What shows up here</span>
-    <p>Market memos, cycle frameworks, technical explainers, and direct bridges into the live interactive notes.</p>
+    <p>I keep market memos, cycle frameworks, technical explainers, and direct bridges into the live interactive notes here.</p>
   </div>
 </div>
 
@@ -98,27 +98,27 @@ cssclasses: [portfolio-page, research-notes]
 <div class="decision-map">
   <div class="decision-card">
     <strong>Observe</strong>
-    Weekly notes and dashboards preserve market-state changes as they happen.
+    I use weekly notes and dashboards to preserve market-state changes as they happen.
   </div>
   <div class="decision-card">
     <strong>Frame</strong>
-    Framework notes turn recurring questions into reusable decision logic.
+    I turn recurring questions into reusable decision logic through framework notes.
   </div>
   <div class="decision-card">
     <strong>Explain</strong>
-    Technical notes and dedicated interactive explainers force concepts to become concrete enough to teach.
+    I use technical notes and dedicated interactive explainers to make concepts concrete enough to teach.
   </div>
   <div class="decision-card">
     <strong>Reuse</strong>
-    Outputs feed directly back into casefiles, watchlists, and future market reviews.
+    I feed those outputs back into casefiles, watchlists, and future market reviews.
   </div>
 </div>
 
 ## Notes policy
 
-- Published research stays close to actual market questions, frameworks, or tools I actively use.
-- Weekly updates matter because they show the operating record, not just the final conclusion.
-- Interactive notes now link straight to their live routes so the garden stays editorial while the simulations stay product-like.
+- I keep published research close to actual market questions, frameworks, or tools I actively use.
+- Weekly updates matter to me because they show the operating record, not just the final conclusion.
+- I link interactive notes straight to their live routes so the garden stays editorial while the simulations stay product-like.
 
 ## See also
 

@@ -4,7 +4,7 @@ tags: [portfolio, contact]
 draft: false
 description: Contact channels, role fit, and collaboration preferences.
 created: 2026-01-30
-updated: 2026-03-13
+updated: 2026-03-24
 aliases: [Contact]
 cssclasses: [portfolio-page]
 ---
@@ -13,8 +13,8 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Contact lane</p>
-  <h2>Open to research, finance-product, and workflow-heavy roles where better systems improve decision quality.</h2>
-  <p>The strongest fit is work that sits near analysis and execution at the same time: equity research, quant-adjacent research, research operations, or market-data product roles where evidence and tooling both matter.</p>
+  <h2>I am open to research, finance-product, and workflow-heavy roles where better systems improve decision quality.</h2>
+  <p>I fit best in work that sits near analysis and execution at the same time: equity research, quant-adjacent research, research operations, or market-data product roles where evidence and tooling both matter.</p>
 </div>
 
 ## Contact lanes
@@ -33,12 +33,17 @@ cssclasses: [portfolio-page]
   <a class="writing-card" href="https://linkedin.com/in/kiet-vo-097" target="_blank" rel="noopener noreferrer">
     <span class="casefile-label">Professional profile</span>
     <h3>LinkedIn</h3>
-    <p>Timeline, background, and role context.</p>
+    <p>The quickest place to verify my background, timeline, and current role context.</p>
+  </a>
+  <a class="writing-card" href="https://github.com/Kohnnn" target="_blank" rel="noopener noreferrer">
+    <span class="casefile-label">Public build log</span>
+    <h3>GitHub</h3>
+    <p>This is where I ship the repo layer behind my casefiles, tooling, and workflow experiments.</p>
   </a>
   <div class="writing-card">
     <span class="casefile-label">Location</span>
     <h3>Ho Chi Minh City</h3>
-    <p>Vietnam, GMT+7. Remote collaboration and cross-time-zone calls are workable.</p>
+    <p>I am based in Vietnam, GMT+7. Remote collaboration and cross-time-zone calls are workable.</p>
   </div>
 </div>
 
@@ -47,7 +52,7 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Role context</span>
-    <p>Share the team, role type, and whether the work is research, product, or research-ops heavy.</p>
+    <p>Tell me the team, the role type, and whether the work leans more toward research, product, or research operations.</p>
   </div>
   <div>
     <span class="casefile-label">Decision surface</span>
@@ -55,7 +60,7 @@ cssclasses: [portfolio-page]
   </div>
   <div>
     <span class="casefile-label">Timing</span>
-    <p>Include expected timeline and interview process so the follow-up can stay efficient.</p>
+    <p>Include the expected timeline and interview process so I can keep the follow-up efficient.</p>
   </div>
 </div>
 
@@ -64,19 +69,19 @@ cssclasses: [portfolio-page]
 <div class="decision-map">
   <div class="decision-card">
     <strong>Equity and market research</strong>
-    Roles where bottom-up work, model updates, and evidence-based communication are central.
+    I fit roles where bottom-up work, model updates, and evidence-based communication are central.
   </div>
   <div class="decision-card">
     <strong>Quant-adjacent research</strong>
-    Work where explicit framework logic, pricing intuition, and signal design matter.
+    I am a good fit for work where explicit framework logic, pricing intuition, and signal design matter.
   </div>
   <div class="decision-card">
     <strong>Finance product and data tooling</strong>
-    Teams building research surfaces, investor dashboards, market-data products, or workflow infrastructure.
+    I like teams building research surfaces, investor dashboards, market-data products, or workflow infrastructure.
   </div>
   <div class="decision-card">
     <strong>Research operations</strong>
-    Environments where automation, monitoring, retrieval, and publishing systems improve analyst throughput.
+    I am especially useful in environments where automation, monitoring, retrieval, and publishing systems improve analyst throughput.
   </div>
 </div>
 

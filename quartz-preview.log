@@ -1,0 +1,83 @@
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:00] "GET / HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:00] "GET / HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:00] "GET /index.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:00] "GET /prescript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:00] "GET /postscript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:00] "GET /static/contentIndex.json HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:07:01] "GET /static/icon.png HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] code 404, message File not found
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] "GET /Portfolio/Casefiles/ HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] code 404, message File not found
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] "GET /Portfolio/Experience-Log HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] code 404, message File not found
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] "GET /Field-Notes HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] "GET /favicon.ico HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('::ffff:127.0.0.1', 53836, 0, 0)
+::ffff:127.0.0.1 - - [25/Mar/2026 21:10:37] "GET /favicon.ico HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "C:\Python314\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\http\server.py", line 1422, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\http\server.py", line 732, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Python314\Lib\http\server.py", line 496, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python314\Lib\http\server.py", line 484, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "C:\Python314\Lib\http\server.py", line 739, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\http\server.py", line 942, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\shutil.py", line 257, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "C:\Python314\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+----------------------------------------
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:08] "GET /Portfolio/Casefiles.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:09] "GET /Portfolio/Projects HTTP/1.1" 301 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:09] "GET /Portfolio/Projects/ HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:09] "GET /prescript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:09] "GET /index.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:09] "GET /static/contentIndex.json HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:09] "GET /postscript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:22] "GET /Portfolio/Experience-Log.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:22] code 404, message File not found
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:22] "GET /Portfolio/Contact HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:22] "GET /Field-Notes.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:39] "GET /Portfolio/Contact.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:39] "GET /index.css HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:39] "GET /prescript.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:39] "GET /postscript.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:39] "GET /static/contentIndex.json HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:11:54] "GET /Field-Notes.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:45] "GET /Field-Notes.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:45] "GET /prescript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:45] "GET /index.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:45] "GET /static/contentIndex.json HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:45] "GET /postscript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:59] code 404, message File not found
+::ffff:127.0.0.1 - - [25/Mar/2026 21:15:59] "GET /Portfolio/Contact HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:07:44] "GET /Field-Notes.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:07:44] "GET /index.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:07:44] "GET /prescript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:07:44] "GET /static/contentIndex.json HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:07:44] "GET /postscript.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:07:52] "GET /Portfolio/Contact.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [26/Mar/2026 04:08:01] "GET / HTTP/1.1" 200 -

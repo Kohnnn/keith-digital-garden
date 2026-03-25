@@ -16,6 +16,12 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
+const recentPagesStorageKey = "search-recent-pages"
+
+type RecentPage = {
+  slug: FullSlug
+  title: string
+}
 const encoder = (str: string): string[] => {
   const tokens: string[] = []
   let bufferStart = -1
@@ -88,6 +94,53 @@ const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
 const numSearchResults = 8
 const numTagResults = 5
+const numRecentPages = 5
+const isPlainStaticPreview = () => /^(127\.0\.0\.1|localhost)$/.test(window.location.hostname)
+
+const hasChildPages = (slug: FullSlug, data: ContentIndex) => {
+  const prefix = `${slug}/`
+  return Object.keys(data).some((candidate) => candidate !== slug && candidate.startsWith(prefix))
+}
+
+const resolvePreviewPath = (currentSlug: FullSlug, slug: FullSlug, data: ContentIndex) => {
+  const relative = resolveRelative(currentSlug, slug)
+  if (!isPlainStaticPreview()) {
+    return relative
+  }
+
+  if (slug === "index") {
+    return relative
+  }
+
+  if (hasChildPages(slug, data)) {
+    return relative.endsWith("/") ? relative : `${relative}/`
+  }
+
+  return relative.endsWith(".html") ? relative : `${relative}.html`
+}
+
+const getRecentPages = () => {
+  const raw = sessionStorage.getItem(recentPagesStorageKey)
+  if (!raw) return [] as RecentPage[]
+
+  try {
+    return JSON.parse(raw) as RecentPage[]
+  } catch {
+    return [] as RecentPage[]
+  }
+}
+
+const storeRecentPage = (slug: FullSlug, data: ContentIndex) => {
+  const title = data[slug]?.title
+  if (!title) return
+
+  const recentPages = getRecentPages().filter((page) => page.slug !== slug)
+  recentPages.unshift({ slug, title })
+  sessionStorage.setItem(
+    recentPagesStorageKey,
+    JSON.stringify(recentPages.slice(0, numRecentPages)),
+  )
+}
 
 const tokenizeTerm = (term: string) => {
   const tokens = term.split(/\s+/).filter((t) => t.trim() !== "")
@@ -238,9 +291,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
+
+    if (searchBar.value.trim() === "") {
+      void displayRecentPages()
+    }
   }
 
-  let currentHover: HTMLInputElement | null = null
+  let currentHover: HTMLElement | null = null
   async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
     if (e.key === "k" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
       e.preventDefault()
@@ -267,12 +324,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (e.key === "Enter" && !e.isComposing) {
       // If result has focus, navigate to that one, otherwise pick first result
       if (results.contains(document.activeElement)) {
-        const active = document.activeElement as HTMLInputElement
+        const active = document.activeElement as HTMLElement
         if (active.classList.contains("no-match")) return
         await displayPreview(active)
         active.click()
       } else {
-        const anchor = document.getElementsByClassName("result-card")[0] as HTMLInputElement | null
+        const anchor = document.getElementsByClassName("result-card")[0] as HTMLElement | null
         if (!anchor || anchor.classList.contains("no-match")) return
         await displayPreview(anchor)
         anchor.click()
@@ -283,8 +340,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         // If an element in results-container already has focus, focus previous one
         const currentResult = currentHover
           ? currentHover
-          : (document.activeElement as HTMLInputElement | null)
-        const prevResult = currentResult?.previousElementSibling as HTMLInputElement | null
+          : (document.activeElement as HTMLElement | null)
+        const prevResult = currentResult?.previousElementSibling as HTMLElement | null
         currentResult?.classList.remove("focus")
         prevResult?.focus()
         if (prevResult) currentHover = prevResult
@@ -297,8 +354,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       if (document.activeElement === searchBar || currentHover !== null) {
         const firstResult = currentHover
           ? currentHover
-          : (document.getElementsByClassName("result-card")[0] as HTMLInputElement | null)
-        const secondResult = firstResult?.nextElementSibling as HTMLInputElement | null
+          : (document.getElementsByClassName("result-card")[0] as HTMLElement | null)
+        const secondResult = firstResult?.nextElementSibling as HTMLElement | null
         firstResult?.classList.remove("focus")
         secondResult?.focus()
         if (secondResult) currentHover = secondResult
@@ -335,7 +392,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function resolveUrl(slug: FullSlug): URL {
-    return new URL(resolveRelative(currentSlug, slug), location.toString())
+    return new URL(resolvePreviewPath(currentSlug, slug, data), location.toString())
   }
 
   const resultToHTML = ({ slug, title, content, tags }: Item) => {
@@ -361,7 +418,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
     async function onMouseEnter(ev: MouseEvent) {
       if (!ev.target) return
-      const target = ev.target as HTMLInputElement
+      const target = ev.target as HTMLElement
       await displayPreview(target)
     }
 
@@ -371,6 +428,65 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     window.addCleanup(() => itemTile.removeEventListener("click", handler))
 
     return itemTile
+  }
+
+  const recentPageToItem = (page: RecentPage): Item => {
+    const details = data[page.slug]
+    const description = details?.description?.trim()
+    const fallbackContent = details?.content?.replace(/\s+/g, " ").trim() ?? ""
+
+    return {
+      id: -1,
+      slug: page.slug,
+      title: page.title,
+      content:
+        description ||
+        fallbackContent.slice(0, 140) ||
+        "Open this page again from your recent trail.",
+      tags: [],
+    }
+  }
+
+  async function displayRecentPages() {
+    removeAllChildren(results)
+
+    const recentPages = getRecentPages()
+      .filter((page) => page.slug !== currentSlug)
+      .filter((page) => data[page.slug] !== undefined)
+      .slice(0, numRecentPages)
+
+    searchLayout.classList.add("display-results")
+
+    if (recentPages.length === 0) {
+      results.innerHTML = `<div class="results-section-label">Recently visited</div>
+        <a class="result-card no-match">
+          <h3>Start typing to search.</h3>
+          <p>Your recent trail will appear here after you open a few pages.</p>
+        </a>`
+      if (preview) {
+        removeAllChildren(preview)
+      }
+      currentHover = null
+      return
+    }
+
+    const heading = document.createElement("div")
+    heading.className = "results-section-label"
+    heading.textContent = "Recently visited"
+    results.appendChild(heading)
+
+    const items = recentPages.map(recentPageToItem)
+    const cards = items.map(resultToHTML)
+    results.append(...cards)
+
+    if (preview) {
+      const firstCard = cards[0]
+      firstCard?.classList.add("focus")
+      currentHover = firstCard ?? null
+      if (firstCard) {
+        await displayPreview(firstCard)
+      }
+    }
   }
 
   async function displayResults(finalResults: Item[]) {
@@ -391,7 +507,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       // focus on first result, then also dispatch preview immediately
       const firstChild = results.firstElementChild as HTMLElement
       firstChild.classList.add("focus")
-      currentHover = firstChild as HTMLInputElement
+      currentHover = firstChild
       await displayPreview(firstChild)
     }
   }
@@ -438,7 +554,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
     currentSearchTerm = (e.target as HTMLInputElement).value
-    searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
+
+    if (currentSearchTerm.trim() === "") {
+      await displayRecentPages()
+      return
+    }
+
+    searchLayout.classList.add("display-results")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
 
     let searchResults: DefaultDocumentSearchResults<Item>
@@ -493,10 +615,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     await displayResults(finalResults)
   }
 
+  const openSearch = () => showSearch("basic")
+
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
+  searchButton.addEventListener("click", openSearch)
+  window.addCleanup(() => searchButton.removeEventListener("click", openSearch))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
@@ -533,6 +657,7 @@ async function fillDocument(data: ContentIndex) {
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   const data = await fetchData
+  storeRecentPage(currentSlug, data)
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
     await setupSearch(element, currentSlug, data)

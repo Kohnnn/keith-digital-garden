@@ -1,14 +1,27 @@
 .content-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
   margin-top: 0;
   color: var(--darkgray);
+}
 
-  &[show-comma="true"] {
-    > *:not(:last-child) {
-      margin-right: 8px;
+.content-meta-segment {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.22rem 0.55rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--light) 92%, var(--secondary) 8%);
+  border: 1px solid color-mix(in srgb, var(--secondary) 16%, var(--lightgray) 84%);
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
 
-      &::after {
-        content: ",";
-      }
-    }
-  }
+.content-meta-label {
+  font-family: var(--codeFont);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gray);
 }

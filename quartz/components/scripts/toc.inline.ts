@@ -1,34 +1,71 @@
-const observer = new IntersectionObserver((entries) => {
-  for (const entry of entries) {
-    const slug = entry.target.id
-    const tocEntryElements = document.querySelectorAll(`a[data-for="${slug}"]`)
-    const windowHeight = entry.rootBounds?.height
-    if (windowHeight && tocEntryElements.length > 0) {
-      if (entry.boundingClientRect.y < windowHeight) {
-        tocEntryElements.forEach((tocEntryElement) => tocEntryElement.classList.add("in-view"))
-      } else {
-        tocEntryElements.forEach((tocEntryElement) => tocEntryElement.classList.remove("in-view"))
-      }
-    }
-  }
-})
+const MOBILE_BREAKPOINT = 768
 
-function toggleToc(this: HTMLElement) {
-  this.classList.toggle("collapsed")
-  this.setAttribute(
-    "aria-expanded",
-    this.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
-  const content = this.nextElementSibling as HTMLElement | undefined
-  if (!content) return
-  content.classList.toggle("collapsed")
+const setCollapsedState = (button: HTMLElement, content: HTMLElement, collapsed: boolean) => {
+  button.classList.toggle("collapsed", collapsed)
+  button.setAttribute("aria-expanded", (!collapsed).toString())
+  content.classList.toggle("collapsed", collapsed)
+
+  const state = button.querySelector(".toc-state")
+  if (state) {
+    state.textContent = collapsed ? "▸" : "▾"
+  }
 }
 
-function setupToc() {
-  for (const toc of document.getElementsByClassName("toc")) {
-    const button = toc.querySelector(".toc-header")
-    const content = toc.querySelector(".toc-content")
+function toggleToc(this: HTMLElement) {
+  const content = this.nextElementSibling as HTMLElement | undefined
+  if (!content) return
+  const collapsed = !this.classList.contains("collapsed")
+  setCollapsedState(this, content, collapsed)
+}
+
+const syncResponsiveTocs = () => {
+  const tocs = document.querySelectorAll(".toc") as NodeListOf<HTMLElement>
+
+  tocs.forEach((toc) => {
+    const button = toc.querySelector(".toc-header") as HTMLElement | null
+    const content = toc.querySelector(".toc-content") as HTMLElement | null
     if (!button || !content) return
+
+    if (window.innerWidth < MOBILE_BREAKPOINT) {
+      setCollapsedState(button, content, true)
+      toc.dataset.autoCollapsed = "true"
+      return
+    }
+
+    if (toc.dataset.autoCollapsed === "true") {
+      setCollapsedState(button, content, false)
+      toc.dataset.autoCollapsed = "false"
+    }
+  })
+}
+
+const updateActiveHeading = () => {
+  const headings = Array.from(
+    document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]"),
+  ) as HTMLElement[]
+
+  const links = document.querySelectorAll(".toc a[data-for]")
+  links.forEach((link) => link.classList.remove("toc-active", "in-view"))
+
+  if (headings.length === 0) return
+
+  const threshold = window.innerHeight * 0.24
+  let activeHeading = headings[0]
+
+  headings.forEach((heading) => {
+    if (heading.getBoundingClientRect().top <= threshold) {
+      activeHeading = heading
+    }
+  })
+
+  const activeLinks = document.querySelectorAll(`.toc a[data-for="${activeHeading.id}"]`)
+  activeLinks.forEach((link) => link.classList.add("toc-active", "in-view"))
+}
+
+const setupToc = () => {
+  for (const toc of document.getElementsByClassName("toc")) {
+    const button = toc.querySelector(".toc-header") as HTMLElement | null
+    if (!button) continue
     button.addEventListener("click", toggleToc)
     window.addCleanup(() => button.removeEventListener("click", toggleToc))
   }
@@ -36,9 +73,16 @@ function setupToc() {
 
 document.addEventListener("nav", () => {
   setupToc()
+  syncResponsiveTocs()
+  updateActiveHeading()
 
-  // update toc entry highlighting
-  observer.disconnect()
-  const headers = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]")
-  headers.forEach((header) => observer.observe(header))
+  window.addEventListener("scroll", updateActiveHeading, { passive: true })
+  window.addEventListener("resize", syncResponsiveTocs)
+  window.addEventListener("resize", updateActiveHeading)
+
+  window.addCleanup(() => {
+    window.removeEventListener("scroll", updateActiveHeading)
+    window.removeEventListener("resize", syncResponsiveTocs)
+    window.removeEventListener("resize", updateActiveHeading)
+  })
 })

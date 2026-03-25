@@ -2,9 +2,17 @@ import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+const TagList: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzComponentProps) => {
   const tags = fileData.frontmatter?.tags
   if (tags && tags.length > 0) {
+    const tagCounts = new Map<string, number>()
+
+    allFiles.forEach((file) => {
+      file.frontmatter?.tags?.forEach((tag) => {
+        tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1)
+      })
+    })
+
     return (
       <ul class={classNames(displayClass, "tags")}>
         {tags.map((tag) => {
@@ -12,7 +20,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           return (
             <li>
               <a href={linkDest} class="internal tag-link">
-                {tag}
+                #{tag} ({tagCounts.get(tag) ?? 0})
               </a>
             </li>
           )

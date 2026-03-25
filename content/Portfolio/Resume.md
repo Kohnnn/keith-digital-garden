@@ -4,8 +4,10 @@ tags: [portfolio, resume]
 draft: false
 description: Experience timeline with concrete responsibilities, outputs, and supporting proof.
 created: 2026-01-30
-updated: 2026-03-24
-aliases: [Resume]
+updated: 2026-03-25
+aliases:
+  - Resume
+  - Portfolio/Experience-Log
 cssclasses: [portfolio-page]
 ---
 

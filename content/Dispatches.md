@@ -4,13 +4,19 @@ tags: [dispatches, archive, notes]
 draft: false
 description: Neutral public entry into the archived briefings, research digests, and topic snapshots.
 created: 2026-03-07
-updated: 2026-03-21
+updated: 2026-03-25
 cssclasses: [branch-hub]
 ---
 
 # Dispatches
 
 This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The short-form archive stays in the garden, while the flagship interactive notes open directly on their live routes.
+
+## Latest dispatches
+
+- `Feb 18, 2026` - [[Notes/Market_News/2026/provenance compliance services consolidate around audit apis|Provenance compliance services consolidate around audit APIs]] - A market-facing read on audit infrastructure consolidating into a clearer software category.
+- `Feb 10, 2026` - [[Notes/Research_Digests/2026/review of trust metric drift in enterprise copilots|Review of trust metric drift in enterprise copilots]] - A compressed evidence note on why trust dashboards drift faster than teams expect.
+- `Feb 02, 2026` - [[Notes/Thoughtpieces/2026/resilient automation depends on practiced reversibility|Resilient automation depends on practiced reversibility]] - A thesis note on reversibility as a real operating discipline instead of a policy slogan.
 
 ## Branches
 

@@ -176,6 +176,20 @@
         & > .results-container {
           overflow-y: auto;
 
+          & > .results-section-label {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            padding: 0.7rem 1rem 0.55rem;
+            background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
+            border-bottom: 1px solid var(--lightgray);
+            font-family: var(--codeFont);
+            font-size: 0.68rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--gray);
+          }
+
           & .result-card {
             overflow: hidden;
             padding: 1em;

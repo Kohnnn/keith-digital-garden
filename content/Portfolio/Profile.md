@@ -4,7 +4,7 @@ tags: [portfolio, profile, finance]
 draft: false
 description: Role fit, domain coverage, and working style grounded in actual experience.
 created: 2026-01-30
-updated: 2026-03-24
+updated: 2026-03-25
 aliases: [Profile]
 cssclasses: [portfolio-page]
 ---
@@ -40,18 +40,22 @@ cssclasses: [portfolio-page]
   <div class="focus-card">
     <span class="casefile-label">Consumer equities</span>
     <p>Bottom-up research, recommendation support, earnings updates, AGM synthesis, and disciplined model maintenance.</p>
+    <a class="domain-link" href="./Resume">-> See experience log</a>
   </div>
   <div class="focus-card">
     <span class="casefile-label">Vietnam market tooling</span>
     <p>VNIBB, screening builds, and product design for local investors who need better surfaces than generic broker tooling.</p>
+    <a class="domain-link" href="./Projects/VNIBB">-> See casefile</a>
   </div>
   <div class="focus-card">
     <span class="casefile-label">Crypto market structure</span>
     <p>Cycle logic, macro liquidity, BTC dominance, on-chain context, and altcoin selection under uncertainty.</p>
+    <a class="domain-link" href="./Projects/Investment-Strategy">-> Related notes</a>
   </div>
   <div class="focus-card">
     <span class="casefile-label">Research automation</span>
     <p>AI vision monitoring, local RAG, webhooks, and browser workflows built to reduce analyst turnaround time.</p>
+    <a class="domain-link" href="./Projects/AI-Agents-Development">-> See workflow build</a>
   </div>
 </div>
 

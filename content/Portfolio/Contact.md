@@ -4,7 +4,7 @@ tags: [portfolio, contact]
 draft: false
 description: Contact channels, role fit, and collaboration preferences.
 created: 2026-01-30
-updated: 2026-03-24
+updated: 2026-03-25
 aliases: [Contact]
 cssclasses: [portfolio-page]
 ---
@@ -20,11 +20,23 @@ cssclasses: [portfolio-page]
 ## Contact lanes
 
 <div class="writing-grid">
-  <a class="writing-card" href="mailto:kiet.vph@gmail.com">
+  <div class="writing-card writing-card--contact">
     <span class="casefile-label">Primary channel</span>
     <h3>Email</h3>
-    <p>kiet.vph@gmail.com</p>
-  </a>
+    <div class="contact-copy-row">
+      <a href="mailto:kiet.vph@gmail.com">kiet.vph@gmail.com</a>
+      <button
+        type="button"
+        class="copy-chip"
+        data-copy-text="kiet.vph@gmail.com"
+        data-copy-default="Copy"
+        data-copy-success="Copied"
+        data-copy-error="Try again"
+      >
+        Copy
+      </button>
+    </div>
+  </div>
   <a class="writing-card" href="tel:+84946646335">
     <span class="casefile-label">Direct line</span>
     <h3>Phone</h3>

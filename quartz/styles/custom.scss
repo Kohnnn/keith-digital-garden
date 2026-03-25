@@ -1285,6 +1285,100 @@ article.research-notes,
     margin-bottom: 0.38rem;
   }
 
+  .identity-block {
+    display: grid;
+    gap: 0.22rem;
+    margin: 1rem 0 1.35rem;
+    padding: 0.95rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 22%, var(--lightgray) 78%);
+    border-radius: 18px;
+    background: linear-gradient(
+      160deg,
+      color-mix(in srgb, var(--light) 96%, var(--secondary) 4%),
+      color-mix(in srgb, var(--light) 91%, var(--tertiary) 9%)
+    );
+  }
+
+  .identity-block strong {
+    margin-top: 0.15rem;
+    font-size: clamp(1.4rem, 3vw, 1.9rem);
+    line-height: 1.05;
+  }
+
+  .identity-block p {
+    margin: 0;
+    font-family: var(--codeFont);
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  .domain-link {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 0.7rem;
+    font-family: var(--codeFont);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .writing-card--contact {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+
+  .contact-copy-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .contact-copy-row a {
+    font-weight: 600;
+    overflow-wrap: anywhere;
+  }
+
+  .copy-chip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    border: 1px solid color-mix(in srgb, var(--secondary) 26%, var(--lightgray) 74%);
+    background: color-mix(in srgb, var(--light) 88%, var(--secondary) 12%);
+    color: var(--dark);
+    padding: 0.38rem 0.72rem;
+    font-family: var(--codeFont);
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition:
+      transform 160ms ease,
+      border-color 160ms ease,
+      background 160ms ease;
+  }
+
+  .copy-chip:hover {
+    transform: translateY(-1px);
+    border-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray) 60%);
+    background: color-mix(in srgb, var(--light) 84%, var(--secondary) 16%);
+  }
+
+  .copy-chip[data-copy-state="copied"] {
+    border-color: color-mix(in srgb, #2f7a4e 42%, var(--lightgray) 58%);
+    background: color-mix(in srgb, #2f7a4e 14%, var(--light) 86%);
+  }
+
+  .copy-chip[data-copy-state="error"] {
+    border-color: color-mix(in srgb, #9a4b4b 42%, var(--lightgray) 58%);
+    background: color-mix(in srgb, #9a4b4b 12%, var(--light) 88%);
+  }
+
   .casefile-card ul {
     margin: 0.65rem 0 0;
     padding-left: 1rem;
@@ -1890,6 +1984,30 @@ article.kitchen-home,
     font-size: 0.88rem;
     line-height: 1.45;
     color: var(--darkgray);
+  }
+
+  .kitchen-ticket-meta,
+  .kitchen-card-meta,
+  .kitchen-card-cta {
+    display: inline-flex;
+    align-items: center;
+    width: fit-content;
+    font-family: var(--codeFont);
+    font-size: 0.69rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+  }
+
+  .kitchen-ticket-meta,
+  .kitchen-card-meta {
+    margin-top: 0.7rem;
+    color: var(--gray);
+  }
+
+  .kitchen-card-cta {
+    margin-top: auto;
+    padding-top: 0.9rem;
+    color: var(--secondary);
   }
 
   .orientation-hero {
@@ -2776,7 +2894,7 @@ article.interactive-bridge,
 
   .kitchen-ticket strong,
   .kitchen-ticket p,
-  .kitchen-start-card h3,
+  .kitchen-start-card .kitchen-card-title,
   .kitchen-start-card p {
     overflow-wrap: anywhere;
   }
@@ -2855,7 +2973,8 @@ article.interactive-bridge,
       );
   }
 
-  .kitchen-start-card h3 {
+  .kitchen-start-card .kitchen-card-title {
+    display: block;
     margin: 0.45rem 0 0.55rem;
     font-size: clamp(1.3rem, 2vw, 1.9rem);
     line-height: 1.02;
@@ -2871,6 +2990,8 @@ article.interactive-bridge,
 
   .kitchen-mobile-summary {
     display: none;
+    list-style: none;
+    padding: 0;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.65rem;
     margin: 0.4rem 0 1.15rem;
@@ -3016,7 +3137,7 @@ footer .footer-links a {
     min-height: 180px;
   }
 
-  .kitchen-home article .kitchen-start-card h3 {
+  .kitchen-home article .kitchen-start-card .kitchen-card-title {
     font-size: clamp(1.16rem, 3.2vw, 1.55rem);
   }
 }
@@ -3027,6 +3148,16 @@ footer .footer-links a {
     .sidebar.right {
       padding-left: 0;
       padding-right: 0;
+    }
+
+    .sidebar.right {
+      flex-direction: column;
+
+      > .toc {
+        display: flex !important;
+        width: 100%;
+        max-height: none;
+      }
     }
   }
 
@@ -3094,7 +3225,7 @@ footer .footer-links a {
     border-radius: 18px;
   }
 
-  .kitchen-home article .kitchen-start-card h3 {
+  .kitchen-home article .kitchen-start-card .kitchen-card-title {
     margin: 0.32rem 0 0.4rem;
     font-size: 1.2rem;
     line-height: 1.05;

@@ -32,6 +32,7 @@ import GridMap from "./GridMap"
 import RelatedNotes from "./RelatedNotes"
 import InteractiveSim from "./InteractiveSim"
 import ArenaEnhancer from "./ArenaEnhancer"
+import CopyButtonsEnhancer from "./CopyButtonsEnhancer"
 
 export {
   ArticleTitle,
@@ -68,4 +69,5 @@ export {
   RelatedNotes,
   InteractiveSim,
   ArenaEnhancer,
+  CopyButtonsEnhancer,
 }

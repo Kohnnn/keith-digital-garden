@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.DappledLight(),
     Component.StackedNotesContainer(),
     Component.ArenaEnhancer(),
+    Component.CopyButtonsEnhancer(),
     Component.RelatedNotes({ tagFilter: "philosophy" }),
     Component.BacklinksGrid({ tagFilter: "philosophy" }),
   ],
@@ -78,7 +79,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
     Component.ConditionalRender({
-      component: Component.DesktopOnly(Component.TableOfContents()),
+      component: Component.TableOfContents(),
       condition: (page) => !isPortfolioSurface(page.fileData.frontmatter?.cssclasses),
     }),
     Component.ConditionalRender({

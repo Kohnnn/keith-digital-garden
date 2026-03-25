@@ -4,8 +4,10 @@ tags: [portfolio, projects]
 draft: false
 description: Case study index for finance, market-research, and automation projects.
 created: 2026-01-30
-updated: 2026-03-24
-aliases: [Projects]
+updated: 2026-03-25
+aliases:
+  - Projects
+  - Portfolio/Casefiles
 cssclasses: [portfolio-page]
 ---
 

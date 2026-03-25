@@ -1,9 +1,8 @@
-import { Date, getDate } from "./Date"
+import { Date, formatDate, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
-import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
 
 interface ContentMetaOptions {
@@ -27,25 +26,66 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const text = fileData.text
 
     if (text) {
-      const segments: (string | JSX.Element)[] = []
+      const primaryDate = fileData.dates ? getDate(cfg, fileData) : undefined
+      const modifiedDate = fileData.dates?.modified
+      const primaryDateLabel =
+        cfg.defaultDateType === "published"
+          ? "Published"
+          : cfg.defaultDateType === "modified"
+            ? "Updated"
+            : "Created"
+      const showLastUpdated =
+        primaryDate &&
+        modifiedDate &&
+        Math.abs(modifiedDate.getTime() - primaryDate.getTime()) > 60 * 1000
 
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-      }
-
-      // Display reading time if enabled
       if (options.showReadingTime) {
-        const { minutes, words: _words } = readingTime(text)
+        const { minutes } = readingTime(text)
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(<span>{displayedTime}</span>)
+
+        return (
+          <div show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+            {primaryDate && (
+              <span class="content-meta-segment">
+                <span class="content-meta-label">{primaryDateLabel}</span>
+                <Date date={primaryDate} locale={cfg.locale} />
+              </span>
+            )}
+            {showLastUpdated && modifiedDate && (
+              <span class="content-meta-segment">
+                <span class="content-meta-label">Last updated</span>
+                <time datetime={modifiedDate.toISOString()}>
+                  {formatDate(modifiedDate, cfg.locale)}
+                </time>
+              </span>
+            )}
+            <span class="content-meta-segment">
+              <span class="content-meta-label">Read</span>
+              <span>{displayedTime}</span>
+            </span>
+          </div>
+        )
       }
 
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+        <div show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+          {primaryDate && (
+            <span class="content-meta-segment">
+              <span class="content-meta-label">{primaryDateLabel}</span>
+              <Date date={primaryDate} locale={cfg.locale} />
+            </span>
+          )}
+          {showLastUpdated && modifiedDate && (
+            <span class="content-meta-segment">
+              <span class="content-meta-label">Last updated</span>
+              <time datetime={modifiedDate.toISOString()}>
+                {formatDate(modifiedDate, cfg.locale)}
+              </time>
+            </span>
+          )}
+        </div>
       )
     } else {
       return null

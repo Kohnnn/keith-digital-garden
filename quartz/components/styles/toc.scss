@@ -6,6 +6,10 @@
   overflow-y: hidden;
   min-height: 1.4rem;
   flex: 0 0.5 auto;
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+
   &:has(button.toc-header.collapsed) {
     flex: 0 1 1.4rem;
   }
@@ -20,6 +24,8 @@ button.toc-header {
   color: var(--dark);
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
 
   & h3 {
     font-size: 1rem;
@@ -27,14 +33,10 @@ button.toc-header {
     margin: 0;
   }
 
-  & .fold {
-    margin-left: 0.5rem;
-    transition: transform 0.3s ease;
-    opacity: 0.8;
-  }
-
-  &.collapsed .fold {
-    transform: rotateZ(-90deg);
+  & .toc-state {
+    font-family: var(--codeFont);
+    font-size: 0.9rem;
+    color: var(--gray);
   }
 }
 
@@ -53,8 +55,14 @@ ul.toc-content.overflow {
     transition:
       0.5s ease opacity,
       0.3s ease color;
+
     &.in-view {
       opacity: 0.75;
+    }
+
+    &.toc-active {
+      opacity: 1;
+      color: #7aa2f7;
     }
   }
 
@@ -62,5 +70,16 @@ ul.toc-content.overflow {
     & .depth-#{$i} {
       padding-left: calc(1rem * #{$i});
     }
+  }
+}
+
+@media all and ($mobile) {
+  .toc {
+    position: static;
+    top: auto;
+  }
+
+  ul.toc-content.overflow {
+    max-height: none;
   }
 }

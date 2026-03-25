@@ -22,7 +22,7 @@ cssclasses: [portfolio-page]
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Current seat</span>
-    <p>I currently work as a research intern supporting consumer-equity coverage at Vietcap Securities.</p>
+    <p>I currently work as a research analysis supporting small-mid cap retail equity coverage at Vietcap Securities.</p>
   </div>
   <div>
     <span class="casefile-label">Build lane</span>

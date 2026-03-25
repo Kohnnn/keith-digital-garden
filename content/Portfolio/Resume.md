@@ -13,12 +13,12 @@ cssclasses: [portfolio-page]
 
 <div class="kitchen-hero">
   <p class="kitchen-eyebrow">Operating log</p>
-  <h2>This is the grounded timeline behind my portfolio, from research assistant to sell-side intern.</h2>
+  <h2>This is the grounded timeline behind my portfolio, from research assistant to sell-side analyst.</h2>
   <p>I use this page to show where my research discipline came from, where the workflow-building habit started, and how the current project stack connects back to actual roles.</p>
 </div>
 
-## How to read this page
-
+<details class="guide-fold">
+  <summary>How to read this page</summary>
 <div class="casefile-summary">
   <div>
     <span class="casefile-label">Format</span>
@@ -33,6 +33,7 @@ cssclasses: [portfolio-page]
     <p>Read for bottom-up research, reporting discipline, workflow cleanup, and evidence that my tooling is built on top of real finance work.</p>
   </div>
 </div>
+</details>
 
 ## Snapshot
 
@@ -61,10 +62,20 @@ cssclasses: [portfolio-page]
   <section class="resume-entry">
     <div class="resume-head">
       <div>
+        <div class="resume-role">Research Analyst</div>
+        <div class="resume-org">Vietcap Securities</div>
+      </div>
+      <div class="resume-date">Aug 2025 - present</div>
+    </div>
+  </section>
+ 
+  <section class="resume-entry">
+    <div class="resume-head">
+      <div>
         <div class="resume-role">Research Intern</div>
         <div class="resume-org">Vietcap Securities</div>
       </div>
-      <div class="resume-date">Mar 2025 - present</div>
+      <div class="resume-date">Mar 2025 - Aug 2025</div>
     </div>
     <div class="resume-proof">
       <div class="mini-card">

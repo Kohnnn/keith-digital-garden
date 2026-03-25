@@ -1329,6 +1329,61 @@ article.research-notes,
     margin: 0;
     font-size: 0.93rem;
   }
+
+  details.guide-fold {
+    margin: 0.6rem 0 1.5rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 26%, var(--lightgray) 74%);
+    border-radius: 20px;
+    background: color-mix(in srgb, var(--light) 97%, var(--secondary) 3%);
+    padding: 0;
+    overflow: hidden;
+
+    summary {
+      cursor: pointer;
+      padding: 0.8rem 1.25rem;
+      font-family: var(--codeFont);
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--gray);
+      user-select: none;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+
+      &::before {
+        content: "→";
+        display: inline-block;
+        transition: transform 0.2s ease;
+        font-size: 0.9rem;
+      }
+
+      &:hover {
+        color: var(--secondary);
+        background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
+      }
+    }
+
+    &[open] {
+      summary {
+        border-bottom: 1px solid color-mix(in srgb, var(--secondary) 15%, var(--lightgray) 85%);
+        margin-bottom: 0.5rem;
+
+        &::before {
+          transform: rotate(90deg);
+        }
+      }
+
+      .kitchen-hero,
+      .casefile-summary {
+        margin-top: 0;
+        border: none;
+        box-shadow: none;
+        background: transparent;
+      }
+    }
+  }
 }
 
 article.portfolio-hub,

@@ -8,7 +8,7 @@ tags:
 draft: false
 description: Interactive feedback-loop sketchpad for tuning nodes, edges, and system dynamics.
 created: "2026-03-24"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases: []
 cssclasses:
   - external-canvas-note
@@ -18,7 +18,7 @@ cssclasses:
 # LOOPY
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · systems</p>
+  <p class="kitchen-eyebrow">Core route · systems</p>
   <h2>Draw, tune, and simulate feedback loops.</h2>
   <p>
     LOOPY turns feedback intuition into a sketch session. Build nodes, wire edges, adjust magnitudes,
@@ -27,10 +27,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/loopy/" target="_blank" rel="noopener noreferrer">Open LOOPY</a>
+    <a class="kitchen-cta" href="./The-Evolution-of-Trust">Open systems companion</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -42,8 +43,8 @@ cssclasses:
     <p>Start with a two-node loop. Flip the edge sign, then gradually increase magnitudes until the system oscillates. Add a third node and watch for dampening or runaway.</p>
   </div>
   <div>
-    <span class="casefile-label">Where it lives</span>
-    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 8 to 12 minutes. Beginner friendly. It is one of the fastest ways to feel positive and negative feedback without any equations.</p>
   </div>
 </div>
 
@@ -62,4 +63,5 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/loopy/>
+- Continue through [[Notes/Interactive/The-Evolution-of-Trust|The Evolution of Trust]] when you want another systems note built on incentives and feedback
 - Continue via [[Interactive]] or [[Visual Notes]]

@@ -9,7 +9,7 @@ tags:
 draft: false
 description: Interactive PCA explainer with draggable 2D samples, a 3D projection view, and a 17-dimensional UK food dataset walkthrough.
 created: "2026-03-24"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases: []
 cssclasses:
   - external-canvas-note
@@ -19,7 +19,7 @@ cssclasses:
 # Principal Component Analysis
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · data intuition</p>
+  <p class="kitchen-eyebrow">Core route · data intuition</p>
   <h2>Rotate your attention, not just your axes.</h2>
   <p>
     This explainer turns dimensionality reduction into something you can drag. Start in 2D and
@@ -29,10 +29,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/principal-component-analysis/" target="_blank" rel="noopener noreferrer">Open Principal Component Analysis</a>
+    <a class="kitchen-cta" href="./Train-Test-and-Validation-Sets">Open workflow companion</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -44,8 +45,8 @@ cssclasses:
     <p>Start in 2D and physically move the points until PC1 feels like the obvious axis of variation. Then rotate the 3D cloud and only after that open the 17D food dataset, where patterns you have already trained your eye to see become meaningful.</p>
   </div>
   <div>
-    <span class="casefile-label">Where it lives</span>
-    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 12 to 18 minutes. Intermediate. Best after one simpler model-intuition note so the geometry feels like an upgrade instead of a jump.</p>
   </div>
 </div>
 
@@ -64,4 +65,5 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/principal-component-analysis/>
+- Continue through [[Train-Test-and-Validation-Sets]] when you want a workflow-first companion to the geometry
 - Continue via [[Interactive]] or [[Visual Notes]]

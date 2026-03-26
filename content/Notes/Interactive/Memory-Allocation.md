@@ -12,7 +12,7 @@ description: >-
   Allocator internals walkthrough from naive malloc/free to fragmentation and
   bookkeeping, with timeline-driven memory visualizations.
 created: "2026-03-08"
-updated: 2026-03-21
+updated: 2026-03-26
 aliases:
   - Portfolio/Stuffs/Memory-Allocation
 cssclasses:
@@ -26,15 +26,16 @@ cssclasses:
 # Memory Allocation
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Interactive note</p>
-  <h2>Memory Allocation now lives on the dedicated interactive site.</h2>
-  <p>Allocator internals walkthrough from naive malloc/free to fragmentation and bookkeeping, with timeline-driven memory visualizations. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <p class="kitchen-eyebrow">Long-tail route · systems internals</p>
+  <h2>Use this when heap behavior should stop hiding behind the API.</h2>
+  <p>Allocator internals walkthrough from naive malloc/free to fragmentation and bookkeeping, with timeline-driven memory visualizations.</p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/memory-allocation/" target="_blank" rel="noopener noreferrer">Open Memory Allocation</a>
+    <a class="kitchen-cta" href="./Load-Balancing">Open systems companion</a>
   </div>
 </div>
 
-## What changed
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -42,16 +43,17 @@ cssclasses:
     <p>The maintained version lives at the route linked here, with this garden note keeping the embed and editorial framing.</p>
   </div>
   <div>
-    <span class="casefile-label">Why keep this URL</span>
-    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
+    <span class="casefile-label">Best companion</span>
+    <p>Pair it with [[Load-Balancing]] when you want another systems route where hidden structure determines real performance.</p>
   </div>
   <div>
-    <span class="casefile-label">How to use it</span>
-    <p>Use the live route for the full experience, then use this note when you want the embed, context, and garden backlinks in one place.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 10 to 15 minutes. Intermediate. It stays approachable if you treat it as a visual map of fragmentation and bookkeeping.</p>
   </div>
 </div>
 
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/memory-allocation/>
+- Continue through [[Load-Balancing]] or [[Exploring-GPGPU-on-iOS]] when you want nearby compute-and-systems routes
 - Move through the local archive via [[Interactive]] or [[Visual Notes]]

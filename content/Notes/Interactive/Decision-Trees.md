@@ -12,7 +12,7 @@ description: >-
   MLU scrollytelling lesson that builds a decision tree step-by-step and links
   entropy/information gain math to split decisions.
 created: "2026-03-08"
-updated: 2026-03-21
+updated: 2026-03-26
 aliases:
   - Portfolio/Stuffs/Decision-Trees
 cssclasses:
@@ -26,15 +26,16 @@ cssclasses:
 # Decision Trees
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Interactive note</p>
-  <h2>Decision Trees now lives on the dedicated interactive site.</h2>
-  <p>MLU scrollytelling lesson that builds a decision tree step-by-step and links entropy/information gain math to split decisions. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <p class="kitchen-eyebrow">Long-tail route · model intuition</p>
+  <h2>Use this when split logic should feel earned instead of abstract.</h2>
+  <p>MLU scrollytelling lesson that builds a decision tree step-by-step and links entropy/information gain math to split decisions.</p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/decision-trees/" target="_blank" rel="noopener noreferrer">Open Decision Trees</a>
+    <a class="kitchen-cta" href="./Random-Forest">Open ensemble companion</a>
   </div>
 </div>
 
-## What changed
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -42,16 +43,17 @@ cssclasses:
     <p>The maintained version lives at the route linked here, with this garden note keeping the embed and editorial framing.</p>
   </div>
   <div>
-    <span class="casefile-label">Why keep this URL</span>
-    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
+    <span class="casefile-label">Best companion</span>
+    <p>Pair it with [[Random-Forest]] once single-tree logic feels clear and you want to see how bagging changes the bias-variance tradeoff.</p>
   </div>
   <div>
-    <span class="casefile-label">How to use it</span>
-    <p>Use the live route for the full experience, then use this note when you want the embed, context, and garden backlinks in one place.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 10 to 15 minutes. Beginner friendly. Best if you want one model that is still readable node by node.</p>
   </div>
 </div>
 
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/decision-trees/>
+- Continue through [[Random-Forest]] when you want the ensemble follow-up after the single-tree logic clicks
 - Move through the local archive via [[Interactive]] or [[Visual Notes]]

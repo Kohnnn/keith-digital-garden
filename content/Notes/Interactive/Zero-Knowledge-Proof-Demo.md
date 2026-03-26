@@ -8,7 +8,7 @@ tags:
 draft: false
 description: Interactive zero-knowledge proof demo using a selectable US map and palette-based coloring logic.
 created: "2026-03-24"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases: []
 cssclasses:
   - external-canvas-note
@@ -18,7 +18,7 @@ cssclasses:
 # Zero-Knowledge Proof Demo
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · cryptography</p>
+  <p class="kitchen-eyebrow">Core route · cryptography</p>
   <h2>Proof without disclosure.</h2>
   <p>
     This demo makes zero-knowledge intuition physical. Select states on the map, shuffle palettes,
@@ -27,10 +27,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/zero-knowledge-proof-demo/" target="_blank" rel="noopener noreferrer">Open Zero-Knowledge Proof Demo</a>
+    <a class="kitchen-cta" href="./Blockchain-101-Combined-Flow">Open guided route</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -39,11 +40,11 @@ cssclasses:
   </div>
   <div>
     <span class="casefile-label">What to try first</span>
-    <p>Select two states, then shuffle colors to see how verification still holds. Gradually add more states until the difference between “proof” and “disclosure” feels obvious.</p>
+    <p>Reveal the hidden partition first, then shuffle colors to see how verification still holds. Gradually add more states until the difference between proof and disclosure feels obvious.</p>
   </div>
   <div>
-    <span class="casefile-label">Where it lives</span>
-    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 10 to 15 minutes. Intermediate. It lands best after Blockchain and Public / Private Keys, once authenticity already feels concrete.</p>
   </div>
 </div>
 
@@ -62,4 +63,6 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/zero-knowledge-proof-demo/>
+- Use [[Notes/Interactive/Blockchain-101-Combined-Flow|Blockchain 101 Combined Flow]] if you want the full cryptography sequence around this note
+- Start with [[Notes/Interactive/Blockchain|Blockchain]] and [[Notes/Interactive/Public-Private-Keys|Public / Private Keys]] if you want the cleanest setup before this privacy jump
 - Continue via [[Interactive]] or [[Visual Notes]]

@@ -11,7 +11,7 @@ description: >-
   Mechanical transmission explainer about angular velocity, torque transfer,
   involute tooth geometry, and multi-gear train behavior.
 created: "2020-02-12"
-updated: 2026-03-24
+updated: 2026-03-26
 aliases:
   - Portfolio/Stuffs/Gears
 cssclasses:
@@ -25,7 +25,7 @@ cssclasses:
 # Gears
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Flagship-adjacent · mechanical systems</p>
+  <p class="kitchen-eyebrow">Core route · mechanical systems</p>
   <h2>Ratios, torque, and tooth geometry you can actually feel.</h2>
   <p>
     This note makes gear trains readable by motion instead of formula alone. Change tooth counts,
@@ -34,10 +34,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/gears/" target="_blank" rel="noopener noreferrer">Open Gears</a>
+    <a class="kitchen-cta" href="./Mechanical-Watch">Open mechanics companion</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -51,6 +52,10 @@ cssclasses:
   <div>
     <span class="casefile-label">What to try first</span>
     <p>Begin with a simple two-gear pair, then build a train with different tooth counts. Once the ratio behavior clicks, compare it with [[Mechanical-Watch]] to see the same logic inside a more complex machine.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Time and level</span>
+    <p>About 8 to 12 minutes. Beginner friendly. Easier than Mechanical Watch and a better warm-up if you want shorter first contact.</p>
   </div>
 </div>
 
@@ -70,4 +75,5 @@ cssclasses:
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/gears/>
 - Continue through [[Mechanical-Watch]] for the flagship mechanical-system explainer
+- Continue through [[Notes/Interactive/Primary-Interactive-Hub|Primary Interactive Hub]] when you want a broader curated browse after this
 - Move through [[Visual Notes]] when you want the broader visual-explainer shelf

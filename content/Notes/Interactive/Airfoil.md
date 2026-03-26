@@ -10,7 +10,7 @@ description: >-
   Interactive fluid-dynamics explainer focused on why wings generate lift, combining
   airflow, pressure, viscosity, and boundary-layer scenes.
 created: "2024-02-27"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases:
   - Portfolio/Stuffs/Airfoil
 cssclasses:
@@ -21,7 +21,7 @@ cssclasses:
 # Airfoil
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · physical intuition</p>
+  <p class="kitchen-eyebrow">Core route · physical intuition</p>
   <h2>Lift, pressure, and flow — manipulated in real time.</h2>
   <p>
     This explainer makes fluid dynamics tactile. Move the wing profile, adjust flow conditions, and
@@ -30,10 +30,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/airfoil/" target="_blank" rel="noopener noreferrer">Open Airfoil</a>
+    <a class="kitchen-cta" href="./Primary-Interactive-Hub">Open hub route</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -47,6 +48,10 @@ cssclasses:
   <div>
     <span class="casefile-label">Where it lives</span>
     <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Time and level</span>
+    <p>About 12 to 18 minutes. Intermediate. Best when you want a physics explainer that stays visual before it turns mathematical.</p>
   </div>
 </div>
 
@@ -65,4 +70,5 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/airfoil/>
+- Use [[Notes/Interactive/Primary-Interactive-Hub|Primary Interactive Hub]] when you want a broader route pick after this family
 - Continue via [[Interactive]] or [[Visual Notes]]

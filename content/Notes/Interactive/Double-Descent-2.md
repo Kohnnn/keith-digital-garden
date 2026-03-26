@@ -12,7 +12,7 @@ description: >-
   Second part of the double-descent series, focused on mathematical derivation
   and interpolation-threshold behavior.
 created: "2026-03-08"
-updated: 2026-03-21
+updated: 2026-03-26
 aliases:
   - Portfolio/Stuffs/Double-Descent-2
 cssclasses:
@@ -26,15 +26,16 @@ cssclasses:
 # Double Descent 2
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Interactive note</p>
-  <h2>Double Descent 2 now lives on the dedicated interactive site.</h2>
-  <p>Second part of the double-descent series, focused on mathematical derivation and interpolation-threshold behavior. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <p class="kitchen-eyebrow">Long-tail route · model intuition</p>
+  <h2>Use this when you want the second pass on why bigger models can help twice.</h2>
+  <p>Second part of the double-descent series, focused on mathematical derivation and interpolation-threshold behavior.</p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/double-descent-2/" target="_blank" rel="noopener noreferrer">Open Double Descent 2</a>
+    <a class="kitchen-cta" href="./The-Bias-Variance-Tradeoff">Open theory companion</a>
   </div>
 </div>
 
-## What changed
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -42,16 +43,17 @@ cssclasses:
     <p>The maintained version lives at the route linked here, with this garden note keeping the embed and editorial framing.</p>
   </div>
   <div>
-    <span class="casefile-label">Why keep this URL</span>
-    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
+    <span class="casefile-label">Best companion</span>
+    <p>Pair it with [[The-Bias-Variance-Tradeoff]] when you want the more classical mental model before revisiting the second double-descent pass.</p>
   </div>
   <div>
-    <span class="casefile-label">How to use it</span>
-    <p>Use the live route for the full experience, then use this note when you want the embed, context, and garden backlinks in one place.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 12 to 18 minutes. Intermediate, and easiest after the first double-descent note or a standard bias-variance walkthrough.</p>
   </div>
 </div>
 
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/double-descent-2/>
+- Continue through [[The-Bias-Variance-Tradeoff]] or [[Double-Descent]] when you want the cleaner setup behind this second pass
 - Move through the local archive via [[Interactive]] or [[Visual Notes]]

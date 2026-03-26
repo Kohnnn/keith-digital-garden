@@ -11,7 +11,7 @@ description: >-
   4D geometry explainer showing how a tesseract is constructed, projected,
   rotated, and intersected in lower-dimensional spaces.
 created: "2019-12-10"
-updated: 2026-03-21
+updated: 2026-03-26
 aliases:
   - Portfolio/Stuffs/Tesseract
 cssclasses:
@@ -25,15 +25,16 @@ cssclasses:
 # Tesseract
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Interactive note</p>
-  <h2>Tesseract now lives on the dedicated interactive site.</h2>
-  <p>4D geometry explainer showing how a tesseract is constructed, projected, rotated, and intersected in lower-dimensional spaces. This local page remains as a stable archive URL, but the maintained interactive experience is external.</p>
+  <p class="kitchen-eyebrow">Long-tail route · geometry</p>
+  <h2>Use this when higher-dimensional geometry should feel drawable instead of impossible.</h2>
+  <p>4D geometry explainer showing how a tesseract is constructed, projected, rotated, and intersected in lower-dimensional spaces.</p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/tesseract/" target="_blank" rel="noopener noreferrer">Open Tesseract</a>
+    <a class="kitchen-cta" href="./Primary-Interactive-Hub">Open hub route</a>
   </div>
 </div>
 
-## What changed
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -41,16 +42,21 @@ cssclasses:
     <p>The maintained version lives at the route linked here, with this garden note keeping the embed and editorial framing.</p>
   </div>
   <div>
-    <span class="casefile-label">Why keep this URL</span>
-    <p>This page preserves old links, garden references, and backlinks that already point into the Quartz archive.</p>
+    <span class="casefile-label">Best companion</span>
+    <p>Pair it with [[Immersive-Linear-Algebra]] when you want another geometry-first route that builds spatial intuition before symbol manipulation.</p>
   </div>
   <div>
-    <span class="casefile-label">How to use it</span>
-    <p>Use the live route for the full experience, then use this note when you want the embed, context, and garden backlinks in one place.</p>
+    <span class="casefile-label">Route use</span>
+    <p>Use the live route first, then come back here when you want the garden-side framing and nearby geometry paths in one place.</p>
+  </div>
+  <div>
+    <span class="casefile-label">Time and level</span>
+    <p>About 12 to 18 minutes. Intermediate. Best after one physics explainer if you want abstraction and geometry instead of mechanics.</p>
   </div>
 </div>
 
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/tesseract/>
+- Pair it with [[Notes/Interactive/Immersive-Linear-Algebra|Immersive Linear Algebra]] when you want another geometry-heavy route from the same shelf
 - Move through the local archive via [[Interactive]] or [[Visual Notes]]

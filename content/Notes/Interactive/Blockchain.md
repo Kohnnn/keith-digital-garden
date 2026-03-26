@@ -8,7 +8,7 @@ tags:
 draft: false
 description: Interactive blockchain explainer with editable block fields, mining, and tamper cascades.
 created: "2026-03-24"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases: []
 cssclasses:
   - external-canvas-note
@@ -18,7 +18,7 @@ cssclasses:
 # Blockchain
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · cryptography</p>
+  <p class="kitchen-eyebrow">Core route · cryptography</p>
   <h2>Hashing, chaining, and the tamper cascade.</h2>
   <p>
     This lab turns blockchain mechanics into an editable sandbox. Fill block fields, mine a nonce,
@@ -27,10 +27,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/blockchain/" target="_blank" rel="noopener noreferrer">Open Blockchain</a>
+    <a class="kitchen-cta" href="./Blockchain-101-Combined-Flow">Open guided route</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -42,8 +43,8 @@ cssclasses:
     <p>Mine a block, then tweak a field in an earlier block and watch the cascade fail. Once that feels obvious, open the distributed view to see how consensus fits into the same model.</p>
   </div>
   <div>
-    <span class="casefile-label">Where it lives</span>
-    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 10 to 15 minutes. Beginner friendly. It is the clearest first stop in the cryptography sequence because the failure mode is visible immediately.</p>
   </div>
 </div>
 
@@ -62,4 +63,6 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/blockchain/>
+- Use [[Notes/Interactive/Blockchain-101-Combined-Flow|Blockchain 101 Combined Flow]] for the cleanest sequence through the rest of the family
+- Continue through [[Notes/Interactive/Public-Private-Keys|Public / Private Keys]] when you want signatures and authenticity after chained state
 - Continue via [[Interactive]] or [[Visual Notes]]

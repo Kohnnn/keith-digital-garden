@@ -4,7 +4,7 @@ tags: [notes, hub]
 draft: false
 description: Wider garden of simulations, archive shelves, explainers, and working notes beyond the portfolio casefiles.
 created: 2026-03-07
-updated: 2026-03-21
+updated: 2026-03-26
 aliases: [Notes]
 permalink: /notes
 cssclasses: [branch-hub]
@@ -17,14 +17,18 @@ This is the wider garden: archive shelves, topic notes, explainers, and branches
 ## Start here
 
 - [[Start Here|Start here]]
+- [[Visual Notes]]
+- [[Interactive]]
 - [[Dispatches]]
 - [[Field Notes]]
 - [[Tech Journal]]
-- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
+- [[Notes/Interactive/Mechanical-Watch|Mechanical Watch]]
 
 ## Archive shelves
 
-- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
+- [[Notes/Interactive/Primary-Interactive-Hub|Primary Interactive Hub]]
+- [[Notes/Interactive/Blockchain-101-Combined-Flow|Blockchain 101 Combined Flow]]
+- [[Notes/Interactive/Interactive-Explanation-Atlas|Interactive Explanation Atlas]]
 - [[Field Notes]]
 - [[Research Digests]]
 - [[Tech Journal]]

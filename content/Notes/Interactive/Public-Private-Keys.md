@@ -8,7 +8,7 @@ tags:
 draft: false
 description: Interactive key-generation, signing, and verification sandbox for public/private key pairs.
 created: "2026-03-24"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases: []
 cssclasses:
   - external-canvas-note
@@ -18,7 +18,7 @@ cssclasses:
 # Public / Private Keys
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · cryptography</p>
+  <p class="kitchen-eyebrow">Core route · cryptography</p>
   <h2>Generate, sign, and verify — in a browser.</h2>
   <p>
     This lab turns key generation and digital signatures into hands-on steps. Create a keypair,
@@ -27,10 +27,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/public-private-keys/" target="_blank" rel="noopener noreferrer">Open Public / Private Keys</a>
+    <a class="kitchen-cta" href="./Blockchain-101-Combined-Flow">Open guided route</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -39,11 +40,11 @@ cssclasses:
   </div>
   <div>
     <span class="casefile-label">What to try first</span>
-    <p>Generate a keypair and watch the public key change in real time. Sign a message, change one character, and verify again to see the failure. Then open the signatures subroute for deeper flows.</p>
+    <p>Generate a keypair and watch the public key change in real time. Sign a message, change one character, and verify again to see the failure. If the tab flow feels abrupt, use the combined-flow hub to keep the sequence legible.</p>
   </div>
   <div>
-    <span class="casefile-label">Where it lives</span>
-    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 10 to 15 minutes. Beginner friendly. It is the easiest way to make signing and verification feel mechanical instead of mystical.</p>
   </div>
 </div>
 
@@ -62,4 +63,6 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/public-private-keys/>
+- Use [[Notes/Interactive/Blockchain-101-Combined-Flow|Blockchain 101 Combined Flow]] if you want the surrounding context instead of the tab flow alone
+- Continue through [[Notes/Interactive/Zero-Knowledge-Proof-Demo|Zero-Knowledge Proof Demo]] when you want the privacy follow-up after authenticity
 - Continue via [[Interactive]] or [[Visual Notes]]

@@ -8,7 +8,7 @@ tags:
 draft: false
 description: Interactive guide to the game theory of cooperation, noise, and repair.
 created: "2026-03-24"
-updated: "2026-03-24"
+updated: "2026-03-26"
 aliases: []
 cssclasses:
   - external-canvas-note
@@ -18,7 +18,7 @@ cssclasses:
 # The Evolution of Trust
 
 <div class="interactive-bridge-hero">
-  <p class="kitchen-eyebrow">Curiosity shelf · systems</p>
+  <p class="kitchen-eyebrow">Core route · systems</p>
   <h2>Cooperation, retaliation, and repair — played out.</h2>
   <p>
     This explainer turns repeated-game scenarios into a hands-on sandbox. Play one-off encounters,
@@ -27,10 +27,11 @@ cssclasses:
   </p>
   <div class="kitchen-cta-row">
     <a class="kitchen-cta primary" href="https://kohnnn.github.io/interactive-explanation/trust/" target="_blank" rel="noopener noreferrer">Open The Evolution of Trust</a>
+    <a class="kitchen-cta" href="./To-Build-a-Better-Ballot">Open systems companion</a>
   </div>
 </div>
 
-## What you'll notice
+## At a glance
 
 <div class="casefile-summary">
   <div>
@@ -42,8 +43,8 @@ cssclasses:
     <p>Start with a one-off game, then play three or four iterated rounds. Introduce noise and watch how retaliation escalates. Finish by experimenting with forgiveness to find sustainable strategies.</p>
   </div>
   <div>
-    <span class="casefile-label">Where it lives</span>
-    <p>The maintained version lives at the route linked here, while this garden note keeps the embed, context, and backlinks together.</p>
+    <span class="casefile-label">Time and level</span>
+    <p>About 10 to 15 minutes. Beginner friendly, especially if you want game theory to feel like strategy instead of notation.</p>
   </div>
 </div>
 
@@ -62,4 +63,5 @@ cssclasses:
 ## Reading path
 
 - Open the live interactive: <https://kohnnn.github.io/interactive-explanation/trust/>
+- Continue through [[To-Build-a-Better-Ballot]] or [[Parable-of-the-Polygons]] for another systems-and-incentives route
 - Continue via [[Interactive]] or [[Visual Notes]]

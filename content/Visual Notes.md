@@ -7,7 +7,7 @@ tags:
 draft: false
 description: Theme-first index of the visual explainers and simulations I keep returning to.
 created: "2026-03-07"
-updated: "2026-03-24"
+updated: "2026-03-26"
 cssclasses:
   - branch-hub
 ---
@@ -16,9 +16,37 @@ cssclasses:
 
 This page indexes the interactive notes I reference the most, grouped by what they teach. Each local page keeps the backlinks, short editorial summaries, and embedded canvas so the live route stays attached to the idea it explains.
 
-## Featured route
+## Best starting routes
 
-- [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/)
+<div class="writing-grid">
+  <a class="writing-card" href="./Notes/Interactive/Mechanical-Watch">
+    <span class="casefile-label">Flagship · 15 min</span>
+    <h3>Mechanical Watch</h3>
+    <p>Start here if you want the strongest single visual explainer for systems intuition.</p>
+  </a>
+  <a class="writing-card" href="./Notes/Interactive/Gears">
+    <span class="casefile-label">Mechanics · 10 min</span>
+    <h3>Gears</h3>
+    <p>Use this when you want the shorter companion piece before stepping into watch-level complexity.</p>
+  </a>
+  <a class="writing-card" href="./Notes/Interactive/Airfoil">
+    <span class="casefile-label">Physics · 15 min</span>
+    <h3>Airfoil</h3>
+    <p>Open this when you want pressure, lift, and flow to turn from diagram into motion.</p>
+  </a>
+  <a class="writing-card" href="./Notes/Interactive/Interactive-Explanation-Atlas">
+    <span class="casefile-label">Atlas · open-ended</span>
+    <h3>Interactive Explanation Atlas</h3>
+    <p>Use the full route inventory when you want a wider browse beyond the garden's own highlights.</p>
+  </a>
+</div>
+
+## Read by intent
+
+- Choose [[Notes/Interactive/Mechanical-Watch|Mechanical Watch]] for the best first impression of the collection.
+- Choose [[Notes/Interactive/Gears|Gears]] or [[Notes/Interactive/Airfoil|Airfoil]] when you want a shorter, more focused mechanical or physics explainer.
+- Choose [[Notes/Interactive/Tesseract|Tesseract]] when you want abstraction and geometry rather than physical hardware.
+- Choose [[Notes/Interactive/Primary-Interactive-Hub|Primary Interactive Hub]] if you want the curated external browse surface first.
 
 ## Visual explainers
 
@@ -66,6 +94,7 @@ Interactive drills that connect data splits, evaluation metrics, and model behav
 
 Simulations that make feedback loops, voting systems, and cryptography tangible.
 
+- [[Notes/Interactive/Blockchain-101-Combined-Flow|Blockchain 101 Combined Flow]] — recommended first pass for the blockchain family.
 - [[Notes/Interactive/The-Evolution-of-Trust|The Evolution of Trust]] — repeated-game cooperation, noise, and repair.
 - [[Notes/Interactive/Parable-of-the-Polygons|Parable of the Polygons]] — small biases, tipping points, and segregation.
 - [[Notes/Interactive/To-Build-a-Better-Ballot|To Build a Better Ballot]] — voting systems with draggable electorates.
@@ -79,3 +108,4 @@ Simulations that make feedback loops, voting systems, and cryptography tangible.
 - Each note includes an embedded iframe for its live interactive, plus short editorial context about what to try first.
 - Each note links directly to its own live route; local pages preserve archive URLs and backlinks.
 - If an embed fails, open the direct route linked inside that note.
+- When the live site feels too wide, step through [[Notes/Interactive/Primary-Interactive-Hub|Primary Interactive Hub]] or [[Notes/Interactive/Interactive-Explanation-Atlas|Interactive Explanation Atlas]] first.

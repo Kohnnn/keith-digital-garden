@@ -14,7 +14,6 @@ keywords:
 note_id: 260330TP01
 cssclasses:
   - thoughtpiece
-draft: true
 description: minimum viable security controls for fast-moving AI-native teams — what's essential, what's tradeable, and what accelerates risk.
 created: 2026-03-30
 updated: 2026-03-30

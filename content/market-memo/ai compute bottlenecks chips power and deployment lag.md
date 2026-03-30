@@ -14,7 +14,6 @@ keywords:
 note_id: 260330RD01
 cssclasses:
   - research-digest
-draft: true
 description: evidence-led map of AI infrastructure constraints — silicon, power, interconnect, and integration — and their second-order portfolio implications.
 created: 2026-03-30
 updated: 2026-03-30

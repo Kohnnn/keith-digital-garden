@@ -14,7 +14,6 @@ keywords:
 note_id: 260330GN03
 cssclasses:
   - general-note
-draft: true
 description: how stablecoin issuance and redemption mechanics transmit macro liquidity signals into crypto markets.
 created: 2026-03-30
 updated: 2026-03-30

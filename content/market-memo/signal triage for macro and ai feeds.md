@@ -14,7 +14,6 @@ keywords:
 note_id: 260330TJ01
 cssclasses:
   - tech-journal
-draft: true
 description: practical filter for separating actionable signal from ambient noise in recurring macro and ai intelligence feeds.
 created: 2026-03-30
 updated: 2026-03-30

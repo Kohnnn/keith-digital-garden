@@ -14,7 +14,6 @@ keywords:
 note_id: 260330RD02
 cssclasses:
   - research-digest
-draft: true
 description: mapping strategic rare earth and critical mineral concentration, choke point mechanics, and second-order exposure pathways across asset classes.
 created: 2026-03-30
 updated: 2026-03-30

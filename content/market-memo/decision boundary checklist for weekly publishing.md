@@ -14,7 +14,6 @@ keywords:
 note_id: 260330TJ02
 cssclasses:
   - tech-journal
-draft: true
 description: publish-vs-hold threshold checklist to reduce style drift and prevent low-confidence content from reaching the vault.
 created: 2026-03-30
 updated: 2026-03-30

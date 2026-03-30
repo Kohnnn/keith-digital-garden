@@ -15,7 +15,6 @@ note_id: 260330MR02
 cssclasses:
   - market-report
 mr_variant: current
-draft: true
 description: what changed this week in liquidity conditions and risk appetite — the signal-driven companion to the weekly anchor.
 created: 2026-03-30
 updated: 2026-03-30

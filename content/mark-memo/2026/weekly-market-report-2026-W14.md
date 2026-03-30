@@ -16,7 +16,6 @@ note_id: 260330MR01
 cssclasses:
   - market-report
 mr_variant: weekly
-draft: true
 description: week 14 macro synthesis — rates hold, risk assets test conviction, and the regime framing that anchors next week's view.
 created: 2026-03-30
 updated: 2026-03-30

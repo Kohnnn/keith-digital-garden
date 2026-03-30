@@ -14,7 +14,6 @@ keywords:
 note_id: 260330GN01
 cssclasses:
   - general-note
-draft: true
 description: regime map for classifying macro liquidity conditions and their downstream effects on credit, rates, and risk appetite.
 created: 2026-03-30
 updated: 2026-03-30

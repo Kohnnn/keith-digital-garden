@@ -14,7 +14,6 @@ keywords:
 note_id: 260330GN02
 cssclasses:
   - general-note
-draft: true
 description: clean definitions for positioning, flow, and sentiment indicators and how to combine them with regime and valuation context.
 created: 2026-03-30
 updated: 2026-03-30

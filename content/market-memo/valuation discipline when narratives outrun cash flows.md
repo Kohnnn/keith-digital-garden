@@ -14,7 +14,6 @@ keywords:
 note_id: 260330TP02
 cssclasses:
   - thoughtpiece
-draft: true
 description: decision rules for maintaining valuation discipline when market narratives are moving faster than underlying fundamentals can confirm.
 created: 2026-03-30
 updated: 2026-03-30

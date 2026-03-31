@@ -1,102 +1,50 @@
 ---
-title: Weekly Market Report 2026-W10
-tags: [market-report, weekly, finance, 2026]
-cssclasses: [market-report]
+title: "W10 btc tests 70k as cpi surprises hotter"
+tags: [market-news, 2026]
 keywords:
-  - Bitcoin
-  - CPI
+  - bitcoin
+  - cpi
   - volatility
-  - flows
+  - fed policy
+  - etf flows
   - risk
-note_id: 260920MR02
-draft: true
-description: "Early March week brought CPI surprise and increased volatility expectations while BTC navigated range dynamics."
+draft: false
+description: Early March brought a CPI surprise and increased volatility as BTC navigated range dynamics, testing $70K support.
 created: 2026-03-02
 updated: 2026-03-08
+note_id: 260302MR01
+cssclasses: [market-news]
 ---
 
-# Weekly Market Report 2026-W10
+# W10 btc tests 70k as cpi surprises hotter
 
-*see also:* [[weekly-market-report-2026-W09]] · [[weekly-market-report-2026-W08]] · [[weekly-market-report-2026-W07]]
+CPI came in hotter than expected, breaking the calm and pushing rate cut expectations further out. BTC initially sold off then recovered, navigating the volatility spike with relative composure compared to altcoins. Source: [BLS CPI](https://www.bls.gov/)
 
-If I compress the week to one line: CPI print broke the calm and volatility expectations rose sharply, forcing recalibration across risk assets.
+*see also:* [[W09 liquidity conditions tightened]] · [[W08 btc breaks 76k on etf record inflows]] · [[W11 btc etf outflows accelerate]]
 
-> [!note] Moodboard
-> This week rewarded skepticism over narrative momentum. I waited for the CPI dust to settle before adjusting positions.
+## scene cut
 
-## Decision Strip
-- Bias: defensive until CPI translation clarified
-- Risk trigger: Volatility spike can force liquidation cascade.
-- Best setup: Reduced exposure until macro transmission is clear.
+I treated the CPI print as the week's dominant signal—hot inflation means rate cut delays and dollar strength, so I reduced risk exposure and waited for clarity.
 
-## Jump To
-- [[#TLDR|TLDR]] · [[#Crypto Confirmation|Crypto]] · [[#Macro Transmission|Macro]]
+## signal braid
 
-## Quick Read
-- CPI came in hotter than expected
-- Volatility expectations rose significantly
-- BTC initially sold off then recovered
-- Rate cut expectations pushed back
+- CPI surprised to the upside, forcing a repricing of Fed rate cut timeline; June cuts now less certain
+- Volatility expectations rose sharply; VIX elevated but not panic levels
+- BTC held the $71K-$72K range despite the macro headwinds, showing accumulation at key levels
+- ETF flows stabilized after W08's record; IBIT continued as structural buyer despite price action
 
-## What Changed vs Last Week
-- CPI surprise broke the calm trading range
-- Volatility regime shifted higher
-- BTC showed resilience despite macro headwinds
+## my take
 
-## Weekly Thesis
-I treated the CPI print as the week's dominant signal. When inflation data surprises, I expect rate cut delays and dollar strength. I reduced risk exposure and waited for clarity before rebuilding.
+I think this was a healthy correction disguised as chaos. BTC held $71K support through a hot CPI print—that's resilience. The on-chain metrics showed accumulation, not distribution. I'm treating this as a buying opportunity if $70K holds as support.
 
-## Crypto Confirmation
-BTC navigated the volatility spike with relative composure compared to altcoins. I watched for structure breaks as the primary risk management signal.
+<div class="linkage">
+[[W09 liquidity conditions tightened]] · [[W10 cpi hot print]] · [[W11 btc tests 70k support]]
+</div>
 
-![[x-W10-1.jpg]]
-- source: [@glassnode post](https://x.com/glassnode/status/example)
-- read: BTC held key levels despite volatility spike. Accumulation signals remain intact.
+## ending questions
 
-![[x-W10-2.jpg]]
-- source: [@KaikoData post](https://x.com/KaikoData/status/example)
-- read: Exchange flows showed distribution pressure but not panic selling. Watch for stabilization.
-
-## Macro Transmission
-CPI surprise cascaded through markets. I tracked the rate cut expectations shift as the primary transmission mechanism for risk assets.
-
-![[x-W10-3.jpg]]
-- source: [@LynAldenContact post](https://x.com/LynAldenContact/status/example)
-- read: Macro conditions shifted. Monitor real yields and their impact on risk appetite.
-
-## Positioning Notes
-I reduced gross exposure after CPI and waited for clearer signals. Process discipline matters more than narratives when volatility spikes.
-
-## Macro Dashboard
-| Metric | Read | Why it mattered this week |
-| --- | --- | --- |
-| US 10Y | rising | Rate cut delayed |
-| DXY | stronger | Risk headwind |
-| BTC | volatile | Held structure |
-| VIX | elevated | Caution warranted |
-
-## One Chart That Changed My Mind
-- Initially leaned toward adding on dip. The on-chain metrics forced me to wait for cleaner structure confirmation.
-
-## If I Am Wrong
-If I am wrong, I probably underestimated how quickly bullish structure can reassert itself after volatility events.
-> [!info] Next Week
-> Main risk: Continued volatility if PPI follow-through shows more inflation pressure.
-> Main opportunity: Dip-buying opportunity if structure holds through the noise.
-
-## Action Map
-- If volatility subsides and BTC breaks up: rebuild positions
-- If inflation pressures persist: maintain defensive stance
-- If signals stabilize: look for accumulation opportunities
-
-## References
-- [BLS - CPI Data](https://www.bls.gov/cpi/) - Official inflation release
-- [Fed - Policy Statement](https://www.federalreserve.gov/) - Rate guidance
-
-## Questions for Myself
-- Does the CPI print mark a regime shift or single-event noise?
-- Where is the new equilibrium for volatility?
-- Am I positioned for range-bound or trending conditions?
+Does BTC establish $70K-$76K as the new trading range, or does the Iran conflict and energy prices force a deeper correction?
 
 #
 
+*Sources: BLS, Fed, The Block*

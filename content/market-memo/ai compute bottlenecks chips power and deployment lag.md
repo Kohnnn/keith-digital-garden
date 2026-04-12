@@ -21,7 +21,7 @@ updated: 2026-03-30
 
 # ai compute bottlenecks chips power and deployment lag
 
-*see also:* [[signal triage for macro and ai feeds]] · [[security posture for ai native teams]] · [[weekly market report 2026-W14]]
+*see also:* [[signal triage for macro and ai feeds]] · [[security posture for ai native teams]] · [[weekly market report 2026-w14]]
 
 ## constraint stack
 

@@ -21,7 +21,7 @@ updated: 2026-03-30
 
 # valuation discipline when narratives outrun cash flows
 
-*see also:* [[positioning and flow primer for discretionary investors]] · [[liquidity regime framework]] · [[weekly market report 2026-W14]] · [[ai compute bottlenecks chips power and deployment lag]]
+*see also:* [[positioning and flow primer for discretionary investors]] · [[liquidity regime framework]] · [[weekly market report 2026-w14]] · [[ai compute bottlenecks chips power and deployment lag]]
 
 ## the problem framing
 
@@ -77,7 +77,7 @@ The hardest part of valuation discipline in narrative-driven markets is that bei
   <ul>
     <li>[[positioning and flow primer for discretionary investors]]</li>
     <li>[[liquidity regime framework]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
   </ul>
 </div>
 

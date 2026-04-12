@@ -21,7 +21,7 @@ updated: 2026-03-30
 
 # positioning and flow primer for discretionary investors
 
-*see also:* [[liquidity regime framework]] · [[valuation discipline when narratives outrun cash flows]] · [[weekly market report 2026-W14]]
+*see also:* [[liquidity regime framework]] · [[valuation discipline when narratives outrun cash flows]] · [[weekly market report 2026-w14]]
 
 ## clean definitions
 
@@ -69,7 +69,7 @@ Positioning and flow data is most useful as a risk management tool, not a primar
   <ul>
     <li>[[liquidity regime framework]]</li>
     <li>[[valuation discipline when narratives outrun cash flows]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
   </ul>
 </div>
 

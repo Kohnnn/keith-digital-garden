@@ -47,6 +47,6 @@ Watch for independent benchmarks comparing TurboQuant against INT4/INT8 methods 
 
 ## linkage
 
-- [[kv-cache-optimization]] — KV cache compression techniques
-- [[quantization-methods]] — INT4, INT8, FP8 comparison
-- [[google-ai-strategy]] — Google's AI narrative vs execution
+- [KV Cache Optimization Techniques](https://arxiv.org/abs/2405.04434) — KV cache compression techniques
+- [Quantization Methods Comparison](https://arxiv.org/abs/2406.12300) — INT4, INT8, FP8 comparison
+- [Google AI Strategy Analysis](https://blog.google/technology/ai) — Google's AI narrative vs execution

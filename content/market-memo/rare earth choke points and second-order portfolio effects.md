@@ -21,7 +21,7 @@ updated: 2026-03-30
 
 # rare earth choke points and second-order portfolio effects
 
-*see also:* [[liquidity regime framework]] · [[ai compute bottlenecks chips power and deployment lag]] · [[weekly market report 2026-W14]]
+*see also:* [[liquidity regime framework]] · [[ai compute bottlenecks chips power and deployment lag]] · [[weekly market report 2026-w14]]
 
 ## concentration map
 
@@ -82,7 +82,7 @@ The rare earth choke point problem is structural and not going away. The questio
   <ul>
     <li>[[liquidity regime framework]]</li>
     <li>[[ai compute bottlenecks chips power and deployment lag]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
   </ul>
 </div>
 

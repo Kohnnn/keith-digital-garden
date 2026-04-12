@@ -22,7 +22,7 @@ updated: 2026-03-30
 
 # market memo what changed in liquidity and risk appetite
 
-*see also:* [[weekly market report 2026-W14]] · [[liquidity regime framework]] · [[signal triage for macro and ai feeds]] · [[positioning and flow primer for discretionary investors]]
+*see also:* [[weekly market report 2026-w14]] · [[liquidity regime framework]] · [[signal triage for macro and ai feeds]] · [[positioning and flow primer for discretionary investors]]
 
 If you only read one thing: this week, liquidity conditions shifted from passive to slightly contested — not a crisis signal, but a regime nuance that changes how I'd size near-term risk.
 
@@ -68,7 +68,7 @@ The change this week isn't alarming — it's clarifying. A market that was rally
 <div class="linkage">
   <p><strong>linkage</strong></p>
   <ul>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
     <li>[[liquidity regime framework]]</li>
     <li>[[positioning and flow primer for discretionary investors]]</li>
   </ul>

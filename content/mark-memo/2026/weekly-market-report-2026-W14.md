@@ -40,8 +40,6 @@ I stayed patient and waited for cleaner structure. Chasing marginal breaks witho
   <p><strong>linkage</strong></p>
   <ul>
     <li>[[weekly market report 2026-w13 consolidation as tape digests gains]]</li>
-    <li>[[weekly market report 2026-w15 awaiting fed guidance]]</li>
-    <li>[[range break fails to confirm direction]]</li>
   </ul>
 </div>
 

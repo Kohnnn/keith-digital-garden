@@ -76,7 +76,7 @@ This framework isn't a model — it's a disciplined sequencing check. The goal i
   <ul>
     <li>[[signal triage for macro and ai feeds]]</li>
     <li>[[positioning and flow primer for discretionary investors]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
   </ul>
 </div>
 

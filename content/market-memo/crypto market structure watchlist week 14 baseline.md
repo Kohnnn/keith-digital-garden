@@ -21,7 +21,7 @@ updated: 2026-03-30
 
 # crypto market structure watchlist week 14 baseline
 
-*see also:* [[stablecoin liquidity as crypto transmission layer]] · [[weekly market report 2026-W14]] · [[market memo what changed in liquidity and risk appetite]] · [[positioning and flow primer for discretionary investors]]
+*see also:* [[stablecoin liquidity as crypto transmission layer]] · [[weekly market report 2026-w14]] · [[market memo what changed in liquidity and risk appetite]] · [[positioning and flow primer for discretionary investors]]
 
 ## dashboard components
 
@@ -88,7 +88,7 @@ Market structure analysis is humbling — the signals are useful but rarely prec
   <p><strong>linkage</strong></p>
   <ul>
     <li>[[stablecoin liquidity as crypto transmission layer]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
     <li>[[market memo what changed in liquidity and risk appetite]]</li>
   </ul>
 </div>

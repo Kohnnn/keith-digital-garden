@@ -21,7 +21,7 @@ updated: 2026-03-30
 
 # stablecoin liquidity as crypto transmission layer
 
-*see also:* [[liquidity regime framework]] · [[crypto market structure watchlist week 14 baseline]] · [[weekly market report 2026-W14]]
+*see also:* [[liquidity regime framework]] · [[crypto market structure watchlist week 14 baseline]] · [[weekly market report 2026-w14]]
 
 ## mechanism basics
 
@@ -72,7 +72,7 @@ Stablecoin mechanics are one of the cleaner cross-asset translation tools in cry
   <ul>
     <li>[[liquidity regime framework]]</li>
     <li>[[crypto market structure watchlist week 14 baseline]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
   </ul>
 </div>
 

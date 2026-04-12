@@ -43,6 +43,6 @@ Interesting that this is from UCSB, MIT, and IBM — not a lab paper. Independen
 
 ## linkage
 
-- [[terminal-bench]] — agent terminal benchmark
-- [[claude-code]] — Anthropic's coding agent
-- [[skill-retrieval]] — retrieval augmented agents
+- [Terminal-Bench 2.0 Paper](https://arxiv.org/html/2604.04323v1) — agent terminal benchmark
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code) — Anthropic's coding agent
+- [Skill Retrieval Research](https://arxiv.org/abs/2406.12300) — retrieval augmented agents

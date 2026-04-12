@@ -44,6 +44,6 @@ The context window arms race continues (GPT-5.4). Claude Mythos dominates on cap
 
 ## linkage
 
-- [[claude-mythos-preview]] — detailed Mythos analysis
-- [[grok-architecture]] — multi-agent systems
-- [[open-source-llms]] — Llama ecosystem
+- [Claude Mythos Analysis](https://www.anthropic.com/claude) — detailed Mythos analysis
+- [Grok 4.20 Multi-Agent Architecture](https://x.ai/grok) — multi-agent systems
+- [Llama 4 Open Source Models](https://ai.meta.com/llama) — Llama ecosystem

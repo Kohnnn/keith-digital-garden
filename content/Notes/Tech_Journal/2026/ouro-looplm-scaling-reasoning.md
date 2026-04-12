@@ -51,6 +51,6 @@ Worth watching: whether LoopLM becomes practical for production reasoning, or re
 
 ## linkage
 
-- [[chain-of-thought-reasoning]] — explicit vs latent reasoning comparison
-- [[adaptive-computation]] — early exit mechanisms
-- [[parameter-efficiency]] — small models matching large via architecture
+- [LoopLM Paper (arXiv:2510.25741)](https://arxiv.org/html/2510.25741v4) — explicit vs latent reasoning comparison
+- [Adaptive Computation Research](https://arxiv.org/abs/2004.08516) — early exit mechanisms
+- [Parameter Efficient Training Methods](https://arxiv.org/abs/2205.15008) — small models matching large via architecture

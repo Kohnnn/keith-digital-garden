@@ -72,7 +72,7 @@ The checklist isn't exciting. It's the difference between a vault that builds on
   <ul>
     <li>[[signal triage for macro and ai feeds]]</li>
     <li>[[liquidity regime framework]]</li>
-    <li>[[weekly market report 2026-W14]]</li>
+    <li>[[weekly market report 2026-w14]]</li>
   </ul>
 </div>
 

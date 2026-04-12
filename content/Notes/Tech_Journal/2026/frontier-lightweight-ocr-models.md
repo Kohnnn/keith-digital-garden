@@ -21,6 +21,8 @@ October 2025 saw a wave of open-source OCR/document parsing models drop in a sin
 - SOTA on table parsing (TEDS 93.42), formula recognition (CDM 97.29), reading order
 - Open source: [HuggingFace](https://huggingface.co/opendatalab/MinerU2.5-Pro-2604-1.2B)
 
+![MinerU2.5-Pro Performance on OmniDocBench](https://hotelll.github.io/MinerU2.5-Pro/leaderboard.png)
+
 **GLM-OCR** (Zhipu AI)
 - 0.9B parameters
 - OmniDocBench v1.6: 95.15
@@ -37,6 +39,46 @@ October 2025 saw a wave of open-source OCR/document parsing models drop in a sin
 - GPT-5.2: 86.52
 
 **Key benchmark:** OmniDocBench v1.6 — corrects matching biases from v1.5, adds Hard subset (296 pages of challenging documents)
+
+![End-to-End Document Parsing Performance](https://hotelll.github.io/MinerU2.5-Pro/end2end.png)
+
+## Benchmark Breakdown
+
+### Text Recognition (Edit Distance)
+
+![Text Recognition Performance](https://hotelll.github.io/MinerU2.5-Pro/text_performance.png)
+
+### Formula Recognition (CDM Score)
+
+![Formula Recognition Performance](https://hotelll.github.io/MinerU2.5-Pro/formula_performance.png)
+
+### Table Recognition (TEDS Score)
+
+![Table Recognition Performance](https://hotelll.github.io/MinerU2.5-Pro/table_performance.png)
+
+## Data Engine Architecture
+
+The breakthrough wasn't architectural — it was systematic data engineering:
+
+1. **DDAS** (Diversity-and-Difficulty-Aware Sampling): Page-level + element-level sampling
+2. **CMCV** (Cross-Model Consistency Verification): Multi-model agreement for annotation quality
+3. **Judge-and-Refine**: Render-then-verify for hard samples
+
+![Data Engine Pipeline](https://arxiv.org/html/2604.04771v1/x2.png)
+
+## Parsing Examples
+
+### Text Recognition
+
+![Text Parsing Example](https://hotelll.github.io/MinerU2.5-Pro/text.png)
+
+### Formula Recognition
+
+![Formula Parsing Example](https://hotelll.github.io/MinerU2.5-Pro/formula.png)
+
+### Table Recognition
+
+![Table Parsing Example](https://hotelll.github.io/MinerU2.5-Pro/table.png)
 
 ## my take
 

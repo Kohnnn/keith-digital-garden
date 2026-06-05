@@ -1,0 +1,1 @@
+@/tmp/gn-agentic-ai.md

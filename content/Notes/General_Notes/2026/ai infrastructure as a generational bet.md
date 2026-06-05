@@ -1,0 +1,1 @@
+@/tmp/gn-ai-infra.md

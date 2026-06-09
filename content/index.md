@@ -24,7 +24,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 
 <nav class="atheneum-routes" aria-label="Atheneum routes">
   <a class="kitchen-ticket kitchen-route-art" href="./Portfolio">
-    <img src="attachments/placeholders/route-the-bar.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-vault.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Vault</span>
       <strong>Portfolio</strong>
@@ -33,7 +33,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./notes">
-    <img src="attachments/placeholders/route-the-pantry.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-stacks.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Stacks</span>
       <strong>Notes</strong>
@@ -42,7 +42,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./arena">
-    <img src="attachments/placeholders/route-arena.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-observatory.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Observatory</span>
       <strong>Arena</strong>
@@ -51,7 +51,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./Portfolio/Blog">
-    <img src="attachments/placeholders/route-service-counter.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-ledger.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Ledger</span>
       <strong>Research notes</strong>

@@ -4152,3 +4152,171 @@ footer::after {
     transform: none;
   }
 }
+
+/* ----------------------------------------------------------------------------
+   Session 4: diverse Spot illustration system. Square 1:1 vignettes placed as
+   small corner/leading decorations across cards, callouts, list rows, and tag
+   tiles. All are background-images that render nothing if the asset is missing,
+   so every surface degrades gracefully while art generates in waves. Root
+   absolute paths resolve from any page depth. Scoped away from raw portfolio
+   content where noted.
+---------------------------------------------------------------------------- */
+
+$spot-base: "/keith-digital-garden/attachments/placeholders";
+
+/* Callout spots: opt-in via class has-spot + --spot var (already hooked in S2,
+   here we provide ready-to-use themed variants). */
+.callout.has-spot.spot-knowledge {
+  --spot: url("#{$spot-base}/spot-knowledge.webp");
+}
+.callout.has-spot.spot-markets {
+  --spot: url("#{$spot-base}/spot-markets.webp");
+}
+.callout.has-spot.spot-systems {
+  --spot: url("#{$spot-base}/spot-systems.webp");
+}
+.callout.has-spot.spot-philosophy {
+  --spot: url("#{$spot-base}/spot-philosophy.webp");
+}
+.callout.has-spot.spot-security {
+  --spot: url("#{$spot-base}/spot-security.webp");
+}
+.callout.has-spot.spot-ai {
+  --spot: url("#{$spot-base}/spot-ai.webp");
+}
+
+/* RecentNotes item leading spot (home "Latest from the Atheneum"). Uses the
+   ledger spot as a tasteful default; small, left of the title block. */
+.kitchen-home .recent-notes li.recent-li {
+  position: relative;
+  padding-left: 3.4rem;
+}
+
+.kitchen-home .recent-notes li.recent-li::before {
+  content: "";
+  position: absolute;
+  left: 0.75rem;
+  top: 0.8rem;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 8px;
+  background-image: url("#{$spot-base}/spot-knowledge.webp");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.92;
+  box-shadow: 0 4px 12px rgba(15, 20, 30, 0.18);
+}
+
+/* Start-station cards: a faint corner spot, varied per card via nth-child so
+   the four cards do not all look identical. */
+.kitchen-home article .kitchen-start-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.kitchen-home article .kitchen-start-card::after {
+  content: "";
+  position: absolute;
+  right: -10px;
+  bottom: -10px;
+  width: 84px;
+  height: 84px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  opacity: 0.14;
+  pointer-events: none;
+  transition: opacity 200ms ease;
+}
+
+.kitchen-home article .kitchen-start-card:nth-child(1)::after {
+  background-image: url("#{$spot-base}/spot-knowledge.webp");
+}
+.kitchen-home article .kitchen-start-card:nth-child(2)::after {
+  background-image: url("#{$spot-base}/spot-markets.webp");
+}
+.kitchen-home article .kitchen-start-card:nth-child(3)::after {
+  background-image: url("#{$spot-base}/spot-systems.webp");
+}
+.kitchen-home article .kitchen-start-card:nth-child(4)::after {
+  background-image: url("#{$spot-base}/spot-time.webp");
+}
+
+.kitchen-home article .kitchen-start-card:hover::after {
+  opacity: 0.26;
+}
+
+/* Folder / tag list rows: a tiny section glyph at the row start. */
+.section-li .section .desc::before {
+  content: "";
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  margin-right: 0.4rem;
+  vertical-align: -0.08em;
+  background-image: url("#{$spot-base}/glyph-section.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.5;
+}
+
+/* Tag-map grid tiles: faint observatory glyph watermark. */
+.grid-map-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.grid-map-item::after {
+  content: "";
+  position: absolute;
+  right: -6px;
+  bottom: -6px;
+  width: 42px;
+  height: 42px;
+  background-image: url("#{$spot-base}/glyph-observatory.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  opacity: 0.1;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kitchen-home article .kitchen-start-card::after,
+  .kitchen-home article .kitchen-start-card:hover::after {
+    transition: none;
+  }
+}
+
+/* Session 4: repurposed route landscapes as faint full-width section bands
+   behind the two landing H2 sections. Very low opacity so text stays readable;
+   render nothing if absent. */
+.kitchen-home article .reading-journey,
+.kitchen-home article .kitchen-start-grid {
+  position: relative;
+  isolation: isolate;
+  padding: 1.2rem;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.kitchen-home article .reading-journey::before,
+.kitchen-home article .kitchen-start-grid::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.08;
+  pointer-events: none;
+}
+
+.kitchen-home article .reading-journey::before {
+  background-image: url("/keith-digital-garden/attachments/placeholders/band-archive.webp");
+}
+
+.kitchen-home article .kitchen-start-grid::before {
+  background-image: url("/keith-digital-garden/attachments/placeholders/band-knowledge.webp");
+}

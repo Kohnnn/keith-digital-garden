@@ -26,6 +26,7 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const appleIconPath = joinSegments(baseDir, "static/icon-180.png")
 
     // Url of current page
     const publicSlug = fileData.slug === "404" ? undefined : simplifySlug(fileData.slug!)
@@ -84,6 +85,7 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        <link rel="apple-touch-icon" sizes="180x180" href={appleIconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

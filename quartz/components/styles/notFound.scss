@@ -1,0 +1,112 @@
+.not-found-hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 60vh;
+  margin: 0;
+  padding: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  // Dark fallback so the page reads intentionally even if the image 404s
+  background-color: #14122b;
+  color: #f4f0e6;
+
+  & .not-found-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+    // hide alt text / broken-image glyph on load failure
+    color: transparent;
+  }
+
+  & .not-found-scrim {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(
+      to top,
+      rgba(10, 9, 26, 0.92) 0%,
+      rgba(10, 9, 26, 0.72) 38%,
+      rgba(10, 9, 26, 0.28) 70%,
+      rgba(10, 9, 26, 0.12) 100%
+    );
+  }
+
+  & .not-found-content {
+    position: relative;
+    z-index: 2;
+    padding: 2.5rem 2rem 3rem;
+    max-width: 42rem;
+  }
+
+  & .not-found-kicker {
+    margin: 0 0 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--secondary, #c9b8ff);
+    filter: brightness(1.6);
+  }
+
+  & .not-found-title {
+    margin: 0 0 0.75rem;
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    line-height: 1.05;
+    font-weight: 700;
+    color: #f4f0e6;
+    border-bottom: none;
+  }
+
+  & .not-found-message {
+    margin: 0 0 1.75rem;
+    font-size: 1.05rem;
+    line-height: 1.5;
+    color: #d8d2e6;
+  }
+
+  & .not-found-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  & .not-found-button {
+    display: inline-block;
+    padding: 0.65rem 1.4rem;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #c9b8ff;
+    color: #14122b;
+    border: 1px solid transparent;
+    transition:
+      transform 0.15s ease,
+      background-color 0.15s ease;
+  }
+
+  & .not-found-button:hover {
+    background-color: #ddd3ff;
+  }
+
+  & .not-found-link {
+    color: #c9b8ff;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  & .not-found-link:hover {
+    text-decoration: underline;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .not-found-hero .not-found-button:hover {
+    transform: translateY(-1px);
+  }
+}

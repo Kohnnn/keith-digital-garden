@@ -1235,6 +1235,11 @@ article.research-notes,
     box-shadow: 0 18px 40px rgba(39, 29, 17, 0.06);
     min-width: 0;
     overflow-wrap: anywhere;
+    transition:
+      transform 180ms ease,
+      border-color 180ms ease,
+      box-shadow 180ms ease,
+      background 180ms ease;
   }
 
   .casefile-card,
@@ -1265,6 +1270,8 @@ article.research-notes,
   .writing-card:hover {
     transform: translateY(-2px);
     background: color-mix(in srgb, var(--light) 89%, var(--secondary) 11%);
+    border-color: color-mix(in srgb, var(--secondary) 36%, var(--lightgray) 64%);
+    box-shadow: 0 24px 50px rgba(39, 29, 17, 0.1);
   }
 
   .proof-card strong,
@@ -3522,17 +3529,21 @@ article:not(.portfolio-page):not(.casefile-page) blockquote p:last-child {
 /* Section breaks as a centered diamond motif rather than a flat rule. */
 article:not(.portfolio-page):not(.casefile-page) hr {
   border: 0;
-  height: 1.4rem;
-  margin: 2.4rem 0;
+  height: 1.6rem;
+  margin: 2.6rem 0;
   background: none;
   text-align: center;
+  /* Section glyph sigil centered on the rule; falls back to the diamond motif
+     below if the asset is missing (the ::after still renders). */
+  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-section.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 1.5rem;
+  opacity: 0.92;
 }
 
 article:not(.portfolio-page):not(.casefile-page) hr::before {
-  content: "\25C7   \25C7   \25C7";
-  color: color-mix(in srgb, var(--secondary) 42%, var(--lightgray) 58%);
-  font-size: 0.7rem;
-  letter-spacing: 0.2em;
+  content: "";
 }
 
 /* Warm accent list markers on reading surfaces. */
@@ -3954,6 +3965,189 @@ article:not(.portfolio-page):not(.casefile-page) a.external .external-icon {
 @media (prefers-reduced-motion: reduce) {
   .tag-link,
   .tag-link:hover {
+    transition: none;
+    transform: none;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Round 3 polish: per-branch accent tint, landing hero entrance motion, and a
+   footer emblem watermark. All token-driven and reduced-motion guarded; scoped
+   away from portfolio/casefile content.
+---------------------------------------------------------------------------- */
+
+/* Per-branch accent: each flavored hub tints its hero scrim + glyph subtly,
+   staying within the indigo/steel family (no new hues). */
+.tech-journal {
+  --branch-accent: var(--secondary);
+}
+.market-report {
+  --branch-accent: #1b2fd8;
+}
+.thoughtpiece {
+  --branch-accent: #6c2abf;
+}
+.research-digest {
+  --branch-accent: var(--tertiary);
+}
+
+.tech-journal article .hub-hero-banner,
+.market-report article .hub-hero-banner,
+.thoughtpiece article .hub-hero-banner,
+.research-digest article .hub-hero-banner {
+  box-shadow:
+    0 24px 60px rgba(8, 9, 20, 0.3),
+    0 0 0 1px color-mix(in srgb, var(--branch-accent, var(--secondary)) 30%, transparent 70%);
+}
+
+/* Landing hero entrance: a calm fade-up once on load. */
+@keyframes atheneum-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.kitchen-home article .atheneum-hero-inner > * {
+  animation: atheneum-rise 620ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+.kitchen-home article .atheneum-eyebrow {
+  animation-delay: 60ms;
+}
+.kitchen-home article .atheneum-wordmark {
+  animation-delay: 130ms;
+}
+.kitchen-home article .atheneum-promise {
+  animation-delay: 220ms;
+}
+.kitchen-home article .atheneum-actions {
+  animation-delay: 320ms;
+}
+
+/* Route tiles + start cards: gentle staggered settle. */
+.kitchen-home article .atheneum-routes > a {
+  animation: atheneum-rise 560ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+.kitchen-home article .atheneum-routes > a:nth-child(1) {
+  animation-delay: 360ms;
+}
+.kitchen-home article .atheneum-routes > a:nth-child(2) {
+  animation-delay: 440ms;
+}
+.kitchen-home article .atheneum-routes > a:nth-child(3) {
+  animation-delay: 520ms;
+}
+.kitchen-home article .atheneum-routes > a:nth-child(4) {
+  animation-delay: 600ms;
+}
+
+/* Footer emblem watermark: faint brand seal behind the footer copy. */
+footer::after {
+  content: "";
+  position: absolute;
+  right: 1.4rem;
+  bottom: 1rem;
+  width: 88px;
+  height: 88px;
+  z-index: -1;
+  pointer-events: none;
+  background-image: var(--brand-emblem, none);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.08;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kitchen-home article .atheneum-hero-inner > *,
+  .kitchen-home article .atheneum-routes > a {
+    animation: none;
+  }
+}
+
+/* Round 3: "Latest from the Atheneum" recent-notes strip on the home page.
+   Themed to match the warm editorial system; only affects the home instance. */
+.kitchen-home .recent-notes {
+  margin-top: 2.4rem;
+  padding-top: 1.6rem;
+  border-top: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray) 76%);
+}
+
+.kitchen-home .recent-notes > h3 {
+  font-family: var(--titleFont);
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.kitchen-home .recent-notes > h3::before {
+  content: "";
+  display: inline-block;
+  width: 1.05em;
+  height: 1.05em;
+  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-ledger.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
+}
+
+.kitchen-home .recent-notes ul.recent-ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.kitchen-home .recent-notes li.recent-li {
+  margin: 0;
+  padding: 0.75rem 0.9rem;
+  border-radius: 12px;
+  border: 1px solid color-mix(in srgb, var(--secondary) 16%, var(--lightgray) 84%);
+  background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    background 180ms ease;
+}
+
+.kitchen-home .recent-notes li.recent-li:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--secondary) 34%, var(--lightgray) 66%);
+  background: color-mix(in srgb, var(--light) 90%, var(--secondary) 10%);
+}
+
+.kitchen-home .recent-notes li.recent-li .desc > h3 {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.25;
+}
+
+.kitchen-home .recent-notes li.recent-li .desc > h3 > a {
+  text-decoration: none;
+  color: var(--dark);
+}
+
+.kitchen-home .recent-notes li.recent-li .meta {
+  margin: 0.4rem 0 0;
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--gray);
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kitchen-home .recent-notes li.recent-li,
+  .kitchen-home .recent-notes li.recent-li:hover {
     transition: none;
     transform: none;
   }

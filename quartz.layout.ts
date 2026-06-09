@@ -9,6 +9,31 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Latest from the Atheneum",
+        limit: 5,
+        showTags: false,
+        filter: (f) => {
+          const tags = (f.frontmatter?.tags ?? []) as string[]
+          const css = (f.frontmatter?.cssclasses ?? []) as string[]
+          const slug = (f.slug ?? "") as string
+          // Dated reading-surface notes only; exclude portfolio + hubs + index.
+          if (css.includes("portfolio-page") || css.includes("casefile-page")) return false
+          if (slug === "index" || slug.startsWith("Portfolio")) return false
+          const dispatchTags = [
+            "dispatches",
+            "research-digest",
+            "market-news",
+            "thoughtpiece",
+            "tech-journal",
+            "philosophy",
+          ]
+          return f.dates !== undefined && tags.some((t) => dispatchTags.includes(t))
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.DappledLight(),
     Component.StackedNotesContainer(),
     Component.ArenaEnhancer(),

@@ -3,8 +3,14 @@ title: "Infrastructure Trends: Edge Computing and Decentralized Architecture"
 date: 2026-03-30
 tags: [infrastructure, edge-computing, decentralized, cloud]
 draft: true
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/article-edge-computing.png"
 ---
+
 # Infrastructure Trends: Edge Computing and Decentralized Architecture
+
+<figure class="hub-hero-banner">
+  <img src="attachments/placeholders/article-edge-computing.png" alt="" loading="lazy" />
+</figure>
 
 Edge computing has matured far beyond its origins as a niche optimization technique. By 2026, it has become a strategic pillar for industries that depend on real-time decisions, low latency, and robust data governance. With AI inference moving to devices, 5G Advanced networks rolling out globally, and decentralized digital ecosystems expanding, edge computing now operates hand-in-hand with the cloud—strengthening distributed operations rather than replacing centralized systems.
 

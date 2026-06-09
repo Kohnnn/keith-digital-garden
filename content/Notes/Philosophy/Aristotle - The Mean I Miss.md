@@ -17,9 +17,14 @@ updated: 2025-12-14
 note_id: 211207AR01
 cssclasses:
   - philo-dump
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-aristotle.png"
 ---
 
 # Aristotle - The Mean I Miss
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/philo-aristotle.png" alt="" loading="lazy" />
+</figure>
 
 <div class="keyword-row">
   <span class="inline-keyword">virtue</span>
@@ -28,7 +33,6 @@ cssclasses:
   <span class="inline-keyword">ethics</span>
   <span class="inline-keyword">habit</span>
 </div>
-
 
 I keep misreading the "golden mean" as a bland middle. But Aristotle did not mean "be average." He meant: find the right amount for this moment. Courage is not halfway between fear and rage. It is the right response to danger. Generosity is not an even split. It is the right response to need. The mean is not a math problem. It is a lived judgment. That is why I miss it so often. I want rules. The mean demands presence.
 
@@ -65,11 +69,11 @@ When I find the mean, it feels quiet. Not dramatic, not flashy, just right. That
 
 The mean also protects me from the status game. It is easy to perform virtue for applause. It is harder to practice it quietly. That is why [[Moral Development - The Ladder I Keep Climbing]] sits nearby. The ladder is not just about knowing what is right. It is about wanting to do it when nobody claps.
 
-I see this when I am about to send a sharp message and I pause. 
+I see this when I am about to send a sharp message and I pause.
 
 see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
-*tempo note:* the mean is dynamic, not bland middle-management.
+_tempo note:_ the mean is dynamic, not bland middle-management.
 
 Counter-pressure: The mean can become an excuse to avoid taking a real stand when a stand is needed.
 
@@ -78,12 +82,14 @@ Micro-ritual: Before a hard choice, name the two extremes and the one small acti
 I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Moral Development - The Ladder I Keep Climbing]].
 
 ## annotations
+
 - Ideology: virtue is a practiced target, not a fixed rule.
 - The mean demands judgment, not math.
 - Extremes are tempting when I am tired.
 - Practice is the only real teacher here.
 
 ## linkage
+
 <div class="linkage-tree">
   <div class="linkage-tree-title">linkage tree</div>
   <ul>
@@ -106,21 +112,24 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Mora
 </div>
 
 ## ideological conflicts
+
 - [[Aristotle - The Mean I Miss]] vs [[Nietzsche - The Heaviest Question]]: teleological flourishing versus anti-teleological revaluation.
 - [[Aristotle - The Mean I Miss]] vs [[Pyrrhonism - The Peace of Suspension]]: practical wisdom and character aims versus suspension for tranquility.
 - [[Aristotle - The Mean I Miss]] vs [[Madhyamaka - The Middle That Refuses]]: substance-form ontology versus emptiness of fixed essence.
 - [[Aristotle - The Mean I Miss]] vs [[Daoism - The Strength of Softness]]: habituated virtue versus non-forcing flow.
 
-
 ## conflict triad
+
 - [[Aristotle - The Mean I Miss]] / [[Madhyamaka - The Middle That Refuses]] / [[Pyrrhonism - The Peace of Suspension]]: virtue teleology, emptiness dialectics, and suspension therapy disagree about what can be stably known and lived.
 - The test question: do I build character from stable forms, relational emptiness, or strategic non-commitment?
 
 ## questions / next
+
 - what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 - what would I cut after revisiting [[Advaita Vedanta - The One Without Edges]]?
 
 ## references
+
 > [!ref] Nicomachean Ethics
 > https://classics.mit.edu/Aristotle/nicomachaen.html
 > Why it matters: the source of the mean and virtue ethics.

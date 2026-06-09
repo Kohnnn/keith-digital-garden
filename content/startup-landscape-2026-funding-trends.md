@@ -3,8 +3,14 @@ title: "Startup Landscape 2026: Funding Trends and Emerging Sectors"
 date: 2026-03-30
 tags: [startup, funding, venture-capital, AI]
 draft: true
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/article-startup-landscape.png"
 ---
+
 # Startup Landscape 2026: Funding Trends and Emerging Sectors
+
+<figure class="hub-hero-banner">
+  <img src="attachments/placeholders/article-startup-landscape.png" alt="" loading="lazy" />
+</figure>
 
 The startup funding landscape entering 2026 has stabilized after the dramatic contraction of 2022-2023, but it looks fundamentally different from the frothy peak of 2021. Global venture capital has recovered to around $325 billion annually, yet the market operates under a new set of rules—capital is concentrated, investors are disciplined, and the bar for founders has never been higher.
 

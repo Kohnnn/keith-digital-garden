@@ -7,9 +7,14 @@ created: 2026-01-30
 updated: 2026-03-13
 aliases: [Tech Docs]
 cssclasses: [portfolio-page, casefile-page]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-tech-docs.png"
 ---
 
 # Tech Docs Index
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/casefile-tech-docs.png" alt="" loading="lazy" />
+</figure>
 
 Support shelf for the engineering layer and secondary research archive behind the flagship casefiles.
 

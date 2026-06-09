@@ -17,29 +17,41 @@ cssclasses: [branch-hub, kitchen-home]
     <p class="kitchen-pass-note">The Bar is the fastest proof path. The Pantry holds the wider archive. Arena is the outbound shelf. The Service Counter is the dated public log.</p>
   </div>
   <nav class="kitchen-pass-grid" aria-label="Kitchen routes">
-    <a class="kitchen-ticket" href="./Portfolio">
-      <span class="kitchen-ticket-status">Plated</span>
-      <strong>The Bar</strong>
-      <p>Portfolio, casefiles, experience, and the shortest proof path.</p>
-      <span class="kitchen-ticket-meta">13 pages - updated Mar 2026</span>
+    <a class="kitchen-ticket kitchen-route-art" href="./Portfolio">
+      <img src="attachments/placeholders/route-the-bar.png" alt="" loading="lazy" />
+      <span class="kitchen-route-scrim">
+        <span class="kitchen-ticket-status">Plated</span>
+        <strong>The Bar</strong>
+        <p>Portfolio, casefiles, experience, and the shortest proof path.</p>
+        <span class="kitchen-ticket-meta">13 pages - updated Mar 2026</span>
+      </span>
     </a>
-    <a class="kitchen-ticket" href="./notes">
-      <span class="kitchen-ticket-status">Prep</span>
-      <strong>The Pantry</strong>
-      <p>Archive shelves, branching trails, and bridge pages into the live interactive notes.</p>
-      <span class="kitchen-ticket-meta">1,503 notes - updated Mar 2026</span>
+    <a class="kitchen-ticket kitchen-route-art" href="./notes">
+      <img src="attachments/placeholders/route-the-pantry.png" alt="" loading="lazy" />
+      <span class="kitchen-route-scrim">
+        <span class="kitchen-ticket-status">Prep</span>
+        <strong>The Pantry</strong>
+        <p>Archive shelves, branching trails, and bridge pages into the live interactive notes.</p>
+        <span class="kitchen-ticket-meta">1,503 notes - updated Mar 2026</span>
+      </span>
     </a>
-    <a class="kitchen-ticket" href="./arena">
-      <span class="kitchen-ticket-status">Shelf</span>
-      <strong>Arena</strong>
-      <p>External references, channels, and rabbit holes.</p>
-      <span class="kitchen-ticket-meta">2,267 links - updated Feb 2026</span>
+    <a class="kitchen-ticket kitchen-route-art" href="./arena">
+      <img src="attachments/placeholders/route-arena.png" alt="" loading="lazy" />
+      <span class="kitchen-route-scrim">
+        <span class="kitchen-ticket-status">Shelf</span>
+        <strong>Arena</strong>
+        <p>External references, channels, and rabbit holes.</p>
+        <span class="kitchen-ticket-meta">2,267 links - updated Feb 2026</span>
+      </span>
     </a>
-    <a class="kitchen-ticket" href="./Portfolio/Blog">
-      <span class="kitchen-ticket-status">Service</span>
-      <strong>Service Counter</strong>
-      <p>Research notes, frameworks, market writing, and the written operating log.</p>
-      <span class="kitchen-ticket-meta">265 memos - updated Mar 2026</span>
+    <a class="kitchen-ticket kitchen-route-art" href="./Portfolio/Blog">
+      <img src="attachments/placeholders/route-service-counter.png" alt="" loading="lazy" />
+      <span class="kitchen-route-scrim">
+        <span class="kitchen-ticket-status">Service</span>
+        <strong>Service Counter</strong>
+        <p>Research notes, frameworks, market writing, and the written operating log.</p>
+        <span class="kitchen-ticket-meta">265 memos - updated Mar 2026</span>
+      </span>
     </a>
   </nav>
 </section>

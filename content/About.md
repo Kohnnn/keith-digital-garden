@@ -6,9 +6,14 @@ description: What Keith Kitchen is and how the site is organized.
 created: 2026-01-30
 updated: 2026-03-25
 cssclasses: [portfolio-page]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-about.png"
 ---
 
 # About
+
+<figure class="hub-hero-banner">
+  <img src="attachments/placeholders/hub-about.png" alt="" loading="lazy" />
+</figure>
 
 Keith Kitchen is the public layer of my working research system.
 It is structured as a portfolio first and a note garden second: the homepage and `Portfolio/*` pages explain the work clearly, while the deeper note network stays available in `Notes/*`.

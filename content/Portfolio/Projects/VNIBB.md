@@ -6,9 +6,14 @@ description: Flagship finance-product casefile for a Vietnam-first analytics pla
 created: 2026-03-06
 updated: 2026-03-13
 cssclasses: [portfolio-page, casefile-page]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-vnibb.png"
 ---
 
 # VNIBB
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/casefile-vnibb.png" alt="" loading="lazy" />
+</figure>
 
 Flagship casefile for the Vietnam-market product layer that grew out of the same dashboard, screening, and research habits shown elsewhere in this portfolio.
 

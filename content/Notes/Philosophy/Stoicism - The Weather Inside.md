@@ -19,9 +19,14 @@ updated: 2026-02-07
 note_id: 220517ST01
 cssclasses:
   - philo-dump
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-stoicism.png"
 ---
 
 # Stoicism - The Weather Inside
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/philo-stoicism.png" alt="" loading="lazy" />
+</figure>
 
 <div class="keyword-row">
   <span class="inline-keyword">stoicism</span>
@@ -30,7 +35,6 @@ cssclasses:
   <span class="inline-keyword">control</span>
   <span class="inline-keyword">reason</span>
 </div>
-
 
 Stoicism feels like a map for storms. It asks me to separate the world into two circles: what I can control and what I cannot. That sounds obvious, but living it is hard. My body wants to grip outcomes, and my mind wants guarantees. Stoicism says peace is not a reward for winning; it is a skill of staying centered while the weather changes. In a western frame, it is virtue ethics with steel in its spine, but it also rhymes with eastern practices that train attention and let go of grasping.
 
@@ -67,7 +71,7 @@ Stoicism gives me practical tools too. It asks me to rehearse loss so I am not s
 
 see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
-*field note:* this is less a doctrine than a daily stabilization drill.
+_field note:_ this is less a doctrine than a daily stabilization drill.
 
 Counter-pressure: Stoicism can slip into emotional avoidance if I use it to bypass grief.
 
@@ -76,12 +80,14 @@ Micro-ritual: Name one thing I cannot control today and release it with one long
 I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Buddhism - The Practice of Letting Go]].
 
 ## annotations
+
 - Ideology: freedom is a trained response, not a stable world.
 - Virtue is the only secure possession.
 - Acceptance is active, not passive.
 - Calm is a form of care.
 
 ## linkage
+
 <div class="linkage-tree">
   <div class="linkage-tree-title">linkage tree</div>
   <ul>
@@ -106,21 +112,24 @@ I keep this next to [[Ethics - Prudence is a Muscle]] and it leans toward [[Budd
 </div>
 
 ## ideological conflicts
+
 - [[Stoicism - The Weather Inside]] vs [[Epicureanism - The Garden of Enough]]: virtue as highest good versus tranquility as highest practical aim.
 - [[Stoicism - The Weather Inside]] vs [[Buddhism - The Practice of Letting Go]]: rational governance of impressions versus no-self and craving-release practice.
 - [[Stoicism - The Weather Inside]] vs [[Nietzsche - The Heaviest Question]]: disciplined acceptance versus creative revaluation.
 - [[Stoicism - The Weather Inside]] vs [[Pyrrhonism - The Peace of Suspension]]: reasoned commitment versus peace through suspension.
 
-
 ## conflict triad
+
 - [[Stoicism - The Weather Inside]] / [[Epicureanism - The Garden of Enough]] / [[Buddhism - The Practice of Letting Go]]: resilience, sufficiency, and de-grasping offer three anti-chaos strategies.
 - The test question: do I stabilize by commanding judgment, reducing desire, or dissolving attachment?
 
 ## questions / next
+
 - what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 - what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
+
 > [!ref] Stoicism (Stanford Encyclopedia of Philosophy)
 > https://plato.stanford.edu/entries/stoicism/
 > Why it matters: clear overview of Stoic ethics and logic.

@@ -3,8 +3,14 @@ title: "Cybersecurity Threats in AI-Native Environments"
 date: 2026-03-30
 tags: [security, cybersecurity, AI, enterprise]
 draft: true
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/article-cybersecurity.png"
 ---
+
 # Cybersecurity Threats in AI-Native Environments
+
+<figure class="hub-hero-banner">
+  <img src="attachments/placeholders/article-cybersecurity.png" alt="" loading="lazy" />
+</figure>
 
 As AI systems become deeply embedded in enterprise operations, the threat landscape has fundamentally shifted. In 2026, organizations face a new class of cyber-threats where AI is not just a defensive tool but a weapon in the hands of adversaries. The convergence of intelligent automation and malicious intent marks a turning point—traditional cybersecurity models designed for slower, manual attacks are struggling to keep pace with AI-driven threats that operate at machine speed.
 
@@ -28,7 +34,7 @@ The Thales 2025 Data Threat Report found that nearly 70% of organizations identi
 
 Perhaps the most alarming emerging threat comes from autonomous AI agents themselves. Research on "Securing Agentic AI" highlights unique vulnerabilities when AI systems act with memory, tool integration, and cross-system propagation capabilities.
 
-In plain terms: AI agents could orchestrate multi-stage attacks, pivot across systems, exploit trust boundaries, and evade detection—all without human intervention. IBM's 2026 X-Force Threat Index confirms that AI tools now help attackers identify weaknesses faster than defenders can patch them. Michael Freeman, head of threat intelligence at Armis, predicts: *"By mid-2026, at least one major global enterprise will fall to a breach caused or significantly advanced by a fully autonomous agentic AI system."*
+In plain terms: AI agents could orchestrate multi-stage attacks, pivot across systems, exploit trust boundaries, and evade detection—all without human intervention. IBM's 2026 X-Force Threat Index confirms that AI tools now help attackers identify weaknesses faster than defenders can patch them. Michael Freeman, head of threat intelligence at Armis, predicts: _"By mid-2026, at least one major global enterprise will fall to a breach caused or significantly advanced by a fully autonomous agentic AI system."_
 
 Traditional threat models won't suffice. Organizations must assume autonomous behaviors and build resilience accordingly—treating AI agents as potential threat actors, not just tools.
 

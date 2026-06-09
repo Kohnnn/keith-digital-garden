@@ -7,9 +7,14 @@ created: 2026-01-30
 updated: 2026-03-13
 aliases: [Investment Strategy]
 cssclasses: [portfolio-page, casefile-page, market-report]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-investment-strategy.png"
 ---
 
 # Market Cycle Playbook
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/casefile-investment-strategy.png" alt="" loading="lazy" />
+</figure>
 
 Framework casefile for turning crypto investing into a reviewable process built around phase logic, risk control, and explicit confirmation rules.
 

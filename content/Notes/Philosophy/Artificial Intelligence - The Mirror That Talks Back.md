@@ -17,9 +17,14 @@ updated: 2025-12-02
 note_id: 240114AI01
 cssclasses:
   - philo-dump
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-ai.png"
 ---
 
 # Artificial Intelligence - The Mirror That Talks Back
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/philo-ai.png" alt="" loading="lazy" />
+</figure>
 
 <div class="keyword-row">
   <span class="inline-keyword">machine</span>
@@ -28,7 +33,6 @@ cssclasses:
   <span class="inline-keyword">ethics</span>
   <span class="inline-keyword">mirror</span>
 </div>
-
 
 AI scares me for a simple reason: it speaks back. The moment a system answers in a human tone, my brain reaches for a story. I want to call it a mind. I want to grant it agency. This is the same move I make every day with people and animals, just amplified by the glow of a screen. It is an ancient habit meeting a new object. The question is not whether the system is "really" a person. The question is what my habit does to me when I treat it like one.
 
@@ -76,12 +80,14 @@ I also think about dependency. The more I outsource my thinking, the more I risk
 And the question is moral too. If I treat AI as a tool, I may treat people like tools. If I treat AI as a person, I may reduce real people to peers with machines. Neither extreme feels right. That is why [[Moral Development - The Ladder I Keep Climbing]] sits in the background. How I decide what counts as a person is a moral stage, not a technical spec. The future will test that stage. I want to be ready.
 
 ## annotations
+
 - Ideology: personhood should be earned by responsibility, not mimicked by style.
 - A talking system activates my oldest habits.
 - Behavior can trick me into false respect or false fear.
 - The stance is useful, but it is not a verdict.
 
 ## linkage
+
 <div class="linkage-tree">
   <div class="linkage-tree-title">linkage tree</div>
   <ul>
@@ -109,16 +115,18 @@ And the question is moral too. If I treat AI as a tool, I may treat people like 
 </div>
 
 ## ideological conflicts
+
 - [[Artificial Intelligence - The Mirror That Talks Back]] vs [[Human Condition - The Weight of Being Here]]: optimization logic versus irreducible human burden.
 - [[Artificial Intelligence - The Mirror That Talks Back]] vs [[Intentional Stance - The Shortcut I Live By]]: tool prediction versus person-level ascription.
 - [[Artificial Intelligence - The Mirror That Talks Back]] vs [[Ethics - Prudence is a Muscle]]: scale automation versus situated judgment.
 
-
 ## questions / next
+
 - what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 - what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
+
 > [!ref] Computing Machinery and Intelligence
 > https://www.csee.umbc.edu/courses/471/papers/turing.pdf
 > Why it matters: the classic framing of machine intelligence and the imitation test.

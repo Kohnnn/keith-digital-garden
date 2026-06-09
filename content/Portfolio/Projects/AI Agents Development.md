@@ -6,9 +6,14 @@ description: Case study on local AI workflows for research automation and analys
 created: 2026-01-30
 updated: 2026-03-13
 cssclasses: [portfolio-page, casefile-page]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-ai-agents.png"
 ---
 
 # AI Agents Development
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/casefile-ai-agents.png" alt="" loading="lazy" />
+</figure>
 
 Automation casefile for turning research intake, monitoring, retrieval, and publishing into faster analyst operations with explicit human review.
 

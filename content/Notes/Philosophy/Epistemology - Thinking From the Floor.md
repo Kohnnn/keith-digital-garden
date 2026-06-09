@@ -18,9 +18,14 @@ updated: 2024-12-17
 note_id: 221009EP01
 cssclasses:
   - philo-dump
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-epistemology.png"
 ---
 
 # Epistemology - Thinking From the Floor
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/philo-epistemology.png" alt="" loading="lazy" />
+</figure>
 
 <div class="keyword-row">
   <span class="inline-keyword">knowledge</span>
@@ -29,7 +34,6 @@ cssclasses:
   <span class="inline-keyword">evidence</span>
   <span class="inline-keyword">truth</span>
 </div>
-
 
 When my head gets loud, I go down to the floor. I strip a belief until only the basic claims remain. If I cannot name those claims, I do not really know what I believe. I just have a mood dressed up as logic. Thinking from the floor is not a flex. It is a reset. It is the move from "I feel" to "I can show." And the moment I start showing, I find holes. I am wrong more than I want to admit. That is why this practice matters.
 
@@ -76,6 +80,7 @@ I keep a simple test for myself: if I cannot explain the idea in plain words, I 
 The final part is humility. The floor is not a place of pride. It is a place of doubt that leads to better structure. I do not want to live in doubt forever, but I do want to build on something I can defend. This is the hidden gift of epistemology. It does not just make me smarter. It makes me less fake. It makes the words I say line up with the life I live.
 
 ## annotations
+
 - Ideology: beliefs should earn their place through clear reasons.
 - Strip a belief until the base claims are visible.
 - Thought experiments are honesty tests, not party tricks.
@@ -83,6 +88,7 @@ The final part is humility. The floor is not a place of pride. It is a place of 
 - Good thinking protects good action.
 
 ## linkage
+
 <div class="linkage-tree">
   <div class="linkage-tree-title">linkage tree</div>
   <ul>
@@ -106,17 +112,19 @@ The final part is humility. The floor is not a place of pride. It is a place of 
 </div>
 
 ## ideological conflicts
+
 - [[Epistemology - Thinking From the Floor]] vs [[Pyrrhonism - The Peace of Suspension]]: fallibilist forward inquiry versus therapeutic withholding.
 - [[Epistemology - Thinking From the Floor]] vs [[Nyaya - The Rules of Knowing]]: reflective grounding versus formal pramana architecture.
 - [[Epistemology - Thinking From the Floor]] vs [[Yogacara - The Mind That Paints]]: world-directed correction versus construction-heavy perception.
 - [[Epistemology - Thinking From the Floor]] vs [[Machiavelli - The Price of Control]]: truth-seeking norms versus strategic truth-management.
 
-
 ## questions / next
+
 - which claim here survives contact with [[Advaita Vedanta - The One Without Edges]]?
 - where does this break when read beside [[Abstraction - The Idea That Floats]]?
 
 ## references
+
 > [!ref] Meditations on First Philosophy (Descartes)
 > https://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf
 > Why it matters: a classic reset on what can be known.

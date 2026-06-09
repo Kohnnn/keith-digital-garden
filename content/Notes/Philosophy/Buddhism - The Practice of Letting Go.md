@@ -17,9 +17,14 @@ updated: 2025-12-20
 note_id: 210514BU01
 cssclasses:
   - philo-dump
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-buddhism.png"
 ---
 
 # Buddhism - The Practice of Letting Go
+
+<figure class="hub-hero-banner">
+  <img src="../../attachments/placeholders/philo-buddhism.png" alt="" loading="lazy" />
+</figure>
 
 <div class="keyword-row">
   <span class="inline-keyword">suffering</span>
@@ -28,7 +33,6 @@ cssclasses:
   <span class="inline-keyword">practice</span>
   <span class="inline-keyword">self</span>
 </div>
-
 
 Buddhism keeps telling me that suffering is not just pain. It is clinging. I cling to comfort, to identity, to a story about how the world should be, and then I suffer when the story breaks. The Buddha does not say "pretend pain is gone." He says watch the clinging and loosen the grip. That is a practice, not a slogan. It is why Buddhism feels more like a discipline than a belief.
 
@@ -59,11 +63,11 @@ Buddhism also reframes identity. The self is not a solid object; it is a process
 
 I also notice how Buddhism links ethics and awareness. The more I see my own clinging, the less I want to harm others. Compassion is not a rule; it is a result. That is why [[Ethics - Prudence is a Muscle]] remains nearby. Prudence is the skill of acting without feeding harm.
 
-I see this when I pause before reacting and the reaction dissolves. 
+I see this when I pause before reacting and the reaction dissolves.
 
 see also: [[Abstraction - The Idea That Floats]] · [[Advaita Vedanta - The One Without Edges]].
 
-*friction point:* release is not collapse; it is precision with less ego.
+_friction point:_ release is not collapse; it is precision with less ego.
 
 Counter-pressure: Buddhism can become avoidance if I use "detachment" to dodge responsibility.
 
@@ -72,12 +76,14 @@ Micro-ritual: When a craving hits, count three breaths before acting.
 I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans toward [[Ethics - Prudence is a Muscle]].
 
 ## annotations
+
 - Ideology: freedom grows from attention, not from accumulation.
 - Suffering is often clinging in disguise.
 - Letting go is a skill, not a mood.
 - Compassion is the fruit of clear seeing.
 
 ## linkage
+
 <div class="linkage-tree">
   <div class="linkage-tree-title">linkage tree</div>
   <ul>
@@ -100,21 +106,24 @@ I keep this next to [[Surrender - The Moment I Stop Gripping]] and it leans towa
 </div>
 
 ## ideological conflicts
+
 - [[Buddhism - The Practice of Letting Go]] vs [[Nietzsche - The Heaviest Question]]: de-centering craving/self versus intensifying self-creation.
 - [[Buddhism - The Practice of Letting Go]] vs [[Stoicism - The Weather Inside]]: no-self and impermanence training versus rational self-command.
 - [[Buddhism - The Practice of Letting Go]] vs [[Bushido - The Steel of Restraint]]: compassion and release versus honor-bound loyalty.
 - [[Buddhism - The Practice of Letting Go]] vs [[Machiavelli - The Price of Control]]: suffering-reduction aim versus regime-survival aim.
 
-
 ## conflict triad
+
 - [[Buddhism - The Practice of Letting Go]] / [[Nietzsche - The Heaviest Question]] / [[Stoicism - The Weather Inside]]: no-self release, self-creation, and rational self-command each answer suffering differently.
 - The test question: which path reduces suffering without flattening agency?
 
 ## questions / next
+
 - what changes if I test this against [[Abstraction - The Idea That Floats]] this week?
 - what changes if I test this against [[Advaita Vedanta - The One Without Edges]] this week?
 
 ## references
+
 > [!ref] The Dhammapada
 > https://www.gutenberg.org/ebooks/2017
 > Why it matters: a core Buddhist text on mind and conduct.

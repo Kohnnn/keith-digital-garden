@@ -6,9 +6,14 @@ description: Orientation for the Keith Kitchen site structure.
 created: 2026-01-30
 updated: 2026-03-07
 cssclasses: [branch-hub]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-start-here.png"
 ---
 
 # Start Here
+
+<figure class="hub-hero-banner">
+  <img src="attachments/placeholders/hub-start-here.png" alt="" loading="lazy" />
+</figure>
 
 This page is the calmer map after the front door. The homepage is the invitation. This note is the route card.
 

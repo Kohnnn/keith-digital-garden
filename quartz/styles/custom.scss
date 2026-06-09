@@ -3283,3 +3283,311 @@ footer .footer-links a {
     line-height: 1.45;
   }
 }
+
+/* ----------------------------------------------------------------------------
+   Cyber-occult placeholder art: landing route buttons + hub/casefile heroes.
+   Art is intentionally dark (indigo/black) against the warm Keith Kitchen
+   chrome, so a gradient scrim keeps overlaid text and following headings
+   readable. Motion stays to a light hover lift per DESIGN.md.
+---------------------------------------------------------------------------- */
+
+.kitchen-ticket.kitchen-route-art {
+  position: relative;
+  display: block;
+  min-height: 188px;
+  padding: 0;
+  border: 1px solid color-mix(in srgb, #304cff 34%, #02030a 66%);
+  border-radius: 16px;
+  /* Dark indigo fallback so a not-yet-generated image reads as an intentional
+     tile (with the scrim text) rather than a broken card. */
+  background: #050b1f;
+  overflow: hidden;
+  isolation: isolate;
+  box-shadow: 0 14px 34px rgba(8, 9, 20, 0.18);
+  transition:
+    transform 220ms ease,
+    box-shadow 220ms ease,
+    border-color 220ms ease;
+}
+
+.kitchen-ticket.kitchen-route-art:hover {
+  transform: translateY(-3px);
+  border-color: color-mix(in srgb, #6f7dff 55%, #02030a 45%);
+  box-shadow: 0 22px 50px rgba(16, 26, 140, 0.32);
+}
+
+.kitchen-route-art img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  transition:
+    transform 420ms ease,
+    filter 420ms ease;
+  filter: saturate(0.92) contrast(1.02);
+}
+
+.kitchen-route-art:hover img {
+  transform: scale(1.05);
+  filter: saturate(1.05) contrast(1.05);
+}
+
+.kitchen-route-scrim {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: inherit;
+  padding: 0.9rem 1rem 0.95rem;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, #02030a 22%, transparent 78%) 0%,
+    color-mix(in srgb, #050b1f 64%, transparent 36%) 54%,
+    color-mix(in srgb, #02030a 92%, transparent 8%) 100%
+  );
+}
+
+.kitchen-route-art .kitchen-ticket-status {
+  color: #c7d2e8;
+  letter-spacing: 0.1em;
+}
+
+.kitchen-route-art strong {
+  color: #f6f0e2;
+  font-family: var(--titleFont);
+  font-size: 1.28rem;
+  line-height: 1.08;
+  text-shadow: 0 2px 14px rgba(2, 3, 10, 0.6);
+}
+
+.kitchen-route-art p {
+  color: color-mix(in srgb, #f3ebdd 82%, transparent 18%);
+  text-shadow: 0 1px 10px rgba(2, 3, 10, 0.55);
+}
+
+.kitchen-route-art .kitchen-ticket-meta {
+  margin-top: auto;
+  color: #9fb6d8;
+}
+
+.hub-hero-banner {
+  position: relative;
+  margin: 0.4rem 0 1.7rem;
+  border-radius: 18px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  box-shadow: 0 24px 60px rgba(8, 9, 20, 0.3);
+  background: #050b1f;
+  isolation: isolate;
+}
+
+.hub-hero-banner img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(0.95) contrast(1.02);
+}
+
+/* Bottom scrim so a following heading stays legible over the art. */
+.hub-hero-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    180deg,
+    transparent 52%,
+    color-mix(in srgb, #02030a 58%, transparent 42%) 100%
+  );
+}
+
+/* Faint CRT scanline texture to echo the cyber-occult aesthetic; very subtle. */
+.hub-hero-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.06;
+  background-image: repeating-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.5) 0,
+    rgba(255, 255, 255, 0.5) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+  mix-blend-mode: overlay;
+}
+
+@media (max-width: 600px) {
+  .hub-hero-banner {
+    aspect-ratio: 3 / 2;
+    border-radius: 14px;
+  }
+
+  .kitchen-ticket.kitchen-route-art {
+    min-height: 150px;
+  }
+
+  .kitchen-route-art strong {
+    font-size: 1.15rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kitchen-ticket.kitchen-route-art,
+  .kitchen-route-art img,
+  .kitchen-route-art:hover img {
+    transition: none;
+    transform: none;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Global garden polish: shared reading-surface aesthetics that apply across the
+   site (not portfolio-content-specific). Token-driven so light + dark modes
+   both adapt. Scoped away from portfolio surfaces where a treatment would
+   conflict with the existing casefile/portfolio design language.
+---------------------------------------------------------------------------- */
+
+/* Text selection in the warm ink + deep-water palette. */
+::selection {
+  background: color-mix(in srgb, var(--secondary) 28%, transparent 72%);
+  color: var(--dark);
+}
+
+/* Quiet, warm scrollbars instead of default OS chrome. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--secondary) 38%, var(--lightgray) 62%) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 11px;
+  height: 11px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--secondary) 34%, var(--lightgray) 66%);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--secondary) 52%, var(--lightgray) 48%);
+  background-clip: padding-box;
+}
+
+/* Editorial blockquotes: a tonal paper panel with a soft accent rule and a
+   faint oversized quote glyph. Scoped to article, excluding portfolio/casefile
+   surfaces so their bespoke layouts stay untouched. */
+article:not(.portfolio-page):not(.casefile-page) blockquote {
+  position: relative;
+  margin: 1.6rem 0;
+  padding: 0.85rem 1.15rem 0.85rem 1.4rem;
+  border: 0;
+  border-left: 3px solid color-mix(in srgb, var(--secondary) 55%, var(--lightgray) 45%);
+  border-radius: 0 12px 12px 0;
+  background: linear-gradient(
+    105deg,
+    color-mix(in srgb, var(--secondary) 9%, var(--light) 91%),
+    color-mix(in srgb, var(--secondary) 3%, var(--light) 97%)
+  );
+  color: color-mix(in srgb, var(--dark) 88%, var(--secondary) 12%);
+  font-style: italic;
+  overflow: hidden;
+}
+
+article:not(.portfolio-page):not(.casefile-page) blockquote::before {
+  content: "\201C";
+  position: absolute;
+  top: -0.35rem;
+  right: 0.55rem;
+  font-family: var(--titleFont);
+  font-size: 3.4rem;
+  line-height: 1;
+  color: color-mix(in srgb, var(--secondary) 16%, transparent 84%);
+  pointer-events: none;
+}
+
+article:not(.portfolio-page):not(.casefile-page) blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Section breaks as a centered diamond motif rather than a flat rule. */
+article:not(.portfolio-page):not(.casefile-page) hr {
+  border: 0;
+  height: 1.4rem;
+  margin: 2.4rem 0;
+  background: none;
+  text-align: center;
+}
+
+article:not(.portfolio-page):not(.casefile-page) hr::before {
+  content: "\25C7   \25C7   \25C7";
+  color: color-mix(in srgb, var(--secondary) 42%, var(--lightgray) 58%);
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+}
+
+/* Warm accent list markers on reading surfaces. */
+article:not(.portfolio-page):not(.casefile-page) ul:not([class]) > li::marker {
+  color: color-mix(in srgb, var(--secondary) 60%, var(--gray) 40%);
+}
+
+article:not(.portfolio-page):not(.casefile-page) ol:not([class]) > li::marker {
+  color: color-mix(in srgb, var(--secondary) 60%, var(--gray) 40%);
+  font-family: var(--codeFont);
+  font-weight: 600;
+}
+
+/* Content images on note surfaces: rounded, softly framed, gentle hover lift.
+   Excludes hero banners (handled separately) and portfolio/casefile art. */
+article:not(.portfolio-page):not(.casefile-page)
+  p
+  > img:not([src*="placeholders"]) {
+  border-radius: 12px;
+  box-shadow: 0 12px 34px rgba(15, 20, 30, 0.14);
+  border: 1px solid color-mix(in srgb, var(--lightgray) 72%, var(--secondary) 28%);
+  transition:
+    transform 220ms ease,
+    box-shadow 220ms ease;
+}
+
+article:not(.portfolio-page):not(.casefile-page)
+  p
+  > img:not([src*="placeholders"]):hover {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 44px rgba(15, 20, 30, 0.2);
+}
+
+/* Consistent, accessible focus ring across interactive surfaces. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+.kitchen-ticket:focus-visible,
+.writing-card:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--secondary) 70%, var(--tertiary) 30%);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  article:not(.portfolio-page):not(.casefile-page)
+    p
+    > img:not([src*="placeholders"]) {
+    transition: none;
+  }
+
+  article:not(.portfolio-page):not(.casefile-page)
+    p
+    > img:not([src*="placeholders"]):hover {
+    transform: none;
+  }
+}
+

@@ -6,9 +6,14 @@ description: Public shelf for short market-facing notes, news reactions, and sec
 created: 2026-03-07
 updated: 2026-03-25
 cssclasses: [branch-hub, market-report]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-market-tape.png"
 ---
 
 # Market Tape
+
+<figure class="hub-hero-banner">
+  <img src="attachments/placeholders/hub-market-tape.png" alt="" loading="lazy" />
+</figure>
 
 This shelf is the quick-response side of the archive: event notes, market snapshots, and short takes built around incentives, positioning, and second-order effects.
 

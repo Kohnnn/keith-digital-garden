@@ -1,0 +1,1 @@
+@/tmp/june-ai-news.md

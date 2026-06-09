@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Dispatches
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-dispatches.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-dispatches.webp" alt="" loading="lazy" />
 </figure>
 
 This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The short-form archive stays in the garden, while the flagship interactive notes open directly on their live routes.

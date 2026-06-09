@@ -23,7 +23,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Artificial Intelligence - The Mirror That Talks Back
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-ai.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-ai.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

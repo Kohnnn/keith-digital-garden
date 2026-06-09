@@ -13,7 +13,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Tech Docs Index
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-tech-docs.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-tech-docs.webp" alt="" loading="lazy" />
 </figure>
 
 Support shelf for the engineering layer and secondary research archive behind the flagship casefiles.

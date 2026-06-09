@@ -2,7 +2,7 @@
 title: Start Here
 tags: [guide, navigation]
 draft: false
-description: Orientation for the Keith Kitchen site structure.
+description: Orientation for the Keith's Atheneum site structure.
 created: 2026-01-30
 updated: 2026-03-07
 cssclasses: [branch-hub]
@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Start Here
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-start-here.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-start-here.webp" alt="" loading="lazy" />
 </figure>
 
 This page is the calmer map after the front door. The homepage is the invitation. This note is the route card.

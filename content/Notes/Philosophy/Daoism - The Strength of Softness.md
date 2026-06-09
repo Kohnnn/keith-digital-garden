@@ -23,7 +23,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Daoism - The Strength of Softness
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-daoism.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-daoism.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

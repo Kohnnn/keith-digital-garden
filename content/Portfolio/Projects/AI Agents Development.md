@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # AI Agents Development
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-ai-agents.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-ai-agents.webp" alt="" loading="lazy" />
 </figure>
 
 Automation casefile for turning research intake, monitoring, retrieval, and publishing into faster analyst operations with explicit human review.

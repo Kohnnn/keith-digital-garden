@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Research Digests
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-research-digests.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-research-digests.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf is for compressed research notes: evidence reviews, quick syntheses, and source-heavy snapshots that sit between bookmarks and full essays.

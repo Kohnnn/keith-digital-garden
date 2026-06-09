@@ -8,9 +8,14 @@ updated: 2026-02-25
 aliases: [Portfolio/Stuffs/Arena]
 cssclasses: [arena-hub, arena-list]
 permalink: /arena
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/surface-arena.png"
 ---
 
 # Arena
+
+<figure class="hub-hero-banner">
+  <img src="../attachments/placeholders/surface-arena.webp" alt="" loading="lazy" />
+</figure>
 
 A consolidated outbound atlas for channels, references, and rabbit holes that feed the rest of the garden.
 

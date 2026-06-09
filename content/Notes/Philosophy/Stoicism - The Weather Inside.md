@@ -25,7 +25,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Stoicism - The Weather Inside
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-stoicism.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-stoicism.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

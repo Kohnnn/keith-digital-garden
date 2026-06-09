@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Tech Journal
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-tech-journal.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-tech-journal.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf tracks the engineering side of the archive: tools, interfaces, product behavior, operational edges, and the small system details that tend to compound.

@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Crypto Dashboard
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-crypto-dashboard.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-crypto-dashboard.webp" alt="" loading="lazy" />
 </figure>
 
 Casefile for the review surface I used to bring crypto market structure, macro liquidity, and trading context into one repeatable workflow.

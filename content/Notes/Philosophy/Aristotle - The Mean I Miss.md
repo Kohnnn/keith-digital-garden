@@ -23,7 +23,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Aristotle - The Mean I Miss
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-aristotle.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-aristotle.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

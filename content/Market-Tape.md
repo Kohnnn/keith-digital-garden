@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Market Tape
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-market-tape.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-market-tape.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf is the quick-response side of the archive: event notes, market snapshots, and short takes built around incentives, positioning, and second-order effects.

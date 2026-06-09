@@ -23,7 +23,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Buddhism - The Practice of Letting Go
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-buddhism.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-buddhism.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

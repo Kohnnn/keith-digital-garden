@@ -13,7 +13,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Market Cycle Playbook
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-investment-strategy.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-investment-strategy.webp" alt="" loading="lazy" />
 </figure>
 
 Framework casefile for turning crypto investing into a reviewable process built around phase logic, risk control, and explicit confirmation rules.

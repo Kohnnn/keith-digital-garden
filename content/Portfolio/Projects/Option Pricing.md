@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Option Pricing
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-option-pricing.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-option-pricing.webp" alt="" loading="lazy" />
 </figure>
 
 Quant casefile for a derivatives toolkit that moves from Black-Scholes fundamentals to richer model assumptions and practical scenario checks.

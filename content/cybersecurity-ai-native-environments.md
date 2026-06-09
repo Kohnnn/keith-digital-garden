@@ -9,7 +9,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Cybersecurity Threats in AI-Native Environments
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/article-cybersecurity.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/article-cybersecurity.webp" alt="" loading="lazy" />
 </figure>
 
 As AI systems become deeply embedded in enterprise operations, the threat landscape has fundamentally shifted. In 2026, organizations face a new class of cyber-threats where AI is not just a defensive tool but a weapon in the hands of adversaries. The convergence of intelligent automation and malicious intent marks a turning point—traditional cybersecurity models designed for slower, manual attacks are struggling to keep pace with AI-driven threats that operate at machine speed.

@@ -18,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     blurb:
-      "Keith Kitchen is a curated atheneum for market systems, research notes, and working ideas.",
+      "Keith's Atheneum is a curated atheneum for market systems, research notes, and working ideas.",
     links: {
       Home: "index",
       Notes: "notes",

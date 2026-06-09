@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Thoughtpieces
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-thoughtpieces.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-thoughtpieces.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf carries the more opinionated branch of the archive. These notes lean closer to essays: more interpretive, more framing-heavy, and less like a simple dispatch log.

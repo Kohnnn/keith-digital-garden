@@ -24,7 +24,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Epistemology - Thinking From the Floor
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-epistemology.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-epistemology.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

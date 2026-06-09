@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # VNIBB
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-vnibb.png" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-vnibb.webp" alt="" loading="lazy" />
 </figure>
 
 Flagship casefile for the Vietnam-market product layer that grew out of the same dashboard, screening, and research habits shown elsewhere in this portfolio.

@@ -16,7 +16,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Visual Notes
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-visual-notes.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-visual-notes.webp" alt="" loading="lazy" />
 </figure>
 
 This page indexes the interactive notes I reference the most, grouped by what they teach. Each local page keeps the backlinks, short editorial summaries, and embedded canvas so the live route stays attached to the idea it explains.

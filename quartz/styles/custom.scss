@@ -3548,9 +3548,7 @@ article:not(.portfolio-page):not(.casefile-page) ol:not([class]) > li::marker {
 
 /* Content images on note surfaces: rounded, softly framed, gentle hover lift.
    Excludes hero banners (handled separately) and portfolio/casefile art. */
-article:not(.portfolio-page):not(.casefile-page)
-  p
-  > img:not([src*="placeholders"]) {
+article:not(.portfolio-page):not(.casefile-page) p > img:not([src*="placeholders"]) {
   border-radius: 12px;
   box-shadow: 0 12px 34px rgba(15, 20, 30, 0.14);
   border: 1px solid color-mix(in srgb, var(--lightgray) 72%, var(--secondary) 28%);
@@ -3559,9 +3557,7 @@ article:not(.portfolio-page):not(.casefile-page)
     box-shadow 220ms ease;
 }
 
-article:not(.portfolio-page):not(.casefile-page)
-  p
-  > img:not([src*="placeholders"]):hover {
+article:not(.portfolio-page):not(.casefile-page) p > img:not([src*="placeholders"]):hover {
   transform: translateY(-2px);
   box-shadow: 0 18px 44px rgba(15, 20, 30, 0.2);
 }
@@ -3578,16 +3574,387 @@ input:focus-visible,
 }
 
 @media (prefers-reduced-motion: reduce) {
-  article:not(.portfolio-page):not(.casefile-page)
-    p
-    > img:not([src*="placeholders"]) {
+  article:not(.portfolio-page):not(.casefile-page) p > img:not([src*="placeholders"]) {
     transition: none;
   }
 
-  article:not(.portfolio-page):not(.casefile-page)
-    p
-    > img:not([src*="placeholders"]):hover {
+  article:not(.portfolio-page):not(.casefile-page) p > img:not([src*="placeholders"]):hover {
     transform: none;
   }
 }
 
+/* ----------------------------------------------------------------------------
+   Keith's Atheneum — landing hero (full-bleed cinematic banner) + route strip.
+   The hero breaks out of the center column gutters to read as a poster, with a
+   dark scrim so the loud brand wordmark stays legible over dark art. Degrades
+   gracefully to a deep-indigo panel if the banner image is missing.
+---------------------------------------------------------------------------- */
+
+.kitchen-home article .atheneum-hero {
+  position: relative;
+  /* Break out of the small center-column padding for an edge-to-edge feel. */
+  margin: -0.4rem -0.1rem 1.4rem;
+  border-radius: 20px;
+  overflow: hidden;
+  isolation: isolate;
+  min-height: clamp(320px, 52vh, 540px);
+  display: flex;
+  align-items: flex-end;
+  background:
+    radial-gradient(
+      120% 140% at 85% 10%,
+      color-mix(in srgb, #304cff 30%, transparent 70%) 0%,
+      transparent 55%
+    ),
+    linear-gradient(160deg, #050b1f, #02030a);
+  box-shadow: 0 30px 70px rgba(8, 9, 20, 0.34);
+}
+
+@media all and (max-width: 800px) {
+  .kitchen-home article .atheneum-hero {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    border-radius: 0;
+  }
+}
+
+.kitchen-home article .atheneum-hero-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  filter: saturate(0.96) contrast(1.03);
+}
+
+/* Scrim: darker on the left where the wordmark sits, fading right. */
+.kitchen-home article .atheneum-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: linear-gradient(
+    100deg,
+    color-mix(in srgb, #02030a 86%, transparent 14%) 0%,
+    color-mix(in srgb, #03010f 64%, transparent 36%) 42%,
+    transparent 78%
+  );
+}
+
+.kitchen-home article .atheneum-hero-inner {
+  position: relative;
+  z-index: 2;
+  padding: clamp(1.4rem, 4vw, 2.8rem);
+  max-width: 38rem;
+}
+
+.kitchen-home article .atheneum-eyebrow {
+  margin: 0 0 0.6rem;
+  font-family: var(--codeFont);
+  font-size: 0.74rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #9fb6d8;
+}
+
+.kitchen-home article .atheneum-wordmark {
+  margin: 0;
+  font-family: var(--titleFont);
+  font-weight: 820;
+  font-size: clamp(2.6rem, 6.5vw, 4.6rem);
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+  color: #f6f0e2;
+  text-wrap: balance;
+  text-shadow: 0 4px 30px rgba(2, 3, 10, 0.6);
+  max-width: 16ch;
+}
+
+.kitchen-home article .atheneum-promise {
+  margin: 0.9rem 0 0;
+  font-size: clamp(1rem, 1.6vw, 1.18rem);
+  line-height: 1.5;
+  color: color-mix(in srgb, #f3ebdd 88%, transparent 12%);
+  max-width: 34rem;
+  text-shadow: 0 2px 16px rgba(2, 3, 10, 0.5);
+}
+
+.kitchen-home article .atheneum-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1.3rem;
+}
+
+.kitchen-home article .atheneum-cta {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.62rem 1.25rem;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border: 1px solid color-mix(in srgb, #6f7dff 50%, transparent 50%);
+  color: #eef2ff;
+  background: color-mix(in srgb, #1b2fd8 24%, transparent 76%);
+  backdrop-filter: blur(4px);
+  transition:
+    transform 180ms ease,
+    background 180ms ease,
+    border-color 180ms ease;
+}
+
+.kitchen-home article .atheneum-cta:hover {
+  transform: translateY(-2px);
+  background: color-mix(in srgb, #304cff 40%, transparent 60%);
+  border-color: color-mix(in srgb, #6f7dff 75%, transparent 25%);
+}
+
+.kitchen-home article .atheneum-cta--primary {
+  background: linear-gradient(135deg, #304cff, #6c2abf);
+  border-color: transparent;
+  box-shadow: 0 14px 30px rgba(16, 26, 140, 0.4);
+}
+
+.kitchen-home article .atheneum-cta--primary:hover {
+  background: linear-gradient(135deg, #4b35ff, #8b2fc9);
+}
+
+/* Route strip below the hero: four art tiles in a row (reuses .kitchen-route-art
+   styling already defined above). */
+.kitchen-home article .atheneum-routes {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 0 0 1.4rem;
+}
+
+@media all and (max-width: 1000px) {
+  .kitchen-home article .atheneum-routes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media all and (max-width: 540px) {
+  .kitchen-home article .atheneum-routes {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kitchen-home article .atheneum-cta,
+  .kitchen-home article .atheneum-cta:hover {
+    transition: none;
+    transform: none;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+   Atheneum glyph + texture system. Transparent occult sigils mark branch
+   headers; subtle textures sit behind the sidebar and footer. All are
+   background-images that simply render nothing if the asset is absent, so the
+   site degrades gracefully while images are generated in waves.
+   Paths are root-absolute so they resolve from any page depth.
+---------------------------------------------------------------------------- */
+
+$glyph-base: "/keith-digital-garden/attachments/placeholders";
+
+/* Brand emblem variable consumed by PageTitle's .page-title-emblem. Renders
+   nothing until the asset exists. */
+:root {
+  --brand-emblem: url("#{$glyph-base}/brand-emblem.webp");
+}
+
+/* Branch-header glyph: a small sigil set before the H1 on flavored hubs.
+   Reading surfaces only; never on portfolio/casefile. */
+@mixin branch-glyph($file) {
+  & article > h1:first-of-type::before,
+  & article > .hub-hero-banner + h1::before {
+    content: "";
+    display: inline-block;
+    width: 1.05em;
+    height: 1.05em;
+    margin-right: 0.5rem;
+    vertical-align: -0.12em;
+    background-image: url("#{$glyph-base}/#{$file}.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.92;
+  }
+}
+
+.tech-journal {
+  @include branch-glyph("glyph-tech-journal");
+}
+.market-report {
+  @include branch-glyph("glyph-market-tape");
+}
+.thoughtpiece {
+  @include branch-glyph("glyph-thoughtpiece");
+}
+.research-digest {
+  @include branch-glyph("glyph-research-digest");
+}
+
+/* Subtle texture behind the left sidebar and the footer, tying the warm chrome
+   to the cosmic art without hurting legibility. Very low opacity. */
+.left.sidebar {
+  position: relative;
+}
+
+.left.sidebar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: url("#{$glyph-base}/texture-sidebar.webp");
+  background-size: 320px;
+  background-repeat: repeat;
+  opacity: 0.05;
+}
+
+footer {
+  position: relative;
+  isolation: isolate;
+}
+
+footer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: url("#{$glyph-base}/texture-footer.webp");
+  background-size: 480px;
+  background-repeat: repeat;
+  opacity: 0.06;
+}
+
+/* Spot-image hook for callouts: add class `has-spot` and a CSS var --spot to a
+   callout to float a small square illustration in its top-right. Opt-in, so no
+   existing callout changes. */
+.callout.has-spot {
+  position: relative;
+  overflow: hidden;
+}
+
+.callout.has-spot::after {
+  content: "";
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  width: 64px;
+  height: 64px;
+  border-radius: 10px;
+  background-image: var(--spot);
+  background-size: cover;
+  background-position: center;
+  opacity: 0.9;
+  box-shadow: 0 6px 18px rgba(15, 20, 30, 0.2);
+  pointer-events: none;
+}
+
+/* ----------------------------------------------------------------------------
+   Reading-surface polish (global, non-portfolio). Tag chips, keyboard keys,
+   tables, and external-link affordance in the warm Atheneum palette. Token
+   driven so light + dark adapt; scoped away from portfolio/casefile.
+---------------------------------------------------------------------------- */
+
+/* Tag chips: inked pills instead of plain underlined links. */
+.tag-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12rem 0.62rem;
+  margin: 0.12rem 0.16rem 0.12rem 0;
+  border-radius: 999px;
+  font-family: var(--codeFont);
+  font-size: 0.78rem;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  color: color-mix(in srgb, var(--secondary) 78%, var(--dark) 22%);
+  background: color-mix(in srgb, var(--secondary) 12%, var(--light) 88%);
+  border: 1px solid color-mix(in srgb, var(--secondary) 26%, var(--lightgray) 74%);
+  transition:
+    background 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.tag-link::before {
+  content: "#";
+  margin-right: 0.12rem;
+  opacity: 0.55;
+}
+
+.tag-link:hover {
+  transform: translateY(-1px);
+  background: color-mix(in srgb, var(--secondary) 22%, var(--light) 78%);
+  border-color: color-mix(in srgb, var(--secondary) 44%, var(--lightgray) 56%);
+}
+
+/* Keyboard keys read as small physical caps. */
+article:not(.portfolio-page):not(.casefile-page) kbd {
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  font-family: var(--codeFont);
+  font-size: 0.82em;
+  line-height: 1.5;
+  color: var(--dark);
+  background: color-mix(in srgb, var(--light) 88%, var(--secondary) 12%);
+  border: 1px solid color-mix(in srgb, var(--secondary) 30%, var(--lightgray) 70%);
+  border-bottom-width: 2px;
+  border-radius: 6px;
+  box-shadow: 0 1px 0 color-mix(in srgb, var(--secondary) 20%, transparent 80%);
+}
+
+/* Reading-surface tables: warm, lined, with a tonal header and zebra rows. */
+article:not(.portfolio-page):not(.casefile-page) table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 26px rgba(15, 20, 30, 0.08);
+}
+
+article:not(.portfolio-page):not(.casefile-page) th {
+  text-align: left;
+  font-family: var(--titleFont);
+  font-size: 0.86rem;
+  letter-spacing: 0.01em;
+  padding: 0.6rem 0.85rem;
+  color: var(--light);
+  background: color-mix(in srgb, var(--secondary) 82%, var(--dark) 18%);
+}
+
+article:not(.portfolio-page):not(.casefile-page) td {
+  padding: 0.55rem 0.85rem;
+  border-top: 1px solid color-mix(in srgb, var(--lightgray) 70%, var(--secondary) 30%);
+}
+
+article:not(.portfolio-page):not(.casefile-page) tbody tr:nth-child(odd) td {
+  background: color-mix(in srgb, var(--secondary) 5%, var(--light) 95%);
+}
+
+article:not(.portfolio-page):not(.casefile-page) tbody tr:hover td {
+  background: color-mix(in srgb, var(--secondary) 11%, var(--light) 89%);
+}
+
+/* External links get a subtle arrow affordance (Quartz adds .external). */
+article:not(.portfolio-page):not(.casefile-page) a.external .external-icon {
+  margin-left: 0.18em;
+  opacity: 0.6;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tag-link,
+  .tag-link:hover {
+    transition: none;
+    transform: none;
+  }
+}

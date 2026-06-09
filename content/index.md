@@ -1,85 +1,90 @@
 ---
-title: Keith Kitchen
+title: Keith's Atheneum
 tags: [home, guide]
 draft: false
-description: Orientation note for the Keith Kitchen garden, portfolio, and link atlas.
+description: The Atheneum — a curated hall of market systems, research notes, and working ideas.
 created: 2026-01-30
-updated: 2026-03-25
+updated: 2026-06-09
 cssclasses: [branch-hub, kitchen-home]
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/landing-hero-banner.png"
 ---
 
-<h1 class="visually-hidden">Keith Kitchen</h1>
-
-<section class="kitchen-pass-board" aria-label="Kitchen pass">
-  <div class="kitchen-pass-copy">
-    <p class="kitchen-eyebrow">The Kitchen</p>
-    <p class="kitchen-pass-title">Pick the lane that matches your intent.</p>
-    <p class="kitchen-pass-note">The Bar is the fastest proof path. The Pantry holds the wider archive. Arena is the outbound shelf. The Service Counter is the dated public log.</p>
+<header class="atheneum-hero" aria-label="Keith's Atheneum">
+  <img class="atheneum-hero-img" src="attachments/placeholders/landing-hero-banner.webp" alt="" loading="eager" />
+  <div class="atheneum-hero-inner">
+    <p class="atheneum-eyebrow">An ancient-future archive</p>
+    <h1 class="atheneum-wordmark">Keith's Atheneum</h1>
+    <p class="atheneum-promise">A curated hall for market systems, research notes, and the working ideas behind them.</p>
+    <div class="atheneum-actions">
+      <a class="atheneum-cta atheneum-cta--primary" href="./Portfolio">Enter the Vault</a>
+      <a class="atheneum-cta" href="./notes">Browse the Stacks</a>
+    </div>
   </div>
-  <nav class="kitchen-pass-grid" aria-label="Kitchen routes">
-    <a class="kitchen-ticket kitchen-route-art" href="./Portfolio">
-      <img src="attachments/placeholders/route-the-bar.png" alt="" loading="lazy" />
-      <span class="kitchen-route-scrim">
-        <span class="kitchen-ticket-status">Plated</span>
-        <strong>The Bar</strong>
-        <p>Portfolio, casefiles, experience, and the shortest proof path.</p>
-        <span class="kitchen-ticket-meta">13 pages - updated Mar 2026</span>
-      </span>
-    </a>
-    <a class="kitchen-ticket kitchen-route-art" href="./notes">
-      <img src="attachments/placeholders/route-the-pantry.png" alt="" loading="lazy" />
-      <span class="kitchen-route-scrim">
-        <span class="kitchen-ticket-status">Prep</span>
-        <strong>The Pantry</strong>
-        <p>Archive shelves, branching trails, and bridge pages into the live interactive notes.</p>
-        <span class="kitchen-ticket-meta">1,503 notes - updated Mar 2026</span>
-      </span>
-    </a>
-    <a class="kitchen-ticket kitchen-route-art" href="./arena">
-      <img src="attachments/placeholders/route-arena.png" alt="" loading="lazy" />
-      <span class="kitchen-route-scrim">
-        <span class="kitchen-ticket-status">Shelf</span>
-        <strong>Arena</strong>
-        <p>External references, channels, and rabbit holes.</p>
-        <span class="kitchen-ticket-meta">2,267 links - updated Feb 2026</span>
-      </span>
-    </a>
-    <a class="kitchen-ticket kitchen-route-art" href="./Portfolio/Blog">
-      <img src="attachments/placeholders/route-service-counter.png" alt="" loading="lazy" />
-      <span class="kitchen-route-scrim">
-        <span class="kitchen-ticket-status">Service</span>
-        <strong>Service Counter</strong>
-        <p>Research notes, frameworks, market writing, and the written operating log.</p>
-        <span class="kitchen-ticket-meta">265 memos - updated Mar 2026</span>
-      </span>
-    </a>
-  </nav>
-</section>
+</header>
 
-<ul class="kitchen-mobile-summary" aria-label="Kitchen quick scan">
+<nav class="atheneum-routes" aria-label="Atheneum routes">
+  <a class="kitchen-ticket kitchen-route-art" href="./Portfolio">
+    <img src="attachments/placeholders/route-the-bar.webp" alt="" loading="lazy" />
+    <span class="kitchen-route-scrim">
+      <span class="kitchen-ticket-status">The Vault</span>
+      <strong>Portfolio</strong>
+      <p>Casefiles, experience, and the shortest proof path.</p>
+      <span class="kitchen-ticket-meta">13 pages - updated Mar 2026</span>
+    </span>
+  </a>
+  <a class="kitchen-ticket kitchen-route-art" href="./notes">
+    <img src="attachments/placeholders/route-the-pantry.webp" alt="" loading="lazy" />
+    <span class="kitchen-route-scrim">
+      <span class="kitchen-ticket-status">The Stacks</span>
+      <strong>Notes</strong>
+      <p>Archive shelves, branching trails, and the live interactive notes.</p>
+      <span class="kitchen-ticket-meta">1,503 notes - updated Mar 2026</span>
+    </span>
+  </a>
+  <a class="kitchen-ticket kitchen-route-art" href="./arena">
+    <img src="attachments/placeholders/route-arena.webp" alt="" loading="lazy" />
+    <span class="kitchen-route-scrim">
+      <span class="kitchen-ticket-status">The Observatory</span>
+      <strong>Arena</strong>
+      <p>External references, channels, and rabbit holes.</p>
+      <span class="kitchen-ticket-meta">2,267 links - updated Feb 2026</span>
+    </span>
+  </a>
+  <a class="kitchen-ticket kitchen-route-art" href="./Portfolio/Blog">
+    <img src="attachments/placeholders/route-service-counter.webp" alt="" loading="lazy" />
+    <span class="kitchen-route-scrim">
+      <span class="kitchen-ticket-status">The Ledger</span>
+      <strong>Research notes</strong>
+      <p>Dated writing, frameworks, and the written operating log.</p>
+      <span class="kitchen-ticket-meta">265 memos - updated Mar 2026</span>
+    </span>
+  </a>
+</nav>
+
+<ul class="kitchen-mobile-summary" aria-label="Atheneum quick scan">
   <li class="kitchen-mobile-chip">
     <span class="proof-label">Fastest</span>
-    <strong>The Bar</strong>
+    <strong>The Vault</strong>
   </li>
   <li class="kitchen-mobile-chip">
     <span class="proof-label">Archive</span>
-    <strong>The Pantry</strong>
+    <strong>The Stacks</strong>
   </li>
   <li class="kitchen-mobile-chip">
     <span class="proof-label">Published</span>
-    <strong>Service Counter</strong>
+    <strong>The Ledger</strong>
   </li>
   <li class="kitchen-mobile-chip">
     <span class="proof-label">Outbound</span>
-    <strong>Arena</strong>
+    <strong>The Observatory</strong>
   </li>
 </ul>
 
-## Screen architecture
+## How to read the Atheneum
 
 <div class="reading-journey">
   <div class="journey-step">
-    <span class="proof-label">Pantry</span>
+    <span class="proof-label">The Stacks</span>
     <p>Use search and the explorer when you want archive inventory, folders, and direct retrieval.</p>
   </div>
   <div class="journey-step">
@@ -87,7 +92,7 @@ cssclasses: [branch-hub, kitchen-home]
     <p>Use the map, contents, backlinks, and related notes when you want relationships instead of hierarchy.</p>
   </div>
   <div class="journey-step">
-    <span class="proof-label">Prep station</span>
+    <span class="proof-label">Reading desk</span>
     <p>Open a single note when you want focused reading. Use <strong>Stack</strong> when you want a compare surface.</p>
   </div>
   <div class="journey-step">
@@ -100,21 +105,21 @@ cssclasses: [branch-hub, kitchen-home]
 
 <nav class="kitchen-start-grid" aria-label="Starting stations">
   <a class="kitchen-start-card kitchen-start-card--primary" href="./Portfolio">
-    <span class="casefile-label">The Bar</span>
+    <span class="casefile-label">The Vault</span>
     <span class="kitchen-card-title">Start with Portfolio</span>
     <p>Go here when you want the fastest read on casefiles, experience, and contact.</p>
     <span class="kitchen-card-meta">13 pages - updated Mar 2026</span>
-    <span class="kitchen-card-cta">-> View the bar</span>
+    <span class="kitchen-card-cta">-> Enter the vault</span>
   </a>
   <a class="kitchen-start-card" href="./Portfolio/Blog">
-    <span class="casefile-label">Service Counter</span>
+    <span class="casefile-label">The Ledger</span>
     <span class="kitchen-card-title">Read the public log</span>
     <p>Use the published research stream for dated writing, frameworks, and market-facing notes.</p>
     <span class="kitchen-card-meta">265 memos - updated Mar 2026</span>
-    <span class="kitchen-card-cta">-> Read the counter</span>
+    <span class="kitchen-card-cta">-> Read the ledger</span>
   </a>
   <a class="kitchen-start-card" href="./Dispatches">
-    <span class="casefile-label">Pantry shelves</span>
+    <span class="casefile-label">The Stacks</span>
     <span class="kitchen-card-title">Browse Dispatches</span>
     <p>Enter the short-form archive through cleaner branch doors instead of raw folder sprawl.</p>
     <span class="kitchen-card-meta">5 shelves - 1,503 notes</span>

@@ -14,7 +14,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Notes
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-notes.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-notes.webp" alt="" loading="lazy" />
 </figure>
 
 This is the wider garden: archive shelves, topic notes, explainers, and branches that sit outside the portfolio casefiles. The live simulations now open on direct note routes. Use tags, backlinks, and stacked reading when you want to move laterally.

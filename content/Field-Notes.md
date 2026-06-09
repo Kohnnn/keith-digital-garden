@@ -12,7 +12,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 # Field Notes
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-field-notes.png" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-field-notes.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf holds the broadest part of the archive: cross-domain observations, small topic snapshots, and notes that are useful because they are short rather than final.

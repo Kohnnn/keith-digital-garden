@@ -5,15 +5,15 @@ body {
   background-image:
     radial-gradient(
       1200px circle at 8% 6%,
-      color-mix(in srgb, var(--tertiary) 20%, transparent 80%) 0%,
+      color-mix(in srgb, var(--tertiary) 9%, transparent 91%) 0%,
       transparent 55%
     ),
     radial-gradient(
       900px circle at 92% 10%,
-      color-mix(in srgb, var(--secondary) 18%, transparent 82%) 0%,
+      color-mix(in srgb, var(--secondary) 8%, transparent 92%) 0%,
       transparent 60%
     ),
-    linear-gradient(120deg, color-mix(in srgb, var(--light) 92%, var(--secondary) 8%), var(--light));
+    linear-gradient(120deg, color-mix(in srgb, var(--light) 96%, var(--secondary) 4%), var(--light));
   transition:
     background-color 0.35s ease,
     color 0.35s ease;
@@ -3349,6 +3349,16 @@ footer .footer-links a {
   height: 100%;
   min-height: inherit;
   padding: 0.9rem 1rem 0.95rem;
+  /* light default: parchment-tinted, lets the bright archival plate show */
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, #f4eddc 8%, transparent 92%) 0%,
+    color-mix(in srgb, #f4eddc 42%, transparent 58%) 52%,
+    color-mix(in srgb, #2b2620 30%, transparent 70%) 100%
+  );
+}
+
+:root[saved-theme="dark"] .kitchen-route-scrim {
   background: linear-gradient(
     180deg,
     color-mix(in srgb, #02030a 22%, transparent 78%) 0%,
@@ -3358,26 +3368,46 @@ footer .footer-links a {
 }
 
 .kitchen-route-art .kitchen-ticket-status {
-  color: #c7d2e8;
+  color: color-mix(in srgb, #2b2620 78%, transparent 22%);
   letter-spacing: 0.1em;
 }
 
 .kitchen-route-art strong {
-  color: #f6f0e2;
+  color: #2b2620;
   font-family: var(--titleFont);
   font-size: 1.28rem;
   line-height: 1.08;
-  text-shadow: 0 2px 14px rgba(2, 3, 10, 0.6);
+  text-shadow: 0 1px 10px rgba(244, 237, 220, 0.7);
 }
 
 .kitchen-route-art p {
-  color: color-mix(in srgb, #f3ebdd 82%, transparent 18%);
-  text-shadow: 0 1px 10px rgba(2, 3, 10, 0.55);
+  color: color-mix(in srgb, #3a332b 88%, transparent 12%);
+  text-shadow: 0 1px 8px rgba(244, 237, 220, 0.6);
 }
 
 .kitchen-route-art .kitchen-ticket-meta {
   margin-top: auto;
-  color: #9fb6d8;
+  color: color-mix(in srgb, #1f3a5f 80%, transparent 20%);
+}
+
+:root[saved-theme="dark"] {
+  .kitchen-route-art .kitchen-ticket-status {
+    color: #c7d2e8;
+  }
+
+  .kitchen-route-art strong {
+    color: #f6f0e2;
+    text-shadow: 0 2px 14px rgba(2, 3, 10, 0.6);
+  }
+
+  .kitchen-route-art p {
+    color: color-mix(in srgb, #f3ebdd 82%, transparent 18%);
+    text-shadow: 0 1px 10px rgba(2, 3, 10, 0.55);
+  }
+
+  .kitchen-route-art .kitchen-ticket-meta {
+    color: #9fb6d8;
+  }
 }
 
 .hub-hero-banner {
@@ -3387,8 +3417,12 @@ footer .footer-links a {
   overflow: hidden;
   aspect-ratio: 16 / 9;
   box-shadow: 0 24px 60px rgba(8, 9, 20, 0.3);
-  background: #050b1f;
+  background: #efe6d2;
   isolation: isolate;
+}
+
+:root[saved-theme="dark"] .hub-hero-banner {
+  background: #050b1f;
 }
 
 .hub-hero-banner img {
@@ -3405,6 +3439,15 @@ footer .footer-links a {
   position: absolute;
   inset: 0;
   pointer-events: none;
+  /* light default: gentle parchment-toned darkening, archival plates are bright */
+  background: linear-gradient(
+    180deg,
+    transparent 64%,
+    color-mix(in srgb, #2b2620 26%, transparent 74%) 100%
+  );
+}
+
+:root[saved-theme="dark"] .hub-hero-banner::after {
   background: linear-gradient(
     180deg,
     transparent 52%,
@@ -3412,14 +3455,14 @@ footer .footer-links a {
   );
 }
 
-/* Faint CRT scanline texture to echo the cyber-occult aesthetic; very subtle. */
+/* Faint CRT scanline texture to echo the cyber-occult aesthetic; dark only. */
 .hub-hero-banner::before {
   content: "";
   position: absolute;
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  opacity: 0.06;
+  opacity: 0;
   background-image: repeating-linear-gradient(
     0deg,
     rgba(255, 255, 255, 0.5) 0,
@@ -3428,6 +3471,10 @@ footer .footer-links a {
     transparent 3px
   );
   mix-blend-mode: overlay;
+}
+
+:root[saved-theme="dark"] .hub-hero-banner::before {
+  opacity: 0.06;
 }
 
 @media (max-width: 600px) {
@@ -3535,11 +3582,15 @@ article:not(.portfolio-page):not(.casefile-page) hr {
   text-align: center;
   /* Section glyph sigil centered on the rule; falls back to the diamond motif
      below if the asset is missing (the ::after still renders). */
-  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-section.webp");
+  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-section-light.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 1.5rem;
   opacity: 0.92;
+}
+
+:root[saved-theme="dark"] article:not(.portfolio-page):not(.casefile-page) hr {
+  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-section.webp");
 }
 
 article:not(.portfolio-page):not(.casefile-page) hr::before {
@@ -3773,14 +3824,21 @@ input:focus-visible,
 $glyph-base: "/keith-digital-garden/attachments/placeholders";
 
 /* Brand emblem variable consumed by PageTitle's .page-title-emblem. Renders
-   nothing until the asset exists. */
+   nothing until the asset exists. Light is default; dark swaps under selector. */
 :root {
+  --brand-emblem: url("#{$glyph-base}/brand-emblem-light.webp");
+}
+
+:root[saved-theme="dark"] {
   --brand-emblem: url("#{$glyph-base}/brand-emblem.webp");
 }
 
 /* Branch-header glyph: a small sigil set before the H1 on flavored hubs.
-   Reading surfaces only; never on portfolio/casefile. */
-@mixin branch-glyph($file) {
+   Reading surfaces only; never on portfolio/casefile. When $has-light is true,
+   the light (-light) glyph is the default and the dark glyph swaps in under the
+   dark theme selector; otherwise the dark glyph is used in both themes until a
+   light variant exists. */
+@mixin branch-glyph($file, $has-light: true) {
   & article > h1:first-of-type::before,
   & article > .hub-hero-banner + h1::before {
     content: "";
@@ -3789,11 +3847,21 @@ $glyph-base: "/keith-digital-garden/attachments/placeholders";
     height: 1.05em;
     margin-right: 0.5rem;
     vertical-align: -0.12em;
-    background-image: url("#{$glyph-base}/#{$file}.webp");
+    @if $has-light {
+      background-image: url("#{$glyph-base}/#{$file}-light.webp");
+    } @else {
+      background-image: url("#{$glyph-base}/#{$file}.webp");
+    }
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     opacity: 0.92;
+  }
+  @if $has-light {
+    :root[saved-theme="dark"] & article > h1:first-of-type::before,
+    :root[saved-theme="dark"] & article > .hub-hero-banner + h1::before {
+      background-image: url("#{$glyph-base}/#{$file}.webp");
+    }
   }
 }
 
@@ -3822,10 +3890,14 @@ $glyph-base: "/keith-digital-garden/attachments/placeholders";
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background-image: url("#{$glyph-base}/texture-sidebar.webp");
+  background-image: url("#{$glyph-base}/texture-sidebar-light.webp");
   background-size: 320px;
   background-repeat: repeat;
   opacity: 0.05;
+}
+
+:root[saved-theme="dark"] .left.sidebar::before {
+  background-image: url("#{$glyph-base}/texture-sidebar.webp");
 }
 
 footer {
@@ -3839,10 +3911,14 @@ footer::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background-image: url("#{$glyph-base}/texture-footer.webp");
+  background-image: url("#{$glyph-base}/texture-footer-light.webp");
   background-size: 480px;
   background-repeat: repeat;
   opacity: 0.06;
+}
+
+:root[saved-theme="dark"] footer::before {
+  background-image: url("#{$glyph-base}/texture-footer.webp");
 }
 
 /* Spot-image hook for callouts: add class `has-spot` and a CSS var --spot to a
@@ -3976,19 +4052,29 @@ article:not(.portfolio-page):not(.casefile-page) a.external .external-icon {
    away from portfolio/casefile content.
 ---------------------------------------------------------------------------- */
 
-/* Per-branch accent: each flavored hub tints its hero scrim + glyph subtly,
-   staying within the indigo/steel family (no new hues). */
+/* Per-branch accent: each flavored hub tints its hero scrim + glyph subtly.
+   Light (default) stays in the Historical Organic family (Prussian / sage /
+   madder); dark keeps the original indigo/steel/violet family. */
 .tech-journal {
   --branch-accent: var(--secondary);
 }
 .market-report {
-  --branch-accent: #1b2fd8;
+  --branch-accent: #a3492f;
 }
 .thoughtpiece {
-  --branch-accent: #6c2abf;
+  --branch-accent: #534a78;
 }
 .research-digest {
   --branch-accent: var(--tertiary);
+}
+
+:root[saved-theme="dark"] {
+  .market-report {
+    --branch-accent: #1b2fd8;
+  }
+  .thoughtpiece {
+    --branch-accent: #6c2abf;
+  }
 }
 
 .tech-journal article .hub-hero-banner,
@@ -4092,11 +4178,15 @@ footer::after {
   display: inline-block;
   width: 1.05em;
   height: 1.05em;
-  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-ledger.webp");
+  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-ledger-light.webp");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   opacity: 0.9;
+}
+
+:root[saved-theme="dark"] .kitchen-home .recent-notes > h3::before {
+  background-image: url("/keith-digital-garden/attachments/placeholders/glyph-ledger.webp");
 }
 
 .kitchen-home .recent-notes ul.recent-ul {
@@ -4167,22 +4257,43 @@ $spot-base: "/keith-digital-garden/attachments/placeholders";
 /* Callout spots: opt-in via class has-spot + --spot var (already hooked in S2,
    here we provide ready-to-use themed variants). */
 .callout.has-spot.spot-knowledge {
-  --spot: url("#{$spot-base}/spot-knowledge.webp");
+  --spot: url("#{$spot-base}/spot-knowledge-light.webp");
 }
 .callout.has-spot.spot-markets {
-  --spot: url("#{$spot-base}/spot-markets.webp");
+  --spot: url("#{$spot-base}/spot-markets-light.webp");
 }
 .callout.has-spot.spot-systems {
-  --spot: url("#{$spot-base}/spot-systems.webp");
+  --spot: url("#{$spot-base}/spot-systems-light.webp");
 }
 .callout.has-spot.spot-philosophy {
-  --spot: url("#{$spot-base}/spot-philosophy.webp");
+  --spot: url("#{$spot-base}/spot-philosophy-light.webp");
 }
 .callout.has-spot.spot-security {
-  --spot: url("#{$spot-base}/spot-security.webp");
+  --spot: url("#{$spot-base}/spot-security-light.webp");
 }
 .callout.has-spot.spot-ai {
-  --spot: url("#{$spot-base}/spot-ai.webp");
+  --spot: url("#{$spot-base}/spot-ai-light.webp");
+}
+
+:root[saved-theme="dark"] {
+  .callout.has-spot.spot-knowledge {
+    --spot: url("#{$spot-base}/spot-knowledge.webp");
+  }
+  .callout.has-spot.spot-markets {
+    --spot: url("#{$spot-base}/spot-markets.webp");
+  }
+  .callout.has-spot.spot-systems {
+    --spot: url("#{$spot-base}/spot-systems.webp");
+  }
+  .callout.has-spot.spot-philosophy {
+    --spot: url("#{$spot-base}/spot-philosophy.webp");
+  }
+  .callout.has-spot.spot-security {
+    --spot: url("#{$spot-base}/spot-security.webp");
+  }
+  .callout.has-spot.spot-ai {
+    --spot: url("#{$spot-base}/spot-ai.webp");
+  }
 }
 
 /* RecentNotes item leading spot (home "Latest from the Atheneum"). Uses the
@@ -4200,11 +4311,15 @@ $spot-base: "/keith-digital-garden/attachments/placeholders";
   width: 2rem;
   height: 2rem;
   border-radius: 8px;
-  background-image: url("#{$spot-base}/spot-knowledge.webp");
+  background-image: url("#{$spot-base}/spot-knowledge-light.webp");
   background-size: cover;
   background-position: center;
   opacity: 0.92;
   box-shadow: 0 4px 12px rgba(15, 20, 30, 0.18);
+}
+
+:root[saved-theme="dark"] .kitchen-home .recent-notes li.recent-li::before {
+  background-image: url("#{$spot-base}/spot-knowledge.webp");
 }
 
 /* Start-station cards: a faint corner spot, varied per card via nth-child so
@@ -4230,16 +4345,31 @@ $spot-base: "/keith-digital-garden/attachments/placeholders";
 }
 
 .kitchen-home article .kitchen-start-card:nth-child(1)::after {
-  background-image: url("#{$spot-base}/spot-knowledge.webp");
+  background-image: url("#{$spot-base}/spot-knowledge-light.webp");
 }
 .kitchen-home article .kitchen-start-card:nth-child(2)::after {
-  background-image: url("#{$spot-base}/spot-markets.webp");
+  background-image: url("#{$spot-base}/spot-markets-light.webp");
 }
 .kitchen-home article .kitchen-start-card:nth-child(3)::after {
-  background-image: url("#{$spot-base}/spot-systems.webp");
+  background-image: url("#{$spot-base}/spot-systems-light.webp");
 }
 .kitchen-home article .kitchen-start-card:nth-child(4)::after {
-  background-image: url("#{$spot-base}/spot-time.webp");
+  background-image: url("#{$spot-base}/spot-time-light.webp");
+}
+
+:root[saved-theme="dark"] {
+  .kitchen-home article .kitchen-start-card:nth-child(1)::after {
+    background-image: url("#{$spot-base}/spot-knowledge.webp");
+  }
+  .kitchen-home article .kitchen-start-card:nth-child(2)::after {
+    background-image: url("#{$spot-base}/spot-markets.webp");
+  }
+  .kitchen-home article .kitchen-start-card:nth-child(3)::after {
+    background-image: url("#{$spot-base}/spot-systems.webp");
+  }
+  .kitchen-home article .kitchen-start-card:nth-child(4)::after {
+    background-image: url("#{$spot-base}/spot-time.webp");
+  }
 }
 
 .kitchen-home article .kitchen-start-card:hover::after {
@@ -4274,12 +4404,16 @@ $spot-base: "/keith-digital-garden/attachments/placeholders";
   bottom: -6px;
   width: 42px;
   height: 42px;
-  background-image: url("#{$spot-base}/glyph-observatory.webp");
+  background-image: url("#{$spot-base}/glyph-observatory-light.webp");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
   opacity: 0.1;
   pointer-events: none;
+}
+
+:root[saved-theme="dark"] .grid-map-item::after {
+  background-image: url("#{$spot-base}/glyph-observatory.webp");
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -4314,9 +4448,17 @@ $spot-base: "/keith-digital-garden/attachments/placeholders";
 }
 
 .kitchen-home article .reading-journey::before {
-  background-image: url("/keith-digital-garden/attachments/placeholders/band-archive.webp");
+  background-image: url("/keith-digital-garden/attachments/placeholders/band-archive-light.webp");
 }
 
 .kitchen-home article .kitchen-start-grid::before {
+  background-image: url("/keith-digital-garden/attachments/placeholders/band-knowledge-light.webp");
+}
+
+:root[saved-theme="dark"] .kitchen-home article .reading-journey::before {
+  background-image: url("/keith-digital-garden/attachments/placeholders/band-archive.webp");
+}
+
+:root[saved-theme="dark"] .kitchen-home article .kitchen-start-grid::before {
   background-image: url("/keith-digital-garden/attachments/placeholders/band-knowledge.webp");
 }

@@ -6,13 +6,15 @@ description: Case study on the dashboard used to review crypto market structure,
 created: 2026-01-30
 updated: 2026-03-13
 cssclasses: [portfolio-page, casefile-page, market-report]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-crypto-dashboard.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-crypto-dashboard-light.png"
 ---
 
 # Crypto Dashboard
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-crypto-dashboard.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-crypto-dashboard.webp"
+    data-src-dark="../../attachments/placeholders/casefile-crypto-dashboard.webp"
+    data-src-light="../../attachments/placeholders/casefile-crypto-dashboard-light.webp" alt="" loading="lazy" />
 </figure>
 
 Casefile for the review surface I used to bring crypto market structure, macro liquidity, and trading context into one repeatable workflow.

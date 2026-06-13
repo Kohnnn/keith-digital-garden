@@ -19,13 +19,15 @@ updated: 2026-02-07
 note_id: 220517ST01
 cssclasses:
   - philo-dump
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-stoicism.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-stoicism-light.png"
 ---
 
 # Stoicism - The Weather Inside
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-stoicism.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-stoicism.webp"
+    data-src-dark="../../attachments/placeholders/philo-stoicism.webp"
+    data-src-light="../../attachments/placeholders/philo-stoicism-light.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

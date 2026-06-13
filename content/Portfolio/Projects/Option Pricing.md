@@ -6,13 +6,15 @@ description: Case study on option-pricing models, Greeks, and practical comparis
 created: 2026-01-30
 updated: 2026-03-13
 cssclasses: [portfolio-page, casefile-page]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-option-pricing.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/casefile-option-pricing-light.png"
 ---
 
 # Option Pricing
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/casefile-option-pricing.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/casefile-option-pricing.webp"
+    data-src-dark="../../attachments/placeholders/casefile-option-pricing.webp"
+    data-src-light="../../attachments/placeholders/casefile-option-pricing-light.webp" alt="" loading="lazy" />
 </figure>
 
 Quant casefile for a derivatives toolkit that moves from Black-Scholes fundamentals to richer model assumptions and practical scenario checks.

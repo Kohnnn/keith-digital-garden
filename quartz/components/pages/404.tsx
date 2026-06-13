@@ -4,6 +4,7 @@ import style from "../styles/notFound.scss"
 
 // Root-absolute so it resolves under the GitHub Pages base path
 const BANNER_URL = "/keith-digital-garden/attachments/placeholders/surface-404.webp"
+const BANNER_URL_LIGHT = "/keith-digital-garden/attachments/placeholders/surface-404-light.webp"
 
 const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   // If baseUrl contains a pathname after the domain, use this as the home link
@@ -16,7 +17,9 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
     <article class="popover-hint not-found-hero">
       <img
         class="not-found-img"
-        src={BANNER_URL}
+        src={BANNER_URL_LIGHT}
+        data-src-light={BANNER_URL_LIGHT}
+        data-src-dark={BANNER_URL}
         alt=""
         aria-hidden="true"
         loading="lazy"

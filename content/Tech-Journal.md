@@ -6,13 +6,15 @@ description: Public shelf for tooling, systems, interfaces, and engineering obse
 created: 2026-03-07
 updated: 2026-03-25
 cssclasses: [branch-hub, tech-journal]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-tech-journal.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-tech-journal-light.png"
 ---
 
 # Tech Journal
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-tech-journal.webp" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-tech-journal.webp"
+    data-src-dark="attachments/placeholders/hub-tech-journal.webp"
+    data-src-light="attachments/placeholders/hub-tech-journal-light.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf tracks the engineering side of the archive: tools, interfaces, product behavior, operational edges, and the small system details that tend to compound.

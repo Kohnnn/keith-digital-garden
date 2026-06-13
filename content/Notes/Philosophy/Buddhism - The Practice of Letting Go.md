@@ -17,13 +17,15 @@ updated: 2025-12-20
 note_id: 210514BU01
 cssclasses:
   - philo-dump
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-buddhism.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-buddhism-light.png"
 ---
 
 # Buddhism - The Practice of Letting Go
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-buddhism.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-buddhism.webp"
+    data-src-dark="../../attachments/placeholders/philo-buddhism.webp"
+    data-src-light="../../attachments/placeholders/philo-buddhism-light.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

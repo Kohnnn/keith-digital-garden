@@ -17,13 +17,15 @@ updated: 2025-12-02
 note_id: 240114AI01
 cssclasses:
   - philo-dump
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-ai.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-ai-light.png"
 ---
 
 # Artificial Intelligence - The Mirror That Talks Back
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-ai.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-ai.webp"
+    data-src-dark="../../attachments/placeholders/philo-ai.webp"
+    data-src-light="../../attachments/placeholders/philo-ai-light.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

@@ -17,13 +17,15 @@ updated: 2025-12-20
 note_id: 210722DA01
 cssclasses:
   - philo-dump
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-daoism.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-daoism-light.png"
 ---
 
 # Daoism - The Strength of Softness
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-daoism.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-daoism.webp"
+    data-src-dark="../../attachments/placeholders/philo-daoism.webp"
+    data-src-light="../../attachments/placeholders/philo-daoism-light.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

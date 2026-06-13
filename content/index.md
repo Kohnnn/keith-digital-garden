@@ -6,11 +6,11 @@ description: The Atheneum — a curated hall of market systems, research notes, 
 created: 2026-01-30
 updated: 2026-06-09
 cssclasses: [branch-hub, kitchen-home]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/landing-hero-banner.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/landing-hero-banner-light.png"
 ---
 
 <header class="atheneum-hero" aria-label="Keith's Atheneum">
-  <img class="atheneum-hero-img" src="attachments/placeholders/landing-hero-banner.webp" alt="" loading="eager" />
+  <img class="atheneum-hero-img" src="attachments/placeholders/landing-hero-banner.webp" data-src-dark="attachments/placeholders/landing-hero-banner.webp" data-src-light="attachments/placeholders/landing-hero-banner-light.webp" alt="" loading="eager" />
   <div class="atheneum-hero-inner">
     <p class="atheneum-eyebrow">An ancient-future archive</p>
     <h1 class="atheneum-wordmark">Keith's Atheneum</h1>
@@ -24,7 +24,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 
 <nav class="atheneum-routes" aria-label="Atheneum routes">
   <a class="kitchen-ticket kitchen-route-art" href="./Portfolio">
-    <img src="attachments/placeholders/route-vault.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-vault.webp" data-src-dark="attachments/placeholders/route-vault.webp" data-src-light="attachments/placeholders/route-vault-light.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Vault</span>
       <strong>Portfolio</strong>
@@ -33,7 +33,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./notes">
-    <img src="attachments/placeholders/route-stacks.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-stacks.webp" data-src-dark="attachments/placeholders/route-stacks.webp" data-src-light="attachments/placeholders/route-stacks-light.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Stacks</span>
       <strong>Notes</strong>
@@ -42,7 +42,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./arena">
-    <img src="attachments/placeholders/route-observatory.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-observatory.webp" data-src-dark="attachments/placeholders/route-observatory.webp" data-src-light="attachments/placeholders/route-observatory-light.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Observatory</span>
       <strong>Arena</strong>
@@ -51,7 +51,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./Portfolio/Blog">
-    <img src="attachments/placeholders/route-ledger.webp" alt="" loading="lazy" />
+    <img src="attachments/placeholders/route-ledger.webp" data-src-dark="attachments/placeholders/route-ledger.webp" data-src-light="attachments/placeholders/route-ledger-light.webp" alt="" loading="lazy" />
     <span class="kitchen-route-scrim">
       <span class="kitchen-ticket-status">The Ledger</span>
       <strong>Research notes</strong>

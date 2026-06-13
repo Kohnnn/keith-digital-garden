@@ -6,13 +6,15 @@ description: Public shelf for the more opinionated and essay-shaped part of the 
 created: 2026-03-07
 updated: 2026-03-25
 cssclasses: [branch-hub, thoughtpiece]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-thoughtpieces.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-thoughtpieces-light.png"
 ---
 
 # Thoughtpieces
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-thoughtpieces.webp" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-thoughtpieces.webp"
+    data-src-dark="attachments/placeholders/hub-thoughtpieces.webp"
+    data-src-light="attachments/placeholders/hub-thoughtpieces-light.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf carries the more opinionated branch of the archive. These notes lean closer to essays: more interpretive, more framing-heavy, and less like a simple dispatch log.

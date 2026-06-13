@@ -6,13 +6,15 @@ description: Public shelf for the cross-domain note archive and general observat
 created: 2026-03-07
 updated: 2026-03-25
 cssclasses: [branch-hub]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-field-notes.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-field-notes-light.png"
 ---
 
 # Field Notes
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-field-notes.webp" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-field-notes.webp"
+    data-src-dark="attachments/placeholders/hub-field-notes.webp"
+    data-src-light="attachments/placeholders/hub-field-notes-light.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf holds the broadest part of the archive: cross-domain observations, small topic snapshots, and notes that are useful because they are short rather than final.

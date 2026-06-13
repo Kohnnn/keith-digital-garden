@@ -6,13 +6,15 @@ description: What Keith's Atheneum is and how the site is organized.
 created: 2026-01-30
 updated: 2026-03-25
 cssclasses: [portfolio-page]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-about.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-about-light.png"
 ---
 
 # About
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-about.webp" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-about.webp"
+    data-src-dark="attachments/placeholders/hub-about.webp"
+    data-src-light="attachments/placeholders/hub-about-light.webp" alt="" loading="lazy" />
 </figure>
 
 Keith's Atheneum is the public layer of my working research system.

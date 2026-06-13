@@ -18,13 +18,15 @@ updated: 2024-12-17
 note_id: 221009EP01
 cssclasses:
   - philo-dump
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-epistemology.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-epistemology-light.png"
 ---
 
 # Epistemology - Thinking From the Floor
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-epistemology.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-epistemology.webp"
+    data-src-dark="../../attachments/placeholders/philo-epistemology.webp"
+    data-src-light="../../attachments/placeholders/philo-epistemology-light.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

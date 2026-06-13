@@ -6,13 +6,15 @@ description: Public shelf for condensed research summaries and evidence-first br
 created: 2026-03-07
 updated: 2026-03-25
 cssclasses: [branch-hub]
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-research-digests.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-research-digests-light.png"
 ---
 
 # Research Digests
 
 <figure class="hub-hero-banner">
-  <img src="attachments/placeholders/hub-research-digests.webp" alt="" loading="lazy" />
+  <img src="attachments/placeholders/hub-research-digests.webp"
+    data-src-dark="attachments/placeholders/hub-research-digests.webp"
+    data-src-light="attachments/placeholders/hub-research-digests-light.webp" alt="" loading="lazy" />
 </figure>
 
 This shelf is for compressed research notes: evidence reviews, quick syntheses, and source-heavy snapshots that sit between bookmarks and full essays.

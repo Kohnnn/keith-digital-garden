@@ -17,13 +17,15 @@ updated: 2025-12-14
 note_id: 211207AR01
 cssclasses:
   - philo-dump
-socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-aristotle.png"
+socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/philo-aristotle-light.png"
 ---
 
 # Aristotle - The Mean I Miss
 
 <figure class="hub-hero-banner">
-  <img src="../../attachments/placeholders/philo-aristotle.webp" alt="" loading="lazy" />
+  <img src="../../attachments/placeholders/philo-aristotle.webp"
+    data-src-dark="../../attachments/placeholders/philo-aristotle.webp"
+    data-src-light="../../attachments/placeholders/philo-aristotle-light.webp" alt="" loading="lazy" />
 </figure>
 
 <div class="keyword-row">

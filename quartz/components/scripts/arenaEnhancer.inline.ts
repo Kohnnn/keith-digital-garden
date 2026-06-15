@@ -65,9 +65,9 @@ const updateArena = () => {
   const categoryStat = document.querySelector("[data-arena-stat='categories']")
   const linksStat = document.querySelector("[data-arena-stat='links']")
   const curatedStat = document.querySelector("[data-arena-stat='curated']")
-  if (categoryStat) categoryStat.textContent = `${importedCount} categories`
-  if (linksStat) linksStat.textContent = `${importedLinks} links`
-  if (curatedStat) curatedStat.textContent = `${curatedCount} curated shelves`
+  if (categoryStat) categoryStat.textContent = importedCount.toLocaleString()
+  if (linksStat) linksStat.textContent = importedLinks.toLocaleString()
+  if (curatedStat) curatedStat.textContent = curatedCount.toLocaleString()
 
   if (indexList) {
     indexList.classList.add("arena-index-list")
@@ -138,8 +138,8 @@ const updateArena = () => {
 
     filterMeta.textContent =
       query === ""
-        ? `Showing all ${importedLinks} imported links across ${importedCount} categories.`
-        : `Showing ${visibleCount} matching links for “${filterInput.value.trim()}”.`
+        ? `Showing all ${importedLinks.toLocaleString()} imported links across ${importedCount} categories.`
+        : `${visibleCount.toLocaleString()} link${visibleCount === 1 ? "" : "s"} match “${filterInput.value.trim()}”.`
   }
 
   filterInput.addEventListener("input", applyFilter)

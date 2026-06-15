@@ -261,6 +261,19 @@ article.branch-hub,
   --note-card-bg: color-mix(in srgb, var(--light) 96%, var(--gray) 4%);
   --note-card-border: color-mix(in srgb, var(--lightgray) 70%, var(--gray) 30%);
   --note-accent: var(--gray);
+
+  // Long index lists (e.g. the Philosophy library) flow into balanced
+  // columns on wider viewports so a 60+ link shelf stays scannable
+  // instead of becoming one tall single-file column.
+  h2 + ul {
+    column-gap: 2.2rem;
+    column-width: 18rem;
+
+    li {
+      break-inside: avoid;
+      margin: 0.2rem 0;
+    }
+  }
 }
 
 article.market-report,
@@ -1022,15 +1035,29 @@ article.arena-hub,
   .arena-meta-card strong {
     display: block;
     margin-top: 0.15rem;
-    font-size: 1.05rem;
+    font-family: var(--codeFont);
+    font-size: 1.45rem;
+    line-height: 1.1;
+    color: var(--secondary);
+  }
+
+  .arena-meta-card p {
+    margin: 0.3rem 0 0;
+    font-size: 0.86rem;
+    color: var(--gray);
   }
 
   .arena-controls {
+    position: sticky;
+    top: 0.75rem;
+    z-index: 5;
     margin: 1rem 0 1.35rem;
     padding: 0.95rem 1rem;
     border: 1px solid color-mix(in srgb, var(--secondary) 22%, var(--lightgray) 78%);
     border-radius: 16px;
-    background: color-mix(in srgb, var(--light) 97%, var(--secondary) 3%);
+    background: color-mix(in srgb, var(--light) 88%, var(--secondary) 12%);
+    backdrop-filter: blur(8px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
   }
 
   .arena-filter-label {
@@ -1051,6 +1078,15 @@ article.arena-hub,
     color: var(--dark);
     padding: 0.72rem 0.95rem;
     font-size: 0.95rem;
+    transition:
+      border-color 0.15s ease,
+      box-shadow 0.15s ease;
+  }
+
+  .arena-filter-input:focus-visible {
+    outline: none;
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--secondary) 22%, transparent);
   }
 
   .arena-filter-meta {
@@ -1060,10 +1096,36 @@ article.arena-hub,
   }
 
   .arena-index-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 0.35rem 0.85rem;
-    padding-left: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  .arena-index-list li {
+    margin: 0;
+  }
+
+  .arena-index-list a {
+    display: inline-block;
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray) 82%);
+    background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
+    font-family: var(--codeFont);
+    font-size: 0.8rem;
+    color: var(--secondary);
+    text-decoration: none;
+    transition:
+      background 0.15s ease,
+      border-color 0.15s ease;
+  }
+
+  .arena-index-list a:hover {
+    background: color-mix(in srgb, var(--secondary) 14%, var(--light) 86%);
+    border-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray) 60%);
+    text-decoration: none;
   }
 
   h2 {

@@ -23,24 +23,24 @@ A consolidated outbound atlas for channels, references, and rabbit holes that fe
 
 <div class="arena-intro">
   <p class="kitchen-eyebrow">Reference shelf</p>
-  <p>This page is meant for lateral browsing, not linear reading. Use the jump index to move by category, or filter the shelf when you already know the kind of source you want.</p>
+  <p>This page is for lateral browsing, not linear reading. Jump by category from the index, or use the filter — it stays pinned while you scroll — when you already know the kind of source you want.</p>
 </div>
 
-<div class="arena-meta-strip" role="list" aria-label="Arena usage notes">
+<div class="arena-meta-strip" role="list" aria-label="Arena at a glance">
   <div class="arena-meta-card" role="listitem">
-    <span class="proof-label">Mode</span>
-    <strong data-arena-stat="categories">0 categories</strong>
-    <p>Skim fast, then open selectively.</p>
+    <span class="proof-label">Imported links</span>
+    <strong data-arena-stat="links">&mdash;</strong>
+    <p>People, papers, channels, tools, and essays in one outbound atlas.</p>
   </div>
   <div class="arena-meta-card" role="listitem">
-    <span class="proof-label">Best for</span>
-    <strong data-arena-stat="links">0 links</strong>
-    <p>People, papers, channels, tools, and essays collected in one place.</p>
+    <span class="proof-label">Categories</span>
+    <strong data-arena-stat="categories">&mdash;</strong>
+    <p>Jump by category from the index below, or filter the whole shelf.</p>
   </div>
   <div class="arena-meta-card" role="listitem">
-    <span class="proof-label">Navigation</span>
-    <strong data-arena-stat="curated">0 curated shelves</strong>
-    <p>Use the generated controls below to narrow the outbound list.</p>
+    <span class="proof-label">Curated shelves</span>
+    <strong data-arena-stat="curated">&mdash;</strong>
+    <p>Hand-sorted channels sit up top, before the bulk import.</p>
   </div>
 </div>
 

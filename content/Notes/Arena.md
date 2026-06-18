@@ -199,6 +199,16 @@ A consolidated outbound atlas for channels, references, and rabbit holes that fe
 - <https://www.are.na/l-rose-fuy3-5kops0/library-science-digital-archives-collections>
 - <https://www.are.na/roland-van-dierendonck/contemporary-science-library-for-art-museum-bookshops>
 
+### New sources — Jun 18 2026
+
+- <https://velvetyne.fr/news/about-ascii-art-and-jgs-font/> — Velvetyne: ASCII art history and Jgs font tribute to Joan G. Stark
+- <https://fellerts.no/projects/epoch.html> — Epoch: exploded mechanical watch cast in resin
+- <https://www.youtube.com/watch?v=gC76aeibdFA> — bycloud: DeepSeek V4 attention mechanisms breakdown
+- <https://lore.org/> — Lore: Epic Games open source version control
+- <https://adam.new/cadam> — CADAM: open source text-to-CAD
+- <https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/> — Works in Progress: How Madrid built its metro cheaply
+- <https://www.thesignalist.io/s/the-dialogue-dividend/> — The Dialogue Dividend
+
 ## Index
 
 - [discourse](#discourse) (13)

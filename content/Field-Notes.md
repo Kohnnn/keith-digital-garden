@@ -4,7 +4,7 @@ tags: [dispatches, notes, archive]
 draft: false
 description: Public shelf for the cross-domain note archive and general observations.
 created: 2026-03-07
-updated: 2026-03-25
+updated: 2026-06-18
 cssclasses: [branch-hub]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-field-notes-light.png"
 ---
@@ -26,6 +26,11 @@ This shelf holds the broadest part of the archive: cross-domain observations, sm
 - Move sideways into [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/) when you want the flagship interactive note instead of short briefs.
 
 ## Shelf highlights
+
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/epoch an exploded view of a mechanical watch cast in resin|Epoch - exploded mechanical watch cast in resin]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/ascii art and the jgs font a tribute to joan g stark|ASCII art history and the Jgs font tribute to Joan G. Stark]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/how madrid built its metro cheaply|How Madrid built its metro cheaply]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/the dialogue dividend why thinking out loud beats thinking alone|The Dialogue Dividend - why thinking out loud beats thinking alone]]
 
 - `Jan 14, 2026` - [[Notes/General_Notes/2026/quarterly trust drills become product launch gate|Quarterly trust drills become product launch gate]] - A short note on trust rehearsals turning into a real release gate for AI products.
 - `Jan 11, 2026` - [[Notes/General_Notes/2026/enterprise copilots require reversible action trails|Enterprise copilots require reversible action trails]] - Why reversible actions start looking less like a safety luxury and more like procurement table stakes.

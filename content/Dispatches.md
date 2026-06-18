@@ -4,7 +4,7 @@ tags: [dispatches, archive, notes]
 draft: false
 description: Neutral public entry into the archived briefings, research digests, and topic snapshots.
 created: 2026-03-07
-updated: 2026-03-25
+updated: 2026-06-18
 cssclasses: [branch-hub]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-dispatches-light.png"
 ---
@@ -20,6 +20,16 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
 This is the public route into the archived short-form note system. These pages are less about polished essays and more about pattern collection: signals, research fragments, tech journal entries, and working interpretations over time. The short-form archive stays in the garden, while the flagship interactive notes open directly on their live routes.
 
 ## Latest dispatches
+
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/deepseek v4 new attention mechanisms and 75 percent cheaper inference|DeepSeek V4 - CSA and HCA attention for 1M context at 75% cheaper]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/ascii art and the jgs font a tribute to joan g stark|ASCII art history and the Jgs font tribute to Joan G. Stark]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/epoch an exploded view of a mechanical watch cast in resin|Epoch - exploded mechanical watch cast in resin]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/glm 5.2 becomes the new open weights leader|GLM-5.2 becomes the new open-weights leader]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/adam text to cad goes open source|Adam - open source text-to-CAD]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/how madrid built its metro cheaply|How Madrid built its metro cheaply]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/lore epic games open source version control|Lore - Epic open source next-gen VCS]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/tesco moving 40000 workloads off vmware after broadcom price hikes|Tesco moving 40k workloads off VMware]]
+- `Jun 18, 2026` - [[Notes/General_Notes/2026/the dialogue dividend why thinking out loud beats thinking alone|The Dialogue Dividend - why thinking out loud beats thinking alone]]
 
 - `Feb 18, 2026` - [[Notes/Market_News/2026/provenance compliance services consolidate around audit apis|Provenance compliance services consolidate around audit APIs]] - A market-facing read on audit infrastructure consolidating into a clearer software category.
 - `Feb 10, 2026` - [[Notes/Research_Digests/2026/review of trust metric drift in enterprise copilots|Review of trust metric drift in enterprise copilots]] - A compressed evidence note on why trust dashboards drift faster than teams expect.

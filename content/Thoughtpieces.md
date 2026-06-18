@@ -4,7 +4,7 @@ tags: [dispatches, essays, archive]
 draft: false
 description: Public shelf for the more opinionated and essay-shaped part of the archive.
 created: 2026-03-07
-updated: 2026-03-25
+updated: 2026-06-18
 cssclasses: [branch-hub, thoughtpiece]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-thoughtpieces-light.png"
 ---

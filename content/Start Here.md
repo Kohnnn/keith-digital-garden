@@ -4,7 +4,7 @@ tags: [guide, navigation]
 draft: false
 description: Orientation for the Keith's Atheneum site structure.
 created: 2026-01-30
-updated: 2026-03-07
+updated: 2026-06-18
 cssclasses: [branch-hub]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-start-here-light.png"
 ---

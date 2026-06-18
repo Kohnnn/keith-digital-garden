@@ -4,7 +4,7 @@ tags: [notes, hub]
 draft: false
 description: Wider garden of simulations, archive shelves, explainers, and working notes beyond the portfolio casefiles.
 created: 2026-03-07
-updated: 2026-03-26
+updated: 2026-06-18
 aliases: [Notes]
 permalink: /notes
 cssclasses: [branch-hub]

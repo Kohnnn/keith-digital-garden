@@ -4,7 +4,7 @@ tags: [dispatches, research, archive]
 draft: false
 description: Public shelf for condensed research summaries and evidence-first briefings.
 created: 2026-03-07
-updated: 2026-03-25
+updated: 2026-06-18
 cssclasses: [branch-hub]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-research-digests-light.png"
 ---

@@ -4,7 +4,7 @@ tags: [home, guide]
 draft: false
 description: The Atheneum — a curated hall of market systems, research notes, and working ideas.
 created: 2026-01-30
-updated: 2026-06-09
+updated: 2026-06-18
 cssclasses: [branch-hub, kitchen-home]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/landing-hero-banner-light.png"
 ---
@@ -29,7 +29,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
       <span class="kitchen-ticket-status">The Vault</span>
       <strong>Portfolio</strong>
       <p>Casefiles, experience, and the shortest proof path.</p>
-      <span class="kitchen-ticket-meta">13 pages - updated Mar 2026</span>
+      <span class="kitchen-ticket-meta">13 pages - updated Jun 2026</span>
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./notes">
@@ -38,7 +38,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
       <span class="kitchen-ticket-status">The Stacks</span>
       <strong>Notes</strong>
       <p>Archive shelves, branching trails, and the live interactive notes.</p>
-      <span class="kitchen-ticket-meta">1,503 notes - updated Mar 2026</span>
+      <span class="kitchen-ticket-meta">1,512 notes - updated Jun 2026</span>
     </span>
   </a>
   <a class="kitchen-ticket kitchen-route-art" href="./arena">
@@ -56,7 +56,7 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
       <span class="kitchen-ticket-status">The Ledger</span>
       <strong>Research notes</strong>
       <p>Dated writing, frameworks, and the written operating log.</p>
-      <span class="kitchen-ticket-meta">265 memos - updated Mar 2026</span>
+      <span class="kitchen-ticket-meta">265 memos - updated Jun 2026</span>
     </span>
   </a>
 </nav>
@@ -108,28 +108,28 @@ socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placehol
     <span class="casefile-label">The Vault</span>
     <span class="kitchen-card-title">Start with Portfolio</span>
     <p>Go here when you want the fastest read on casefiles, experience, and contact.</p>
-    <span class="kitchen-card-meta">13 pages - updated Mar 2026</span>
+    <span class="kitchen-card-meta">13 pages - updated Jun 2026</span>
     <span class="kitchen-card-cta">-> Enter the vault</span>
   </a>
   <a class="kitchen-start-card" href="./Portfolio/Blog">
     <span class="casefile-label">The Ledger</span>
     <span class="kitchen-card-title">Read the public log</span>
     <p>Use the published research stream for dated writing, frameworks, and market-facing notes.</p>
-    <span class="kitchen-card-meta">265 memos - updated Mar 2026</span>
+    <span class="kitchen-card-meta">265 memos - updated Jun 2026</span>
     <span class="kitchen-card-cta">-> Read the ledger</span>
   </a>
   <a class="kitchen-start-card" href="./Dispatches">
     <span class="casefile-label">The Stacks</span>
     <span class="kitchen-card-title">Browse Dispatches</span>
     <p>Enter the short-form archive through cleaner branch doors instead of raw folder sprawl.</p>
-    <span class="kitchen-card-meta">5 shelves - 1,503 notes</span>
+    <span class="kitchen-card-meta">5 shelves - 1,512 notes</span>
     <span class="kitchen-card-cta">-> Open dispatches</span>
   </a>
   <a class="kitchen-start-card kitchen-start-card--external" href="https://kohnnn.github.io/interactive-explanation/mechanical-watch/" target="_blank" rel="noopener noreferrer">
     <span class="casefile-label">Flagship interactive</span>
     <span class="kitchen-card-title">Open Mechanical Watch</span>
     <p>Start with the lead visual explainer for the garden: escapements, gear trains, torque flow, and mechanical timing.</p>
-    <span class="kitchen-card-meta">Visual note - updated Mar 2026</span>
+    <span class="kitchen-card-meta">Visual note - updated Jun 2026</span>
     <span class="kitchen-card-cta">-> Launch the explainer</span>
   </a>
 </nav>

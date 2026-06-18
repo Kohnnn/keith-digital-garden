@@ -4,7 +4,7 @@ tags: [dispatches, systems, archive]
 draft: false
 description: Public shelf for tooling, systems, interfaces, and engineering observations.
 created: 2026-03-07
-updated: 2026-03-25
+updated: 2026-06-18
 cssclasses: [branch-hub, tech-journal]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-tech-journal-light.png"
 ---
@@ -26,6 +26,12 @@ This shelf tracks the engineering side of the archive: tools, interfaces, produc
 - Move to [Mechanical Watch](https://kohnnn.github.io/interactive-explanation/mechanical-watch/) for the flagship interactive on the simulation-heavy side of the technical writing.
 
 ## Recent log entries
+
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/deepseek v4 new attention mechanisms and 75 percent cheaper inference|DeepSeek V4 - CSA and HCA attention for 1M context at 75% cheaper]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/glm 5.2 becomes the new open weights leader|GLM-5.2 becomes the new open-weights leader]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/adam text to cad goes open source|Adam - open source text-to-CAD]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/lore epic games open source version control|Lore - Epic open source next-gen VCS]]
+- `Jun 18, 2026` - [[Notes/Tech_Journal/2026/tesco moving 40000 workloads off vmware after broadcom price hikes|Tesco moving 40k workloads off VMware after Broadcom price hikes]]
 
 - `Jan 25, 2026` - [[Notes/Tech_Journal/2026/structured incident packets automate postmortem drafting|Structured incident packets automate postmortem drafting]] - An engineering note on turning incident evidence into a faster drafting surface.
 - `Jan 22, 2026` - [[Notes/Tech_Journal/2026/replay aware canary analysis compares policy outcomes|Replay aware canary analysis compares policy outcomes]] - A quick read on canary analysis when the real risk is hidden policy drift.

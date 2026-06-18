@@ -4,7 +4,7 @@ tags: [about, portfolio]
 draft: false
 description: What Keith's Atheneum is and how the site is organized.
 created: 2026-01-30
-updated: 2026-03-25
+updated: 2026-06-18
 cssclasses: [portfolio-page]
 socialImage: "https://kohnnn.github.io/keith-digital-garden/attachments/placeholders/hub-about-light.png"
 ---
@@ -22,7 +22,7 @@ It is structured as a portfolio first and a note garden second: the homepage and
 
 <div class="identity-block">
   <span class="casefile-label">Identity block</span>
-  <strong>Keith Nguyen</strong>
+  <strong>Keith Vo</strong>
   <p>Research Analyst</p>
   <p>Ho Chi Minh City - Vietcap Securities</p>
   <p>Quant-adjacent - builder</p>

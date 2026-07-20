@@ -1,0 +1,6 @@
+[     940ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8080/keith-digital-garden/attachments/placeholders/texture-sidebar-light.webp:0
+[     941ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8080/keith-digital-garden/attachments/placeholders/brand-emblem-light.webp:0
+[     941ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8080/keith-digital-garden/attachments/placeholders/texture-footer-light.webp:0
+[     942ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8080/keith-digital-garden/attachments/placeholders/glyph-observatory-light.webp:0
+[    3176ms] [WARNING] Ignoring Event: localhost @ https://plausible.io/js/script.manual.js:0
+[    7860ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8080/keith-digital-garden/attachments/placeholders/brand-emblem-light.webp:0

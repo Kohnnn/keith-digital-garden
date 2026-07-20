@@ -1,0 +1,368 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - heading [level=2] [ref=e5]:
+      - link "Keith's Atheneum" [ref=e6] [cursor=pointer]:
+        - /url: .
+    - generic [ref=e9]:
+      - button [ref=e12] [cursor=pointer]:
+        - img "Search" [ref=e13]
+        - paragraph [ref=e17]: Search
+      - button "Open stacked notes" [ref=e19] [cursor=pointer]
+      - button [ref=e24] [cursor=pointer]:
+        - img "Dark mode" [ref=e25]
+      - button "Reader mode" [ref=e28] [cursor=pointer]:
+        - img "Reader mode" [ref=e29]
+    - generic [ref=e32]:
+      - button [expanded] [ref=e33] [cursor=pointer]:
+        - heading "Explorer" [level=2] [ref=e34]
+      - group [ref=e36]:
+        - list [ref=e37]:
+          - listitem [ref=e38]:
+            - link "ai-tech" [ref=e42] [cursor=pointer]:
+              - /url: ./ai-tech/
+          - listitem [ref=e43]:
+            - link "HN" [ref=e47] [cursor=pointer]:
+              - /url: ./HN/
+          - listitem [ref=e48]:
+            - link "mark-memo" [ref=e52] [cursor=pointer]:
+              - /url: ./mark-memo/
+          - listitem [ref=e53]:
+            - link "market-memo" [ref=e57] [cursor=pointer]:
+              - /url: ./market-memo/
+          - listitem [ref=e58]:
+            - link "Notes" [ref=e62] [cursor=pointer]:
+              - /url: ./Notes/
+          - listitem [ref=e63]:
+            - link "Portfolio" [ref=e67] [cursor=pointer]:
+              - /url: ./Portfolio/
+          - listitem [ref=e68]:
+            - link "About" [ref=e69] [cursor=pointer]:
+              - /url: ./About
+          - listitem [ref=e70]:
+            - link "Dispatches" [ref=e71] [cursor=pointer]:
+              - /url: ./Dispatches
+          - listitem [ref=e72]:
+            - link "Field Notes" [ref=e73] [cursor=pointer]:
+              - /url: ./Field-Notes
+          - listitem [ref=e74]:
+            - link "Market Tape" [ref=e75] [cursor=pointer]:
+              - /url: ./Market-Tape
+          - listitem [ref=e76]:
+            - link "Research Digests" [ref=e77] [cursor=pointer]:
+              - /url: ./Research-Digests
+          - listitem [ref=e78]:
+            - link "Start Here" [ref=e79] [cursor=pointer]:
+              - /url: ./Start-Here
+          - listitem [ref=e80]:
+            - link "Tech Journal" [ref=e81] [cursor=pointer]:
+              - /url: ./Tech-Journal
+          - listitem [ref=e82]:
+            - link "Thoughtpieces" [ref=e83] [cursor=pointer]:
+              - /url: ./Thoughtpieces
+          - listitem [ref=e84]:
+            - link "Visual Notes" [ref=e85] [cursor=pointer]:
+              - /url: ./Visual-Notes
+          - listitem [ref=e86]
+  - generic [ref=e87]:
+    - article [ref=e88]:
+      - generic "Keith's Atheneum" [ref=e89]:
+        - generic [ref=e90]:
+          - paragraph [ref=e91]: An ancient-future archive
+          - heading "Keith's Atheneum" [level=1] [ref=e92]:
+            - text: Keith's Atheneum
+            - link [ref=e93] [cursor=pointer]:
+              - /url: "#keiths-atheneum"
+          - paragraph [ref=e97]: A curated hall for market systems, research notes, and the working ideas behind them.
+          - generic [ref=e98]:
+            - link "Enter the Vault" [ref=e99] [cursor=pointer]:
+              - /url: ./Portfolio
+            - link "Browse the Stacks" [ref=e100] [cursor=pointer]:
+              - /url: ./notes
+      - navigation "Atheneum routes" [ref=e101]:
+        - link "The Vault Portfolio Casefiles, experience, and the shortest proof path. 13 pages - updated Jun 2026" [ref=e102] [cursor=pointer]:
+          - /url: ./Portfolio
+          - generic [ref=e103]:
+            - generic [ref=e104]: The Vault
+            - strong [ref=e105]: Portfolio
+            - paragraph [ref=e106]: Casefiles, experience, and the shortest proof path.
+            - generic [ref=e107]: 13 pages - updated Jun 2026
+        - link "The Stacks Notes Archive shelves, branching trails, and the live interactive notes. 1,512 notes - updated Jun 2026" [ref=e108] [cursor=pointer]:
+          - /url: ./notes
+          - generic [ref=e109]:
+            - generic [ref=e110]: The Stacks
+            - strong [ref=e111]: Notes
+            - paragraph [ref=e112]: Archive shelves, branching trails, and the live interactive notes.
+            - generic [ref=e113]: 1,512 notes - updated Jun 2026
+        - link "The Observatory Arena External references, channels, and rabbit holes. 2,267 links - updated Feb 2026" [ref=e114] [cursor=pointer]:
+          - /url: ./arena
+          - generic [ref=e115]:
+            - generic [ref=e116]: The Observatory
+            - strong [ref=e117]: Arena
+            - paragraph [ref=e118]: External references, channels, and rabbit holes.
+            - generic [ref=e119]: 2,267 links - updated Feb 2026
+        - link "The Ledger Research notes Dated writing, frameworks, and the written operating log. 265 memos - updated Jun 2026" [ref=e120] [cursor=pointer]:
+          - /url: ./Portfolio/Blog
+          - generic [ref=e121]:
+            - generic [ref=e122]: The Ledger
+            - strong [ref=e123]: Research notes
+            - paragraph [ref=e124]: Dated writing, frameworks, and the written operating log.
+            - generic [ref=e125]: 265 memos - updated Jun 2026
+      - list "Atheneum quick scan" [ref=e126]:
+        - listitem [ref=e127]:
+          - generic [ref=e128]: Fastest
+          - strong [ref=e129]: The Vault
+        - listitem [ref=e130]:
+          - generic [ref=e131]: Archive
+          - strong [ref=e132]: The Stacks
+        - listitem [ref=e133]:
+          - generic [ref=e134]: Published
+          - strong [ref=e135]: The Ledger
+        - listitem [ref=e136]:
+          - generic [ref=e137]: Outbound
+          - strong [ref=e138]: The Observatory
+      - heading "How to read the Atheneum" [level=2] [ref=e139]:
+        - text: How to read the Atheneum
+        - link [ref=e140] [cursor=pointer]:
+          - /url: "#how-to-read-the-atheneum"
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - generic [ref=e146]: The Stacks
+          - paragraph [ref=e147]: Use search and the explorer when you want archive inventory, folders, and direct retrieval.
+        - generic [ref=e148]:
+          - generic [ref=e149]: Ingredients ledger
+          - paragraph [ref=e150]: Use the map, contents, backlinks, and related notes when you want relationships instead of hierarchy.
+        - generic [ref=e151]:
+          - generic [ref=e152]: Reading desk
+          - paragraph [ref=e153]:
+            - text: Open a single note when you want focused reading. Use
+            - strong [ref=e154]: Stack
+            - text: when you want a compare surface.
+        - generic [ref=e155]:
+          - generic [ref=e156]: Explainer lab
+          - paragraph [ref=e157]:
+            - text: The short-form archive lives behind
+            - link "Dispatches" [ref=e158] [cursor=pointer]:
+              - /url: ./Dispatches
+            - text: . Mechanical Watch is the flagship interactive note, with the rest of the visual explainers linked from their own garden pages.
+      - heading "Start at these stations" [level=2] [ref=e159]:
+        - text: Start at these stations
+        - link [ref=e160] [cursor=pointer]:
+          - /url: "#start-at-these-stations"
+      - navigation "Starting stations" [ref=e164]:
+        - link "The Vault Start with Portfolio Go here when you want the fastest read on casefiles, experience, and contact. 13 pages - updated Jun 2026 -> Enter the vault" [ref=e165] [cursor=pointer]:
+          - /url: ./Portfolio
+          - generic [ref=e166]: The Vault
+          - text: Start with Portfolio
+          - paragraph [ref=e167]: Go here when you want the fastest read on casefiles, experience, and contact.
+          - generic [ref=e168]: 13 pages - updated Jun 2026
+          - generic [ref=e169]: "-> Enter the vault"
+        - link "The Ledger Read the public log Use the published research stream for dated writing, frameworks, and market-facing notes. 265 memos - updated Jun 2026 -> Read the ledger" [ref=e170] [cursor=pointer]:
+          - /url: ./Portfolio/Blog
+          - generic [ref=e171]: The Ledger
+          - text: Read the public log
+          - paragraph [ref=e172]: Use the published research stream for dated writing, frameworks, and market-facing notes.
+          - generic [ref=e173]: 265 memos - updated Jun 2026
+          - generic [ref=e174]: "-> Read the ledger"
+        - link "The Stacks Browse Dispatches Enter the short-form archive through cleaner branch doors instead of raw folder sprawl. 5 shelves - 1,512 notes -> Open dispatches" [ref=e175] [cursor=pointer]:
+          - /url: ./Dispatches
+          - generic [ref=e176]: The Stacks
+          - text: Browse Dispatches
+          - paragraph [ref=e177]: Enter the short-form archive through cleaner branch doors instead of raw folder sprawl.
+          - generic [ref=e178]: 5 shelves - 1,512 notes
+          - generic [ref=e179]: "-> Open dispatches"
+        - 'link "Flagship interactive Open Mechanical Watch Start with the lead visual explainer for the garden: escapements, gear trains, torque flow, and mechanical timing. Visual note - updated Jun 2026 -> Launch the explainer" [ref=e180] [cursor=pointer]':
+          - /url: https://kohnnn.github.io/interactive-explanation/mechanical-watch/
+          - generic [ref=e181]: Flagship interactive
+          - text: Open Mechanical Watch
+          - paragraph [ref=e182]: "Start with the lead visual explainer for the garden: escapements, gear trains, torque flow, and mechanical timing."
+          - generic [ref=e183]: Visual note - updated Jun 2026
+          - generic [ref=e184]: "-> Launch the explainer"
+    - separator [ref=e187]
+    - generic [ref=e189]:
+      - heading "Latest from the Atheneum" [level=3] [ref=e190]
+      - list [ref=e191]:
+        - listitem [ref=e192]:
+          - generic [ref=e193]:
+            - heading [level=3] [ref=e195]:
+              - link "legacy modernization becomes risk premium in ai underwriting" [ref=e196] [cursor=pointer]:
+                - /url: ./Notes/Market_News/2026/mr10-legacy-modernization-risk-premium
+            - paragraph [ref=e197]:
+              - time [ref=e198]: Jun 30, 2026
+        - listitem [ref=e199]:
+          - generic [ref=e200]:
+            - heading [level=3] [ref=e202]:
+              - link "Philosophy" [ref=e203] [cursor=pointer]:
+                - /url: ./Notes/Philosophy/
+            - paragraph [ref=e204]:
+              - time [ref=e205]: Jun 15, 2026
+        - listitem [ref=e206]:
+          - generic [ref=e207]:
+            - heading [level=3] [ref=e209]:
+              - link "epistemology for traders what you cant know and why it matters" [ref=e210] [cursor=pointer]:
+                - /url: ./Notes/General_Notes/2026/gn35-epistemology-knowledge-limits
+            - paragraph [ref=e211]:
+              - time [ref=e212]: Jun 10, 2026
+        - listitem [ref=e213]:
+          - generic [ref=e214]:
+            - heading [level=3] [ref=e216]:
+              - link "crypto valuation and the trustless economy" [ref=e217] [cursor=pointer]:
+                - /url: ./Notes/Market_News/2026/crypto-valuation-trustless
+            - paragraph [ref=e218]:
+              - time [ref=e219]: Jun 10, 2026
+        - listitem [ref=e220]:
+          - generic [ref=e221]:
+            - heading [level=3] [ref=e223]:
+              - link "net liquidity the only macro indicator that matters" [ref=e224] [cursor=pointer]:
+                - /url: ./Notes/Market_News/2026/net-liquidity-macro-indicator
+            - paragraph [ref=e225]:
+              - time [ref=e226]: Jun 10, 2026
+  - generic [ref=e228]:
+    - group "Map view" [ref=e229]:
+      - button "Graph" [pressed] [ref=e230] [cursor=pointer]
+      - button "Map" [ref=e231] [cursor=pointer]
+    - generic [ref=e232]:
+      - generic [ref=e234]:
+        - heading "Graph View" [level=3] [ref=e235]
+        - button "Expand graph" [ref=e239] [cursor=pointer]:
+          - generic [ref=e242]: Expand
+      - generic:
+        - generic:
+          - generic:
+            - heading "Map" [level=3]
+            - link "All tags":
+              - /url: ./tags
+          - list:
+            - listitem:
+              - generic: "#ai"
+              - generic: 816 notes
+            - listitem:
+              - generic: "#general-note"
+              - generic: 344 notes
+            - listitem:
+              - generic: "#infra"
+              - generic: 290 notes
+            - listitem:
+              - generic: "#2023"
+              - generic: 277 notes
+            - listitem:
+              - generic: "#policy"
+              - generic: 271 notes
+            - listitem:
+              - generic: "#2022"
+              - generic: 257 notes
+            - listitem:
+              - generic: "#tech-journal"
+              - generic: 247 notes
+            - listitem:
+              - generic: "#2024"
+              - generic: 220 notes
+            - listitem:
+              - generic: "#keyword-index"
+              - generic: 183 notes
+            - listitem:
+              - generic: "#thoughtpiece"
+              - generic: 174 notes
+            - listitem:
+              - generic: "#2021"
+              - generic: 170 notes
+            - listitem:
+              - generic: "#market-news"
+              - generic: 167 notes
+            - listitem:
+              - generic: "#2025"
+              - generic: 134 notes
+            - listitem:
+              - generic: "#research-digest"
+              - generic: 120 notes
+            - listitem:
+              - generic: "#2020"
+              - generic: 107 notes
+            - listitem:
+              - generic: "#finance"
+              - generic: 101 notes
+            - listitem:
+              - generic: "#philosophy"
+              - generic: 84 notes
+            - listitem:
+              - generic: "#generalnote"
+              - generic: 82 notes
+            - listitem:
+              - generic: "#economy"
+              - generic: 77 notes
+            - listitem:
+              - generic: "#security"
+              - generic: 75 notes
+            - listitem:
+              - generic: "#portfolio"
+              - generic: 69 notes
+            - listitem:
+              - generic: "#product"
+              - generic: 65 notes
+            - listitem:
+              - generic: "#techjournal"
+              - generic: 63 notes
+            - listitem:
+              - generic: "#behavior"
+              - generic: 62 notes
+            - listitem:
+              - generic: "#hardware"
+              - generic: 62 notes
+            - listitem:
+              - generic: "#data"
+              - generic: 52 notes
+            - listitem:
+              - generic: "#interactive"
+              - generic: 51 notes
+            - listitem:
+              - generic: "#researchdigest"
+              - generic: 50 notes
+            - listitem:
+              - generic: "#crypto"
+              - generic: 43 notes
+            - listitem:
+              - generic: "#2026"
+              - generic: 42 notes
+            - listitem:
+              - generic: "#general-notes"
+              - generic: 41 notes
+            - listitem:
+              - generic: "#governance"
+              - generic: 41 notes
+            - listitem:
+              - generic: "#open"
+              - generic: 39 notes
+            - listitem:
+              - generic: "#energy"
+              - generic: 37 notes
+            - listitem:
+              - generic: "#markets"
+              - generic: 37 notes
+            - listitem:
+              - generic: "#tech"
+              - generic: 37 notes
+  - contentinfo [ref=e243]:
+    - paragraph [ref=e244]: Service Counter
+    - paragraph [ref=e245]: Keith's Atheneum is a curated atheneum for market systems, research notes, and working ideas. © 2026
+    - generic "Social links" [ref=e246]:
+      - link "GitHub" [ref=e247] [cursor=pointer]:
+        - /url: https://github.com/Kohnnn
+      - link "LinkedIn" [ref=e250] [cursor=pointer]:
+        - /url: https://linkedin.com/in/kiet-vo-097
+      - link "RSS" [ref=e253] [cursor=pointer]:
+        - /url: https://kohnnn.github.io/keith-digital-garden/index.xml
+    - list [ref=e256]:
+      - listitem [ref=e257]:
+        - link "Home" [ref=e258] [cursor=pointer]:
+          - /url: ./
+      - listitem [ref=e259]:
+        - link "Notes" [ref=e260] [cursor=pointer]:
+          - /url: ./notes
+      - listitem [ref=e261]:
+        - link "Portfolio" [ref=e262] [cursor=pointer]:
+          - /url: ./Portfolio
+      - listitem [ref=e263]:
+        - link "Interactive Lab" [ref=e264] [cursor=pointer]:
+          - /url: https://kohnnn.github.io/interactive-explanation/
+      - listitem [ref=e265]:
+        - link "GitHub" [ref=e266] [cursor=pointer]:
+          - /url: https://github.com/Kohnnn/keith-digital-garden

@@ -28,12 +28,13 @@ const placeContainer = (container: HTMLElement) => {
 
 const sanitizeArticlePreview = (article: HTMLElement) => {
   const clone = article.cloneNode(true) as HTMLElement
+  clone.classList.add("stacked-note-preview")
 
   clone.querySelector("h1")?.remove()
 
   clone
     .querySelectorAll<HTMLElement>(
-      ".interactive-sim, canvas, iframe, .graph, .mermaid, .page-footer, .stacked-notes-container",
+      ".interactive-sim, canvas, iframe, .graph, .mermaid, .page-footer, .stacked-notes-container, .dappled-light, script",
     )
     .forEach((node) => {
       if (node.classList.contains("interactive-sim")) {
@@ -123,6 +124,9 @@ const renderSecondary = async (
   clearButton: HTMLButtonElement | null,
   openButton: HTMLButtonElement | null,
 ) => {
+  targetUrl.search = ""
+  targetUrl.hash = ""
+
   secondary.replaceChildren()
   const loading = document.createElement("p")
   loading.className = "stacked-note-loading"

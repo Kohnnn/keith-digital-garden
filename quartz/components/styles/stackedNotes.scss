@@ -214,6 +214,7 @@ body.stack-mode {
   padding: 1.2rem 1.35rem 1.6rem;
   overflow: auto;
   color: var(--darkgray);
+  overflow-wrap: anywhere;
 }
 
 .stacked-note-content > :first-child {
@@ -222,6 +223,74 @@ body.stack-mode {
 
 .stacked-note-content article {
   margin: 0;
+  max-width: none;
+  width: 100%;
+}
+
+.stacked-note-content .stacked-note-preview {
+  display: block;
+}
+
+.stacked-note-content img,
+.stacked-note-content video,
+.stacked-note-content svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.stacked-note-content figure,
+.stacked-note-content .hub-hero-banner,
+.stacked-note-content .atheneum-hero {
+  max-width: 100%;
+  margin: 0 0 1rem;
+}
+
+.stacked-note-content .hub-hero-banner {
+  min-height: 0;
+  aspect-ratio: 16 / 7;
+}
+
+.stacked-note-content .hub-hero-banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.stacked-note-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.stacked-note-content pre {
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.stacked-note-content code {
+  overflow-wrap: anywhere;
+}
+
+.stacked-note-content .writing-grid,
+.stacked-note-content .casefile-grid,
+.stacked-note-content .proof-strip,
+.stacked-note-content .atheneum-routes,
+.stacked-note-content .kitchen-start-grid,
+.stacked-note-content .arena-meta-strip {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 100%;
+}
+
+.stacked-note-content .arena-controls {
+  position: static;
+}
+
+.stacked-note-content h2 + ul {
+  column-width: auto;
+  columns: 1;
 }
 
 .stacked-note-content .page-header,

@@ -1,1 +1,0 @@
-@/tmp/may-ai-models.md

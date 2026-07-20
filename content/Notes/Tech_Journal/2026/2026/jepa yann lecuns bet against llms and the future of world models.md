@@ -1,1 +1,0 @@
-@/tmp/tj-jepa.md

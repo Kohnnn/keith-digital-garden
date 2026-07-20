@@ -28,7 +28,7 @@ The productivity data is real but context-dependent. Studies show 20-40% time sa
 
 ## Media & Sources
 
-> **🖼️ Visual:** ![AI Coding Tools Comparison](![[attachments/ai-tech/2026/ai-coding-tools-2026.jpg]])
+> **🖼️ Visual:** ![[attachments/ai-tech/2026/ai-coding-tools-2026.jpg|AI Coding Tools Comparison]]
 
 > **🔗 Read:** [Cursor Company Page](https://cursor.com) — IDE-first AI coding with codebase awareness
 

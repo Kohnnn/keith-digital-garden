@@ -36,7 +36,7 @@ For most organizations, the practical takeaway is: don't assume NVIDIA is the on
 
 ## Media & Sources
 
-> **🖼️ Visual:** ![AI Hardware Comparison Chart](![[attachments/ai-tech/2026/gpu-market-comparison-2026.jpg]])
+> **🖼️ Visual:** ![[attachments/ai-tech/2026/gpu-market-comparison-2026.jpg|AI Hardware Comparison Chart]]
 
 > **🔗 Read:** [NVIDIA Blackwell Architecture](https://www.nvidia.com/en-us/data-center/hopper-architecture/) — B200 specs and architecture details
 

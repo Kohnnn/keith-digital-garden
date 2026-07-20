@@ -109,39 +109,22 @@ body.theme-transition #dappled-light {
   display: none;
 }
 
-#dappled-light .dappled-blur {
-  position: absolute;
-  inset: 0;
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
-  opacity: 0.16;
-  mask-image: linear-gradient(250deg, transparent 0%, transparent 25%, #000 55%);
-  transition: opacity 0.45s ease;
-}
-
-:root[saved-theme="dark"] #dappled-light .dappled-blur {
-  opacity: 0.12;
-}
-
 @media (prefers-reduced-motion: reduce) {
   #dappled-light,
   #dappled-light .dappled-window,
   #dappled-light .dappled-glow,
   #dappled-light .dappled-glow-bounce,
-  #dappled-light .dappled-blinds,
-  #dappled-light .dappled-blur {
+  #dappled-light .dappled-blinds {
     transition: none;
   }
 }
 
-@media (max-width: 800px) {
-  #dappled-light .dappled-window {
-    width: 100vw;
-    right: -25vw;
-    opacity: 0.18;
-  }
+body:not([data-slug="index"]) #dappled-light {
+  display: none;
+}
 
-  #dappled-light .dappled-blur {
-    opacity: 0.2;
+@media (max-width: 800px) {
+  #dappled-light {
+    display: none;
   }
 }

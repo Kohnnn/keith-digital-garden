@@ -541,7 +541,7 @@ A consolidated outbound atlas for channels, references, and rabbit holes that fe
 - <https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin>
 - <https://en.wikipedia.org/wiki/Jean_Baudrillard>
 - <https://en.wikipedia.org/wiki/Hal_Abelson>
-- <https://en.wikipedia.org/wiki/John_Eccles_(neurophysiologist>
+- <https://en.wikipedia.org/wiki/John_Eccles_(neurophysiologist)>
 - <https://zoeloukia.bearblog.dev/>
 - <https://www.nytimes.com/2018/11/15/obituaries/herbert-fingarette-dead.html>
 - <https://gwern.net>
@@ -553,7 +553,7 @@ A consolidated outbound atlas for channels, references, and rabbit holes that fe
 - <https://fleetingbits.io/>
 - <https://guzey.com/>
 - <https://x.com/RyanPGreenblatt>
-- <https://en.wikipedia.org/wiki/Colin_Campbell_(sociologist>
+- <https://en.wikipedia.org/wiki/Colin_Campbell_(sociologist)>
 - <https://www.humprog.org/~stephen/>
 - <https://github.com/jlevy>
 - <https://sophie.garden/>
@@ -1566,7 +1566,7 @@ A consolidated outbound atlas for channels, references, and rabbit holes that fe
 - <https://hannahsarchive.substack.com/p/films-that-have-healed-me>
 - <https://www.henrikkarlsson.xyz/p/constraints>
 - <https://en.wikipedia.org/wiki/Lovecraftian_horror>
-- <https://en.wikipedia.org/wiki/Rhizome_(philosophy>
+- <https://en.wikipedia.org/wiki/Rhizome_(philosophy)>
 - <https://aeon.co/essays/simone-de-beauvoirs-authentic-love-is-a-project-of-equals>
 - <https://www.links.net/dox/tech/computopia.html>
 - <https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing>
@@ -1744,7 +1744,7 @@ A consolidated outbound atlas for channels, references, and rabbit holes that fe
 - <https://blog.rootsofprogress.org/writing>
 - <https://ffbandf.wordpress.com/>
 - <https://reflectivedisequilibrium.blogspot.com/>
-- <https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full>
+- <https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)>
 - <https://nuremberg.law.harvard.edu/>
 - <https://kexue.fm/content.html>
 - <https://minihf.com/blog/>

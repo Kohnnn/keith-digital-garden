@@ -36,7 +36,7 @@ The practical implication is that architecture decisions matter. Choosing LangCh
 
 ## Media & Sources
 
-> **🖼️ Visual:** ![AI Agent Frameworks Landscape](![[attachments/ai-tech/2026/ai-agent-frameworks-2026.jpg]])
+> **🖼️ Visual:** ![[attachments/ai-tech/2026/ai-agent-frameworks-2026.jpg|AI Agent Frameworks Landscape]]
 
 > **🔗 Read:** [LangChain Documentation](https://python.langchain.com/) — Python and JavaScript LLM application framework
 

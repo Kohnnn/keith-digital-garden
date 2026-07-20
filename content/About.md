@@ -32,8 +32,8 @@ It is structured as a portfolio first and a note garden second: the homepage and
 
 - `Portfolio/*` holds the hiring-facing surfaces: experience, casefiles, research notes, and contact.
 - `Notes/*` holds interactive explainers, archive shelves, and longer-form technical notes.
-- `mark-memo/*` holds dated market memos and weekly context logs.
-- `Dispatches` and `Notes/Interactive/*` expose the short-form archive through neutral public shelves rather than a drafting-branded box.
+- [[mark-memo|mark-memo]] holds dated market memos and weekly context logs.
+- Dispatches exposes the short-form archive through a neutral public shelf; [[Notes/Interactive|Interactive]] holds interactive explainers.
 
 ## Why the name
 

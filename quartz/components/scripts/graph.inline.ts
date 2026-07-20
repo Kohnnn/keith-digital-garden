@@ -16,9 +16,9 @@ import {
 } from "d3"
 import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
-import { registerEscapeHandler, removeAllChildren } from "./util"
+import { removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
-import { D3Config } from "../Graph"
+import type { D3Config } from "../Graph"
 
 type GraphicsInfo = {
   color: string
@@ -53,6 +53,58 @@ type NodeRenderData = GraphicsInfo & {
 }
 
 const localStorageKey = "graph-visited"
+const GLOBAL_NODE_LIMIT = 300
+const GLOBAL_LINK_LIMIT = 750
+
+export function selectGlobalGraph(
+  graphNodeIds: Iterable<SimpleSlug>,
+  graphLinks: SimpleLinkData[],
+  slug: SimpleSlug,
+): { nodeIds: Set<SimpleSlug>; links: SimpleLinkData[] } {
+  const nodeIds = new Set(graphNodeIds)
+  nodeIds.add(slug)
+  const degreeById = new Map<SimpleSlug, number>([...nodeIds].map((id) => [id, 0]))
+  const linkedToCurrent = new Set<SimpleSlug>()
+
+  for (const link of graphLinks) {
+    degreeById.set(link.source, (degreeById.get(link.source) ?? 0) + 1)
+    degreeById.set(link.target, (degreeById.get(link.target) ?? 0) + 1)
+    if (link.source === slug) linkedToCurrent.add(link.target)
+    if (link.target === slug) linkedToCurrent.add(link.source)
+  }
+
+  const orderedNodeIds = [...nodeIds].sort((left, right) => {
+    if (left === slug) return -1
+    if (right === slug) return 1
+    const linkedDifference = Number(linkedToCurrent.has(right)) - Number(linkedToCurrent.has(left))
+    if (linkedDifference !== 0) return linkedDifference
+    const degreeDifference = (degreeById.get(right) ?? 0) - (degreeById.get(left) ?? 0)
+    return degreeDifference || left.localeCompare(right)
+  })
+  const selectedNodeIds = new Set(orderedNodeIds.slice(0, GLOBAL_NODE_LIMIT))
+  const selectedLinks = graphLinks
+    .filter((link) => selectedNodeIds.has(link.source) && selectedNodeIds.has(link.target))
+    .sort((left, right) => {
+      const currentDifference =
+        Number(right.source === slug || right.target === slug) -
+        Number(left.source === slug || left.target === slug)
+      if (currentDifference !== 0) return currentDifference
+      const degreeDifference =
+        (degreeById.get(right.source) ?? 0) +
+        (degreeById.get(right.target) ?? 0) -
+        (degreeById.get(left.source) ?? 0) -
+        (degreeById.get(left.target) ?? 0)
+      return (
+        degreeDifference ||
+        left.source.localeCompare(right.source) ||
+        left.target.localeCompare(right.target)
+      )
+    })
+    .slice(0, GLOBAL_LINK_LIMIT)
+
+  return { nodeIds: selectedNodeIds, links: selectedLinks }
+}
+
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
 }
@@ -64,13 +116,15 @@ function addToVisited(slug: SimpleSlug) {
 }
 
 type TweenNode = {
-  update: (time: number) => void
+  update: (time: number) => boolean
   stop: () => void
 }
 
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
+  graph.classList.remove("graph-error")
+  graph.removeAttribute("role")
   removeAllChildren(graph)
 
   let {
@@ -95,70 +149,82 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       v,
     ]),
   )
+  const isGlobalGraph = graph.classList.contains("global-graph-container")
   const links: SimpleLinkData[] = []
-  const tags: SimpleSlug[] = []
+  const tags = new Set<SimpleSlug>()
   const validLinks = new Set(data.keys())
+  const includeTags = showTags && (!isGlobalGraph || data.size <= GLOBAL_NODE_LIMIT)
+  const outgoingById = new Map<SimpleSlug, SimpleSlug[]>()
+  const incomingById = new Map<SimpleSlug, SimpleSlug[]>()
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
-    const outgoing = details.links ?? []
-
-    for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
-        links.push({ source: source, target: dest })
-      }
+    for (const target of details.links ?? []) {
+      if (!validLinks.has(target)) continue
+      links.push({ source, target })
+      const outgoing = outgoingById.get(source) ?? []
+      outgoing.push(target)
+      outgoingById.set(source, outgoing)
+      const incoming = incomingById.get(target) ?? []
+      incoming.push(source)
+      incomingById.set(target, incoming)
     }
 
-    if (showTags) {
-      const localTags = details.tags
+    if (includeTags) {
+      for (const tag of details.tags
         .filter((tag) => !removeTags.includes(tag))
-        .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
-
-      tags.push(...localTags.filter((tag) => !tags.includes(tag)))
-
-      for (const tag of localTags) {
-        links.push({ source: source, target: tag })
+        .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))) {
+        tags.add(tag)
+        links.push({ source, target: tag })
+        const outgoing = outgoingById.get(source) ?? []
+        outgoing.push(tag)
+        outgoingById.set(source, outgoing)
       }
     }
   }
 
-  const neighbourhood = new Set<SimpleSlug>()
-  const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
-  if (depth >= 0) {
-    while (depth >= 0 && wl.length > 0) {
-      // compute neighbours
-      const cur = wl.shift()!
-      if (cur === "__SENTINEL") {
-        depth--
-        wl.push("__SENTINEL")
-      } else {
-        neighbourhood.add(cur)
-        const outgoing = links.filter((l) => l.source === cur)
-        const incoming = links.filter((l) => l.target === cur)
-        wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
-      }
-    }
+  let neighbourhood: Set<SimpleSlug>
+  let visibleLinks: SimpleLinkData[]
+  if (isGlobalGraph) {
+    const globalGraph = selectGlobalGraph([...validLinks, ...tags], links, slug)
+    neighbourhood = globalGraph.nodeIds
+    visibleLinks = globalGraph.links
   } else {
-    validLinks.forEach((id) => neighbourhood.add(id))
-    if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
+    neighbourhood = new Set<SimpleSlug>()
+    const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
+    if (depth >= 0) {
+      while (depth >= 0 && wl.length > 0) {
+        const cur = wl.shift()!
+        if (cur === "__SENTINEL") {
+          depth--
+          wl.push("__SENTINEL")
+        } else {
+          neighbourhood.add(cur)
+          wl.push(...(outgoingById.get(cur) ?? []), ...(incomingById.get(cur) ?? []))
+        }
+      }
+    } else {
+      validLinks.forEach((id) => neighbourhood.add(id))
+      if (includeTags) tags.forEach((tag) => neighbourhood.add(tag))
+    }
+    visibleLinks = links.filter(
+      (link) => neighbourhood.has(link.source) && neighbourhood.has(link.target),
+    )
   }
 
-  const nodes = [...neighbourhood].map((url) => {
-    const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
-    return {
-      id: url,
-      text,
-      tags: data.get(url)?.tags ?? [],
-    }
-  })
+  const nodes = [...neighbourhood].map((url) => ({
+    id: url,
+    text: url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url),
+    tags: data.get(url)?.tags ?? [],
+  }))
+  const nodeById = new Map(nodes.map((node) => [node.id, node]))
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
-    links: links
-      .filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target))
-      .map((l) => ({
-        source: nodes.find((n) => n.id === l.source)!,
-        target: nodes.find((n) => n.id === l.target)!,
-      })),
+    links: visibleLinks.flatMap((link) => {
+      const source = nodeById.get(link.source)
+      const target = nodeById.get(link.target)
+      return source && target ? [{ source, target }] : []
+    }),
   }
 
   const degreeById = new Map<string, number>()
@@ -277,7 +343,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     tweenGroup.getAll().forEach((tw) => tw.start())
     tweens.set("link", {
-      update: tweenGroup.update.bind(tweenGroup),
+      update(time) {
+        tweenGroup.update(time)
+        return tweenGroup.getAll().some((tw) => tw.isPlaying())
+      },
       stop() {
         tweenGroup.getAll().forEach((tw) => tw.stop())
       },
@@ -318,7 +387,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     tweenGroup.getAll().forEach((tw) => tw.start())
     tweens.set("label", {
-      update: tweenGroup.update.bind(tweenGroup),
+      update(time) {
+        tweenGroup.update(time)
+        return tweenGroup.getAll().some((tw) => tw.isPlaying())
+      },
       stop() {
         tweenGroup.getAll().forEach((tw) => tw.stop())
       },
@@ -342,7 +414,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     tweenGroup.getAll().forEach((tw) => tw.start())
     tweens.set("hover", {
-      update: tweenGroup.update.bind(tweenGroup),
+      update(time) {
+        tweenGroup.update(time)
+        return tweenGroup.getAll().some((tw) => tw.isPlaying())
+      },
       stop() {
         tweenGroup.getAll().forEach((tw) => tw.stop())
       },
@@ -353,6 +428,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     renderNodes()
     renderLinks()
     renderLabels()
+    scheduleRender()
   }
 
   tweens.forEach((tween) => tween.stop())
@@ -366,7 +442,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     autoStart: false,
     autoDensity: true,
     backgroundAlpha: 0,
-    preference: "webgpu",
+    preference: "webgl",
     resolution: window.devicePixelRatio,
     eventMode: "static",
   })
@@ -397,7 +473,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         fill: computedStyleMap["--dark"],
         fontFamily: computedStyleMap["--bodyFont"],
       },
-      resolution: window.devicePixelRatio * 4,
+      resolution: window.devicePixelRatio * (isGlobalGraph ? 1 : 4),
     })
     label.scale.set(1 / scale)
 
@@ -479,17 +555,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           }
           dragStartTime = Date.now()
           dragging = true
+          scheduleRender()
         })
         .on("drag", function dragged(event) {
           const initPos = event.subject.__initialDragPos
           event.subject.fx = initPos.x + (event.x - initPos.x) / currentTransform.k
           event.subject.fy = initPos.y + (event.y - initPos.y) / currentTransform.k
+          scheduleRender()
         })
         .on("end", function dragended(event) {
           if (!event.active) simulation.alphaTarget(0)
           event.subject.fx = null
           event.subject.fy = null
           dragging = false
+          scheduleRender()
 
           // if the time between mousedown and mouseup is short, we consider it a click
           if (Date.now() - dragStartTime < 500) {
@@ -531,20 +610,27 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
               label.alpha = scaleOpacity
             }
           }
+          scheduleRender()
         }),
     )
   }
 
+  let frameId: number | undefined
   let stopAnimation = false
-  function animate(time: number) {
+  function scheduleRender() {
+    if (!stopAnimation && frameId === undefined) {
+      frameId = requestAnimationFrame(renderFrame)
+    }
+  }
+
+  function renderFrame(time: number) {
+    frameId = undefined
     if (stopAnimation) return
     for (const n of nodeRenderData) {
       const { x, y } = n.simulationData
       if (!x || !y) continue
       n.gfx.position.set(x + width / 2, y + height / 2)
-      if (n.label) {
-        n.label.position.set(x + width / 2, y + height / 2)
-      }
+      n.label.position.set(x + width / 2, y + height / 2)
     }
 
     for (const l of linkRenderData) {
@@ -556,14 +642,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         .stroke({ alpha: l.alpha, width: 1, color: l.color })
     }
 
-    tweens.forEach((t) => t.update(time))
+    let hasTweens = false
+    for (const tween of tweens.values()) {
+      hasTweens = tween.update(time) || hasTweens
+    }
     app.renderer.render(stage)
-    requestAnimationFrame(animate)
+    if (dragging || hasTweens) scheduleRender()
   }
 
-  requestAnimationFrame(animate)
+  simulation.on("tick", scheduleRender)
+  scheduleRender()
   return () => {
     stopAnimation = true
+    simulation.stop()
+    simulation.on("tick", null)
+    if (frameId !== undefined) cancelAnimationFrame(frameId)
     app.destroy()
   }
 }
@@ -585,7 +678,7 @@ function cleanupGlobalGraphs() {
   globalGraphCleanups = []
 }
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+globalThis.document?.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
@@ -593,7 +686,15 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     cleanupLocalGraphs()
     const localGraphContainers = document.getElementsByClassName("graph-container")
     for (const container of localGraphContainers) {
-      localGraphCleanups.push(await renderGraph(container as HTMLElement, slug))
+      const graph = container as HTMLElement
+      try {
+        localGraphCleanups.push(await renderGraph(graph, slug))
+      } catch {
+        removeAllChildren(graph)
+        graph.classList.add("graph-error")
+        graph.setAttribute("role", "status")
+        graph.textContent = "Unable to render graph."
+      }
     }
   }
 
@@ -616,49 +717,109 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   })
 
-  const containers = [...document.getElementsByClassName("global-graph-outer")] as HTMLElement[]
-  async function renderGlobalGraph() {
-    const slug = getFullSlug(window)
-    for (const container of containers) {
-      container.classList.add("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = "1"
-      }
+  const containers = [
+    ...document.getElementsByClassName("global-graph-outer"),
+  ] as HTMLDialogElement[]
+  let isGlobalGraphOpening = false
+  let globalGraphVersion = 0
+  let globalGraphOpener: HTMLElement | null = null
+  const containerIcons = [
+    ...document.getElementsByClassName("global-graph-icon"),
+  ] as HTMLButtonElement[]
 
-      const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
-      registerEscapeHandler(container, hideGlobalGraph)
-      if (graphContainer) {
-        globalGraphCleanups.push(await renderGraph(graphContainer, slug))
-      }
+  function setGlobalGraphBusy(isBusy: boolean) {
+    for (const icon of containerIcons) {
+      icon.disabled = isBusy
+      icon.setAttribute("aria-busy", String(isBusy))
     }
   }
 
   function hideGlobalGraph() {
+    const opener = globalGraphOpener
+    globalGraphOpener = null
+    globalGraphVersion++
+    setGlobalGraphBusy(false)
     cleanupGlobalGraphs()
     for (const container of containers) {
-      container.classList.remove("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = ""
+      container.removeAttribute("aria-busy")
+      if (container.open) container.close()
+    }
+    if (opener?.isConnected) opener.focus()
+  }
+
+  async function renderGlobalGraph(
+    opener: HTMLElement | null = document.activeElement as HTMLElement | null,
+  ) {
+    if (isGlobalGraphOpening || containers.some((container) => container.open)) return
+    globalGraphOpener = opener
+    isGlobalGraphOpening = true
+    setGlobalGraphBusy(true)
+    const version = globalGraphVersion
+
+    try {
+      const slug = getFullSlug(window)
+      for (const container of containers) {
+        const graphContainer = container.querySelector<HTMLElement>(".global-graph-container")
+        const error = container.querySelector<HTMLElement>(".global-graph-error")
+        error?.setAttribute("hidden", "")
+        if (error) error.textContent = ""
+        container.showModal()
+        container.setAttribute("aria-busy", "true")
+        container.querySelector<HTMLElement>(".global-graph-close")?.focus()
+
+        try {
+          if (!graphContainer) throw new Error("Missing graph container")
+          const cleanup = await renderGraph(graphContainer, slug)
+          if (version === globalGraphVersion && container.open) {
+            globalGraphCleanups.push(cleanup)
+          } else {
+            cleanup()
+          }
+        } catch {
+          if (!container.open || version !== globalGraphVersion) continue
+          if (graphContainer) removeAllChildren(graphContainer)
+          if (error) {
+            error.textContent = "Unable to render the graph. Close this view and try again."
+            error.removeAttribute("hidden")
+          }
+        } finally {
+          container.removeAttribute("aria-busy")
+        }
       }
+    } finally {
+      isGlobalGraphOpening = false
+      setGlobalGraphBusy(false)
     }
   }
 
-  async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
-    if (e.key === "g" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
+  function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
+    if (e.key === "Escape" && containers.some((container) => container.open)) {
       e.preventDefault()
-      const anyGlobalGraphOpen = containers.some((container) =>
-        container.classList.contains("active"),
-      )
-      anyGlobalGraphOpen ? hideGlobalGraph() : renderGlobalGraph()
+      hideGlobalGraph()
+      return
+    }
+    if (e.key !== "g" || (!e.ctrlKey && !e.metaKey) || e.shiftKey) return
+    e.preventDefault()
+    if (containers.some((container) => container.open)) {
+      hideGlobalGraph()
+    } else {
+      void renderGlobalGraph()
     }
   }
 
-  const containerIcons = document.getElementsByClassName("global-graph-icon")
-  Array.from(containerIcons).forEach((icon) => {
-    icon.addEventListener("click", renderGlobalGraph)
-    window.addCleanup(() => icon.removeEventListener("click", renderGlobalGraph))
+  function handleDialogCancel(e: Event) {
+    e.preventDefault()
+    hideGlobalGraph()
+  }
+
+  function handleDialogClick(e: MouseEvent) {
+    if (e.target === e.currentTarget) hideGlobalGraph()
+  }
+
+  containerIcons.forEach((icon) => {
+    const open = () => void renderGlobalGraph(icon)
+    icon.addEventListener("click", open)
+    window.addCleanup(() => icon.removeEventListener("click", open))
   })
 
   const closeButtons = document.getElementsByClassName("global-graph-close")
@@ -667,10 +828,19 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     window.addCleanup(() => button.removeEventListener("click", hideGlobalGraph))
   })
 
+  containers.forEach((container) => {
+    container.addEventListener("cancel", handleDialogCancel)
+    container.addEventListener("click", handleDialogClick)
+    window.addCleanup(() => {
+      container.removeEventListener("cancel", handleDialogCancel)
+      container.removeEventListener("click", handleDialogClick)
+    })
+  })
+
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => {
     document.removeEventListener("keydown", shortcutHandler)
+    hideGlobalGraph()
     cleanupLocalGraphs()
-    cleanupGlobalGraphs()
   })
 })

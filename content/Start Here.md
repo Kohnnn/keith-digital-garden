@@ -30,6 +30,6 @@ This page is the calmer map after the front door. The homepage is the invitation
 ## If you want the wider kitchen
 
 - [[notes|Notes]] contains interactive explainers and technical curiosities.
-- `mark-memo/*` contains weekly market reports and working research artifacts.
+- [[mark-memo|mark-memo]] contains weekly market reports and working research artifacts.
 - [[arena|Arena]] is the dense outbound shelf for references and rabbit holes.
 - The broader Quartz mechanics stay available on note pages, so the site can shift from guided reading to exploratory reading without changing tools.

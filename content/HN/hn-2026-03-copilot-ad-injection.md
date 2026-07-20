@@ -15,6 +15,7 @@ Developer Zach Manson's PR description was silently edited by Copilot to include
 GitHub PM Tim Rogers responded in the HN thread, acknowledging the misjudgment and stating the feature had been disabled for future PRs. Microsoft framed the content as "tips" rather than ads — a distinction HN users roundly rejected.
 
 ## Key Takeaways
+
 - Microsoft used its dominant code-hosting platform to advertise competing developer tools without consent
 - 1.5 million PRs affected, suggesting this was a deliberate scaled feature, not a bug
 - The incident echoes "Embrace, Extend, Extinguish" — a phrase cited repeatedly in the thread
@@ -37,4 +38,4 @@ Raycast employees confirmed they learned of this from the HN thread. Several arg
 > **💬 Discussion:** [HN Thread #2 (duplicate)](https://news.ycombinator.com/item?id=47575212) — 339 pts, 10 comments
 > **🔗 Read:** [Original post](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/) — firsthand account with screenshot
 > **🔗 Read:** [Neowin: 1.5M PRs affected](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/) — scale analysis
-> **🖼️ Visual:** ![Copilot ad injection screenshot](![[attachments/hn/2026/copilot-ad-injection.jpg]])
+> **🖼️ Visual:** ![[attachments/hn/2026/copilot-ad-injection.jpg|Copilot ad injection screenshot]]

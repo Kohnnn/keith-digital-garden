@@ -20,9 +20,6 @@ cssclasses:
 created: 2026-06-30
 updated: 2026-06-30
 note_id: 300626GN58
-cssclasses:
-  - tech-journal
-  - analysis
 ---
 
 # Control Plane vs Data Plane: The New AI Ops Split
@@ -41,6 +38,7 @@ When these are merged, every production change becomes a risky deployment. When 
 ## Why this matters in 2026
 
 Rising regulation and incident rates are making enterprises enforce strict boundaries. Control-plane controls now include:
+
 - automatic policy versioning
 - staged rollout by risk class
 - emergency override controls
@@ -53,5 +51,6 @@ Data plane still needs fast paths, but control plane becomes the compliance chok
 If a change can’t be promoted as a control-plane tweak first, treat it as a full release and expect longer approvals. This keeps innovation moving and risk bounded.
 
 ## References
+
 - enterprise AI incident review notes
 - agent telemetry governance notes from 2026

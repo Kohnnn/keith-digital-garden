@@ -8,12 +8,12 @@ These checks run on every draft before it is written.
 - At least 3 micro-sections or bullet clusters
 - 1-2 callouts included
 - At least 2 internal wikilinks
-- Inline references included
-- Trailing `#` line
+- Material factual claims include specific source links
 
 ## Content checks
 
 - No invented facts beyond the evidence pack
+- No generic bibliography in place of claim-level source links
 - Tags are short, lowercase, and 3-6 total
 - Draft remains `draft: true`
 

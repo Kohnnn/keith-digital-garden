@@ -26,7 +26,7 @@ Perhaps most importantly, DeepSeek V4's open-weight release at competitive prici
 
 ## Media & Sources
 
-> **🖼️ Visual:** ![AI Model Comparison Chart](![[attachments/ai-tech/2026/frontier-models-2026-comparison.jpg]])
+> **🖼️ Visual:** ![[attachments/ai-tech/2026/frontier-models-2026-comparison.jpg|AI Model Comparison Chart]]
 
 > **🔗 Read:** [GPT-5 vs Gemini Ultra vs Claude 4 — Which AI Actually Wins in 2026?](https://ainextvision.com/ai-comparisons/gpt-5-vs-gemini-ultra-vs-claude-4/) — enterprise-focused comparison with workflow integration analysis
 

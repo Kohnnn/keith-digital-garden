@@ -19,9 +19,9 @@ node automation/pipeline.mjs weekly-generate --preflight automation/output/prefl
 node automation/pipeline.mjs weekly-generate --weekstart 2025-W01 --weekend 2025-W04
 node automation/pipeline.mjs weekly-generate --weekstart 2025-W01 --weekend 2025-W04 --refresh true
 node automation/pipeline.mjs weekly-generate --weekstart 2025-W01 --weekend 2025-W04 --focuschannel "<steve_le_url>" --macrochannel "https://www.youtube.com/@intothecryptoverse/videos" --refresh true
-node automation/pipeline.mjs weekly-generate --week 2025-W11 --crosslink true --crossreason "Follow-up reflection added by later week."
-node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"
-node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium"
+node automation/pipeline.mjs weekly-generate --week 2025-W11 --crosslink true --unsafe-published-mutations true --crossreason "Follow-up reflection added by later week."
+node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --unsafe-published-mutations true --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"
+node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium" --unsafe-published-mutations true
 
 # caching for large channels
 node automation/pipeline.mjs cache-youtube --year 2025 --url "https://www.youtube.com/@Channel/videos"
@@ -65,15 +65,15 @@ Set these in your shell or a local `.env` file (not committed):
 ## Notes
 
 - Drafts always include `draft: true` and must be manually reviewed before publishing.
-- Weekly reports include `note_id` using `YYMMDD{TYPE}{NN}` (default type `MR`).
+- Generated drafts and weekly reports are created only under `content/AI_Sandbox/`; existing output paths are never replaced.
 - `yt-dlp` is required for YouTube metadata and transcripts.
 - Perplexity is used for summaries, outlines, and draft writing.
 - Brave Search is used for image discovery when `og:image` is missing.
 - Serper (or Brave web search as fallback) can be used to fetch weekly reference links.
 - Serper keys rotate automatically; exhausted keys are skipped until restart.
-- Use `weekly-references` to append/update the `## References` block in existing weekly reports.
-- Use `--crosslink true` to inject a backward link inside commentary and append a `Linked from` entry in the previous week.
-- `news-update` creates a news update note under `content/mark-memo/news/<year>/` and appends a link in the source note's `## Updates` block.
+- `weekly-references`, `--crosslink true`, and `news-update` mutate published notes only with `--unsafe-published-mutations true`.
+- `news-update` creates its generated note under `content/AI_Sandbox/news/<year>/`.
+- Weekly reports include `note_id` using `YYMMDD{TYPE}{NN}` (default type `MR`).
 - YouTube channel or playlist URLs will expand into individual video links.
 - Substack publication URLs will expand via `/feed` when possible.
 - Weekly mode merges all channels into one report per ISO week for the selected year.

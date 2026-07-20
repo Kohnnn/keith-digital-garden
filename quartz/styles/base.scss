@@ -6,12 +6,25 @@
 
 html {
   scroll-behavior: smooth;
-  text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
 
   @media all and ($mobile) {
     scroll-padding-top: 4rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    scroll-behavior: auto !important;
+    transition: none !important;
   }
 }
 

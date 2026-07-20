@@ -15,6 +15,7 @@ The new law, spearheaded by state Rep. Liz Berry (D-Seattle), extends far beyond
 Nonsolicitation agreements remain legal but must be "narrowly construed." The federal FTC had issued a nationwide ban in 2024, but it was rolled back in early 2026 after industry lawsuits — prompting states to fill the void legislatively.
 
 ## Key Takeaways
+
 - Washington is now one of five states with full noncompete bans, creating a major labor mobility advantage
 - The law takes effect June 2027 — ending noncompetes for all new hires immediately upon enactment
 - Income thresholds ($127k for employees, $317k for contractors) are eliminated — protections now universal
@@ -39,4 +40,4 @@ Swedish and European practices were cited as a model: noncompetes without financ
 > **💬 Discussion:** [HN Thread](https://news.ycombinator.com/item?id=47576861) — 293 pts, 112 comments
 > **🔗 Read:** [Seattle Times coverage](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/) — full law summary
 > **🔗 Read:** [Economic Innovation Group](https://eig.org/) — state noncompete comparison map
-> **🖼️ Visual:** ![States with noncompete bans](![[attachments/hn/2026/noncompete-states.jpg]])
+> **🖼️ Visual:** ![[attachments/hn/2026/noncompete-states.jpg|States with noncompete bans]]

@@ -68,13 +68,14 @@ This pipeline turns source links into AI-assisted drafts while preserving the aa
 - Title then immediate content.
 - 3-7 micro-sections or bullet clusters.
 - At least 2 internal links (wikilinks).
-- Inline references, not a long bibliography.
+- Link material factual claims to their specific source URLs, not a generic bibliography.
 - One “questions / next” block.
-- Trailing `#` line to prevent transclude leakage.
+- Trailing `#` is reserved for footnote notes only.
 - Keep vocabulary consistent with the aarnphm baseline; let personality shift stance, not tone.
 
 ## Airlock Protocol alignment
 
 - All AI output remains in `content/AI_Sandbox/`.
+- Existing output paths are refused; published content is never generated or replaced.
 - Human review required before moving to permanent folders.
 - Content reuse follows `automation/docs/source-policy.md`.

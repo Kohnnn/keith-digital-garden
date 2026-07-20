@@ -34,7 +34,7 @@ This is the wider garden: archive shelves, topic notes, explainers, and branches
     <h3>Mechanical Watch</h3>
     <p>The strongest single interactive explainer — escapements, gear trains, and timing.</p>
   </a>
-  <a class="writing-card" href="./Interactive">
+  <a class="writing-card" href="./Notes/Interactive">
     <span class="casefile-label">Index</span>
     <h3>Interactive notes</h3>
     <p>Draggable simulations for social systems, model intuition, and cryptography.</p>

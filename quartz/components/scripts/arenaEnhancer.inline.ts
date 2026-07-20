@@ -85,7 +85,11 @@ const updateArena = () => {
     )
   }
 
+  filterMeta.setAttribute("aria-live", "polite")
+  filterMeta.setAttribute("aria-atomic", "true")
+
   const headings = Array.from(article.querySelectorAll(headingSelector))
+  let filterTimeout: number | undefined
   const applyFilter = () => {
     const query = filterInput.value.trim().toLowerCase()
     let visibleCount = 0
@@ -139,14 +143,22 @@ const updateArena = () => {
     filterMeta.textContent =
       query === ""
         ? `Showing all ${importedLinks.toLocaleString()} imported links across ${importedCount} categories.`
-        : `${visibleCount.toLocaleString()} link${visibleCount === 1 ? "" : "s"} match “${filterInput.value.trim()}”.`
+        : visibleCount === 0
+          ? `No links match “${filterInput.value.trim()}”.`
+          : `${visibleCount.toLocaleString()} link${visibleCount === 1 ? "" : "s"} match “${filterInput.value.trim()}”.`
   }
 
-  filterInput.addEventListener("input", applyFilter)
+  const scheduleFilter = () => {
+    window.clearTimeout(filterTimeout)
+    filterTimeout = window.setTimeout(applyFilter, 180)
+  }
+
+  filterInput.addEventListener("input", scheduleFilter)
   applyFilter()
 
   window.addCleanup(() => {
-    filterInput.removeEventListener("input", applyFilter)
+    window.clearTimeout(filterTimeout)
+    filterInput.removeEventListener("input", scheduleFilter)
   })
 }
 

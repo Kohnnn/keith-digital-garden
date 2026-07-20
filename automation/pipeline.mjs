@@ -22,7 +22,6 @@ const PATHS = {
   outputReports: path.join(__dirname, "output", "reports"),
   contentSandbox: path.join(REPO_ROOT, "content", "AI_Sandbox"),
   contentOut: path.join(REPO_ROOT, "content", "mark-memo"),
-  contentNews: path.join(REPO_ROOT, "content", "mark-memo", "news"),
 }
 
 const DEFAULT_CONFIG = {
@@ -83,6 +82,93 @@ const fileExists = async (filePath) => {
   } catch {
     return false
   }
+}
+
+const isPathWithin = (parentPath, targetPath) => {
+  const relativePath = path.relative(path.resolve(parentPath), path.resolve(targetPath))
+  return relativePath === "" || (!relativePath.startsWith("..") && !path.isAbsolute(relativePath))
+}
+
+const nearestExistingParent = async (targetPath) => {
+  let parentPath = path.resolve(targetPath)
+  while (true) {
+    try {
+      return await fs.realpath(parentPath)
+    } catch (error) {
+      if (error.code !== "ENOENT") throw error
+      const nextPath = path.dirname(parentPath)
+      if (nextPath === parentPath) throw error
+      parentPath = nextPath
+    }
+  }
+}
+
+export const generatedOutputPath = (sandboxPath, ...parts) => {
+  const targetPath = path.resolve(sandboxPath, ...parts)
+  if (!isPathWithin(sandboxPath, targetPath)) {
+    throw new Error(`Generated output must stay in the sandbox: ${targetPath}`)
+  }
+  return targetPath
+}
+
+const assertSandboxWritePath = async (sandboxPath, targetPath) => {
+  if (!isPathWithin(sandboxPath, targetPath)) {
+    throw new Error(`Generated output must stay in the sandbox: ${targetPath}`)
+  }
+  const [realSandboxPath, realParentPath] = await Promise.all([
+    fs.realpath(sandboxPath),
+    nearestExistingParent(path.dirname(targetPath)),
+  ])
+  if (!isPathWithin(realSandboxPath, realParentPath)) {
+    throw new Error(`Generated output escapes the sandbox: ${targetPath}`)
+  }
+}
+
+export const writeNewGeneratedFile = async (sandboxPath, targetPath, content) => {
+  await ensureDir(sandboxPath)
+  await assertSandboxWritePath(sandboxPath, targetPath)
+  await ensureDir(path.dirname(targetPath))
+  await fs.writeFile(targetPath, content, { encoding: "utf-8", flag: "wx" })
+}
+
+export const assertUnsafePublishedMutations = (unsafe) => {
+  if (unsafe) return
+  throw new Error("Published-note mutation requires --unsafe-published-mutations true")
+}
+
+const requireUnsafePublishedMutations = () => {
+  assertUnsafePublishedMutations(args.get("unsafe-published-mutations") === "true")
+}
+
+export const assertPublishedContentPath = async (
+  filePath,
+  contentPath = path.join(REPO_ROOT, "content"),
+  sandboxPath = PATHS.contentSandbox,
+) => {
+  if (!isPathWithin(contentPath, filePath) || isPathWithin(sandboxPath, filePath)) {
+    throw new Error(`Published source must be under content/ and outside AI_Sandbox: ${filePath}`)
+  }
+  const [realContentPath, realFilePath, realSandboxPath] = await Promise.all([
+    fs.realpath(contentPath),
+    nearestExistingParent(filePath),
+    fs.realpath(sandboxPath).catch((error) => {
+      if (error.code === "ENOENT") return ""
+      throw error
+    }),
+  ])
+  if (!isPathWithin(realContentPath, realFilePath)) {
+    throw new Error(`Published source escapes content/: ${filePath}`)
+  }
+  if (realSandboxPath && isPathWithin(realSandboxPath, realFilePath)) {
+    throw new Error(`Published source must be under content/ and outside AI_Sandbox: ${filePath}`)
+  }
+}
+
+export const canonicalWeeklyReportPath = (contentOutPath, year, weekKey) => {
+  if (!/^\d{4}-W\d{2}$/.test(weekKey)) {
+    throw new Error(`Invalid weekly report key: ${weekKey}`)
+  }
+  return path.join(contentOutPath, String(year), `weekly-market-report-${weekKey}.md`)
 }
 
 const parseEnvLine = (line) => {
@@ -1976,11 +2062,6 @@ const parseTags = (value) => {
     .filter(Boolean)
 }
 
-const ensureTrailingHash = (content) => {
-  if (content.trim().endsWith("#")) return content
-  return `${content.trimEnd()}\n\n#`
-}
-
 const getNextNewsId = async (date, yearDir) => {
   const createdDate = parseDate(date)
   if (!createdDate) return ""
@@ -2011,13 +2092,20 @@ const appendUpdatesBlock = async (filePath, updateSlug, summary, date) => {
       return `${match.trim()}\n${entry}\n`
     })
   } else {
-    updated = content.replace(/\n#\s*$/i, `\n\n## Updates\n${entry}\n\n#`)
+    updated = `${content.trimEnd()}\n\n## Updates\n${entry}\n`
   }
   if (updated !== content) {
     await fs.writeFile(filePath, updated, "utf-8")
     return true
   }
   return false
+}
+
+export const previousWeeklyReportKey = (range) => {
+  const startDate = parseDate(range?.split(" to ")[0])
+  if (!startDate) return ""
+  startDate.setDate(startDate.getDate() - 7)
+  return toIsoWeekKey(startDate)
 }
 
 const insertCrossReference = (content, previousSlug) => {
@@ -2042,7 +2130,7 @@ const appendLinkedFrom = async (filePath, linkedSlug, reason) => {
       return `${match.trim()}\n- Linked from: [[${linkedSlug}]] — ${reason}\n`
     })
   } else {
-    updated = content.replace(/\n#\s*$/i, `\n${block}\n\n#`)
+    updated = `${content.trimEnd()}\n\n${block}\n`
   }
 
   if (updated !== content) {
@@ -2146,7 +2234,7 @@ const buildDraftPrompt = (personaMix, evidence, record, imageUrl) => {
   const system =
     "You are writing in the aarnphm digital garden style: personal, direct, dense but calm, short paragraphs, compact bullets, inline references, no long preamble. Accept fragmentation."
 
-  const user = `Write a draft in Markdown using this structure:\n- H1 title\n- 1 line grounding statement\n- 3-7 micro-sections or bullet clusters\n- 1-2 callouts (note/info/warning)\n- inline references (not a bibliography)\n- \"questions / next\" block\n- trailing \"#\" line\n\nUse this personality mix: ${personaMix.join(", ")}.\nUse at least 2 internal wikilinks like [[Note Name]].\nUse the evidence pack below. Do not invent facts.\n\nSOURCE URL: ${record.url}\n\nEVIDENCE PACK:\n${JSON.stringify(evidence, null, 2)}\n\nIMAGE URL (optional): ${imageUrl || ""}`
+  const user = `Write a draft in Markdown using this structure:\n- H1 title\n- 1 line grounding statement\n- 3-7 micro-sections or bullet clusters\n- 1-2 callouts (note/info/warning)\n- inline source links for material factual claims\n- \"questions / next\" block\n\nUse this personality mix: ${personaMix.join(", ")}.\nUse at least 2 internal wikilinks like [[Note Name]].\nUse the evidence pack below. Do not invent facts. Link every material factual claim to the specific source URL that supports it; do not use a generic bibliography.\n\nSOURCE URL: ${record.url}\n\nEVIDENCE PACK:\n${JSON.stringify(evidence, null, 2)}\n\nIMAGE URL (optional): ${imageUrl || ""}`
 
   return [
     { role: "system", content: system },
@@ -2186,10 +2274,6 @@ const buildDraftMarkdown = (record, entry, rawDraft, imageUrl) => {
 
   if (!body.includes(record.url)) {
     body = `${body}\n\n> [!note]\n> source: ${record.url}`
-  }
-
-  if (!body.trim().endsWith("#")) {
-    body = `${body}\n\n#`
   }
 
   return `${frontmatter}\n\n${body}`
@@ -2448,7 +2532,7 @@ const buildWeeklyDraftPrompt = (personaMix, evidence, weekMeta, imageUrl) => {
   const system =
     "You are writing in the aarnphm digital garden style: personal, direct, dense but calm, short paragraphs, compact bullets, inline references, no long preamble. Accept fragmentation."
 
-  const user = `Write a weekly market report in Markdown using this structure:\n- H1 title\n- 1 line grounding statement\n- 3-7 micro-sections or bullet clusters\n- 1-2 callouts using Obsidian format:\n  > [!note]\n  > ...\n- \"questions / next\" block\n- trailing \"#\" line\n\nUse this personality mix: ${personaMix.join(", ")}.\nUse at least 2 internal wikilinks like [[Note Name]].\nUse the evidence pack below. Do not invent facts.\nDo not include citations, source lists, or external references.\n\nWEEK: ${weekMeta.week} (${weekMeta.range})\n\nEVIDENCE PACK:\n${JSON.stringify(evidence, null, 2)}\n\nIMAGE URL (optional): ${imageUrl || ""}`
+  const user = `Write a weekly market report in Markdown using this structure:\n- H1 title\n- 1 line grounding statement\n- 3-7 micro-sections or bullet clusters\n- 1-2 callouts using Obsidian format:\n  > [!note]\n  > ...\n- inline source links for material factual claims\n- \"questions / next\" block\n\nUse this personality mix: ${personaMix.join(", ")}.\nUse at least 2 internal wikilinks like [[Note Name]].\nUse the evidence pack below. Do not invent facts. Link every material factual claim to the specific source URL that supports it; do not use a generic bibliography.\n\nWEEK: ${weekMeta.week} (${weekMeta.range})\n\nEVIDENCE PACK:\n${JSON.stringify(evidence, null, 2)}\n\nIMAGE URL (optional): ${imageUrl || ""}`
 
   return [
     { role: "system", content: system },
@@ -2460,7 +2544,7 @@ const buildFocusedWeeklyDraftPrompt = (personaMix, evidence, weekMeta, imageUrl)
   const system =
     "You are writing in the aarnphm digital garden style: personal, direct, dense but calm, short paragraphs, compact bullets, inline references, no long preamble. Accept fragmentation."
 
-  const user = `Write a weekly market report in Markdown using this structure:\n- H1 title\n- 1 line grounding statement\n- sections in this order:\n  ## Overall Summary\n  ## Commentary\n  ## Rates & Liquidity\n  ## Equities\n  ## Commodities & FX\n  ## Crypto Macro\n  ## Positioning & Flow\n  ## Outlook Next Week\n- 1-2 callouts using Obsidian format:\n  > [!note]\n  > ...\n- \"questions / next\" block\n- trailing \"#\" line\n\nStyle: longer, analytical, dynamic, human, first-person where natural.\nUse this personality mix: ${personaMix.join(", ")}.\nUse at least 2 internal wikilinks like [[Note Name]].\nUse the evidence pack below. Do not invent facts.\nDo not include citations, source lists, or external references.\n\nWEEK: ${weekMeta.week} (${weekMeta.range})\n\nEVIDENCE PACK:\n${JSON.stringify(evidence, null, 2)}\n\nIMAGE URL (optional): ${imageUrl || ""}`
+  const user = `Write a weekly market report in Markdown using this structure:\n- H1 title\n- 1 line grounding statement\n- sections in this order:\n  ## Overall Summary\n  ## Commentary\n  ## Rates & Liquidity\n  ## Equities\n  ## Commodities & FX\n  ## Crypto Macro\n  ## Positioning & Flow\n  ## Outlook Next Week\n- 1-2 callouts using Obsidian format:\n  > [!note]\n  > ...\n- inline source links for material factual claims\n- \"questions / next\" block\n\nStyle: longer, analytical, dynamic, human, first-person where natural.\nUse this personality mix: ${personaMix.join(", ")}.\nUse at least 2 internal wikilinks like [[Note Name]].\nUse the evidence pack below. Do not invent facts. Link every material factual claim to the specific source URL that supports it; do not use a generic bibliography.\n\nWEEK: ${weekMeta.week} (${weekMeta.range})\n\nEVIDENCE PACK:\n${JSON.stringify(evidence, null, 2)}\n\nIMAGE URL (optional): ${imageUrl || ""}`
 
   return [
     { role: "system", content: system },
@@ -2501,10 +2585,6 @@ const buildWeeklyMarkdown = (entry, evidence, rawDraft, imageUrl) => {
 
   if (imageUrl && !body.includes("![]")) {
     body = `${body}\n\n![](${imageUrl})`
-  }
-
-  if (!body.trim().endsWith("#")) {
-    body = `${body}\n\n#`
   }
 
   return `${frontmatter}\n\n${body}`
@@ -2559,7 +2639,7 @@ const createWeeklyPreflight = async (config, records, year) => {
       title,
       thesis: evidence.thesis || "",
       tags,
-      draft_path: `content/mark-memo/${year}/${draftSlug}.md`,
+      draft_path: `content/AI_Sandbox/Market_Reports/${year}/${draftSlug}.md`,
       evidence_path: evidencePath,
       image_query: evidence.imageQuery || "",
     })
@@ -2616,7 +2696,7 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
 
   const pack = JSON.parse(await fs.readFile(jsonPath, "utf-8"))
   const year = pack.year
-  const outputDir = path.join(PATHS.contentOut, String(year))
+  const outputDir = generatedOutputPath(PATHS.contentSandbox, "Market_Reports", String(year))
   await ensureDir(outputDir)
 
   let entries = [...pack.entries]
@@ -2823,10 +2903,28 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
       rawDraft += `> [!note]\n> Bias stays defensive until confirmation — hơi cautious.\n\n`
       rawDraft += `## questions / next\n- Where does the first crack show: rates or earnings?\n- Does crypto still lead risk appetite?\n- Where is the real marginal buyer hiding?\n`
 
+      const previousWeekKey = includeCrosslinks ? previousWeeklyReportKey(weekMeta.range) : ""
+      if (previousWeekKey) {
+        rawDraft = insertCrossReference(rawDraft, `weekly-market-report-${previousWeekKey}`)
+      }
+
       const draft = buildWeeklyMarkdown(entry, evidence || {}, rawDraft, imageUrl)
       const fileName = `${slugify(entry.week)}-${slugify(entry.title || title)}.md`
-      const draftPath = path.join(outputDir, fileName)
-      await fs.writeFile(draftPath, draft, "utf-8")
+      const draftPath = generatedOutputPath(outputDir, fileName)
+      await writeNewGeneratedFile(PATHS.contentSandbox, draftPath, draft)
+      if (previousWeekKey) {
+        const previousReportPath = canonicalWeeklyReportPath(
+          PATHS.contentOut,
+          year,
+          previousWeekKey,
+        )
+        await assertPublishedContentPath(previousReportPath)
+        await appendLinkedFrom(
+          previousReportPath,
+          `weekly-market-report-${weekMeta.week}`,
+          crossReason,
+        )
+      }
       lines.push(`draft: ${draftPath}`)
       continue
     } else {
@@ -2907,34 +3005,23 @@ const generateWeeklyReports = async (config, preflightPath, options = {}) => {
       rawDraft = appendReferencesBlock(rawDraft, referenceCallouts)
     }
 
-    if (includeCrosslinks) {
-      const previousWeek = weekMeta.range
-        ? getIsoWeekRange(parseDate(weekMeta.range.split(" to ")[0]))
-        : null
-      const previousStart = previousWeek ? new Date(parseDate(previousWeek.start)) : null
-      let previousSlug = ""
-      if (previousStart) {
-        previousStart.setDate(previousStart.getDate() - 7)
-        previousSlug = `weekly-market-report-${toIsoWeekKey(previousStart)}`
-      }
-      if (previousSlug) {
-        rawDraft = insertCrossReference(rawDraft, previousSlug)
-      }
+    const previousWeekKey = includeCrosslinks ? previousWeeklyReportKey(weekMeta.range) : ""
+    if (previousWeekKey) {
+      rawDraft = insertCrossReference(rawDraft, `weekly-market-report-${previousWeekKey}`)
     }
 
     const draft = buildWeeklyMarkdown(entry, evidence, rawDraft, imageUrl)
     const fileName = `${slugify(entry.week)}-${slugify(entry.title)}.md`
-    const draftPath = path.join(outputDir, fileName)
-    await fs.writeFile(draftPath, draft, "utf-8")
-    if (includeCrosslinks && weekMeta.range) {
-      const startDate = parseDate(weekMeta.range.split(" to ")[0])
-      if (startDate) {
-        const prevDate = new Date(startDate)
-        prevDate.setDate(prevDate.getDate() - 7)
-        const prevWeekKey = toIsoWeekKey(prevDate)
-        const prevPath = path.join(outputDir, `weekly-market-report-${prevWeekKey}.md`)
-        await appendLinkedFrom(prevPath, `weekly-market-report-${weekMeta.week}`, crossReason)
-      }
+    const draftPath = generatedOutputPath(outputDir, fileName)
+    await writeNewGeneratedFile(PATHS.contentSandbox, draftPath, draft)
+    if (previousWeekKey) {
+      const previousReportPath = canonicalWeeklyReportPath(PATHS.contentOut, year, previousWeekKey)
+      await assertPublishedContentPath(previousReportPath)
+      await appendLinkedFrom(
+        previousReportPath,
+        `weekly-market-report-${weekMeta.week}`,
+        crossReason,
+      )
     }
     lines.push(`draft: ${draftPath}`)
   }
@@ -2984,15 +3071,9 @@ const generateDrafts = async (config, preflightPath) => {
     const draft = buildDraftMarkdown(record, entry, rawDraft, imageUrl)
 
     const slug = slugify(entry.title || record.title || "draft")
-    let draftPath = path.join(PATHS.contentSandbox, `${slug}.md`)
+    const draftPath = generatedOutputPath(PATHS.contentSandbox, `${slug}.md`)
 
-    let suffix = 1
-    while (await fileExists(draftPath)) {
-      suffix += 1
-      draftPath = path.join(PATHS.contentSandbox, `${slug}-${suffix}.md`)
-    }
-
-    await fs.writeFile(draftPath, draft, "utf-8")
+    await writeNewGeneratedFile(PATHS.contentSandbox, draftPath, draft)
     lines.push(`draft: ${draftPath}`)
   }
 
@@ -3031,7 +3112,11 @@ const main = async () => {
   const focusChannel = args.get("focuschannel")
   const macroChannel = args.get("macrochannel")
   const includeReferences = args.get("references") === "true"
-  const includeCrosslinks = args.get("crosslink") === "true"
+  const wantsCrosslinks = args.get("crosslink") === "true"
+  if (wantsCrosslinks && args.get("unsafe-published-mutations") !== "true") {
+    throw new Error("Crosslinking published notes requires --unsafe-published-mutations true")
+  }
+  const includeCrosslinks = wantsCrosslinks
   const crossReason = args.get("crossreason") || "Follow-up reflection added by later week."
   const referenceLimit = Number(args.get("reflimit") || 8)
   const referenceSites = (args.get("refsources") || "")
@@ -3119,6 +3204,7 @@ const main = async () => {
   }
 
   if (command === "weekly-references") {
+    requireUnsafePublishedMutations()
     const updated = await updateWeeklyReferences(config, {
       year,
       week,
@@ -3137,6 +3223,7 @@ const main = async () => {
   }
 
   if (command === "news-update") {
+    requireUnsafePublishedMutations()
     const sourcePath = args.get("source")
     const title = args.get("title") || "News Update"
     const summary = args.get("summary") || ""
@@ -3147,6 +3234,7 @@ const main = async () => {
     if (!sourcePath) {
       throw new Error("news-update requires --source <path>")
     }
+    await assertPublishedContentPath(sourcePath)
 
     const sourceContent = await fs.readFile(sourcePath, "utf-8")
     const sourceFrontmatter = readFrontmatter(sourceContent)
@@ -3155,7 +3243,7 @@ const main = async () => {
     const sourceSlug = path.basename(sourcePath, ".md")
 
     const year = date.slice(0, 4)
-    const yearDir = path.join(PATHS.contentNews, year)
+    const yearDir = generatedOutputPath(PATHS.contentSandbox, "news", year)
     await ensureDir(yearDir)
 
     const newsId = newsIdArg || (await getNextNewsId(date, yearDir))
@@ -3200,14 +3288,12 @@ const main = async () => {
       "## questions / next",
       "- What breaks if this update is wrong?",
       "- What would confirm the new direction?",
-      "",
-      "#",
     ]
 
     const fileSlug = slugify(`${date}-${title}`)
-    const targetPath = path.join(yearDir, `${fileSlug}.md`)
+    const targetPath = generatedOutputPath(yearDir, `${fileSlug}.md`)
     const noteContent = `${frontmatter}\n\n${contentLines.join("\n")}`
-    await fs.writeFile(targetPath, noteContent, "utf-8")
+    await writeNewGeneratedFile(PATHS.contentSandbox, targetPath, noteContent)
 
     await appendUpdatesBlock(sourcePath, fileSlug, summary, date)
     await appendLinkedFrom(sourcePath, fileSlug, "News update added.")
@@ -3237,6 +3323,9 @@ const main = async () => {
   )
   console.log("  node automation/pipeline.mjs weekly-generate --week 2025-W01")
   console.log(
+    "  node automation/pipeline.mjs weekly-generate --week 2025-W11 --crosslink true --unsafe-published-mutations true",
+  )
+  console.log(
     "  node automation/pipeline.mjs weekly-generate --weekstart 2025-W01 --weekend 2025-W04",
   )
   console.log("  node automation/pipeline.mjs weekly-generate --limit 10 --offset 0")
@@ -3244,10 +3333,10 @@ const main = async () => {
     '  node automation/pipeline.mjs weekly-generate --week 2025-W01 --references true --refsources "bls.gov,bea.gov,federalreserve.gov"',
   )
   console.log(
-    '  node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"',
+    '  node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --unsafe-published-mutations true --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"',
   )
   console.log(
-    '  node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium"',
+    '  node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium" --unsafe-published-mutations true',
   )
   console.log("  node automation/pipeline.mjs cache-youtube --year 2025 --url <channel_url>")
   console.log(
@@ -3260,7 +3349,9 @@ const main = async () => {
   console.log("  node automation/pipeline.mjs archive")
 }
 
-main().catch((error) => {
-  console.error(error.message)
-  process.exit(1)
-})
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch((error) => {
+    console.error(error.message)
+    process.exit(1)
+  })
+}

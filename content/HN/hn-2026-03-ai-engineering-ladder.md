@@ -17,6 +17,7 @@ The evidence is sobering. METR benchmarks show AI can complete 4-minute tasks (s
 The METR follow-up study — trying to measure AI's effect on experienced developers — became impossible to run. Developers refused to participate without AI assistance. The tool went from optional to load-bearing before anyone understood what it was doing to the people using it.
 
 ## Key Takeaways
+
 - METR benchmarks: AI succeeds near 100% on 4-minute tasks, ~50% on 1-hour tasks, below 10% on 4+ hour tasks
 - 50% of AI-generated PRs that pass automated tests would not be merged — AI handles implementation, not craft
 - METR couldn't run follow-up studies because developers refused to work without AI
@@ -47,4 +48,4 @@ A more alarming take surfaced: most "senior" work at many companies is done agai
 > **🔗 Read:** [QCon London transcript](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/) — full talk text
 > **🔗 Read:** [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you/) — argument for maintaining writing discipline
 > **🔗 Read:** [METR time horizons benchmark](https://metr.org/time-horizons/) — capability data
-> **🖼️ Visual:** ![METR capability curve](![[attachments/hn/2026/metr-capability-curve.jpg]])
+> **🖼️ Visual:** ![[attachments/hn/2026/metr-capability-curve.jpg|METR capability curve]]

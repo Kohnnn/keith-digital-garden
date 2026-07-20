@@ -13,7 +13,6 @@ const DappledLight: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
       <div class="dappled-blinds"></div>
       <div class="dappled-vertical"></div>
     </div>
-    <div class="dappled-blur"></div>
   </div>
 )
 

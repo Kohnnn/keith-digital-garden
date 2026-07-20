@@ -52,9 +52,9 @@ Set `approved: true`, then run:
 ```bash
 node automation/pipeline.mjs weekly-generate --preflight automation/output/preflight/preflight-weekly-latest.md
 node automation/pipeline.mjs weekly-generate --week 2025-W01 --references true --refsources "bls.gov,bea.gov,federalreserve.gov"
-node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"
-node automation/pipeline.mjs weekly-generate --week 2025-W11 --crosslink true --crossreason "Follow-up reflection added by later week."
-node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium"
+node automation/pipeline.mjs weekly-references --year 2025 --weekstart 2025-W01 --weekend 2025-W05 --unsafe-published-mutations true --refsources "bls.gov,bea.gov,federalreserve.gov,treasury.gov,fred.stlouisfed.org,ft.com,wsj.com,bloomberg.com,reuters.com"
+node automation/pipeline.mjs weekly-generate --week 2025-W11 --crosslink true --unsafe-published-mutations true --crossreason "Follow-up reflection added by later week."
+node automation/pipeline.mjs news-update --source content/mark-memo/2025/weekly-market-report-2025-W25.md --title "Tariff Pause Update" --summary "Policy pause shifted risk premium" --unsafe-published-mutations true
 ```
 
 You can generate in smaller batches:
@@ -95,9 +95,11 @@ If the channel is very active, try reversing and filtering by date:
 node automation/pipeline.mjs cache-youtube --year 2025 --dateafter 20250101 --datebefore 20250331 --playlistreverse true --url "https://www.youtube.com/channel/<id>/videos"
 ```
 
-Drafts are written to:
+Drafts and weekly reports are written to:
 
 - `content/AI_Sandbox/`
+
+Existing output files are refused rather than replaced. `weekly-references`, crosslinking, and `news-update` require `--unsafe-published-mutations true` before changing a published note.
 
 ## Archive input files
 

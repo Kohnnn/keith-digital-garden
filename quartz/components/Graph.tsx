@@ -68,7 +68,12 @@ export default ((opts?: Partial<GraphOptions>) => {
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
-          <button class="global-graph-icon" aria-label="Expand graph">
+          <button
+            type="button"
+            class="global-graph-icon"
+            aria-label="Expand graph"
+            aria-haspopup="dialog"
+          >
             <svg
               version="1.1"
               xmlns="http://www.w3.org/2000/svg"
@@ -96,7 +101,7 @@ export default ((opts?: Partial<GraphOptions>) => {
             <span>Expand</span>
           </button>
         </div>
-        <div class="global-graph-outer">
+        <dialog class="global-graph-outer" aria-label="Graph View">
           <div class="global-graph-panel">
             <div class="global-graph-header">
               <span class="global-graph-title">Graph View</span>
@@ -104,9 +109,10 @@ export default ((opts?: Partial<GraphOptions>) => {
                 Close
               </button>
             </div>
+            <p class="global-graph-error" role="alert" hidden></p>
             <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
           </div>
-        </div>
+        </dialog>
       </div>
     )
   }

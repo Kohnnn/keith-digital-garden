@@ -6,7 +6,7 @@ tags: [ai, llm, reasoning, research]
 
 # LLM Reasoning Models: Chain-of-Thought and Test-Time Compute Scaling
 
-The defining architectural shift of 2025-2026 in AI isn't scale — it's *how* models think. The emergence of reasoning-capable models represents a qualitative leap beyond pattern matching, enabled by two complementary techniques: chain-of-thought prompting and test-time compute scaling. Understanding these techniques matters because they explain why the frontier has moved from "what can AI memorize?" to "what can AI reason through?"
+The defining architectural shift of 2025-2026 in AI isn't scale — it's _how_ models think. The emergence of reasoning-capable models represents a qualitative leap beyond pattern matching, enabled by two complementary techniques: chain-of-thought prompting and test-time compute scaling. Understanding these techniques matters because they explain why the frontier has moved from "what can AI memorize?" to "what can AI reason through?"
 
 ## What's New
 
@@ -24,12 +24,12 @@ The defining architectural shift of 2025-2026 in AI isn't scale — it's *how* m
 
 **Benchmark data** from March 2026 tells a clear story:
 
-| Model | GPQA | SWE-bench | ARC-AGI-2 |
-|-------|------|-----------|-----------|
-| Claude Opus 4.6 | 80.8% | 80.8% | — |
-| Gemini 3.1 Pro | 94.3% | 80.6% | 77.1% |
-| GPT-5.4 Pro | — | 77.2% | — |
-| o3 (high compute) | 87.7% | 69.1% | — |
+| Model             | GPQA  | SWE-bench | ARC-AGI-2 |
+| ----------------- | ----- | --------- | --------- |
+| Claude Opus 4.6   | 80.8% | 80.8%     | —         |
+| Gemini 3.1 Pro    | 94.3% | 80.6%     | 77.1%     |
+| GPT-5.4 Pro       | —     | 77.2%     | —         |
+| o3 (high compute) | 87.7% | 69.1%     | —         |
 
 Notably, o3's SWE-bench score (69.1%) underperforms newer models on coding tasks despite its reasoning dominance — a reminder that benchmark performance is highly domain-specific.
 
@@ -43,7 +43,7 @@ The practical implication for developers: prompt engineering for reasoning tasks
 
 ## Media & Sources
 
-> **🖼️ Visual:** ![Test-Time Compute Scaling Diagram](![[attachments/ai-tech/2026/test-time-compute-scaling.jpg]])
+> **🖼️ Visual:** ![[attachments/ai-tech/2026/test-time-compute-scaling.jpg|Test-Time Compute Scaling Diagram]]
 
 > **🔗 Read:** [Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2201.11903) — original CoT paper from Google Research
 

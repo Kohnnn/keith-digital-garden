@@ -55,13 +55,12 @@ Write a draft in Markdown using this structure:
 - 1 line grounding statement
 - 3-7 micro-sections or bullet clusters
 - 1-2 callouts (note/info/warning)
-- inline references (not a bibliography)
+- inline source links for material factual claims
 - "questions / next" block
-- trailing "#" line
 
 Use this personality mix: <persona_mix>.
 Use at least 2 internal wikilinks like [[Note Name]].
-Use the evidence pack below. Do not invent facts.
+Use the evidence pack below. Do not invent facts. Link every material factual claim to the specific source URL that supports it; do not use a generic bibliography.
 
 EVIDENCE PACK:
 <json>
@@ -83,14 +82,13 @@ Write a weekly market report in Markdown using this structure:
 - 1 line grounding statement
 - 3-7 micro-sections or bullet clusters
 - 1-2 callouts (note/info/warning)
-- inline references (not a bibliography)
+- inline source links for material factual claims
 - "questions / next" block
-- trailing "#" line
 
 Use this personality mix: <persona_mix>.
 Use at least 2 internal wikilinks like [[Note Name]].
-Include a callout that lists the source videos (channel + title + url).
-Use the evidence pack below. Do not invent facts.
+Place specific source links beside the material factual claims they support.
+Use the evidence pack below. Do not invent facts. Link every material factual claim to the specific source URL that supports it; do not use a generic bibliography.
 
 EVIDENCE PACK:
 <json>

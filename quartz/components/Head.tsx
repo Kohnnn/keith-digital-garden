@@ -1,17 +1,25 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot, simplifySlug } from "../util/path"
+import {
+  FullSlug,
+  getFileExtension,
+  isAbsoluteURL,
+  joinSegments,
+  pathToRoot,
+  simplifySlug,
+} from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
+export const resolveSocialImage = (baseUrl: string | undefined, socialImage?: string): string => {
+  const defaultPath = `https://${baseUrl}/static/og-image.png`
+  if (!socialImage) return defaultPath
+  return isAbsoluteURL(socialImage) ? socialImage : `https://${baseUrl}/static/${socialImage}`
+}
+
 export default (() => {
-  const Head: QuartzComponent = ({
-    cfg,
-    fileData,
-    externalResources,
-    ctx,
-  }: QuartzComponentProps) => {
+  const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const pageTitle = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
     const title = pageTitle === cfg.pageTitle ? pageTitle : pageTitle + titleSuffix
@@ -33,10 +41,7 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), publicSlug!)
 
-    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
-    )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    const socialImagePath = resolveSocialImage(cfg.baseUrl, fileData.frontmatter?.socialImage)
 
     return (
       <head>
@@ -64,17 +69,13 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
 
-        {!usesCustomOgImage && (
-          <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
-          </>
-        )}
+        <meta property="og:image" content={socialImagePath} />
+        <meta property="og:image:url" content={socialImagePath} />
+        <meta name="twitter:image" content={socialImagePath} />
+        <meta
+          property="og:image:type"
+          content={`image/${getFileExtension(socialImagePath)?.slice(1) ?? "png"}`}
+        />
 
         {cfg.baseUrl && (
           <>

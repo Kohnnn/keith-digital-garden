@@ -21,14 +21,19 @@
   }
 }
 
+.readermode-active {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+}
+
 :root[reader-mode="on"] {
   & .sidebar.left,
   & .sidebar.right {
+    visibility: hidden;
+    pointer-events: none;
     opacity: 0;
     transition: opacity 0.2s ease;
-
-    &:hover {
-      opacity: 1;
-    }
   }
 }

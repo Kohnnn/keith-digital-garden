@@ -15,6 +15,7 @@ A technical deep-dive by buchodi.com revealed that ChatGPT's frontend blocks use
 An OpenAI employee (MyNameIsNickT, working on Integrity) responded to explain the mechanism: the checks protect free/logged-out access from bots and abuse. But HN commenters were largely unconvinced that blocking — rather than buffering keystrokes in the background — was the only feasible approach.
 
 ## Key Takeaways
+
 - OpenAI's anti-bot measure freezes the entire input field until Cloudflare verification completes
 - Critics argue keystrokes could easily be buffered locally and transmitted after verification
 - The Cloudflare request captures React state — detailed browser environment — sent before the user types
@@ -39,4 +40,4 @@ A smaller thread questioned whether OpenAI's Integrity team's stated goal of pro
 > **💬 Discussion:** [HN Thread](https://news.ycombinator.com/item?id=47566865) — 938 pts, 601 comments
 > **🔗 Read:** [Full technical analysis](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) — JS decryption breakdown
 > **🔗 Read:** [OpenAI ToS on data review](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse) — data usage terms
-> **🖼️ Visual:** ![ChatGPT blocking architecture diagram](![[attachments/hn/2026/chatgpt-blocking.jpg]])
+> **🖼️ Visual:** ![[attachments/hn/2026/chatgpt-blocking.jpg|ChatGPT blocking architecture diagram]]

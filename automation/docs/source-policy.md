@@ -4,7 +4,8 @@
 
 - Do not paraphrase or reproduce entire third-party blogs.
 - Use external sites for style inspiration, structure patterns, and limited citations.
-- Include links to original sources when referencing specific claims or quotes.
+- Include the specific original-source link with every material factual claim or quote.
+- Do not use a generic source list as a substitute for claim-level links.
 - If full-content migration is required, verify permissions first.
 
 ## Allowed uses
